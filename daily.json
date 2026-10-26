@@ -3,60 +3,1051 @@
   "level": "original",
   "items": [
     {
-      "id": "2026-10-26-beispiel-1",
-      "category": "de",
-      "title_de": "BEISPIEL: So funktionieren die täglichen Nachrichten",
-      "summary_de": "Dies ist ein Beispieleintrag und keine echte Nachricht. Ab morgen ersetzt eine geplante Aufgabe diese Datei jeden Morgen durch aktuelle Meldungen. Die Texte werden nicht vereinfacht, sondern nur zusammengefasst. Jede Zusammenfassung lässt sich in etwa dreißig Sekunden lesen. Wer ein Wort nicht kennt, tippt einfach darauf und sieht sofort die Übersetzung. Unbekannte Begriffe landen mit einem Klick im persönlichen Wortschatz. Den vollständigen Artikel findet man jederzeit über den Link zur Quelle.",
-      "source_name": "AktivDeutsch (Beispiel)",
-      "source_url": "https://github.com",
+      "id": "2026-10-26-punk-ausstellung-duesseldorf",
+      "category": "nrw",
+      "title_de": "Punk 50: Neue Sonderausstellung im Düsseldorfer Theatermuseum",
+      "summary_de": "Das Theatermuseum in Düsseldorf zeigt eine neue Sonderausstellung zum 50-jährigen Jubiläum der Punkbewegung. Unter dem Titel „Punk 50: Demand the Impossible“ wird Punk nicht als abgeschlossenes Kapitel dargestellt, sondern als etwas, das bis heute nachwirkt. Kurator Jäki „Eldorado“ Hildisch, der als erster Punk Deutschlands gilt, steuert viele Stücke aus seiner privaten Sammlung bei. Zu sehen sind unter anderem alte Fotos, Fanzines, Buttons und detailgetreue Modelle von Szene-Treffpunkten wie dem Ratinger Hof. Die Schau beleuchtet auch die Szene in Berlin, Hamburg und Hannover sowie die Rolle der Frauen im Punk. Besonders spannend sind die VR-Stationen, die ein Düsseldorfer Studio entwickelt hat: Besucher können dort virtuell Schlagzeug spielen oder die Berliner Mauer besprühen. Die Ausstellung läuft bis Ende 2027, der Eintritt kostet fünf Euro, und alle bis 21 Jahre kommen kostenlos hinein.",
+      "source_name": "Landeshauptstadt Düsseldorf",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/punk-50-demand-the-impossible-neue-sonderausstellung-im-theatermuseum-1",
       "glossary": [
-        { "form": "Beispieleintrag", "lemma": "Beispieleintrag", "article": "der", "tr": "örnek kayıt" },
-        { "form": "ersetzt", "lemma": "ersetzen", "article": null, "tr": "yerine koyar, değiştirir" },
-        { "form": "geplante", "lemma": "geplant", "article": null, "tr": "planlanmış" },
-        { "form": "Aufgabe", "lemma": "Aufgabe", "article": "die", "tr": "görev" },
-        { "form": "Meldungen", "lemma": "Meldung", "article": "die", "tr": "haber, bildiri" },
-        { "form": "vereinfacht", "lemma": "vereinfachen", "article": null, "tr": "basitleştirmek" },
-        { "form": "zusammengefasst", "lemma": "zusammenfassen", "article": null, "tr": "özetlemek" },
-        { "form": "Zusammenfassung", "lemma": "Zusammenfassung", "article": "die", "tr": "özet" },
-        { "form": "tippt", "lemma": "tippen", "article": null, "tr": "dokunmak" },
-        { "form": "Übersetzung", "lemma": "Übersetzung", "article": "die", "tr": "çeviri" },
-        { "form": "Begriffe", "lemma": "Begriff", "article": "der", "tr": "kavram, terim" },
-        { "form": "landen", "lemma": "landen", "article": null, "tr": "(bir yere) düşmek, varmak" },
-        { "form": "Wortschatz", "lemma": "Wortschatz", "article": "der", "tr": "kelime hazinesi" },
-        { "form": "vollständigen", "lemma": "vollständig", "article": null, "tr": "tam, eksiksiz" },
-        { "form": "jederzeit", "lemma": "jederzeit", "article": null, "tr": "her zaman" },
-        { "form": "Quelle", "lemma": "Quelle", "article": "die", "tr": "kaynak" }
+        {
+          "form": "Sonderausstellung",
+          "lemma": "Sonderausstellung",
+          "article": "die",
+          "tr": "özel sergi"
+        },
+        {
+          "form": "Jubiläum",
+          "lemma": "Jubiläum",
+          "article": "das",
+          "tr": "yıldönümü"
+        },
+        {
+          "form": "Punkbewegung",
+          "lemma": "Punkbewegung",
+          "article": "die",
+          "tr": "punk hareketi"
+        },
+        {
+          "form": "abgeschlossenes",
+          "lemma": "abgeschlossen",
+          "article": null,
+          "tr": "kapanmış, tamamlanmış"
+        },
+        {
+          "form": "nachwirkt",
+          "lemma": "nachwirken",
+          "article": null,
+          "tr": "etkisini sürdürmek"
+        },
+        {
+          "form": "Kurator",
+          "lemma": "Kurator",
+          "article": "der",
+          "tr": "küratör"
+        },
+        {
+          "form": "steuert",
+          "lemma": "beisteuern",
+          "article": null,
+          "tr": "katkıda bulunmak"
+        },
+        {
+          "form": "Sammlung",
+          "lemma": "Sammlung",
+          "article": "die",
+          "tr": "koleksiyon"
+        },
+        {
+          "form": "detailgetreue",
+          "lemma": "detailgetreu",
+          "article": null,
+          "tr": "ayrıntılara sadık"
+        },
+        {
+          "form": "Szene-Treffpunkten",
+          "lemma": "Szene-Treffpunkt",
+          "article": "der",
+          "tr": "sahnenin buluşma noktası"
+        },
+        {
+          "form": "beleuchtet",
+          "lemma": "beleuchten",
+          "article": null,
+          "tr": "aydınlatmak, ele almak"
+        },
+        {
+          "form": "Schlagzeug",
+          "lemma": "Schlagzeug",
+          "article": "das",
+          "tr": "davul seti"
+        },
+        {
+          "form": "besprühen",
+          "lemma": "besprühen",
+          "article": null,
+          "tr": "püskürtmek, spreyle boyamak"
+        },
+        {
+          "form": "Eintritt",
+          "lemma": "Eintritt",
+          "article": "der",
+          "tr": "giriş ücreti"
+        },
+        {
+          "form": "Besucher",
+          "lemma": "Besucher",
+          "article": "der",
+          "tr": "ziyaretçi"
+        }
       ],
       "vocabulary": [
-        { "de": "durch etwas ersetzen", "article": null, "tr": "bir şeyle değiştirmek", "example_de": "Wir ersetzen das alte Netzteil durch ein neues." },
-        { "de": "Zusammenfassung", "article": "die", "tr": "özet", "example_de": "Kannst du mir eine kurze Zusammenfassung schicken?" },
-        { "de": "auf etwas tippen", "article": null, "tr": "bir şeye dokunmak", "example_de": "Tipp auf das Symbol, um die App zu öffnen." }
+        {
+          "de": "Ausstellung",
+          "article": "die",
+          "tr": "sergi",
+          "example_de": "Am Wochenende gehen wir in eine Ausstellung über Fotografie."
+        },
+        {
+          "de": "Eintritt",
+          "article": "der",
+          "tr": "giriş ücreti",
+          "example_de": "Für Studierende ist der Eintritt oft günstiger."
+        },
+        {
+          "de": "etwas beisteuern",
+          "article": null,
+          "tr": "bir şeye katkıda bulunmak",
+          "example_de": "Jeder kann zum Grillabend etwas beisteuern."
+        },
+        {
+          "de": "eine Rolle spielen",
+          "article": null,
+          "tr": "rol oynamak",
+          "example_de": "Die Musik spielt in meinem Alltag eine große Rolle."
+        },
+        {
+          "de": "Sammlung",
+          "article": "die",
+          "tr": "koleksiyon",
+          "example_de": "Mein Opa hat eine riesige Sammlung alter Schallplatten."
+        },
+        {
+          "de": "kostenlos hineinkommen",
+          "article": null,
+          "tr": "ücretsiz girmek",
+          "example_de": "Mit dem Semesterticket kommt man in manche Museen kostenlos hinein."
+        }
       ],
       "exercises": [
-        { "question_de": "Werden die Texte vereinfacht?", "options": ["Ja, auf Niveau A2.", "Nein, sie werden nur zusammengefasst.", "Nur am Wochenende."], "answer_index": 1 },
-        { "question_de": "Welches Wort bedeutet „kaynak“?", "options": ["die Aufgabe", "die Meldung", "die Quelle", "der Begriff"], "answer_index": 2 }
+        {
+          "question_de": "Wie lange läuft die Ausstellung?",
+          "options": [
+            "Bis Ende 2026",
+            "Bis Ende 2027",
+            "Nur ein Wochenende"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was können Besucher in der VR-Station tun?",
+          "options": [
+            "Gitarre bauen",
+            "Eine Band gründen",
+            "Schlagzeug spielen oder die Berliner Mauer besprühen",
+            "Alte Fanzines drucken"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was bedeutet „Eintritt“?",
+          "options": [
+            "Ausgang",
+            "Preis für den Zugang",
+            "Öffnungszeit"
+          ],
+          "answer_index": 1
+        }
       ]
     },
     {
-      "id": "2026-10-26-beispiel-2",
-      "category": "gaming",
-      "title_de": "BEISPIEL: Gaming-News erscheinen hier mit eigenem Symbol",
-      "summary_de": "Auch dieser Eintrag ist nur ein Beispiel. Größere Updates zu League of Legends oder Counter-Strike 2 bekommen künftig einen eigenen Platz. Über die Filter oben lassen sich solche Meldungen gezielt anzeigen. Gibt es an einem Tag keine wichtigen Neuigkeiten aus der Spielewelt, fällt die Rubrik einfach weg.",
-      "source_name": "AktivDeutsch (Beispiel)",
-      "source_url": "https://github.com",
+      "id": "2026-10-26-motherboard-farben",
+      "category": "de",
+      "title_de": "Motherboard-Anschlüsse: Warum diese Farben seit 1999 Standard sind",
+      "summary_de": "Wer schon einmal in den Rechner geschaut hat, kennt die bunten Audioanschlüsse: Grün steht für den Ausgang zu Lautsprechern oder Kopfhörern, Blau für den Eingang und Pink für das Mikrofon. Vor 1999 herrschte bei den Herstellern ziemliches Chaos, weil jede Firma ihre Buchsen anders markierte. Microsoft und Intel legten deshalb in einem Leitfaden fest, wie PCs gestaltet sein sollen. Die dritte Ausgabe aus dem Sommer 1999 machte die Farben dann verbindlich, auch für USB und andere Anschlüsse. Interessant ist, dass die konkrete Zuordnung der Farben eher willkürlich war, denn wichtig war allein die Einheitlichkeit. Heute wäre die Kennzeichnung eigentlich überflüssig, weil Boards mit HD-Audio seit 2004 erkennen, wenn ein Stecker in der falschen Buchse steckt. Trotzdem halten sich die Hersteller weiter an das alte Schema, um niemanden zu verwirren.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/motherboard-anschlusse-farben-standard-1769696/",
       "glossary": [
-        { "form": "künftig", "lemma": "künftig", "article": null, "tr": "gelecekte, bundan sonra" },
-        { "form": "gezielt", "lemma": "gezielt", "article": null, "tr": "hedefli, özellikle" },
-        { "form": "Neuigkeiten", "lemma": "Neuigkeit", "article": "die", "tr": "yenilik, haber" },
-        { "form": "Spielewelt", "lemma": "Spielewelt", "article": "die", "tr": "oyun dünyası" },
-        { "form": "fällt", "lemma": "wegfallen", "article": null, "tr": "(…weg) düşmek, olmamak" },
-        { "form": "Rubrik", "lemma": "Rubrik", "article": "die", "tr": "bölüm, köşe" }
+        {
+          "form": "Anschlüsse",
+          "lemma": "Anschluss",
+          "article": "der",
+          "tr": "bağlantı noktası"
+        },
+        {
+          "form": "Ausgang",
+          "lemma": "Ausgang",
+          "article": "der",
+          "tr": "çıkış"
+        },
+        {
+          "form": "Eingang",
+          "lemma": "Eingang",
+          "article": "der",
+          "tr": "giriş"
+        },
+        {
+          "form": "herrschte",
+          "lemma": "herrschen",
+          "article": null,
+          "tr": "hüküm sürmek"
+        },
+        {
+          "form": "Hersteller",
+          "lemma": "Hersteller",
+          "article": "der",
+          "tr": "üretici"
+        },
+        {
+          "form": "Buchsen",
+          "lemma": "Buchse",
+          "article": "die",
+          "tr": "soket, jak"
+        },
+        {
+          "form": "markierte",
+          "lemma": "markieren",
+          "article": null,
+          "tr": "işaretlemek"
+        },
+        {
+          "form": "Leitfaden",
+          "lemma": "Leitfaden",
+          "article": "der",
+          "tr": "kılavuz"
+        },
+        {
+          "form": "verbindlich",
+          "lemma": "verbindlich",
+          "article": null,
+          "tr": "bağlayıcı"
+        },
+        {
+          "form": "Zuordnung",
+          "lemma": "Zuordnung",
+          "article": "die",
+          "tr": "eşleştirme"
+        },
+        {
+          "form": "willkürlich",
+          "lemma": "willkürlich",
+          "article": null,
+          "tr": "keyfi"
+        },
+        {
+          "form": "Einheitlichkeit",
+          "lemma": "Einheitlichkeit",
+          "article": "die",
+          "tr": "birörnek olma"
+        },
+        {
+          "form": "Kennzeichnung",
+          "lemma": "Kennzeichnung",
+          "article": "die",
+          "tr": "işaretleme"
+        },
+        {
+          "form": "überflüssig",
+          "lemma": "überflüssig",
+          "article": null,
+          "tr": "gereksiz"
+        },
+        {
+          "form": "Stecker",
+          "lemma": "Stecker",
+          "article": "der",
+          "tr": "fiş, konnektör"
+        },
+        {
+          "form": "verwirren",
+          "lemma": "verwirren",
+          "article": null,
+          "tr": "kafa karıştırmak"
+        }
       ],
       "vocabulary": [
-        { "de": "wegfallen", "article": null, "tr": "ortadan kalkmak, yapılmamak", "example_de": "Wegen des Streiks fällt die Vorlesung heute weg." }
+        {
+          "de": "Anschluss",
+          "article": "der",
+          "tr": "bağlantı noktası",
+          "example_de": "Mein Laptop hat nur zwei USB-Anschlüsse."
+        },
+        {
+          "de": "einen Standard festlegen",
+          "article": null,
+          "tr": "bir standart belirlemek",
+          "example_de": "Die EU hat einen einheitlichen Standard für Ladekabel festgelegt."
+        },
+        {
+          "de": "Hersteller",
+          "article": "der",
+          "tr": "üretici",
+          "example_de": "Der Hersteller gibt zwei Jahre Garantie."
+        },
+        {
+          "de": "sich an etwas halten",
+          "article": null,
+          "tr": "bir şeye uymak",
+          "example_de": "Bitte halte dich an die Abgabefrist."
+        },
+        {
+          "de": "überflüssig sein",
+          "article": null,
+          "tr": "gereksiz olmak",
+          "example_de": "Nach dem Update ist die alte App überflüssig."
+        },
+        {
+          "de": "für Verwirrung sorgen",
+          "article": null,
+          "tr": "kafa karışıklığına yol açmak",
+          "example_de": "Die neue Prüfungsordnung sorgt für Verwirrung."
+        }
       ],
       "exercises": [
-        { "question_de": "Was passiert, wenn es keine wichtigen Gaming-News gibt?", "options": ["Die Rubrik fällt weg.", "Es wird eine Nachricht erfunden.", "Die App stürzt ab."], "answer_index": 0 }
+        {
+          "question_de": "Wofür steht die Farbe Blau bei Audiobuchsen?",
+          "options": [
+            "Mikrofon",
+            "Eingang",
+            "Lautsprecher"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Warum wurden die Farben 1999 verbindlich?",
+          "options": [
+            "Weil die Hersteller Chaos hatten und eine Einheit nötig war",
+            "Weil Kunden Farben liebten",
+            "Weil USB verboten wurde"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „willkürlich“?",
+          "options": [
+            "streng geplant",
+            "ohne feste Regel gewählt",
+            "sehr teuer",
+            "gefährlich"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-disc-rot",
+      "category": "de",
+      "title_de": "Der unsichtbare Feind deiner Filmsammlung: Disc Rot",
+      "summary_de": "Wer noch viele DVDs, Blu-rays oder alte Spiele im Regal stehen hat, sollte sie im Auge behalten, denn es gibt das Phänomen Disc Rot. Dabei zersetzt sich die hauchdünne Datenschicht im Inneren der Scheibe, weil durch winzige Risse Luft und Feuchtigkeit eindringen. Der Vorgang ist langsam, aber nicht umkehrbar. Warnzeichen sind braune oder milchige Flecken, ein ölig schimmernder Film oder winzige Löcher, durch die man Licht sehen kann. Auch Aussetzer beim Abspielen können ein Hinweis sein. Besonders anfällig sind selbst gebrannte CDs und DVDs sowie einige ältere Konsolenspiele. Wer vorbeugen will, lagert die Medien kühl, trocken und senkrecht und schützt sie vor Sonnenlicht. Wichtige Inhalte sollte man zusätzlich digital sichern.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/nachhaltigkeit/995973179-der-unsichtbare-feind-deiner-filmsammlung-was-du-ueber-disc-rot-wissen-musst",
+      "glossary": [
+        {
+          "form": "Phänomen",
+          "lemma": "Phänomen",
+          "article": "das",
+          "tr": "olgu, fenomen"
+        },
+        {
+          "form": "zersetzt",
+          "lemma": "sich zersetzen",
+          "article": null,
+          "tr": "çürümek, ayrışmak"
+        },
+        {
+          "form": "hauchdünne",
+          "lemma": "hauchdünn",
+          "article": null,
+          "tr": "incecik"
+        },
+        {
+          "form": "Datenschicht",
+          "lemma": "Datenschicht",
+          "article": "die",
+          "tr": "veri katmanı"
+        },
+        {
+          "form": "Scheibe",
+          "lemma": "Scheibe",
+          "article": "die",
+          "tr": "disk"
+        },
+        {
+          "form": "Risse",
+          "lemma": "Riss",
+          "article": "der",
+          "tr": "çatlak"
+        },
+        {
+          "form": "Feuchtigkeit",
+          "lemma": "Feuchtigkeit",
+          "article": "die",
+          "tr": "nem"
+        },
+        {
+          "form": "eindringen",
+          "lemma": "eindringen",
+          "article": null,
+          "tr": "içeri sızmak"
+        },
+        {
+          "form": "umkehrbar",
+          "lemma": "umkehrbar",
+          "article": null,
+          "tr": "geri döndürülebilir"
+        },
+        {
+          "form": "Warnzeichen",
+          "lemma": "Warnzeichen",
+          "article": "das",
+          "tr": "uyarı işareti"
+        },
+        {
+          "form": "Flecken",
+          "lemma": "Fleck",
+          "article": "der",
+          "tr": "leke"
+        },
+        {
+          "form": "Aussetzer",
+          "lemma": "Aussetzer",
+          "article": "der",
+          "tr": "kesinti, takılma"
+        },
+        {
+          "form": "anfällig",
+          "lemma": "anfällig",
+          "article": null,
+          "tr": "hassas, yatkın"
+        },
+        {
+          "form": "gebrannte",
+          "lemma": "gebrannt",
+          "article": null,
+          "tr": "yazılmış (CD/DVD)"
+        },
+        {
+          "form": "vorbeugen",
+          "lemma": "vorbeugen",
+          "article": null,
+          "tr": "önlem almak"
+        },
+        {
+          "form": "lagert",
+          "lemma": "lagern",
+          "article": null,
+          "tr": "depolamak"
+        },
+        {
+          "form": "sichern",
+          "lemma": "sichern",
+          "article": null,
+          "tr": "yedeklemek, güvene almak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Feuchtigkeit",
+          "article": "die",
+          "tr": "nem",
+          "example_de": "Im Keller gibt es oft zu viel Feuchtigkeit."
+        },
+        {
+          "de": "anfällig für etwas sein",
+          "article": null,
+          "tr": "bir şeye hassas olmak",
+          "example_de": "Mein Handy ist anfällig für Hitze."
+        },
+        {
+          "de": "im Auge behalten",
+          "article": null,
+          "tr": "göz önünde tutmak",
+          "example_de": "Behalte bitte den Akkustand im Auge."
+        },
+        {
+          "de": "vorbeugen",
+          "article": null,
+          "tr": "önlem almak",
+          "example_de": "Gegen Erkältung kann man mit Vitaminen vorbeugen."
+        },
+        {
+          "de": "Daten sichern",
+          "article": null,
+          "tr": "veri yedeklemek",
+          "example_de": "Ich sichere meine Daten jeden Sonntag auf einer Festplatte."
+        },
+        {
+          "de": "Fleck",
+          "article": "der",
+          "tr": "leke",
+          "example_de": "Auf meinem Hemd ist ein Fleck vom Kaffee."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist Disc Rot?",
+          "options": [
+            "Ein Virus auf dem PC",
+            "Der Zerfall der Datenschicht auf optischen Scheiben",
+            "Ein neues Videoformat"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Welche Lagerung wird empfohlen?",
+          "options": [
+            "Warm und feucht",
+            "In der Sonne",
+            "Kühl, trocken und senkrecht"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was bedeutet „umkehrbar“?",
+          "options": [
+            "man kann es rückgängig machen",
+            "man kann es kaufen",
+            "man kann es sehen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-youtube-av2",
+      "category": "de",
+      "title_de": "YouTube: Warum Videos bald besser aussehen und schneller laden sollen",
+      "summary_de": "YouTube bereitet den Umstieg auf den neuen Videocodec AV2 vor, den Nachfolger von AV1. Ein Codec ist ein Verfahren, das Videos komprimiert und wieder abspielbar macht. Laut der Entwickler-Allianz AOMedia soll AV2 bei gleicher Qualität etwa 30 Prozent effizienter sein, was weniger Datenverbrauch oder ein schärferes Bild bedeutet. Allerdings stammen diese Zahlen vor allem von den Entwicklern selbst, unabhängige Vergleiche fehlen noch. Ein Nachteil ist der hohe Rechenaufwand, denn das Entschlüsseln kostet ungefähr fünfmal so viel Leistung wie bei AV1. Chips mit eingebauter Unterstützung gibt es bisher nicht. Netflix und Meta wollen den Codec ebenfalls einführen. YouTube plant, Anfang 2027 erste Videos in AV2 auszuliefern, zunächst im Browser und nur, wenn der Rechner das auch schafft.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/youtube-warum-videos-bald-besser-aussehen-und-schneller-laden-sollen-1769847/",
+      "glossary": [
+        {
+          "form": "Umstieg",
+          "lemma": "Umstieg",
+          "article": "der",
+          "tr": "geçiş"
+        },
+        {
+          "form": "Nachfolger",
+          "lemma": "Nachfolger",
+          "article": "der",
+          "tr": "halef, ardıl"
+        },
+        {
+          "form": "Verfahren",
+          "lemma": "Verfahren",
+          "article": "das",
+          "tr": "yöntem"
+        },
+        {
+          "form": "komprimiert",
+          "lemma": "komprimieren",
+          "article": null,
+          "tr": "sıkıştırmak"
+        },
+        {
+          "form": "Entwickler-Allianz",
+          "lemma": "Entwickler-Allianz",
+          "article": "die",
+          "tr": "geliştirici birliği"
+        },
+        {
+          "form": "effizienter",
+          "lemma": "effizient",
+          "article": null,
+          "tr": "daha verimli"
+        },
+        {
+          "form": "Datenverbrauch",
+          "lemma": "Datenverbrauch",
+          "article": "der",
+          "tr": "veri tüketimi"
+        },
+        {
+          "form": "schärferes",
+          "lemma": "scharf",
+          "article": null,
+          "tr": "daha keskin"
+        },
+        {
+          "form": "unabhängige",
+          "lemma": "unabhängig",
+          "article": null,
+          "tr": "bağımsız"
+        },
+        {
+          "form": "Vergleiche",
+          "lemma": "Vergleich",
+          "article": "der",
+          "tr": "karşılaştırma"
+        },
+        {
+          "form": "Nachteil",
+          "lemma": "Nachteil",
+          "article": "der",
+          "tr": "dezavantaj"
+        },
+        {
+          "form": "Rechenaufwand",
+          "lemma": "Rechenaufwand",
+          "article": "der",
+          "tr": "işlem yükü"
+        },
+        {
+          "form": "Entschlüsseln",
+          "lemma": "Entschlüsseln",
+          "article": "das",
+          "tr": "şifre çözme, çözümleme"
+        },
+        {
+          "form": "Leistung",
+          "lemma": "Leistung",
+          "article": "die",
+          "tr": "performans, güç"
+        },
+        {
+          "form": "Unterstützung",
+          "lemma": "Unterstützung",
+          "article": "die",
+          "tr": "destek"
+        },
+        {
+          "form": "einführen",
+          "lemma": "einführen",
+          "article": null,
+          "tr": "kullanıma sokmak"
+        },
+        {
+          "form": "auszuliefern",
+          "lemma": "ausliefern",
+          "article": null,
+          "tr": "teslim etmek, sunmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Nachteil",
+          "article": "der",
+          "tr": "dezavantaj",
+          "example_de": "Ein Nachteil der Wohnung ist die laute Straße."
+        },
+        {
+          "de": "Vorteil",
+          "article": "der",
+          "tr": "avantaj",
+          "example_de": "Der Vorteil vom Studium in Düsseldorf ist die gute Anbindung."
+        },
+        {
+          "de": "auf etwas umsteigen",
+          "article": null,
+          "tr": "bir şeye geçmek",
+          "example_de": "Ich bin auf ein neues Betriebssystem umgestiegen."
+        },
+        {
+          "de": "Leistung",
+          "article": "die",
+          "tr": "performans",
+          "example_de": "Der Laptop hat genug Leistung für Videobearbeitung."
+        },
+        {
+          "de": "etwas einführen",
+          "article": null,
+          "tr": "bir şeyi kullanıma sokmak",
+          "example_de": "Die Uni führt ein neues Portal ein."
+        },
+        {
+          "de": "an die Grenzen stoßen",
+          "article": null,
+          "tr": "sınırlara dayanmak",
+          "example_de": "Mein alter PC stößt bei neuen Spielen an seine Grenzen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was soll AV2 laut AOMedia besser können als AV1?",
+          "options": [
+            "30 Prozent effizienter sein",
+            "Doppelt so viele Farben zeigen",
+            "Ohne Internet laufen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was ist ein Nachteil von AV2?",
+          "options": [
+            "Er ist teuer für Nutzer",
+            "Das Entschlüsseln braucht viel Rechenleistung",
+            "Er funktioniert nur auf dem Handy"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wann will YouTube die ersten Videos in AV2 ausliefern?",
+          "options": [
+            "Dieses Jahr",
+            "Anfang 2027",
+            "Gar nicht"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-sparkasse-anime",
+      "category": "gaming",
+      "title_de": "Sparkasse produziert eigenen Anime – komplett ohne KI",
+      "summary_de": "Die Sparkassen-Finanzgruppe lässt einen eigenen Anime produzieren, was auf den ersten Blick ziemlich ungewöhnlich klingt. Verantwortlich ist das japanische Studio D'Art Shtajio, und die sechs Folgen sollen im Januar 2027 auf YouTube erscheinen. Die Geschichte spielt im Königreich Anlegion, das in eine Finanzkrise rutscht. Das Waisenmädchen Kaneko und ihr rotes Sparschwein Spark wollen den Wohlstand des Landes wiederherstellen. Ihr Gegenspieler ist der gierige König Zodar, der ebenfalls ein Sparschwein besitzt. Die Namen deuten klar auf das Thema Geld hin, denn Anlegion erinnert an „anlegen“. Besonders betont wird, dass die Serie von Hand gezeichnet wurde und keine künstliche Intelligenz zum Einsatz kam. Viele Fans reagieren auf KI im Anime nämlich ziemlich genervt.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/sparkasse-anime-anlegion-trailer-keine-ki/",
+      "glossary": [
+        {
+          "form": "Finanzgruppe",
+          "lemma": "Finanzgruppe",
+          "article": "die",
+          "tr": "finans grubu"
+        },
+        {
+          "form": "Verantwortlich",
+          "lemma": "verantwortlich",
+          "article": null,
+          "tr": "sorumlu"
+        },
+        {
+          "form": "Folgen",
+          "lemma": "Folge",
+          "article": "die",
+          "tr": "bölüm"
+        },
+        {
+          "form": "Königreich",
+          "lemma": "Königreich",
+          "article": "das",
+          "tr": "krallık"
+        },
+        {
+          "form": "rutscht",
+          "lemma": "rutschen",
+          "article": null,
+          "tr": "kaymak, düşmek"
+        },
+        {
+          "form": "Waisenmädchen",
+          "lemma": "Waisenmädchen",
+          "article": "das",
+          "tr": "yetim kız"
+        },
+        {
+          "form": "Sparschwein",
+          "lemma": "Sparschwein",
+          "article": "das",
+          "tr": "kumbara"
+        },
+        {
+          "form": "Wohlstand",
+          "lemma": "Wohlstand",
+          "article": "der",
+          "tr": "refah"
+        },
+        {
+          "form": "wiederherstellen",
+          "lemma": "wiederherstellen",
+          "article": null,
+          "tr": "yeniden sağlamak"
+        },
+        {
+          "form": "Gegenspieler",
+          "lemma": "Gegenspieler",
+          "article": "der",
+          "tr": "rakip, karşıt karakter"
+        },
+        {
+          "form": "gierige",
+          "lemma": "gierig",
+          "article": null,
+          "tr": "açgözlü"
+        },
+        {
+          "form": "deuten",
+          "lemma": "deuten",
+          "article": null,
+          "tr": "işaret etmek"
+        },
+        {
+          "form": "betont",
+          "lemma": "betonen",
+          "article": null,
+          "tr": "vurgulamak"
+        },
+        {
+          "form": "gezeichnet",
+          "lemma": "zeichnen",
+          "article": null,
+          "tr": "çizmek"
+        },
+        {
+          "form": "Einsatz",
+          "lemma": "Einsatz",
+          "article": "der",
+          "tr": "kullanım"
+        },
+        {
+          "form": "genervt",
+          "lemma": "genervt",
+          "article": null,
+          "tr": "bıkmış, sinirlenmiş"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Folge",
+          "article": "die",
+          "tr": "bölüm",
+          "example_de": "Gestern habe ich drei Folgen meiner Lieblingsserie geschaut."
+        },
+        {
+          "de": "auf den ersten Blick",
+          "article": null,
+          "tr": "ilk bakışta",
+          "example_de": "Auf den ersten Blick wirkt die Aufgabe leicht."
+        },
+        {
+          "de": "zum Einsatz kommen",
+          "article": null,
+          "tr": "kullanılmak",
+          "example_de": "Im Labor kommt ein neues Messgerät zum Einsatz."
+        },
+        {
+          "de": "etwas betonen",
+          "article": null,
+          "tr": "bir şeyi vurgulamak",
+          "example_de": "Der Professor betont, dass Übung wichtig ist."
+        },
+        {
+          "de": "Wohlstand",
+          "article": "der",
+          "tr": "refah",
+          "example_de": "Der Wohlstand eines Landes hängt von vielen Faktoren ab."
+        },
+        {
+          "de": "genervt sein",
+          "article": null,
+          "tr": "bıkmış olmak",
+          "example_de": "Ich bin genervt von den ständigen Werbeanzeigen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wo sollen die Folgen erscheinen?",
+          "options": [
+            "Im Fernsehen",
+            "Auf YouTube",
+            "Im Kino"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was wird an der Serie besonders betont?",
+          "options": [
+            "Sie wurde ohne KI von Hand gezeichnet",
+            "Sie ist sehr lang",
+            "Sie ist auf Deutsch gezeichnet"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „Sparschwein“?",
+          "options": [
+            "Ein Tier im Zoo",
+            "Eine Spardose in Schweinform",
+            "Ein Bankkonto",
+            "Ein Anime-Charakter"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-steam-next-fest",
+      "category": "gaming",
+      "title_de": "Steam Next Fest: Die zehn beliebtesten Demos im Oktober",
+      "summary_de": "Beim Steam Next Fest, das am 19. Oktober begonnen hat, können Spieler zahllose kostenlose Demos ausprobieren. Die Redakteurin Lydia von MeinMMO hat sich die zehn meistgespielten Demos angeschaut und sie nach den Spielerzahlen auf SteamDB sortiert. Dabei ist von einem Handwerks-Spiel über das Schleifen von Edelsteinen im viktorianischen Zeitalter bis zu Parkour mit furzenden Nilpferden alles dabei. Auch ein Survival-Titel, in dem man eine mobile Festung aus einem Zug baut, gehört zu den Favoriten. Ein Spiel hat Lydia besonders überrascht, wie sie schreibt. Insgesamt hat sie rund 50 Demos getestet, und etwa ein Dutzend davon landete auf ihrer Wunschliste. Ihr Fazit lautet, dass es durchaus gute Spiele gibt, man muss aber ein wenig suchen.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/steam-next-fest-oktober-2026-top-10/",
+      "glossary": [
+        {
+          "form": "zahllose",
+          "lemma": "zahllos",
+          "article": null,
+          "tr": "sayısız"
+        },
+        {
+          "form": "ausprobieren",
+          "lemma": "ausprobieren",
+          "article": null,
+          "tr": "denemek"
+        },
+        {
+          "form": "Redakteurin",
+          "lemma": "Redakteurin",
+          "article": "die",
+          "tr": "editör (kadın)"
+        },
+        {
+          "form": "meistgespielten",
+          "lemma": "meistgespielt",
+          "article": null,
+          "tr": "en çok oynanan"
+        },
+        {
+          "form": "sortiert",
+          "lemma": "sortieren",
+          "article": null,
+          "tr": "sıralamak"
+        },
+        {
+          "form": "Handwerks-Spiel",
+          "lemma": "Handwerks-Spiel",
+          "article": "das",
+          "tr": "zanaat oyunu"
+        },
+        {
+          "form": "Schleifen",
+          "lemma": "Schleifen",
+          "article": "das",
+          "tr": "parlatma, kesme"
+        },
+        {
+          "form": "Edelsteinen",
+          "lemma": "Edelstein",
+          "article": "der",
+          "tr": "değerli taş"
+        },
+        {
+          "form": "furzenden",
+          "lemma": "furzen",
+          "article": null,
+          "tr": "gaz çıkarmak"
+        },
+        {
+          "form": "Nilpferden",
+          "lemma": "Nilpferd",
+          "article": "das",
+          "tr": "su aygırı"
+        },
+        {
+          "form": "Festung",
+          "lemma": "Festung",
+          "article": "die",
+          "tr": "kale"
+        },
+        {
+          "form": "Favoriten",
+          "lemma": "Favorit",
+          "article": "der",
+          "tr": "favori"
+        },
+        {
+          "form": "überrascht",
+          "lemma": "überraschen",
+          "article": null,
+          "tr": "şaşırtmak"
+        },
+        {
+          "form": "Wunschliste",
+          "lemma": "Wunschliste",
+          "article": "die",
+          "tr": "istek listesi"
+        },
+        {
+          "form": "Fazit",
+          "lemma": "Fazit",
+          "article": "das",
+          "tr": "sonuç, çıkarım"
+        },
+        {
+          "form": "durchaus",
+          "lemma": "durchaus",
+          "article": null,
+          "tr": "gayet, kesinlikle"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "ausprobieren",
+          "article": null,
+          "tr": "denemek",
+          "example_de": "Ich will die neue Mechanik unbedingt ausprobieren."
+        },
+        {
+          "de": "auf der Wunschliste landen",
+          "article": null,
+          "tr": "istek listesine girmek",
+          "example_de": "Das Spiel ist sofort auf meiner Wunschliste gelandet."
+        },
+        {
+          "de": "ein Fazit ziehen",
+          "article": null,
+          "tr": "sonuç çıkarmak",
+          "example_de": "Nach dem Semester ziehe ich ein positives Fazit."
+        },
+        {
+          "de": "jemanden überraschen",
+          "article": null,
+          "tr": "birini şaşırtmak",
+          "example_de": "Das Ende des Spiels hat mich echt überrascht."
+        },
+        {
+          "de": "Favorit",
+          "article": "der",
+          "tr": "favori",
+          "example_de": "Mein Favorit im Team ist der Support."
+        },
+        {
+          "de": "nach Spielerzahlen sortieren",
+          "article": null,
+          "tr": "oyuncu sayısına göre sıralamak",
+          "example_de": "Die Liste ist nach Spielerzahlen sortiert."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wonach hat Lydia die Demos sortiert?",
+          "options": [
+            "Nach Preis",
+            "Nach Spielerzahlen auf SteamDB",
+            "Nach Alphabet"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wie viele Demos hat sie ungefähr getestet?",
+          "options": [
+            "Etwa 10",
+            "Etwa 50",
+            "Etwa 500"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „ausprobieren“?",
+          "options": [
+            "verkaufen",
+            "testen",
+            "verlieren",
+            "reparieren"
+          ],
+          "answer_index": 1
+        }
       ]
     }
   ]

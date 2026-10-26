@@ -1,29 +1,62 @@
 {
   "date": "2026-10-26",
-  "level": "B2",
+  "level": "original",
   "items": [
     {
       "id": "2026-10-26-beispiel-1",
-      "title_de": "BEISPIEL: Wie funktioniert dieser tägliche Inhalt?",
-      "summary_de": "Dies ist ein Beispieleintrag und keine echte Nachricht. Jeden Morgen ersetzt eine geplante Aufgabe diese Datei durch neue Inhalte. Die App lädt die Datei direkt von GitHub. Man muss nichts manuell kopieren oder neu veröffentlichen.",
+      "category": "de",
+      "title_de": "BEISPIEL: So funktionieren die täglichen Nachrichten",
+      "summary_de": "Dies ist ein Beispieleintrag und keine echte Nachricht. Ab morgen ersetzt eine geplante Aufgabe diese Datei jeden Morgen durch aktuelle Meldungen. Die Texte werden nicht vereinfacht, sondern nur zusammengefasst. Jede Zusammenfassung lässt sich in etwa dreißig Sekunden lesen. Wer ein Wort nicht kennt, tippt einfach darauf und sieht sofort die Übersetzung. Unbekannte Begriffe landen mit einem Klick im persönlichen Wortschatz. Den vollständigen Artikel findet man jederzeit über den Link zur Quelle.",
       "source_name": "AktivDeutsch (Beispiel)",
       "source_url": "https://github.com",
+      "glossary": [
+        { "form": "Beispieleintrag", "lemma": "Beispieleintrag", "article": "der", "tr": "örnek kayıt" },
+        { "form": "ersetzt", "lemma": "ersetzen", "article": null, "tr": "yerine koyar, değiştirir" },
+        { "form": "geplante", "lemma": "geplant", "article": null, "tr": "planlanmış" },
+        { "form": "Aufgabe", "lemma": "Aufgabe", "article": "die", "tr": "görev" },
+        { "form": "Meldungen", "lemma": "Meldung", "article": "die", "tr": "haber, bildiri" },
+        { "form": "vereinfacht", "lemma": "vereinfachen", "article": null, "tr": "basitleştirmek" },
+        { "form": "zusammengefasst", "lemma": "zusammenfassen", "article": null, "tr": "özetlemek" },
+        { "form": "Zusammenfassung", "lemma": "Zusammenfassung", "article": "die", "tr": "özet" },
+        { "form": "tippt", "lemma": "tippen", "article": null, "tr": "dokunmak" },
+        { "form": "Übersetzung", "lemma": "Übersetzung", "article": "die", "tr": "çeviri" },
+        { "form": "Begriffe", "lemma": "Begriff", "article": "der", "tr": "kavram, terim" },
+        { "form": "landen", "lemma": "landen", "article": null, "tr": "(bir yere) düşmek, varmak" },
+        { "form": "Wortschatz", "lemma": "Wortschatz", "article": "der", "tr": "kelime hazinesi" },
+        { "form": "vollständigen", "lemma": "vollständig", "article": null, "tr": "tam, eksiksiz" },
+        { "form": "jederzeit", "lemma": "jederzeit", "article": null, "tr": "her zaman" },
+        { "form": "Quelle", "lemma": "Quelle", "article": "die", "tr": "kaynak" }
+      ],
       "vocabulary": [
-        { "de": "Aufgabe", "article": "die", "tr": "görev", "example_de": "Eine geplante Aufgabe aktualisiert die Datei jeden Morgen." },
-        { "de": "ersetzen", "article": null, "tr": "yerine koymak, değiştirmek", "example_de": "Die neue Version ersetzt die alte Datei." },
-        { "de": "veröffentlichen", "article": null, "tr": "yayımlamak", "example_de": "Man muss die App nicht neu veröffentlichen." }
+        { "de": "durch etwas ersetzen", "article": null, "tr": "bir şeyle değiştirmek", "example_de": "Wir ersetzen das alte Netzteil durch ein neues." },
+        { "de": "Zusammenfassung", "article": "die", "tr": "özet", "example_de": "Kannst du mir eine kurze Zusammenfassung schicken?" },
+        { "de": "auf etwas tippen", "article": null, "tr": "bir şeye dokunmak", "example_de": "Tipp auf das Symbol, um die App zu öffnen." }
       ],
       "exercises": [
-        {
-          "question_de": "Was passiert jeden Morgen mit der Datei?",
-          "options": ["Sie wird gelöscht.", "Sie wird durch neue Inhalte ersetzt.", "Sie wird ausgedruckt."],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Welches Wort bedeutet „yayımlamak“?",
-          "options": ["ersetzen", "veröffentlichen", "aktualisieren", "laden"],
-          "answer_index": 1
-        }
+        { "question_de": "Werden die Texte vereinfacht?", "options": ["Ja, auf Niveau A2.", "Nein, sie werden nur zusammengefasst.", "Nur am Wochenende."], "answer_index": 1 },
+        { "question_de": "Welches Wort bedeutet „kaynak“?", "options": ["die Aufgabe", "die Meldung", "die Quelle", "der Begriff"], "answer_index": 2 }
+      ]
+    },
+    {
+      "id": "2026-10-26-beispiel-2",
+      "category": "gaming",
+      "title_de": "BEISPIEL: Gaming-News erscheinen hier mit eigenem Symbol",
+      "summary_de": "Auch dieser Eintrag ist nur ein Beispiel. Größere Updates zu League of Legends oder Counter-Strike 2 bekommen künftig einen eigenen Platz. Über die Filter oben lassen sich solche Meldungen gezielt anzeigen. Gibt es an einem Tag keine wichtigen Neuigkeiten aus der Spielewelt, fällt die Rubrik einfach weg.",
+      "source_name": "AktivDeutsch (Beispiel)",
+      "source_url": "https://github.com",
+      "glossary": [
+        { "form": "künftig", "lemma": "künftig", "article": null, "tr": "gelecekte, bundan sonra" },
+        { "form": "gezielt", "lemma": "gezielt", "article": null, "tr": "hedefli, özellikle" },
+        { "form": "Neuigkeiten", "lemma": "Neuigkeit", "article": "die", "tr": "yenilik, haber" },
+        { "form": "Spielewelt", "lemma": "Spielewelt", "article": "die", "tr": "oyun dünyası" },
+        { "form": "fällt", "lemma": "wegfallen", "article": null, "tr": "(…weg) düşmek, olmamak" },
+        { "form": "Rubrik", "lemma": "Rubrik", "article": "die", "tr": "bölüm, köşe" }
+      ],
+      "vocabulary": [
+        { "de": "wegfallen", "article": null, "tr": "ortadan kalkmak, yapılmamak", "example_de": "Wegen des Streiks fällt die Vorlesung heute weg." }
+      ],
+      "exercises": [
+        { "question_de": "Was passiert, wenn es keine wichtigen Gaming-News gibt?", "options": ["Die Rubrik fällt weg.", "Es wird eine Nachricht erfunden.", "Die App stürzt ab."], "answer_index": 0 }
       ]
     }
   ]

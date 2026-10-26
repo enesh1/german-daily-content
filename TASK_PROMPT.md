@@ -11,10 +11,13 @@ o günün içeriğiyle değiştirir, `main` dalına commit'ler ve push eder. Akt
 ## Bugünün karışımı (toplam 5–6 haber)
 | category | Konu | Adet | Kaynak önerileri |
 |---|---|---|---|
-| `nrw` | Düsseldorf ve NRW'den şehir hayatı, etkinlik, ulaşım, tuhaf/güzel olaylar | 1 | WDR (wdr.de), Rheinische Post (rp-online.de) |
-| `de` | Almanya genelinden ilginç/eğlenceli: bilim, teknoloji, internet, tuhaf olaylar, spor, kültür, öğrenci hayatı | 2 | tagesschau.de (Panorama, Wissen), spiegel.de (Panorama, Netzwelt), DW (dw.com/de) |
-| `tr` | Türkiye'den ilginç/eğlenceli haber — **Almanca kaynaktan** | 1 | DW (dw.com/de), tagesschau.de, diğer Almanca medya |
-| `gaming` | LoL ve CS2 büyük güncellemeleri/olayları; ses getiren diğer oyun haberleri | 1–2 | GameStar, Mein-MMO, PC Games (Almanca); resmî yama notları: leagueoflegends.com, counter-strike.net |
+| `nrw` | Düsseldorf ve NRW'den şehir hayatı, etkinlik, ulaşım, tuhaf/güzel olaylar | 1 | WDR, Rheinische Post, Westdeutsche Zeitung (wz.de), Düsseldorf'un resmî sitesi (duesseldorf.de), radioduesseldorf.de, Deutschlandfunk |
+| `de` | Almanya genelinden ilginç/eğlenceli: bilim, teknoloji, internet, tuhaf olaylar, spor, kültür, öğrenci hayatı | 2 | watson.de, Deutschlandfunk / Deutschlandfunk Nova (deutschlandfunk.de, deutschlandfunknova.de), MDR, tagesschau, Spiegel, DW, t3n.de, netzpolitik.org |
+| `tr` | Türkiye'den ilginç/eğlenceli haber — **Almanca kaynaktan** | 1 | Deutschlandfunk, DW, watson.de, tagesschau, diğer Almanca medya |
+| `gaming` | LoL ve CS2 büyük güncellemeleri/olayları; ses getiren diğer oyun haberleri | 1–2 | Mein-MMO, PC Games, GamePro, ingame.de, GameStar; resmî yama notları: leagueoflegends.com/de-de, counter-strike.net |
+
+**Erişim kuralı:** Bir site içerik vermezse (ör. "unable to fetch", 403) onu atla ve listedeki ya da arama ile bulduğun başka bir Almanca kaynağa geç.
+Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, önbellek/arşiv kopyalarına ya da ayna sitelere gitme. Arama sonuçlarından yalnızca gerçekten açabildiğin makaleleri kullan.
 
 - O gün bir kategoride uygun haber yoksa o kategoriyi **atla**; boşluğu `de` ile doldurabilirsin. Asla haber uydurma.
 - Oyun haberinde: büyük yama/sezon, yeni şampiyon/harita/silah, büyük e-spor turnuvası, büyük oyun duyurusu gibi gelişmeler. Küçük "indirim" ya da "tier list" yazıları değil.

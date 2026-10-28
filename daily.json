@@ -1,38 +1,441 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "level": "original",
   "items": [
     {
-      "id": "2026-10-27-unsterbliche-qualle",
+      "id": "2026-10-28-reibekuchen-aktion",
+      "category": "nrw",
+      "title_de": "XXL-Reibekuchen-Aktion in der Düsseldorfer Altstadt bringt 18.000 Euro",
+      "summary_de": "Am Bolker Stern in der Düsseldorfer Altstadt hat die Tischgemeinschaft Scholljonges eine riesige Reibekuchen-Aktion für den guten Zweck veranstaltet. Rund 10.000 Reibekuchen mit Apfelmus wurden an einem Samstag im Oktober verteilt, im Vorjahr waren es nur etwa 3.000. Weil so viele Menschen kamen, liehen sich die Organisatoren sieben große Pfannen bei der Feuerwehr Erkrath und einem Karnevalsverein aus. Wer wenig Geld hatte, durfte kostenlos essen, alle anderen warfen eine Spende in die aufgestellten Boxen. Am Abend schätzte der Baas der Gruppe die Einnahmen auf etwa 7.000 Euro. Durch eine größere Einzelspende stieg die Summe am Ende auf 18.000 Euro. Das Geld teilen sich die Altstadt-Armenküche und der Gutenachtbus zu gleichen Teilen. Auch Fußballlegenden von Fortuna und das künftige Karnevalsprinzenpaar halfen an den Pfannen mit. Nach etwa neun Stunden war alles aufgegessen.",
+      "source_name": "Ddorf-Aktuell",
+      "source_url": "https://www.ddorf-aktuell.de/2026/10/25/duesseldorf-die-xxl-reibekuchen-aktion-waren-ein-voller-erfolg/",
+      "glossary": [
+        {
+          "form": "Tischgemeinschaft",
+          "lemma": "Tischgemeinschaft",
+          "article": "die",
+          "tr": "Yemek/sofra topluluğu"
+        },
+        {
+          "form": "veranstaltet",
+          "lemma": "veranstalten",
+          "article": null,
+          "tr": "düzenlemek"
+        },
+        {
+          "form": "Zweck",
+          "lemma": "Zweck",
+          "article": "der",
+          "tr": "amaç"
+        },
+        {
+          "form": "verteilt",
+          "lemma": "verteilen",
+          "article": null,
+          "tr": "dağıtmak"
+        },
+        {
+          "form": "Vorjahr",
+          "lemma": "Vorjahr",
+          "article": "das",
+          "tr": "geçen yıl"
+        },
+        {
+          "form": "Organisatoren",
+          "lemma": "Organisator",
+          "article": "der",
+          "tr": "organizatörler"
+        },
+        {
+          "form": "liehen",
+          "lemma": "ausleihen",
+          "article": null,
+          "tr": "ödünç almak"
+        },
+        {
+          "form": "Feuerwehr",
+          "lemma": "Feuerwehr",
+          "article": "die",
+          "tr": "itfaiye"
+        },
+        {
+          "form": "Karnevalsverein",
+          "lemma": "Karnevalsverein",
+          "article": "der",
+          "tr": "karnaval derneği"
+        },
+        {
+          "form": "Spende",
+          "lemma": "Spende",
+          "article": "die",
+          "tr": "bağış"
+        },
+        {
+          "form": "aufgestellten",
+          "lemma": "aufstellen",
+          "article": null,
+          "tr": "yerleştirmek"
+        },
+        {
+          "form": "schätzte",
+          "lemma": "schätzen",
+          "article": null,
+          "tr": "tahmin etmek"
+        },
+        {
+          "form": "Einnahmen",
+          "lemma": "Einnahme",
+          "article": "die",
+          "tr": "gelir"
+        },
+        {
+          "form": "Einzelspende",
+          "lemma": "Einzelspende",
+          "article": "die",
+          "tr": "tek bir bağış"
+        },
+        {
+          "form": "Summe",
+          "lemma": "Summe",
+          "article": "die",
+          "tr": "toplam tutar"
+        },
+        {
+          "form": "Armenküche",
+          "lemma": "Armenküche",
+          "article": "die",
+          "tr": "yoksullara yemek veren aşevi"
+        },
+        {
+          "form": "gleichen",
+          "lemma": "gleich",
+          "article": null,
+          "tr": "eşit"
+        },
+        {
+          "form": "künftige",
+          "lemma": "künftig",
+          "article": null,
+          "tr": "gelecekteki"
+        },
+        {
+          "form": "Karnevalsprinzenpaar",
+          "lemma": "Karnevalsprinzenpaar",
+          "article": "das",
+          "tr": "karnaval prens çifti"
+        },
+        {
+          "form": "halfen",
+          "lemma": "mithelfen",
+          "article": null,
+          "tr": "yardım etmek"
+        },
+        {
+          "form": "aufgegessen",
+          "lemma": "aufessen",
+          "article": null,
+          "tr": "hepsini yemek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "für den guten Zweck",
+          "article": null,
+          "tr": "hayır amacıyla",
+          "example_de": "Das Konzert findet für den guten Zweck statt."
+        },
+        {
+          "de": "Spende",
+          "article": "die",
+          "tr": "bağış",
+          "example_de": "Ich gebe jeden Monat eine kleine Spende an den Tierschutz."
+        },
+        {
+          "de": "eine Aktion veranstalten",
+          "article": null,
+          "tr": "bir etkinlik düzenlemek",
+          "example_de": "Der Studentenrat will im Winter eine Aktion veranstalten."
+        },
+        {
+          "de": "etwas verteilen",
+          "article": null,
+          "tr": "bir şeyi dağıtmak",
+          "example_de": "Vor der Mensa verteilen sie kostenlose Flyer."
+        },
+        {
+          "de": "Einnahmen",
+          "article": "die",
+          "tr": "gelirler",
+          "example_de": "Die Einnahmen vom Flohmarkt gehen an die Schule."
+        },
+        {
+          "de": "zu gleichen Teilen",
+          "article": null,
+          "tr": "eşit paylaşımla",
+          "example_de": "Wir teilen die Kosten zu gleichen Teilen."
+        },
+        {
+          "de": "ausleihen",
+          "article": null,
+          "tr": "ödünç almak",
+          "example_de": "Kann ich mir dein Ladekabel kurz ausleihen?"
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Reibekuchen wurden ungefähr verteilt?",
+          "options": [
+            "3.000",
+            "10.000",
+            "18.000"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wofür wird das gesammelte Geld verwendet?",
+          "options": [
+            "Für Fortuna Düsseldorf",
+            "Für den Karneval",
+            "Für die Altstadt-Armenküche und den Gutenachtbus",
+            "Für die Feuerwehr"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was bedeutet „Einnahmen“?",
+          "options": [
+            "Geld, das man bekommt",
+            "Geld, das man ausgibt",
+            "Eine Pfanne",
+            "Ein Ausflug"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-aeltestes-programm-windows-11",
       "category": "de",
-      "title_de": "Was die „unsterbliche Qualle“ übers Altern verrät",
-      "summary_de": "Die Qualle Turritopsis dohrnii wird oft als „unsterbliche Qualle“ bezeichnet, weil sie einen erstaunlichen Trick beherrscht. Gerät das Tier unter Stress, beendet es seinen normalen Lebenszyklus und sinkt auf den Meeresboden. Dort entwickelt es sich innerhalb weniger Tage zu einem Polypen zurück, also zu einer Jugendform. Aus diesem Polypen können anschließend neue Quallen heranwachsen, und der Vorgang lässt sich theoretisch beliebig oft wiederholen. Forschende vermuten, dass zusätzliche Kopien von Genen zur Reparatur der DNA eine Rolle spielen könnten. Sicher ist das allerdings nicht, denn die Funktion vieler Gene ist noch unbekannt. Langfristig hoffen Wissenschaftler, mit diesem Wissen eines Tages Gewebe nach Verletzungen erneuern zu können. Bis zu einer medizinischen Anwendung dürften aber noch viele Jahre vergehen. Auch in der Natur sterben diese Tiere übrigens an Krankheiten oder Fressfeinden.",
+      "title_de": "Wie alt darf ein Programm sein, das noch unter Windows 11 läuft?",
+      "summary_de": "Ein Programmierer namens Boris Popik hat sich gefragt, welches grafische Programm das älteste ist, das noch auf Windows 11 läuft. Weil Windows 11 keine 16-Bit-Anwendungen mehr direkt unterstützt, begann seine Suche bei den 32-Bit-Programmen der frühen Neunzigerjahre. Fündig wurde er zuerst bei einer Version des Kartenspiels FreeCell vom Februar 1993, die ohne Änderungen startete. Noch älter war ein CD-Player aus dem Jahr 1992, der zunächst abstürzte, weil sein Rechner gar kein Laufwerk hatte. Ein virtuelles Laufwerk löste das Problem. Mit einem Hilfsprogramm für alte 16-Bit-Software brachte er schließlich sogar eine Version von Reversi aus dem Jahr 1985 zum Laufen. Der Artikel nennt das allerdings eher einen Umweg als echte Unterstützung. Ein Leser kritisierte zudem, dass sich mit Emulatoren fast jedes Programm starten lasse. Seinen Versuch hat Popik in einem Blogbeitrag dokumentiert.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/aeltestes-programm-windows-11-1770050/",
+      "glossary": [
+        {
+          "form": "Programmierer",
+          "lemma": "Programmierer",
+          "article": "der",
+          "tr": "yazılımcı"
+        },
+        {
+          "form": "grafische",
+          "lemma": "grafisch",
+          "article": null,
+          "tr": "grafik arayüzlü"
+        },
+        {
+          "form": "Anwendungen",
+          "lemma": "Anwendung",
+          "article": "die",
+          "tr": "uygulama"
+        },
+        {
+          "form": "unterstützt",
+          "lemma": "unterstützen",
+          "article": null,
+          "tr": "desteklemek"
+        },
+        {
+          "form": "Suche",
+          "lemma": "Suche",
+          "article": "die",
+          "tr": "arama"
+        },
+        {
+          "form": "Fündig",
+          "lemma": "fündig",
+          "article": null,
+          "tr": "aradığını bulmak (fündig werden)"
+        },
+        {
+          "form": "Kartenspiels",
+          "lemma": "Kartenspiel",
+          "article": "das",
+          "tr": "kart oyunu"
+        },
+        {
+          "form": "Änderungen",
+          "lemma": "Änderung",
+          "article": "die",
+          "tr": "değişiklik"
+        },
+        {
+          "form": "abstürzte",
+          "lemma": "abstürzen",
+          "article": null,
+          "tr": "çökmek"
+        },
+        {
+          "form": "Laufwerk",
+          "lemma": "Laufwerk",
+          "article": "das",
+          "tr": "sürücü"
+        },
+        {
+          "form": "virtuelles",
+          "lemma": "virtuell",
+          "article": null,
+          "tr": "sanal"
+        },
+        {
+          "form": "Hilfsprogramm",
+          "lemma": "Hilfsprogramm",
+          "article": "das",
+          "tr": "yardımcı program"
+        },
+        {
+          "form": "schließlich",
+          "lemma": "schließlich",
+          "article": null,
+          "tr": "sonunda"
+        },
+        {
+          "form": "Umweg",
+          "lemma": "Umweg",
+          "article": "der",
+          "tr": "dolambaçlı yol"
+        },
+        {
+          "form": "Emulatoren",
+          "lemma": "Emulator",
+          "article": "der",
+          "tr": "emülatör"
+        },
+        {
+          "form": "kritisierte",
+          "lemma": "kritisieren",
+          "article": null,
+          "tr": "eleştirmek"
+        },
+        {
+          "form": "Blogbeitrag",
+          "lemma": "Blogbeitrag",
+          "article": "der",
+          "tr": "blog yazısı"
+        },
+        {
+          "form": "dokumentiert",
+          "lemma": "dokumentieren",
+          "article": null,
+          "tr": "belgelemek"
+        },
+        {
+          "form": "Neunzigerjahre",
+          "lemma": "Neunzigerjahre",
+          "article": "die",
+          "tr": "90'lı yıllar"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "zum Laufen bringen",
+          "article": null,
+          "tr": "çalıştırmak",
+          "example_de": "Ich habe das alte Spiel endlich zum Laufen gebracht."
+        },
+        {
+          "de": "abstürzen",
+          "article": null,
+          "tr": "çökmek",
+          "example_de": "Die App stürzt ständig ab."
+        },
+        {
+          "de": "Laufwerk",
+          "article": "das",
+          "tr": "sürücü",
+          "example_de": "Mein Laptop hat kein DVD-Laufwerk mehr."
+        },
+        {
+          "de": "Unterstützung",
+          "article": "die",
+          "tr": "destek",
+          "example_de": "Für ältere Geräte gibt es keine Unterstützung mehr."
+        },
+        {
+          "de": "etwas dokumentieren",
+          "article": null,
+          "tr": "bir şeyi belgelemek",
+          "example_de": "Wir dokumentieren jeden Schritt im Labor."
+        },
+        {
+          "de": "Umweg",
+          "article": "der",
+          "tr": "dolambaçlı yol",
+          "example_de": "Der Umweg über Köln hat uns eine Stunde gekostet."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wonach hat Boris Popik gesucht?",
+          "options": [
+            "Nach dem schnellsten Programm",
+            "Nach dem ältesten Programm, das unter Windows 11 läuft",
+            "Nach einem neuen Spiel",
+            "Nach einem Virenscanner"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Warum stürzte der CD-Player zuerst ab?",
+          "options": [
+            "Der Rechner hatte kein Laufwerk",
+            "Das Spiel war zu neu",
+            "Der Strom fiel aus"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „zum Laufen bringen“?",
+          "options": [
+            "Etwas verkaufen",
+            "Etwas zum Funktionieren bringen",
+            "Etwas löschen"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-unsterbliche-qualle",
+      "category": "de",
+      "title_de": "Was die „unsterbliche“ Qualle über das Altern verrät",
+      "summary_de": "Die Qualle Turritopsis dohrnii gilt als „unsterblich“, weil sie ihre Entwicklung zurückdrehen kann. Wird sie verletzt oder gestresst, sinkt sie zum Meeresboden und verwandelt sich innerhalb weniger Tage wieder in einen Polypen. Aus diesem kann erneut eine Qualle heranwachsen, sodass sich der Kreislauf theoretisch immer wiederholen lässt. Möglich macht das die sogenannte Transdifferenzierung, bei der Zellen in einen stammzellenähnlichen Zustand zurückversetzt werden. Genvergleiche mit verwandten Arten deuten darauf hin, dass die Qualle zusätzliche Kopien von Genen zur Reparatur ihrer DNA besitzt. Ob dieser Zusammenhang tatsächlich die Verjüngung erklärt, ist bislang nicht bewiesen. Forschende hoffen, daraus irgendwann Therapien zu entwickeln, etwa für die Heilung von Gewebe nach einem Schlaganfall. Bis dahin dürfte es aber noch viele Jahre dauern. Ganz unsterblich ist das Tier trotzdem nicht, denn in der Natur fällt es Krankheiten und Fressfeinden zum Opfer.",
       "source_name": "watson.de",
       "source_url": "https://www.watson.de/leben/good-news/854373531-was-die-unsterbliche-qualle-uebers-altern-verraet-und-warum-forschende-genau-hinschauen",
       "glossary": [
         {
-          "form": "Qualle",
-          "lemma": "Qualle",
-          "article": "die",
-          "tr": "Qualle"
-        },
-        {
-          "form": "erstaunlichen",
-          "lemma": "erstaunlich",
+          "form": "gilt",
+          "lemma": "gelten",
           "article": null,
-          "tr": "erstaunlich"
+          "tr": "sayılmak"
         },
         {
-          "form": "beherrscht",
-          "lemma": "beherrschen",
+          "form": "unsterblich",
+          "lemma": "unsterblich",
           "article": null,
-          "tr": "ustalıkla yapmak, hâkim olmak"
+          "tr": "ölümsüz"
         },
         {
-          "form": "Lebenszyklus",
-          "lemma": "Lebenszyklus",
-          "article": "der",
-          "tr": "yaşam döngüsü"
+          "form": "verletzt",
+          "lemma": "verletzen",
+          "article": null,
+          "tr": "yaralamak"
+        },
+        {
+          "form": "gestresst",
+          "lemma": "gestresst",
+          "article": null,
+          "tr": "stresli"
         },
         {
           "form": "Meeresboden",
@@ -41,16 +444,16 @@
           "tr": "deniz tabanı"
         },
         {
+          "form": "verwandelt",
+          "lemma": "verwandeln",
+          "article": null,
+          "tr": "dönüşmek"
+        },
+        {
           "form": "Polypen",
           "lemma": "Polyp",
           "article": "der",
           "tr": "polip"
-        },
-        {
-          "form": "Jugendform",
-          "lemma": "Jugendform",
-          "article": "die",
-          "tr": "genç/larva evre"
         },
         {
           "form": "heranwachsen",
@@ -59,28 +462,40 @@
           "tr": "büyüyüp gelişmek"
         },
         {
+          "form": "Kreislauf",
+          "lemma": "Kreislauf",
+          "article": "der",
+          "tr": "döngü"
+        },
+        {
           "form": "theoretisch",
           "lemma": "theoretisch",
           "article": null,
           "tr": "teorik olarak"
         },
         {
-          "form": "wiederholen",
-          "lemma": "wiederholen",
-          "article": null,
-          "tr": "tekrarlamak"
+          "form": "Transdifferenzierung",
+          "lemma": "Transdifferenzierung",
+          "article": "die",
+          "tr": "transdiferansiyasyon"
         },
         {
-          "form": "Forschende",
-          "lemma": "Forschende",
+          "form": "zurückversetzt",
+          "lemma": "zurückversetzen",
+          "article": null,
+          "tr": "geri döndürmek"
+        },
+        {
+          "form": "Genvergleiche",
+          "lemma": "Genvergleich",
           "article": "der",
-          "tr": "araştırmacılar"
+          "tr": "gen karşılaştırması"
         },
         {
-          "form": "vermuten",
-          "lemma": "vermuten",
+          "form": "verwandten",
+          "lemma": "verwandt",
           "article": null,
-          "tr": "sanmak, tahmin etmek"
+          "tr": "akraba, yakın"
         },
         {
           "form": "Reparatur",
@@ -89,772 +504,474 @@
           "tr": "onarım"
         },
         {
+          "form": "Verjüngung",
+          "lemma": "Verjüngung",
+          "article": "die",
+          "tr": "gençleşme"
+        },
+        {
+          "form": "bewiesen",
+          "lemma": "beweisen",
+          "article": null,
+          "tr": "kanıtlamak"
+        },
+        {
+          "form": "Therapien",
+          "lemma": "Therapie",
+          "article": "die",
+          "tr": "tedavi"
+        },
+        {
           "form": "Gewebe",
           "lemma": "Gewebe",
           "article": "das",
           "tr": "doku"
         },
         {
-          "form": "Verletzungen",
-          "lemma": "Verletzung",
-          "article": "die",
-          "tr": "yaralanma"
-        },
-        {
-          "form": "erneuern",
-          "lemma": "erneuern",
-          "article": null,
-          "tr": "yenilemek"
+          "form": "Schlaganfall",
+          "lemma": "Schlaganfall",
+          "article": "der",
+          "tr": "felç, inme"
         },
         {
           "form": "Fressfeinden",
           "lemma": "Fressfeind",
           "article": "der",
-          "tr": "avcı düşman"
+          "tr": "doğal düşman, avcı"
         }
       ],
       "vocabulary": [
         {
-          "de": "sich zurückentwickeln",
+          "de": "als … gelten",
           "article": null,
-          "tr": "geriye doğru gelişmek",
-          "example_de": "Nach dem Urlaub entwickelt sich mein Schlafrhythmus leider wieder zurück."
+          "tr": "... olarak kabul edilmek",
+          "example_de": "Berlin gilt als eine der coolsten Städte Europas."
         },
         {
-          "de": "eine Rolle spielen",
+          "de": "zum Opfer fallen",
           "article": null,
-          "tr": "rol oynamak",
-          "example_de": "Der Preis spielt bei meiner Wahl eine große Rolle."
+          "tr": "kurban gitmek",
+          "example_de": "Viele Daten sind dem Absturz zum Opfer gefallen."
         },
         {
-          "de": "Stress",
-          "article": "der",
-          "tr": "stres",
-          "example_de": "Vor Klausuren habe ich meistens ziemlich viel Stress."
+          "de": "auf etwas hindeuten",
+          "article": null,
+          "tr": "bir şeye işaret etmek",
+          "example_de": "Die Ergebnisse deuten auf einen Fehler im Versuch hin."
         },
         {
-          "de": "Funktion",
+          "de": "Therapie",
           "article": "die",
-          "tr": "işlev",
-          "example_de": "Ich verstehe die Funktion dieses Knopfes nicht."
+          "tr": "tedavi",
+          "example_de": "Nach dem Unfall brauchte er eine lange Therapie."
         },
         {
-          "de": "Anwendung",
-          "article": "die",
-          "tr": "uygulama, kullanım",
-          "example_de": "Die Anwendung der Formel fällt mir noch schwer."
-        },
-        {
-          "de": "langfristig",
+          "de": "etwas beweisen",
           "article": null,
-          "tr": "uzun vadede",
-          "example_de": "Langfristig möchte ich in der Energietechnik arbeiten."
+          "tr": "bir şeyi kanıtlamak",
+          "example_de": "Das musst du erst mal beweisen!"
+        },
+        {
+          "de": "Gewebe",
+          "article": "das",
+          "tr": "doku",
+          "example_de": "Muskeln bestehen aus weichem Gewebe."
         }
       ],
       "exercises": [
         {
-          "question_de": "Was tut die Qualle, wenn sie unter Stress gerät?",
+          "question_de": "Was kann die Qualle Turritopsis dohrnii?",
           "options": [
-            "Sie wandert in flaches Wasser",
-            "Sie entwickelt sich zur Jugendform zurück",
-            "Sie frisst mehr",
-            "Sie wird unsichtbar"
+            "Sie kann Strom erzeugen",
+            "Sie kann ihre Entwicklung zurückdrehen",
+            "Sie kann an Land leben"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was ist laut Text noch unklar?",
+          "question_de": "Ist die Qualle wirklich unsterblich?",
           "options": [
-            "Ob die Qualle im Meer lebt",
-            "Welche Funktion viele ihrer Gene haben",
-            "Wie viele Quallen es gibt",
-            "Wann sie Stress bekommt"
+            "Ja, sie kann nie sterben",
+            "Nein, in der Natur kann sie trotzdem sterben",
+            "Das weiß man nicht, weil sie nie gefunden wurde"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „erneuern“?",
+          "question_de": "Was bedeutet „etwas ist nicht bewiesen“?",
           "options": [
-            "zerstören",
-            "neu machen",
-            "verstecken",
-            "bezahlen"
+            "Man hat es gefunden",
+            "Es ist noch nicht sicher belegt",
+            "Es ist verboten",
+            "Es ist neu"
           ],
           "answer_index": 1
         }
       ]
     },
     {
-      "id": "2026-10-27-youtube-av2",
-      "category": "de",
-      "title_de": "YouTube plant den Umstieg auf AV2",
-      "summary_de": "YouTube will Anfang 2027 die ersten Videos im neuen Format AV2 ausliefern. Zunächst soll das nur im Web funktionieren, und zwar nur, wenn Browser und Rechner damit zurechtkommen. Der Nachfolger von AV1 soll laut der Allianz AOMedia rund 30 Prozent effizienter arbeiten. Streamingdienste könnten dadurch entweder Bandbreite sparen oder bei gleicher Datenrate ein schärferes Bild liefern. Unabhängige Vergleiche gibt es allerdings noch nicht, die Zahl stammt vor allem von den Entwicklern selbst. Ein Haken ist der hohe Rechenaufwand, denn das Dekodieren soll etwa fünfmal so anspruchsvoll sein wie bei AV1. Chips mit eingebauter Unterstützung existieren bislang nicht. Auch Netflix und Meta wollen das Format künftig einsetzen.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/youtube-warum-videos-bald-besser-aussehen-und-schneller-laden-sollen-1769847/",
+      "id": "2026-10-28-umamusume-hufschmied",
+      "category": "gaming",
+      "title_de": "Abgesagtes Umamusume-Konzert: Fans stürmen einen Hufschmied",
+      "summary_de": "Eigentlich sollten am 22. und 23. Oktober in Los Angeles zwei Konzerte zum Spiel und Anime Umamusume: Pretty Derby stattfinden. Doch wegen strenger Visa-Regeln konnte der Publisher Cygames die Einreisepapiere für Musiker und Synchronsprecher nicht rechtzeitig bekommen, und die Veranstaltung fiel aus. Das Unternehmen erstattete die Tickets und übernahm auch die Kosten für bereits gebuchte Flüge und Hotels. Die Community organisierte daraufhin spontan einen Ausflug in den Freizeitpark Knott's Berry Farm in Kalifornien. Dort arbeitet ein Hufschmied, der Besuchern zeigt, wie Metall zu Werkzeugen und Hufeisen verarbeitet wird. Viele Fans ließen sich Hufeisen anfertigen und ihre Lieblingscharaktere eingravieren. Laut einem Nutzer auf X war es der arbeitsreichste Tag, den der Schmied je erlebt hat. Seine Schlange sei den ganzen Tag voll gewesen. Mein-MMO beruft sich bei der Geschichte auf einen Bericht von Kotaku.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/umamusume-pretty-derby-konzert-abgesagt-schmied/",
       "glossary": [
         {
-          "form": "ausliefern",
-          "lemma": "ausliefern",
-          "article": null,
-          "tr": "sunmak, dağıtmak"
-        },
-        {
-          "form": "zurechtkommen",
-          "lemma": "zurechtkommen",
-          "article": null,
-          "tr": "başa çıkmak, uyum sağlamak"
-        },
-        {
-          "form": "Nachfolger",
-          "lemma": "Nachfolger",
+          "form": "Synchronsprecher",
+          "lemma": "Synchronsprecher",
           "article": "der",
-          "tr": "halef, ardıl"
+          "tr": "dublaj sanatçısı"
         },
         {
-          "form": "effizienter",
-          "lemma": "effizient",
-          "article": null,
-          "tr": "daha verimli"
-        },
-        {
-          "form": "Streamingdienste",
-          "lemma": "Streamingdienst",
-          "article": "der",
-          "tr": "yayın platformları"
-        },
-        {
-          "form": "Bandbreite",
-          "lemma": "Bandbreite",
-          "article": "die",
-          "tr": "bant genişliği"
-        },
-        {
-          "form": "Datenrate",
-          "lemma": "Datenrate",
-          "article": "die",
-          "tr": "veri hızı"
-        },
-        {
-          "form": "schärferes",
-          "lemma": "scharf",
-          "article": null,
-          "tr": "daha keskin"
-        },
-        {
-          "form": "Vergleiche",
-          "lemma": "Vergleich",
-          "article": "der",
-          "tr": "karşılaştırma"
-        },
-        {
-          "form": "Entwicklern",
-          "lemma": "Entwickler",
-          "article": "der",
-          "tr": "geliştirici"
-        },
-        {
-          "form": "Haken",
-          "lemma": "Haken",
-          "article": "der",
-          "tr": "(işin) ters yanı"
-        },
-        {
-          "form": "Rechenaufwand",
-          "lemma": "Rechenaufwand",
-          "article": "der",
-          "tr": "işlem yükü"
-        },
-        {
-          "form": "Dekodieren",
-          "lemma": "Dekodieren",
+          "form": "Einreisepapiere",
+          "lemma": "Einreisepapier",
           "article": "das",
-          "tr": "kod çözme"
+          "tr": "giriş belgeleri"
         },
         {
-          "form": "anspruchsvoll",
-          "lemma": "anspruchsvoll",
+          "form": "rechtzeitig",
+          "lemma": "rechtzeitig",
           "article": null,
-          "tr": "zorlu, yüksek talepli"
+          "tr": "zamanında"
         },
         {
-          "form": "Unterstützung",
-          "lemma": "Unterstützung",
+          "form": "fiel",
+          "lemma": "ausfallen",
+          "article": null,
+          "tr": "iptal olmak"
+        },
+        {
+          "form": "erstattete",
+          "lemma": "erstatten",
+          "article": null,
+          "tr": "iade etmek"
+        },
+        {
+          "form": "übernahm",
+          "lemma": "übernehmen",
+          "article": null,
+          "tr": "üstlenmek"
+        },
+        {
+          "form": "spontan",
+          "lemma": "spontan",
+          "article": null,
+          "tr": "spontane"
+        },
+        {
+          "form": "Ausflug",
+          "lemma": "Ausflug",
+          "article": "der",
+          "tr": "gezi"
+        },
+        {
+          "form": "Freizeitpark",
+          "lemma": "Freizeitpark",
+          "article": "der",
+          "tr": "eğlence parkı"
+        },
+        {
+          "form": "Hufschmied",
+          "lemma": "Hufschmied",
+          "article": "der",
+          "tr": "nalbant"
+        },
+        {
+          "form": "Werkzeugen",
+          "lemma": "Werkzeug",
+          "article": "das",
+          "tr": "alet"
+        },
+        {
+          "form": "Hufeisen",
+          "lemma": "Hufeisen",
+          "article": "das",
+          "tr": "nal"
+        },
+        {
+          "form": "verarbeitet",
+          "lemma": "verarbeiten",
+          "article": null,
+          "tr": "işlemek"
+        },
+        {
+          "form": "anfertigen",
+          "lemma": "anfertigen",
+          "article": null,
+          "tr": "yaptırmak, üretmek"
+        },
+        {
+          "form": "eingravieren",
+          "lemma": "eingravieren",
+          "article": null,
+          "tr": "kazımak, oymak"
+        },
+        {
+          "form": "arbeitsreichste",
+          "lemma": "arbeitsreich",
+          "article": null,
+          "tr": "en yoğun çalışılan"
+        },
+        {
+          "form": "beruft",
+          "lemma": "berufen",
+          "article": null,
+          "tr": "dayanmak (sich berufen auf)"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "ausfallen",
+          "article": null,
+          "tr": "iptal olmak",
+          "example_de": "Wegen Krankheit fällt die Vorlesung aus."
+        },
+        {
+          "de": "die Kosten übernehmen",
+          "article": null,
+          "tr": "masrafları üstlenmek",
+          "example_de": "Die Firma übernimmt die Kosten für die Fortbildung."
+        },
+        {
+          "de": "rechtzeitig",
+          "article": null,
+          "tr": "zamanında",
+          "example_de": "Ich war rechtzeitig am Bahnhof."
+        },
+        {
+          "de": "einen Ausflug machen",
+          "article": null,
+          "tr": "gezi yapmak",
+          "example_de": "Am Wochenende machen wir einen Ausflug an den Rhein."
+        },
+        {
+          "de": "sich auf etwas berufen",
+          "article": null,
+          "tr": "bir şeye dayanmak",
+          "example_de": "Er beruft sich auf eine Studie."
+        },
+        {
+          "de": "Werkzeug",
+          "article": "das",
+          "tr": "alet",
+          "example_de": "Im Praktikum habe ich viel Werkzeug benutzt."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Warum fiel das Konzert aus?",
+          "options": [
+            "Zu wenige Tickets wurden verkauft",
+            "Die Einreisepapiere kamen nicht rechtzeitig",
+            "Der Park war geschlossen"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was machten viele Fans im Freizeitpark?",
+          "options": [
+            "Sie ließen sich Hufeisen anfertigen",
+            "Sie spielten Konzerte",
+            "Sie kauften Tickets für Los Angeles"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „ausfallen“ in diesem Text?",
+          "options": [
+            "Umfallen",
+            "Nicht stattfinden",
+            "Teurer werden",
+            "Gewinnen"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-wow-forever-tauren",
+      "category": "gaming",
+      "title_de": "WoW Forever: Tauren werden so schnell wie Reittiere",
+      "summary_de": "Vor dem Start von WoW Forever überarbeitet Blizzard mehrere Völkerfähigkeiten, darunter die der Tauren. Die Fähigkeit Ebenenschreiten wird deutlich verstärkt: Statt einem Prozent steigt das Lauftempo künftig alle fünf Sekunden um zwei Prozent. Das Maximum verdoppelt sich damit von 30 auf 60 Prozent und entspricht dem Tempo eines normalen Reittiers auf Stufe 40. Die volle Wirkung baut sich allerdings nur langsam auf, nämlich nach rund zweieinhalb Minuten ununterbrochenem Laufen. Wer stehen bleibt oder Schaden nimmt, verliert die gesammelten Stapel schnell wieder. Der Autor von Mein-MMO sieht den Vorteil vor allem in den niedrigen Stufen, etwa beim langen Weg durch das Brachland. Ab Stufe 40 verliert der Effekt weitgehend an Bedeutung, weil man sich dann ein Reittier kaufen kann. In Schlachtfeldern könnte die Fähigkeit als Fluchthilfe taugen. Er erwartet, dass Blizzard nach dem Start noch einmal nachbessert, und rechnet mit lustigen Memes.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/wow-forever-tauren-so-schnell-wie-mounts/",
+      "glossary": [
+        {
+          "form": "überarbeitet",
+          "lemma": "überarbeiten",
+          "article": null,
+          "tr": "elden geçirmek, yeniden düzenlemek"
+        },
+        {
+          "form": "Völkerfähigkeiten",
+          "lemma": "Völkerfähigkeit",
           "article": "die",
-          "tr": "destek"
+          "tr": "ırk yeteneği"
+        },
+        {
+          "form": "verstärkt",
+          "lemma": "verstärken",
+          "article": null,
+          "tr": "güçlendirmek"
+        },
+        {
+          "form": "Lauftempo",
+          "lemma": "Lauftempo",
+          "article": "das",
+          "tr": "koşu hızı"
         },
         {
           "form": "künftig",
           "lemma": "künftig",
           "article": null,
-          "tr": "gelecekte"
+          "tr": "bundan sonra"
         },
         {
-          "form": "einsetzen",
-          "lemma": "einsetzen",
+          "form": "Maximum",
+          "lemma": "Maximum",
+          "article": "das",
+          "tr": "maksimum"
+        },
+        {
+          "form": "verdoppelt",
+          "lemma": "verdoppeln",
           "article": null,
-          "tr": "kullanmak"
+          "tr": "ikiye katlanmak"
+        },
+        {
+          "form": "entspricht",
+          "lemma": "entsprechen",
+          "article": null,
+          "tr": "karşılık gelmek"
+        },
+        {
+          "form": "Reittiers",
+          "lemma": "Reittier",
+          "article": "das",
+          "tr": "binek"
+        },
+        {
+          "form": "ununterbrochenem",
+          "lemma": "ununterbrochen",
+          "article": null,
+          "tr": "kesintisiz"
+        },
+        {
+          "form": "Schaden",
+          "lemma": "Schaden",
+          "article": "der",
+          "tr": "hasar"
+        },
+        {
+          "form": "Stapel",
+          "lemma": "Stapel",
+          "article": "der",
+          "tr": "yığın (stack)"
+        },
+        {
+          "form": "Vorteil",
+          "lemma": "Vorteil",
+          "article": "der",
+          "tr": "avantaj"
+        },
+        {
+          "form": "weitgehend",
+          "lemma": "weitgehend",
+          "article": null,
+          "tr": "büyük ölçüde"
+        },
+        {
+          "form": "Schlachtfeldern",
+          "lemma": "Schlachtfeld",
+          "article": "das",
+          "tr": "savaş alanı"
+        },
+        {
+          "form": "Fluchthilfe",
+          "lemma": "Fluchthilfe",
+          "article": "die",
+          "tr": "kaçış yardımı"
+        },
+        {
+          "form": "taugen",
+          "lemma": "taugen",
+          "article": null,
+          "tr": "işe yaramak"
+        },
+        {
+          "form": "nachbessert",
+          "lemma": "nachbessern",
+          "article": null,
+          "tr": "düzeltmek, yeniden ayarlamak"
         }
       ],
       "vocabulary": [
         {
-          "de": "Bandbreite sparen",
+          "de": "Schaden nehmen",
           "article": null,
-          "tr": "bant genişliğinden tasarruf etmek",
-          "example_de": "Mit dem Handyvertrag muss ich Bandbreite sparen."
+          "tr": "hasar almak",
+          "example_de": "Das Auto hat beim Parken Schaden genommen."
         },
         {
-          "de": "Haken",
-          "article": "der",
-          "tr": "işin bir ters yanı",
-          "example_de": "Der Haken an dem Angebot ist die lange Laufzeit."
-        },
-        {
-          "de": "Nachfolger",
-          "article": "der",
-          "tr": "halef, yeni model",
-          "example_de": "Der Nachfolger meines Laptops ist viel leiser."
-        },
-        {
-          "de": "etwas einsetzen",
+          "de": "an Bedeutung verlieren",
           "article": null,
-          "tr": "bir şeyi kullanmak",
-          "example_de": "Wir setzen im Labor ein neues Messgerät ein."
+          "tr": "önemini kaybetmek",
+          "example_de": "Klassische Telefonate verlieren an Bedeutung."
         },
         {
-          "de": "Unterstützung",
-          "article": "die",
-          "tr": "destek",
-          "example_de": "Für das Projekt brauche ich deine Unterstützung."
+          "de": "etwas entspricht etwas",
+          "article": null,
+          "tr": "bir şeye denk gelmek",
+          "example_de": "Das entspricht ungefähr meinem Monatsbudget."
         },
         {
-          "de": "Vergleich",
+          "de": "nachbessern",
+          "article": null,
+          "tr": "iyileştirme yapmak",
+          "example_de": "Die Entwickler müssen das Spiel noch nachbessern."
+        },
+        {
+          "de": "Vorteil",
           "article": "der",
-          "tr": "karşılaştırma",
-          "example_de": "Im Vergleich zu früher lädt die Seite viel schneller."
+          "tr": "avantaj",
+          "example_de": "Ein großer Vorteil ist die kurze Fahrzeit."
+        },
+        {
+          "de": "verdoppeln",
+          "article": null,
+          "tr": "ikiye katlamak",
+          "example_de": "Die Preise haben sich fast verdoppelt."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wann will YouTube die ersten AV2-Videos ausliefern?",
+          "question_de": "Wie hoch ist das neue Maximum der Geschwindigkeit?",
           "options": [
-            "Anfang 2027",
-            "Schon im November",
-            "Im Sommer 2030",
-            "Gar nicht"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Was ist der Haken bei AV2?",
-          "options": [
-            "Es sieht schlechter aus",
-            "Es ist zu teuer für Zuschauer",
-            "Das Dekodieren braucht viel Rechenleistung",
-            "Es läuft nur auf Apple-Geräten"
+            "30 Prozent",
+            "45 Prozent",
+            "60 Prozent"
           ],
           "answer_index": 2
         },
         {
-          "question_de": "Wer nennt die 30 Prozent Effizienz?",
+          "question_de": "Wann verliert die Fähigkeit an Bedeutung?",
           "options": [
-            "Netflix",
-            "Die Allianz AOMedia",
-            "Ein Student",
-            "Die Bahn"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-10-27-wow-forever",
-      "category": "gaming",
-      "title_de": "WoW Forever: Das neue Classic Plus startet am 5. November",
-      "summary_de": "Blizzard bringt am 5. November in Europa „WoW Forever“ an den Start, eine neue Classic-Plus-Version von World of Warcraft. Das Spiel behält das klassische Spielgefühl bei, ergänzt aber neue Geschichten und Inhalte, und die Stufengrenze bleibt bei 60. Es gibt keine herkömmlichen Realms mehr, stattdessen laufen alle Spieler auf riesigen Megaservern. Zu Beginn muss man sich für ein Regelwerk entscheiden, nämlich Normal, PvP, Rollenspiel oder Rollenspiel-PvP, und diese Wahl gilt dauerhaft für den Charakter. Ein Hardcore-Modus ist erst für Anfang 2027 geplant. Die Namensreservierung beginnt in Deutschland heute um 18 Uhr, setzt aber den Kauf eines optionalen Pakets voraus. Wer spielen möchte, braucht außerdem ein reguläres Abo, das monatlich etwa 13 Euro kostet. Die teureren Pakete schalten das neue Volk der Skybound frei. Alle drei Monate will Blizzard größere Inhaltsupdates nachlegen.",
-      "source_name": "Mein-MMO",
-      "source_url": "https://mein-mmo.de/wow-forever-blizzcon-2026/",
-      "glossary": [
-        {
-          "form": "behält",
-          "lemma": "beibehalten",
-          "article": null,
-          "tr": "korumak"
-        },
-        {
-          "form": "ergänzt",
-          "lemma": "ergänzen",
-          "article": null,
-          "tr": "eklemek, tamamlamak"
-        },
-        {
-          "form": "Stufengrenze",
-          "lemma": "Stufengrenze",
-          "article": "die",
-          "tr": "seviye sınırı"
-        },
-        {
-          "form": "herkömmlichen",
-          "lemma": "herkömmlich",
-          "article": null,
-          "tr": "geleneksel"
-        },
-        {
-          "form": "Regelwerk",
-          "lemma": "Regelwerk",
-          "article": "das",
-          "tr": "kural seti"
-        },
-        {
-          "form": "dauerhaft",
-          "lemma": "dauerhaft",
-          "article": null,
-          "tr": "kalıcı"
-        },
-        {
-          "form": "Namensreservierung",
-          "lemma": "Namensreservierung",
-          "article": "die",
-          "tr": "isim rezervasyonu"
-        },
-        {
-          "form": "setzt",
-          "lemma": "voraussetzen",
-          "article": null,
-          "tr": "şart koşmak"
-        },
-        {
-          "form": "optionalen",
-          "lemma": "optional",
-          "article": null,
-          "tr": "isteğe bağlı"
-        },
-        {
-          "form": "Abo",
-          "lemma": "Abo",
-          "article": "das",
-          "tr": "abonelik"
-        },
-        {
-          "form": "schalten",
-          "lemma": "freischalten",
-          "article": null,
-          "tr": "kilidini açmak"
-        },
-        {
-          "form": "Volk",
-          "lemma": "Volk",
-          "article": "das",
-          "tr": "halk, ırk"
-        },
-        {
-          "form": "nachlegen",
-          "lemma": "nachlegen",
-          "article": null,
-          "tr": "ardından eklemek"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "an den Start bringen",
-          "article": null,
-          "tr": "piyasaya sürmek",
-          "example_de": "Die Firma bringt nächste Woche ein neues Produkt an den Start."
-        },
-        {
-          "de": "sich für etwas entscheiden",
-          "article": null,
-          "tr": "bir şeye karar vermek",
-          "example_de": "Ich habe mich für das günstigere Modell entschieden."
-        },
-        {
-          "de": "Abo",
-          "article": "das",
-          "tr": "abonelik",
-          "example_de": "Mein Abo läuft Ende des Monats aus."
-        },
-        {
-          "de": "Regelwerk",
-          "article": "das",
-          "tr": "kural seti",
-          "example_de": "Das Regelwerk des Turniers ist ziemlich streng."
-        },
-        {
-          "de": "dauerhaft",
-          "article": null,
-          "tr": "kalıcı olarak",
-          "example_de": "Die Strecke ist dauerhaft gesperrt."
-        },
-        {
-          "de": "freischalten",
-          "article": null,
-          "tr": "kilidini açmak",
-          "example_de": "Mit dem Code kannst du neue Skins freischalten."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wann startet „WoW Forever“ in Europa?",
-          "options": [
-            "Am 4. November",
-            "Am 5. November",
-            "Anfang 2027",
-            "Schon heute"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was gilt für das gewählte Regelwerk?",
-          "options": [
-            "Es gilt dauerhaft für den Charakter",
-            "Man kann es täglich ändern",
-            "Es kostet extra",
-            "Es gibt keins"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Wann kommt der Hardcore-Modus?",
-          "options": [
-            "Zum Start",
-            "Im Dezember",
-            "Anfang 2027",
+            "Ab Stufe 40",
+            "Bei Stufe 1",
+            "Nur im PvP",
             "Nie"
           ],
-          "answer_index": 2
-        }
-      ]
-    },
-    {
-      "id": "2026-10-27-jono-steam",
-      "category": "gaming",
-      "title_de": "„Jono“: Ein Steam-Spiel, bei dem fast alle warten",
-      "summary_de": "Auf Steam gibt es seit Anfang Oktober ein kostenloses Spiel namens „Jono“, das ein ungewöhnliches Multiplayer-Konzept verfolgt. Es ist ein Plattformer im Stil von Super Meat Boy, in dem man eine kleine Figur durch knifflige Level mit Stacheln und fliegenden Kugeln steuert. Der Haken: Weltweit darf immer nur eine einzige Person die Figur lenken. Jede Runde dauert 60 Sekunden, danach ist der nächste Spieler in der Warteschlange an der Reihe. Wer wartet, kann den anderen beim Scheitern oder Gewinnen zuschauen. Zum Start waren nur etwa 20 Leute gleichzeitig dabei, Ende Oktober waren es laut SteamDB gut 200. Die Community hat inzwischen mehr als 100.000 Level gelöst, ist aber auch rund 141.000 Mal gestorben. Das Spiel versteht sich als Gemeinschaftsprojekt, und wer nicht anstehen will, kann einen Livestream der Entwickler verfolgen.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/steam-multiplayer-spiel-warten-1769873/",
-      "glossary": [
-        {
-          "form": "kostenloses",
-          "lemma": "kostenlos",
-          "article": null,
-          "tr": "ücretsiz"
+          "answer_index": 0
         },
         {
-          "form": "ungewöhnliches",
-          "lemma": "ungewöhnlich",
-          "article": null,
-          "tr": "alışılmadık"
-        },
-        {
-          "form": "verfolgt",
-          "lemma": "verfolgen",
-          "article": null,
-          "tr": "izlemek, takip etmek"
-        },
-        {
-          "form": "knifflige",
-          "lemma": "knifflig",
-          "article": null,
-          "tr": "zorlu, kurnaz"
-        },
-        {
-          "form": "Stacheln",
-          "lemma": "Stachel",
-          "article": "der",
-          "tr": "diken"
-        },
-        {
-          "form": "steuert",
-          "lemma": "steuern",
-          "article": null,
-          "tr": "yönetmek, kontrol etmek"
-        },
-        {
-          "form": "lenken",
-          "lemma": "lenken",
-          "article": null,
-          "tr": "yönlendirmek"
-        },
-        {
-          "form": "Warteschlange",
-          "lemma": "Warteschlange",
-          "article": "die",
-          "tr": "bekleme sırası"
-        },
-        {
-          "form": "Scheitern",
-          "lemma": "Scheitern",
-          "article": "das",
-          "tr": "başarısız olma"
-        },
-        {
-          "form": "gleichzeitig",
-          "lemma": "gleichzeitig",
-          "article": null,
-          "tr": "aynı anda"
-        },
-        {
-          "form": "gelöst",
-          "lemma": "lösen",
-          "article": null,
-          "tr": "çözmek"
-        },
-        {
-          "form": "Gemeinschaftsprojekt",
-          "lemma": "Gemeinschaftsprojekt",
-          "article": "das",
-          "tr": "ortak proje"
-        },
-        {
-          "form": "anstehen",
-          "lemma": "anstehen",
-          "article": null,
-          "tr": "sırada beklemek"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "an der Reihe sein",
-          "article": null,
-          "tr": "sıra kendinde olmak",
-          "example_de": "Du bist gleich an der Reihe."
-        },
-        {
-          "de": "in der Warteschlange stehen",
-          "article": null,
-          "tr": "sırada beklemek",
-          "example_de": "Ich stand eine halbe Stunde in der Warteschlange."
-        },
-        {
-          "de": "ein Level lösen",
-          "article": null,
-          "tr": "bir seviyeyi çözmek",
-          "example_de": "Ich habe das Level beim dritten Versuch gelöst."
-        },
-        {
-          "de": "gleichzeitig",
-          "article": null,
-          "tr": "aynı anda",
-          "example_de": "Wir können nicht beide gleichzeitig reden."
-        },
-        {
-          "de": "Gemeinschaft",
-          "article": "die",
-          "tr": "topluluk",
-          "example_de": "Die Gemeinschaft im Wohnheim ist super."
-        },
-        {
-          "de": "ungewöhnlich",
-          "article": null,
-          "tr": "alışılmadık",
-          "example_de": "Das ist ein ungewöhnlicher Plan."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wie viele Personen steuern „Jono“ gleichzeitig?",
+          "question_de": "Was passiert, wenn man Schaden nimmt?",
           "options": [
-            "Zwei",
-            "Zehn",
-            "Nur eine",
-            "200"
-          ],
-          "answer_index": 2
-        },
-        {
-          "question_de": "Wie lange dauert eine Runde?",
-          "options": [
-            "10 Sekunden",
-            "60 Sekunden",
-            "5 Minuten",
-            "Eine Stunde"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „anstehen“ hier?",
-          "options": [
-            "In der Schlange warten",
-            "Schnell rennen",
-            "Ein Spiel kaufen",
-            "Abstürzen"
+            "Die Stapel gehen verloren",
+            "Man wird schneller",
+            "Man bekommt ein Reittier"
           ],
           "answer_index": 0
-        }
-      ]
-    },
-    {
-      "id": "2026-10-27-gta6-lucia-livestream",
-      "category": "gaming",
-      "title_de": "GTA 6: Die mutmaßliche „Lucia“ ignoriert alle Spiel-Fragen",
-      "summary_de": "Auf Instagram hat eine Schauspielerin, die viele Fans für das reale Vorbild von Lucia Caminos aus GTA 6 halten, einen Livestream gestartet. Tausende Zuschauer strömten in den Chat, und viele stellten Fragen zum Spiel, etwa ob die Bilder Gameplay zeigen. Die Frau ging auf keine dieser Fragen ein und erzählte stattdessen von ihrem Alltag mit Einkaufen, Kochen und ihrem gebrauchten Kleinwagen. Fans bewundern, wie souverän sie alles ignoriert hat, was mit dem Spiel zu tun hat. Ein möglicher Grund ist eine Verschwiegenheitsvereinbarung, die Darsteller offenbar erst nach dem Release brechen dürfen. Diese Erklärung stammt allerdings aus einem Podcast und ist nicht bestätigt. Die Schauspielerin selbst hat sich nicht zu ihrer Rolle geäußert. Für viele Fans gilt ihre Gelassenheit trotzdem als weiterer Beweis.",
-      "source_name": "Mein-MMO",
-      "source_url": "https://mein-mmo.de/lucia-caminos-schauspielerin-gta-6-livechat-mit-fans/",
-      "glossary": [
-        {
-          "form": "Vorbild",
-          "lemma": "Vorbild",
-          "article": "das",
-          "tr": "model, örnek"
-        },
-        {
-          "form": "strömten",
-          "lemma": "strömen",
-          "article": null,
-          "tr": "akın etmek"
-        },
-        {
-          "form": "Zuschauer",
-          "lemma": "Zuschauer",
-          "article": "der",
-          "tr": "izleyici"
-        },
-        {
-          "form": "ging",
-          "lemma": "eingehen",
-          "article": null,
-          "tr": "(bir konuya) yanıt vermek"
-        },
-        {
-          "form": "gebrauchten",
-          "lemma": "gebraucht",
-          "article": null,
-          "tr": "ikinci el"
-        },
-        {
-          "form": "Kleinwagen",
-          "lemma": "Kleinwagen",
-          "article": "der",
-          "tr": "küçük araba"
-        },
-        {
-          "form": "bewundern",
-          "lemma": "bewundern",
-          "article": null,
-          "tr": "hayran olmak"
-        },
-        {
-          "form": "souverän",
-          "lemma": "souverän",
-          "article": null,
-          "tr": "kendinden emin, ustaca"
-        },
-        {
-          "form": "ignoriert",
-          "lemma": "ignorieren",
-          "article": null,
-          "tr": "görmezden gelmek"
-        },
-        {
-          "form": "Verschwiegenheitsvereinbarung",
-          "lemma": "Verschwiegenheitsvereinbarung",
-          "article": "die",
-          "tr": "gizlilik sözleşmesi"
-        },
-        {
-          "form": "Darsteller",
-          "lemma": "Darsteller",
-          "article": "der",
-          "tr": "oyuncu"
-        },
-        {
-          "form": "offenbar",
-          "lemma": "offenbar",
-          "article": null,
-          "tr": "anlaşılan"
-        },
-        {
-          "form": "bestätigt",
-          "lemma": "bestätigen",
-          "article": null,
-          "tr": "doğrulamak"
-        },
-        {
-          "form": "geäußert",
-          "lemma": "äußern",
-          "article": null,
-          "tr": "görüş bildirmek"
-        },
-        {
-          "form": "Gelassenheit",
-          "lemma": "Gelassenheit",
-          "article": "die",
-          "tr": "soğukkanlılık"
-        },
-        {
-          "form": "Beweis",
-          "lemma": "Beweis",
-          "article": "der",
-          "tr": "kanıt"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "auf eine Frage eingehen",
-          "article": null,
-          "tr": "bir soruya cevap vermek",
-          "example_de": "Der Professor ist ausführlich auf meine Frage eingegangen."
-        },
-        {
-          "de": "sich zu etwas äußern",
-          "article": null,
-          "tr": "bir konuda açıklama yapmak",
-          "example_de": "Die Firma hat sich noch nicht dazu geäußert."
-        },
-        {
-          "de": "als Beweis gelten",
-          "article": null,
-          "tr": "kanıt sayılmak",
-          "example_de": "Dieses Foto gilt als Beweis."
-        },
-        {
-          "de": "Gelassenheit",
-          "article": "die",
-          "tr": "soğukkanlılık",
-          "example_de": "Mit Gelassenheit geht die Prüfung besser."
-        },
-        {
-          "de": "offenbar",
-          "article": null,
-          "tr": "anlaşılan",
-          "example_de": "Er hat offenbar den Bus verpasst."
-        },
-        {
-          "de": "Vorbild",
-          "article": "das",
-          "tr": "örnek, rol model",
-          "example_de": "Mein Opa ist mein größtes Vorbild."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Was tat die Schauspielerin im Livestream?",
-          "options": [
-            "Sie sprach über GTA 6",
-            "Sie ignorierte die GTA-Fragen",
-            "Sie zeigte Gameplay",
-            "Sie beendete den Stream sofort"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Welche Erklärung wird genannt?",
-          "options": [
-            "Ein Streit mit Fans",
-            "Eine Verschwiegenheitsvereinbarung",
-            "Ein Internetausfall",
-            "Eine Prüfung"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Ist die Erklärung bestätigt?",
-          "options": [
-            "Ja, offiziell",
-            "Ja, von Rockstar",
-            "Nein, sie ist nicht bestätigt",
-            "Das steht nicht im Text und ist egal"
-          ],
-          "answer_index": 2
         }
       ]
     }

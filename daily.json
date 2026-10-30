@@ -1,998 +1,954 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "level": "original",
   "items": [
     {
-      "id": "2026-10-29-goldene-pritsche",
+      "id": "2026-10-30-meckenstock-auktion",
       "category": "nrw",
-      "title_de": "Goldene Pritsche im Düsseldorfer Rathaus verliehen",
-      "summary_de": "Im Düsseldorfer Rathaus ist am Dienstag die „Goldene Pritsche“ verliehen worden. Die Auszeichnung ging in diesem Jahr an Gertrud Schnitzler-Ungermann, die als Gastwirtin und Unternehmerin die Hausbrauerei Schumacher leitet. Das Lokal gilt als die älteste Hausbrauerei der Stadt. Die Prinzengarde Blau-Weiss würdigte damit ihr Engagement für das Brauchtum und für soziale Zwecke. Seit vielen Jahren unterstützt sie gemeinnützige Projekte und Menschen in Not mit Aktionen und Spenden. Oberbürgermeister Stephan Keller hielt die Laudatio und wurde bei dem Empfang außerdem zum Ehrenmitglied der Garde ernannt. Der Preis steht für rheinische Lebensart, Humor und die Tradition des Düsseldorfer Karnevals. Zu den früheren Preisträgern zählen bekannte Politiker, aber auch Persönlichkeiten aus Sport und Kultur.",
-      "source_name": "Landeshauptstadt Düsseldorf",
-      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/verleihung-der-goldenen-pritsche",
+      "title_de": "Kabarettist versteigert Ungeliebtes für die Palliativstation",
+      "summary_de": "Der Düsseldorfer Kabarettist Manes Meckenstock lädt am Sonntag, dem 1. November, zu einer ungewöhnlichen Wohltätigkeitsauktion ein. Versteigert werden Dinge, die bei anderen Leuten lange ungenutzt herumlagen, dazu Gutscheine und Überraschungstüten. Meckenstock stellt jedes Stück auf seine humorvolle Art vor. Die Veranstaltung findet im Stammhaus der Brauerei Schumacher an der Oststraße statt. Ab 16 Uhr kann man die Gegenstände ansehen, um 17 Uhr beginnt das Bieten. Der Erlös kommt dem Förderverein für Palliativmedizin am Uniklinikum zugute. Mit dem Geld werden Angebote bezahlt, die über die normale Versorgung hinausgehen, etwa Aromatherapie, Klangschalen, Kunst- und Musiktherapie oder Therapiehunde. Wer nichts ersteigert, kann trotzdem etwas in eine Spendenbox legen.",
+      "source_name": "Ddorf-Aktuell",
+      "source_url": "https://www.ddorf-aktuell.de/2026/10/29/duesseldorf-zum-ersten-zum-zweiten-zum-dritten-manes-meckenstock-versteigert-fuer-palliativstation-des-ukd/",
       "glossary": [
         {
-          "form": "verliehen",
-          "lemma": "verleihen",
-          "article": null,
-          "tr": "vermek (ödül)"
-        },
-        {
-          "form": "Auszeichnung",
-          "lemma": "Auszeichnung",
-          "article": "die",
-          "tr": "ödül, onur"
-        },
-        {
-          "form": "Gastwirtin",
-          "lemma": "Gastwirtin",
-          "article": "die",
-          "tr": "lokanta/meyhane sahibi (kadın)"
-        },
-        {
-          "form": "Unternehmerin",
-          "lemma": "Unternehmerin",
-          "article": "die",
-          "tr": "kadın girişimci"
-        },
-        {
-          "form": "Hausbrauerei",
-          "lemma": "Hausbrauerei",
-          "article": "die",
-          "tr": "kendi biranı yapan birahane"
-        },
-        {
-          "form": "würdigte",
-          "lemma": "würdigen",
-          "article": null,
-          "tr": "takdir etmek, onurlandırmak"
-        },
-        {
-          "form": "Engagement",
-          "lemma": "Engagement",
-          "article": "das",
-          "tr": "gönüllü emek, ilgi"
-        },
-        {
-          "form": "Brauchtum",
-          "lemma": "Brauchtum",
-          "article": "das",
-          "tr": "gelenek, görenek"
-        },
-        {
-          "form": "gemeinnützige",
-          "lemma": "gemeinnützig",
-          "article": null,
-          "tr": "kamu yararına"
-        },
-        {
-          "form": "Spenden",
-          "lemma": "Spende",
-          "article": "die",
-          "tr": "bağış"
-        },
-        {
-          "form": "Laudatio",
-          "lemma": "Laudatio",
-          "article": "die",
-          "tr": "övgü konuşması"
-        },
-        {
-          "form": "Empfang",
-          "lemma": "Empfang",
+          "form": "Kabarettist",
+          "lemma": "Kabarettist",
           "article": "der",
-          "tr": "resepsiyon, karşılama"
+          "tr": "kabare sanatçısı"
         },
         {
-          "form": "Ehrenmitglied",
-          "lemma": "Ehrenmitglied",
-          "article": "das",
-          "tr": "onursal üye"
-        },
-        {
-          "form": "ernannt",
-          "lemma": "ernennen",
-          "article": null,
-          "tr": "atamak, ilan etmek"
-        },
-        {
-          "form": "Lebensart",
-          "lemma": "Lebensart",
+          "form": "Wohltätigkeitsauktion",
+          "lemma": "Wohltätigkeitsauktion",
           "article": "die",
-          "tr": "yaşam tarzı"
+          "tr": "hayır müzayedesi"
         },
         {
-          "form": "Preisträgern",
-          "lemma": "Preisträger",
+          "form": "Versteigert",
+          "lemma": "versteigern",
+          "article": null,
+          "tr": "müzayedeyle satmak"
+        },
+        {
+          "form": "ungenutzt",
+          "lemma": "ungenutzt",
+          "article": null,
+          "tr": "kullanılmamış"
+        },
+        {
+          "form": "Gutscheine",
+          "lemma": "Gutschein",
           "article": "der",
-          "tr": "ödül sahibi"
+          "tr": "hediye çeki"
+        },
+        {
+          "form": "Überraschungstüten",
+          "lemma": "Überraschungstüte",
+          "article": "die",
+          "tr": "sürpriz poşeti"
+        },
+        {
+          "form": "Stammhaus",
+          "lemma": "Stammhaus",
+          "article": "das",
+          "tr": "ana şube"
+        },
+        {
+          "form": "Gegenstände",
+          "lemma": "Gegenstand",
+          "article": "der",
+          "tr": "nesne"
+        },
+        {
+          "form": "Erlös",
+          "lemma": "Erlös",
+          "article": "der",
+          "tr": "gelir"
+        },
+        {
+          "form": "Förderverein",
+          "lemma": "Förderverein",
+          "article": "der",
+          "tr": "destek derneği"
+        },
+        {
+          "form": "Palliativmedizin",
+          "lemma": "Palliativmedizin",
+          "article": "die",
+          "tr": "palyatif tıp"
+        },
+        {
+          "form": "zugute",
+          "lemma": "zugutekommen",
+          "article": null,
+          "tr": "fayda sağlamak"
+        },
+        {
+          "form": "Versorgung",
+          "lemma": "Versorgung",
+          "article": "die",
+          "tr": "bakım, hizmet"
+        },
+        {
+          "form": "Aromatherapie",
+          "lemma": "Aromatherapie",
+          "article": "die",
+          "tr": "aromaterapi"
+        },
+        {
+          "form": "Klangschalen",
+          "lemma": "Klangschale",
+          "article": "die",
+          "tr": "şifa kasesi"
+        },
+        {
+          "form": "Therapiehunde",
+          "lemma": "Therapiehund",
+          "article": "der",
+          "tr": "terapi köpeği"
+        },
+        {
+          "form": "ersteigert",
+          "lemma": "ersteigern",
+          "article": null,
+          "tr": "müzayedede kazanmak"
+        },
+        {
+          "form": "Spendenbox",
+          "lemma": "Spendenbox",
+          "article": "die",
+          "tr": "bağış kutusu"
         }
       ],
       "vocabulary": [
         {
-          "de": "Engagement",
-          "article": "das",
-          "tr": "gönüllü emek, ilgi",
-          "example_de": "Ihr Engagement im Verein hat allen imponiert."
-        },
-        {
-          "de": "eine Auszeichnung erhalten",
-          "article": null,
-          "tr": "ödül almak",
-          "example_de": "Unsere Uni hat eine Auszeichnung für gute Lehre erhalten."
-        },
-        {
-          "de": "Tradition",
-          "article": "die",
-          "tr": "gelenek",
-          "example_de": "In Düsseldorf hat der Karneval eine lange Tradition."
-        },
-        {
-          "de": "Spenden sammeln",
-          "article": null,
-          "tr": "bağış toplamak",
-          "example_de": "Wir sammeln Spenden für das Tierheim."
-        },
-        {
-          "de": "jemanden würdigen",
-          "article": null,
-          "tr": "birini takdir etmek",
-          "example_de": "Der Verein würdigt seine ältesten Mitglieder."
-        },
-        {
-          "de": "Empfang",
+          "de": "Erlös",
           "article": "der",
-          "tr": "resepsiyon",
-          "example_de": "Nach dem Konzert gab es einen kleinen Empfang."
+          "tr": "gelir",
+          "example_de": "Der Erlös des Flohmarkts geht an ein Tierheim."
         },
         {
-          "de": "Humor",
+          "de": "spenden",
+          "article": null,
+          "tr": "bağışlamak",
+          "example_de": "Ich spende jeden Monat zehn Euro an eine Hilfsorganisation."
+        },
+        {
+          "de": "eine Auktion veranstalten",
+          "article": null,
+          "tr": "müzayede düzenlemek",
+          "example_de": "Der Verein veranstaltet jedes Jahr eine Auktion für einen guten Zweck."
+        },
+        {
+          "de": "zugutekommen",
+          "article": null,
+          "tr": "fayda sağlamak",
+          "example_de": "Das Geld kommt den Kindern in der Nachbarschaft zugute."
+        },
+        {
+          "de": "über etwas hinausgehen",
+          "article": null,
+          "tr": "bir şeyin ötesine geçmek",
+          "example_de": "Der Service geht weit über das Normale hinaus."
+        },
+        {
+          "de": "Gutschein",
           "article": "der",
-          "tr": "mizah",
-          "example_de": "Ohne Humor wäre der Alltag langweilig."
+          "tr": "hediye çeki",
+          "example_de": "Zum Geburtstag habe ich einen Gutschein fürs Kino bekommen."
+        },
+        {
+          "de": "ein Gebot abgeben",
+          "article": null,
+          "tr": "teklif vermek",
+          "example_de": "Ich habe für das alte Fahrrad ein Gebot abgegeben."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wofür wurde Gertrud Schnitzler-Ungermann ausgezeichnet?",
+          "question_de": "Wohin fließt der Erlös der Auktion?",
           "options": [
-            "Für ihr Engagement im Brauchtum und im Sozialen",
-            "Für einen Sieg im Karnevalsumzug",
-            "Für den Bau einer neuen Brücke"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Was bedeutet „gemeinnützig“?",
-          "options": [
-            "Nur für Mitglieder gedacht",
-            "Dem Wohl der Allgemeinheit dienend",
-            "Sehr teuer",
-            "Nur im Winter geöffnet"
+            "An das Theatermuseum",
+            "An den Förderverein für Palliativmedizin",
+            "An die Brauerei Schumacher",
+            "An einen Karnevalsverein"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Wer hielt die Laudatio?",
+          "question_de": "Wann beginnt das Bieten?",
           "options": [
-            "Der Präsident der Prinzengarde",
-            "Die Preisträgerin selbst",
-            "Oberbürgermeister Stephan Keller"
+            "Um 16 Uhr",
+            "Um 17 Uhr",
+            "Um 18 Uhr"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „ersteigern“?",
+          "options": [
+            "Etwas bei einer Auktion kaufen",
+            "Eine Treppe hochgehen",
+            "Etwas verschenken",
+            "Etwas verkaufen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-halloween-kostueme-bussgeld",
+      "category": "de",
+      "title_de": "Halloween: Bei diesen Kostümen drohen hohe Bußgelder",
+      "summary_de": "Zu Halloween am 31. Oktober werden die Verkleidungen immer aufwendiger, doch laut watson gelten die Gesetze auch an diesem Abend. Besonders heikel sind Nachbildungen von Schusswaffen, die echten Waffen zu sehr ähneln. Wer solche Anscheinswaffen mit sich führt, begeht eine Ordnungswidrigkeit und muss mit einer Geldbuße von bis zu 10.000 Euro rechnen. Auch Kostüme, die wie echte Polizei- oder Bundeswehruniformen aussehen, können Ärger bringen und sogar strafbar sein. Der Grund: In einer Notlage sollen Menschen echte Einsatzkräfte klar erkennen können. Beliebte Masken aus Serien wie „Haus des Geldes“ sind am Steuer verboten, dafür drohen 60 Euro Bußgeld. Verfassungswidrige Symbole wie das Hakenkreuz sind ebenfalls tabu. Wer kreativ bleibt und diese Punkte beachtet, kann unbesorgt feiern.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/616836102-halloween-verkleidungen-bei-diesen-kostuemen-drohen-bis-zu-10-000-euro-bussgeld",
+      "glossary": [
+        {
+          "form": "Verkleidungen",
+          "lemma": "Verkleidung",
+          "article": "die",
+          "tr": "kostüm, giyinme"
+        },
+        {
+          "form": "aufwendiger",
+          "lemma": "aufwendig",
+          "article": null,
+          "tr": "daha masraflı/özenli"
+        },
+        {
+          "form": "heikel",
+          "lemma": "heikel",
+          "article": null,
+          "tr": "hassas, sorunlu"
+        },
+        {
+          "form": "Nachbildungen",
+          "lemma": "Nachbildung",
+          "article": "die",
+          "tr": "kopya, replika"
+        },
+        {
+          "form": "Schusswaffen",
+          "lemma": "Schusswaffe",
+          "article": "die",
+          "tr": "ateşli silah"
+        },
+        {
+          "form": "Anscheinswaffen",
+          "lemma": "Anscheinswaffe",
+          "article": "die",
+          "tr": "gerçek gibi görünen silah"
+        },
+        {
+          "form": "Ordnungswidrigkeit",
+          "lemma": "Ordnungswidrigkeit",
+          "article": "die",
+          "tr": "kabahat"
+        },
+        {
+          "form": "Geldbuße",
+          "lemma": "Geldbuße",
+          "article": "die",
+          "tr": "para cezası"
+        },
+        {
+          "form": "Bundeswehruniformen",
+          "lemma": "Bundeswehruniform",
+          "article": "die",
+          "tr": "Alman ordusu üniforması"
+        },
+        {
+          "form": "strafbar",
+          "lemma": "strafbar",
+          "article": null,
+          "tr": "suç teşkil eden"
+        },
+        {
+          "form": "Notlage",
+          "lemma": "Notlage",
+          "article": "die",
+          "tr": "acil durum"
+        },
+        {
+          "form": "Einsatzkräfte",
+          "lemma": "Einsatzkraft",
+          "article": "die",
+          "tr": "acil müdahale görevlisi"
+        },
+        {
+          "form": "Steuer",
+          "lemma": "Steuer",
+          "article": "das",
+          "tr": "direksiyon"
+        },
+        {
+          "form": "Bußgeld",
+          "lemma": "Bußgeld",
+          "article": "das",
+          "tr": "idari para cezası"
+        },
+        {
+          "form": "Verfassungswidrige",
+          "lemma": "verfassungswidrig",
+          "article": null,
+          "tr": "anayasaya aykırı"
+        },
+        {
+          "form": "Symbole",
+          "lemma": "Symbol",
+          "article": "das",
+          "tr": "sembol"
+        },
+        {
+          "form": "tabu",
+          "lemma": "tabu",
+          "article": null,
+          "tr": "yasak, dokunulmaz"
+        },
+        {
+          "form": "beachtet",
+          "lemma": "beachten",
+          "article": null,
+          "tr": "dikkate almak"
+        },
+        {
+          "form": "unbesorgt",
+          "lemma": "unbesorgt",
+          "article": null,
+          "tr": "kaygısız"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Bußgeld",
+          "article": "das",
+          "tr": "idari para cezası",
+          "example_de": "Falsches Parken kostet in der Innenstadt ein Bußgeld."
+        },
+        {
+          "de": "mit einer Strafe rechnen",
+          "article": null,
+          "tr": "ceza beklemek",
+          "example_de": "Wer zu schnell fährt, muss mit einer Strafe rechnen."
+        },
+        {
+          "de": "gegen das Gesetz verstoßen",
+          "article": null,
+          "tr": "yasayı ihlal etmek",
+          "example_de": "Mit so einer Maske verstößt du gegen das Gesetz."
+        },
+        {
+          "de": "Verkleidung",
+          "article": "die",
+          "tr": "kostüm, kılık",
+          "example_de": "Meine Verkleidung für die Party ist selbst gebastelt."
+        },
+        {
+          "de": "etwas beachten",
+          "article": null,
+          "tr": "dikkate almak",
+          "example_de": "Bitte beachte die Regeln im Wohnheim."
+        },
+        {
+          "de": "am Steuer sitzen",
+          "article": null,
+          "tr": "direksiyonda olmak",
+          "example_de": "Nach der Party sollte niemand betrunken am Steuer sitzen."
+        },
+        {
+          "de": "strafbar sein",
+          "article": null,
+          "tr": "suç olmak",
+          "example_de": "Das Fälschen von Dokumenten ist strafbar."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie hoch kann die Geldbuße für Anscheinswaffen sein?",
+          "options": [
+            "Bis zu 60 Euro",
+            "Bis zu 1.000 Euro",
+            "Bis zu 10.000 Euro"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was ist laut Artikel am Steuer verboten?",
+          "options": [
+            "Eine Maske tragen",
+            "Musik hören",
+            "Mit Freunden reden",
+            "Eine Mütze tragen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Welche Bedeutung hat „unbesorgt“?",
+          "options": [
+            "Ohne Sorgen",
+            "Sehr laut",
+            "Ohne Geld",
+            "Sehr schnell"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-syros-katzen",
+      "category": "de",
+      "title_de": "Gratis auf einer griechischen Insel – dafür Katzen versorgen",
+      "summary_de": "Die griechische Kykladeninsel Syros ist deutlich ruhiger als Santorini oder Mykonos und sucht nun Hilfe für Katzen. Die Organisation Syros Cats braucht vier Freiwillige, die mindestens einen Monat zwischen Juli und Dezember 2027 bleiben. Als Gegenleistung gibt es ein Zimmer in einer Wohngemeinschaft samt Frühstück gratis, die Anreise und die übrigen Mahlzeiten zahlt man selbst. Gearbeitet wird etwa fünf Stunden am Tag an fünf Tagen pro Woche. Die Freiwilligen füttern die Tiere, reinigen die Katzentoiletten, versorgen sie und geben bei Bedarf Medikamente. Außerdem gewöhnen sie die Katzen an Menschen, damit diese leichter vermittelt werden können. Bewerber sollten fit und gesund sein, mindestens 25 Jahre alt sein und weder eigene Haustiere noch Kinder mitbringen. Die Bewerbung für 2027 öffnet am 1. November 2026.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/good-news/389210934-einen-monat-kostenlos-auf-einer-griechischen-insel-verbringen-und-dabei-katzen-sitten-so-bewirbst-du-dich",
+      "glossary": [
+        {
+          "form": "Kykladeninsel",
+          "lemma": "Kykladeninsel",
+          "article": "die",
+          "tr": "Kiklad adası"
+        },
+        {
+          "form": "Freiwillige",
+          "lemma": "Freiwilliger",
+          "article": "der",
+          "tr": "gönüllü"
+        },
+        {
+          "form": "Gegenleistung",
+          "lemma": "Gegenleistung",
+          "article": "die",
+          "tr": "karşılık"
+        },
+        {
+          "form": "Wohngemeinschaft",
+          "lemma": "Wohngemeinschaft",
+          "article": "die",
+          "tr": "ortak ev (WG)"
+        },
+        {
+          "form": "Anreise",
+          "lemma": "Anreise",
+          "article": "die",
+          "tr": "varış yolculuğu"
+        },
+        {
+          "form": "Mahlzeiten",
+          "lemma": "Mahlzeit",
+          "article": "die",
+          "tr": "öğün"
+        },
+        {
+          "form": "reinigen",
+          "lemma": "reinigen",
+          "article": null,
+          "tr": "temizlemek"
+        },
+        {
+          "form": "Katzentoiletten",
+          "lemma": "Katzentoilette",
+          "article": "die",
+          "tr": "kedi tuvaleti"
+        },
+        {
+          "form": "versorgen",
+          "lemma": "versorgen",
+          "article": null,
+          "tr": "bakmak, ilgilenmek"
+        },
+        {
+          "form": "Bedarf",
+          "lemma": "Bedarf",
+          "article": "der",
+          "tr": "ihtiyaç"
+        },
+        {
+          "form": "Medikamente",
+          "lemma": "Medikament",
+          "article": "das",
+          "tr": "ilaç"
+        },
+        {
+          "form": "gewöhnen",
+          "lemma": "gewöhnen",
+          "article": null,
+          "tr": "alıştırmak"
+        },
+        {
+          "form": "vermittelt",
+          "lemma": "vermitteln",
+          "article": null,
+          "tr": "yerleştirmek, aracılık etmek"
+        },
+        {
+          "form": "Bewerber",
+          "lemma": "Bewerber",
+          "article": "der",
+          "tr": "başvuran"
+        },
+        {
+          "form": "mitbringen",
+          "lemma": "mitbringen",
+          "article": null,
+          "tr": "yanında getirmek"
+        },
+        {
+          "form": "Bewerbung",
+          "lemma": "Bewerbung",
+          "article": "die",
+          "tr": "başvuru"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich bewerben",
+          "article": null,
+          "tr": "başvurmak",
+          "example_de": "Ich bewerbe mich für ein Praktikum bei einer Firma in Köln."
+        },
+        {
+          "de": "Bewerbung",
+          "article": "die",
+          "tr": "başvuru",
+          "example_de": "Meine Bewerbung habe ich gestern abgeschickt."
+        },
+        {
+          "de": "im Gegenzug",
+          "article": null,
+          "tr": "karşılığında",
+          "example_de": "Du hilfst mir beim Umzug, im Gegenzug koche ich für dich."
+        },
+        {
+          "de": "Freiwillige",
+          "article": "der",
+          "tr": "gönüllü",
+          "example_de": "Als Freiwilliger helfe ich am Wochenende im Tierheim."
+        },
+        {
+          "de": "Medikamente geben",
+          "article": null,
+          "tr": "ilaç vermek",
+          "example_de": "Der Tierarzt zeigt mir, wie ich dem Kater Medikamente gebe."
+        },
+        {
+          "de": "bei Bedarf",
+          "article": null,
+          "tr": "gerekirse",
+          "example_de": "Bei Bedarf kann ich dir meine Notizen leihen."
+        },
+        {
+          "de": "Mahlzeit",
+          "article": "die",
+          "tr": "öğün, yemek",
+          "example_de": "Drei Mahlzeiten am Tag sind für mich zu viel."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist im Angebot enthalten?",
+          "options": [
+            "Flug und Verpflegung",
+            "Zimmer und Frühstück",
+            "Nur ein Mietwagen",
+            "Ein Gehalt"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wie alt müssen Bewerber mindestens sein?",
+          "options": [
+            "18 Jahre",
+            "21 Jahre",
+            "25 Jahre"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was bedeutet „bei Bedarf“?",
+          "options": [
+            "Immer",
+            "Nie",
+            "Wenn es nötig ist",
+            "Am Wochenende"
           ],
           "answer_index": 2
         }
       ]
     },
     {
-      "id": "2026-10-29-zwergplanet-2026-ed138",
-      "category": "de",
-      "title_de": "Neuer Zwergplanet hinter Pluto entdeckt?",
-      "summary_de": "Am Rand unseres Sonnensystems haben Forschende womöglich einen neuen Zwergplaneten entdeckt. Der Kandidat trägt die Bezeichnung 2026 ED138 und kreist jenseits von Pluto um die Sonne. Gefunden wurde er in Daten des Vera C. Rubin Observatory in Chile. Der Astrophysiker Matthew Holman hatte dafür einen eigenen Algorithmus geschrieben, der Aufnahmen von Milliarden Objekten vergleicht und alles markiert, was sich bewegt. Der Himmelskörper fiel auf, weil er für seine große Entfernung ungewöhnlich hell war. Sein Durchmesser wird auf 600 bis 1.500 Kilometer geschätzt, Pluto misst etwa 2.400 Kilometer. Der Astronom Mario Jurić prüfte weitere Daten und fand das Objekt sogar auf älteren Aufnahmen aus dem Jahr 2016. Bestätigt sich der Fund, wäre es der sechste bekannte Zwergplanet, und Jurić meinte, so etwas passiere wohl nur einmal pro Generation.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/algorithmus-zwergplanet-pluto-1770507/",
+      "id": "2026-10-30-phantom-blade-zero",
+      "category": "gaming",
+      "title_de": "Phantom Blade Zero startet mit über 720.000 Spielern auf Steam",
+      "summary_de": "Das chinesische Action-Rollenspiel Phantom Blade Zero ist am 29. Oktober erschienen und hat auf Steam einen starken Start hingelegt. Am Nachmittag spielten laut PC Games über 720.000 Menschen gleichzeitig. Damit lag der Titel auf Platz drei der meistgespielten Steam-Spiele, hinter Counter-Strike 2 und PUBG Battlegrounds. Der Autor zieht Vergleiche mit Black Myth: Wukong, das zu seinem Höhepunkt rund 2,4 Millionen Spieler erreichte. Beide Spiele stammen aus China, basieren auf der Unreal Engine 5 und spielen in einer mythisch geprägten Version des Landes. Phantom Blade Zero ist in einer Wuxia-Welt angesiedelt. Die Kritik fällt sehr positiv aus, gelobt werden vor allem das Kampfsystem und die kreativen Bossgegner. Der Test betont außerdem, dass das Spiel trotz viel Action kein klassisches Soulslike ist.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/Phantom-Blade-Zero-Spiel-74287/News/steam-peak-gleichzeitige-spieler-1558284/",
       "glossary": [
         {
-          "form": "womöglich",
-          "lemma": "womöglich",
-          "article": null,
-          "tr": "belki, muhtemelen"
-        },
-        {
-          "form": "Zwergplaneten",
-          "lemma": "Zwergplanet",
-          "article": "der",
-          "tr": "cüce gezegen"
-        },
-        {
-          "form": "entdeckt",
-          "lemma": "entdecken",
-          "article": null,
-          "tr": "keşfetmek"
-        },
-        {
-          "form": "Kandidat",
-          "lemma": "Kandidat",
-          "article": "der",
-          "tr": "aday"
-        },
-        {
-          "form": "Bezeichnung",
-          "lemma": "Bezeichnung",
-          "article": "die",
-          "tr": "ad, tanım"
-        },
-        {
-          "form": "kreist",
-          "lemma": "kreisen",
-          "article": null,
-          "tr": "yörüngede dönmek"
-        },
-        {
-          "form": "Astrophysiker",
-          "lemma": "Astrophysiker",
-          "article": "der",
-          "tr": "astrofizikçi"
-        },
-        {
-          "form": "Algorithmus",
-          "lemma": "Algorithmus",
-          "article": "der",
-          "tr": "algoritma"
-        },
-        {
-          "form": "Aufnahmen",
-          "lemma": "Aufnahme",
-          "article": "die",
-          "tr": "görüntü, kayıt"
-        },
-        {
-          "form": "markiert",
-          "lemma": "markieren",
-          "article": null,
-          "tr": "işaretlemek"
-        },
-        {
-          "form": "Himmelskörper",
-          "lemma": "Himmelskörper",
-          "article": "der",
-          "tr": "gök cismi"
-        },
-        {
-          "form": "Entfernung",
-          "lemma": "Entfernung",
-          "article": "die",
-          "tr": "uzaklık"
-        },
-        {
-          "form": "Durchmesser",
-          "lemma": "Durchmesser",
-          "article": "der",
-          "tr": "çap"
-        },
-        {
-          "form": "geschätzt",
-          "lemma": "schätzen",
-          "article": null,
-          "tr": "tahmin etmek"
-        },
-        {
-          "form": "Astronom",
-          "lemma": "Astronom",
-          "article": "der",
-          "tr": "gökbilimci"
-        },
-        {
-          "form": "Bestätigt",
-          "lemma": "bestätigen",
-          "article": null,
-          "tr": "doğrulamak"
-        },
-        {
-          "form": "Fund",
-          "lemma": "Fund",
-          "article": "der",
-          "tr": "buluntu, keşif"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "einen Algorithmus schreiben",
-          "article": null,
-          "tr": "algoritma yazmak",
-          "example_de": "Im Seminar sollen wir einen Algorithmus schreiben."
-        },
-        {
-          "de": "auffallen",
-          "article": null,
-          "tr": "göze çarpmak",
-          "example_de": "Das Auto fällt durch seine Farbe auf."
-        },
-        {
-          "de": "etwas bestätigen",
-          "article": null,
-          "tr": "bir şeyi doğrulamak",
-          "example_de": "Der Professor hat meine Vermutung bestätigt."
-        },
-        {
-          "de": "Entfernung",
-          "article": "die",
-          "tr": "uzaklık",
-          "example_de": "Die Entfernung zur Uni beträgt zehn Minuten mit der Bahn."
-        },
-        {
-          "de": "einmal pro Generation",
-          "article": null,
-          "tr": "nesilde bir",
-          "example_de": "So ein Spiel erscheint nur einmal pro Generation."
-        },
-        {
-          "de": "etwas prüfen",
-          "article": null,
-          "tr": "bir şeyi kontrol etmek",
-          "example_de": "Ich prüfe noch einmal meine Rechnung."
-        },
-        {
-          "de": "Durchmesser",
-          "article": "der",
-          "tr": "çap",
-          "example_de": "Der Durchmesser des Kabels ist zu groß."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wie wurde der mögliche Zwergplanet gefunden?",
-          "options": [
-            "Mit einem Algorithmus, der Aufnahmen vergleicht",
-            "Durch ein Amateurfernrohr im Garten",
-            "Durch eine Raumsonde vor Ort"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Was bedeutet „kreisen“?",
-          "options": [
-            "Sich im Kreis um etwas bewegen",
-            "Schnell geradeaus fliegen",
-            "Stillstehen",
-            "Explodieren"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Warum ist der Fund noch nicht sicher?",
-          "options": [
-            "Pluto ist größer",
-            "Es ist bisher nur ein Kandidat und muss bestätigt werden",
-            "Die Daten sind verloren gegangen"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-10-29-nordpol-wandert",
-      "category": "de",
-      "title_de": "Der Nordpol wandert zehn Zentimeter pro Jahr",
-      "summary_de": "Der geografische Nordpol ist nicht so fest, wie man denkt: Satellitendaten zeigen, dass er sich derzeit um etwa zehn Zentimeter pro Jahr bewegt. Das ist schneller als die durchschnittliche Drift der Kontinentalplatten. Eine Studie im Fachmagazin Science von einem Team der Universität Oslo zeigt, dass es solche Verschiebungen in den letzten 320 Millionen Jahren mehrfach gegeben hat. Fachleute nennen das „True Polar Wander“: Die Erdachse bleibt im Raum stabil, während sich die feste Hülle aus Kruste und Mantel als Ganzes über den Kern dreht. Ausgelöst wird das durch verschobene Massen, etwa wenn Eisschilde schmelzen oder viel Grundwasser entnommen wird. Weil frühere Messungen an magnetischen Gesteinsspuren widersprüchlich waren, werteten die Forschenden stattdessen alte Meeresspiegelveränderungen aus. Wandert ein Küstenstreifen Richtung Äquator, wird er überflutet, wandert er Richtung Pol, zieht sich das Wasser zurück. So fanden sie vier Phasen schneller Polwanderung, die jeweils rund zehn Millionen Jahre dauerten.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/geografischer-nordpol-10-cm-pro-jahr-1769517/",
-      "glossary": [
-        {
-          "form": "geografische",
-          "lemma": "geografisch",
-          "article": null,
-          "tr": "coğrafi"
-        },
-        {
-          "form": "Satellitendaten",
-          "lemma": "Satellitendaten",
-          "article": "die",
-          "tr": "uydu verileri"
-        },
-        {
-          "form": "Drift",
-          "lemma": "Drift",
-          "article": "die",
-          "tr": "sürüklenme"
-        },
-        {
-          "form": "Kontinentalplatten",
-          "lemma": "Kontinentalplatte",
-          "article": "die",
-          "tr": "kıta levhası"
-        },
-        {
-          "form": "Studie",
-          "lemma": "Studie",
-          "article": "die",
-          "tr": "çalışma, araştırma"
-        },
-        {
-          "form": "Verschiebungen",
-          "lemma": "Verschiebung",
-          "article": "die",
-          "tr": "kayma"
-        },
-        {
-          "form": "Erdachse",
-          "lemma": "Erdachse",
-          "article": "die",
-          "tr": "dünya ekseni"
-        },
-        {
-          "form": "Hülle",
-          "lemma": "Hülle",
-          "article": "die",
-          "tr": "kabuk, örtü"
-        },
-        {
-          "form": "Kruste",
-          "lemma": "Kruste",
-          "article": "die",
-          "tr": "yer kabuğu"
-        },
-        {
-          "form": "Mantel",
-          "lemma": "Mantel",
-          "article": "der",
-          "tr": "manto"
-        },
-        {
-          "form": "Kern",
-          "lemma": "Kern",
-          "article": "der",
-          "tr": "çekirdek"
-        },
-        {
-          "form": "Ausgelöst",
-          "lemma": "auslösen",
-          "article": null,
-          "tr": "tetiklemek"
-        },
-        {
-          "form": "Massen",
-          "lemma": "Masse",
-          "article": "die",
-          "tr": "kütle"
-        },
-        {
-          "form": "Eisschilde",
-          "lemma": "Eisschild",
-          "article": "der",
-          "tr": "buz kalkanı"
-        },
-        {
-          "form": "schmelzen",
-          "lemma": "schmelzen",
-          "article": null,
-          "tr": "erimek"
-        },
-        {
-          "form": "Grundwasser",
-          "lemma": "Grundwasser",
+          "form": "Action-Rollenspiel",
+          "lemma": "Action-Rollenspiel",
           "article": "das",
-          "tr": "yeraltı suyu"
+          "tr": "aksiyon RPG"
         },
         {
-          "form": "entnommen",
-          "lemma": "entnehmen",
+          "form": "erschienen",
+          "lemma": "erscheinen",
           "article": null,
-          "tr": "çekmek, almak"
+          "tr": "çıkmak"
         },
         {
-          "form": "widersprüchlich",
-          "lemma": "widersprüchlich",
+          "form": "hingelegt",
+          "lemma": "hinlegen",
           "article": null,
-          "tr": "çelişkili"
+          "tr": "sergilemek (bir başlangıç yapmak)"
         },
         {
-          "form": "Gesteinsspuren",
-          "lemma": "Gesteinsspur",
-          "article": "die",
-          "tr": "kaya izi"
+          "form": "gleichzeitig",
+          "lemma": "gleichzeitig",
+          "article": null,
+          "tr": "aynı anda"
         },
         {
-          "form": "Meeresspiegelveränderungen",
-          "lemma": "Meeresspiegelveränderung",
-          "article": "die",
-          "tr": "deniz seviyesi değişimi"
+          "form": "meistgespielten",
+          "lemma": "meistgespielt",
+          "article": null,
+          "tr": "en çok oynanan"
         },
         {
-          "form": "Äquator",
-          "lemma": "Äquator",
+          "form": "Vergleiche",
+          "lemma": "Vergleich",
           "article": "der",
-          "tr": "ekvator"
+          "tr": "karşılaştırma"
         },
         {
-          "form": "überflutet",
-          "lemma": "überfluten",
-          "article": null,
-          "tr": "su basmak"
-        },
-        {
-          "form": "Polwanderung",
-          "lemma": "Polwanderung",
-          "article": "die",
-          "tr": "kutup kayması"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "im Durchschnitt",
-          "article": null,
-          "tr": "ortalama olarak",
-          "example_de": "Ich schlafe im Durchschnitt sieben Stunden."
-        },
-        {
-          "de": "eine Studie zeigt",
-          "article": null,
-          "tr": "bir araştırma gösteriyor",
-          "example_de": "Eine Studie zeigt, dass Pausen die Konzentration verbessern."
-        },
-        {
-          "de": "etwas auslösen",
-          "article": null,
-          "tr": "bir şeyi tetiklemek",
-          "example_de": "Die Nachricht hat eine lange Diskussion ausgelöst."
-        },
-        {
-          "de": "widersprüchlich sein",
-          "article": null,
-          "tr": "çelişkili olmak",
-          "example_de": "Die Angaben im Text sind widersprüchlich."
-        },
-        {
-          "de": "Messung",
-          "article": "die",
-          "tr": "ölçüm",
-          "example_de": "Die Messung im Labor dauert eine Stunde."
-        },
-        {
-          "de": "sich zurückziehen",
-          "article": null,
-          "tr": "geri çekilmek",
-          "example_de": "Das Wasser zieht sich bei Ebbe zurück."
-        },
-        {
-          "de": "stattdessen",
-          "article": null,
-          "tr": "onun yerine",
-          "example_de": "Ich nehme heute das Rad statt der Bahn und fahre stattdessen entspannt los."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wie schnell bewegt sich der geografische Nordpol laut Satellitendaten?",
-          "options": [
-            "Etwa zehn Zentimeter pro Jahr",
-            "Etwa zehn Meter pro Jahr",
-            "Gar nicht"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Was bedeutet „True Polar Wander“ im Text?",
-          "options": [
-            "Die Erdachse kippt im Weltall",
-            "Die feste Hülle der Erde dreht sich über den Kern",
-            "Der Magnetpol springt hin und her",
-            "Die Kontinente wandern in Richtung Süden"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was nutzten die Forschenden für ihre Analyse?",
-          "options": [
-            "Fotos von Satelliten",
-            "Magnetkompasse",
-            "Alte Meeresspiegelveränderungen"
-          ],
-          "answer_index": 2
-        }
-      ]
-    },
-    {
-      "id": "2026-10-29-besiktas-beins-derby",
-      "category": "tr",
-      "title_de": "Nach dem Derby: Beşiktaş greift TV-Sender an",
-      "summary_de": "Nach dem Istanbuler Derby zwischen Galatasaray und Fenerbahçe am Montagabend wird in der Türkei weiter heftig diskutiert. Nach dem Abpfiff war es auf dem Platz zu Rangeleien zwischen Spielern und Betreuern gekommen. Nun meldet sich ein dritter Klub zu Wort: Beşiktaş wirft dem Fernsehsender beIN Sports vor, mit zweierlei Maß zu messen. Bei einer früheren Rangelei zwischen Dušan Vlahović und Milan Škriniar hätten die Kameras nämlich sehr genau draufgehalten. Das Chaos nach dem jüngsten Derby habe der Sender dagegen nur aus der Ferne gezeigt. Beşiktaş fordert, dass der Sender alle vorhandenen Aufnahmen an die Behörden übergibt, und soll sogar Strafanzeige erstattet haben. Der Klub betont, er werde nicht nachgeben, bis für alle Vereine der Liga derselbe Maßstab gilt. Der Verband hatte sich zum Zeitpunkt des Berichts noch nicht geäußert, doch das Thema dürfte die türkische Fußballszene noch länger beschäftigen.",
-      "source_name": "t-online",
-      "source_url": "https://www.t-online.de/sport/fussball/international/id_101501102/besiktas-istanbul-tuerkischer-topklub-attackiert-tv-sender.html",
-      "glossary": [
-        {
-          "form": "heftig",
-          "lemma": "heftig",
-          "article": null,
-          "tr": "şiddetli, sert"
-        },
-        {
-          "form": "Abpfiff",
-          "lemma": "Abpfiff",
+          "form": "Höhepunkt",
+          "lemma": "Höhepunkt",
           "article": "der",
-          "tr": "final düdüğü"
+          "tr": "zirve"
         },
         {
-          "form": "Rangeleien",
-          "lemma": "Rangelei",
+          "form": "basieren",
+          "lemma": "basieren",
+          "article": null,
+          "tr": "dayanmak"
+        },
+        {
+          "form": "mythisch geprägten",
+          "lemma": "mythisch geprägt",
+          "article": null,
+          "tr": "mitolojik etkilerle şekillenmiş"
+        },
+        {
+          "form": "angesiedelt",
+          "lemma": "ansiedeln",
+          "article": null,
+          "tr": "geçmek, konumlandırmak"
+        },
+        {
+          "form": "Kritik",
+          "lemma": "Kritik",
           "article": "die",
-          "tr": "itiş kakış"
+          "tr": "eleştiri"
         },
         {
-          "form": "Betreuern",
-          "lemma": "Betreuer",
+          "form": "gelobt",
+          "lemma": "loben",
+          "article": null,
+          "tr": "övmek"
+        },
+        {
+          "form": "Kampfsystem",
+          "lemma": "Kampfsystem",
+          "article": "das",
+          "tr": "dövüş sistemi"
+        },
+        {
+          "form": "Bossgegner",
+          "lemma": "Bossgegner",
           "article": "der",
-          "tr": "yardımcı kadro"
-        },
-        {
-          "form": "Fernsehsender",
-          "lemma": "Fernsehsender",
-          "article": "der",
-          "tr": "televizyon kanalı"
-        },
-        {
-          "form": "wirft",
-          "lemma": "vorwerfen",
-          "article": null,
-          "tr": "suçlamak"
-        },
-        {
-          "form": "Kameras",
-          "lemma": "Kamera",
-          "article": "die",
-          "tr": "kamera"
-        },
-        {
-          "form": "Aufnahmen",
-          "lemma": "Aufnahme",
-          "article": "die",
-          "tr": "görüntü kaydı"
-        },
-        {
-          "form": "Behörden",
-          "lemma": "Behörde",
-          "article": "die",
-          "tr": "yetkili makamlar"
-        },
-        {
-          "form": "übergibt",
-          "lemma": "übergeben",
-          "article": null,
-          "tr": "teslim etmek"
-        },
-        {
-          "form": "Strafanzeige",
-          "lemma": "Strafanzeige",
-          "article": "die",
-          "tr": "suç duyurusu"
-        },
-        {
-          "form": "erstattet",
-          "lemma": "erstatten",
-          "article": null,
-          "tr": "yapmak (suç duyurusu)"
+          "tr": "patron düşman"
         },
         {
           "form": "betont",
           "lemma": "betonen",
           "article": null,
           "tr": "vurgulamak"
-        },
-        {
-          "form": "nachgeben",
-          "lemma": "nachgeben",
-          "article": null,
-          "tr": "geri adım atmak"
-        },
-        {
-          "form": "Maßstab",
-          "lemma": "Maßstab",
-          "article": "der",
-          "tr": "ölçüt"
-        },
-        {
-          "form": "Verband",
-          "lemma": "Verband",
-          "article": "der",
-          "tr": "federasyon"
-        },
-        {
-          "form": "geäußert",
-          "lemma": "äußern",
-          "article": null,
-          "tr": "görüş bildirmek"
-        },
-        {
-          "form": "beschäftigen",
-          "lemma": "beschäftigen",
-          "article": null,
-          "tr": "meşgul etmek"
         }
       ],
       "vocabulary": [
         {
-          "de": "mit zweierlei Maß messen",
+          "de": "einen starken Start hinlegen",
           "article": null,
-          "tr": "çifte standart uygulamak",
-          "example_de": "Der Lehrer misst bei Noten nicht mit zweierlei Maß."
+          "tr": "güçlü bir başlangıç yapmak",
+          "example_de": "Das Team hat in der Liga einen starken Start hingelegt."
         },
         {
-          "de": "Strafanzeige erstatten",
+          "de": "Vergleiche ziehen",
           "article": null,
-          "tr": "suç duyurusunda bulunmak",
-          "example_de": "Nach dem Diebstahl hat er Strafanzeige erstattet."
+          "tr": "karşılaştırma yapmak",
+          "example_de": "Viele ziehen Vergleiche zwischen den beiden Spielen."
         },
         {
-          "de": "sich zu Wort melden",
-          "article": null,
-          "tr": "söz almak, görüş açıklamak",
-          "example_de": "Bei der Debatte hat sich auch die Studentin zu Wort gemeldet."
-        },
-        {
-          "de": "nicht nachgeben",
-          "article": null,
-          "tr": "geri adım atmamak",
-          "example_de": "Beim Preis wollte der Händler nicht nachgeben."
-        },
-        {
-          "de": "Abpfiff",
+          "de": "Höhepunkt",
           "article": "der",
-          "tr": "final düdüğü",
-          "example_de": "Nach dem Abpfiff sind wir direkt nach Hause gefahren."
+          "tr": "zirve",
+          "example_de": "Der Höhepunkt des Abends war das Finale."
         },
         {
-          "de": "sich äußern",
+          "de": "gleichzeitig",
           "article": null,
-          "tr": "görüş bildirmen",
-          "example_de": "Die Firma hat sich noch nicht zu dem Fehler geäußert."
+          "tr": "aynı anda",
+          "example_de": "Wir können nicht beide gleichzeitig spielen."
         },
         {
-          "de": "Verband",
-          "article": "der",
-          "tr": "federasyon, birlik",
-          "example_de": "Der Verband organisiert die Meisterschaft."
+          "de": "auf etwas basieren",
+          "article": null,
+          "tr": "bir şeye dayanmak",
+          "example_de": "Das Spiel basiert auf einer alten Legende."
+        },
+        {
+          "de": "Kritik",
+          "article": "die",
+          "tr": "eleştiri",
+          "example_de": "Die Kritik an dem Update war ziemlich hart."
+        },
+        {
+          "de": "loben",
+          "article": null,
+          "tr": "övmek",
+          "example_de": "Mein Professor lobt meine Projektarbeit."
         }
       ],
       "exercises": [
         {
-          "question_de": "Was wirft Beşiktaş dem Fernsehsender vor?",
+          "question_de": "Wie viele Spieler waren am Nachmittag gleichzeitig online?",
           "options": [
-            "Er sende zu wenig Fußball",
-            "Er messe mit zweierlei Maß bei den Kameraaufnahmen",
-            "Er habe das Spiel zu spät übertragen"
+            "Rund 72.000",
+            "Über 720.000",
+            "Über 2,4 Millionen"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „nachgeben“?",
+          "question_de": "Welche Spiele lagen laut Artikel vor Phantom Blade Zero?",
           "options": [
-            "Zurückweichen und aufgeben",
-            "Etwas verstecken",
-            "Mehr Geld verlangen",
-            "Schneller laufen"
+            "Dota 2 und Apex",
+            "Counter-Strike 2 und PUBG Battlegrounds",
+            "League of Legends und Fortnite",
+            "Nur Black Myth: Wukong"
           ],
-          "answer_index": 0
+          "answer_index": 1
         },
         {
-          "question_de": "Was fordert Beşiktaş vom Sender?",
+          "question_de": "Was bedeutet „Höhepunkt“?",
           "options": [
-            "Alle Aufnahmen an die Behörden zu übergeben",
-            "Das Derby zu wiederholen",
-            "Eine Entschuldigung bei den Fans"
+            "Der tiefste Punkt",
+            "Der Anfang",
+            "Der beste oder höchste Moment"
           ],
-          "answer_index": 0
+          "answer_index": 2
         }
       ]
     },
     {
-      "id": "2026-10-29-total-war-shogun2-fanfix",
+      "id": "2026-10-30-gothic-remake-marvin",
       "category": "gaming",
-      "title_de": "Total War: Shogun 2 – Fan rettet verschmähte Neuauflage",
-      "summary_de": "Für Fans von Strategiespielen gibt es eine ungewöhnliche Geschichte rund um Total War: Shogun 2. Sega und Creative Assembly hatten das Spiel als Complete Edition neu auf Steam veröffentlicht, doch nach nur zwei Tagen verschwand es wieder aus dem Shop. Kritisiert wurden die schlechte Performance und ein KI-Werkzeug, das die Entwickler nicht offengelegt hatten. Bei den Nutzern kam die Neuauflage mit nur 16 Prozent positiven Bewertungen sehr schlecht an. Die Entwickler kündigten an, das Spiel gründlich zu überarbeiten. Inzwischen hat ein Modder mit dem Namen Meisgoot312 die Sache selbst in die Hand genommen. Seine Mod „s2fix“ ist quelloffen und verteilt Arbeit, die das Spiel bisher auf einem einzigen Prozessorkern erledigt hat, auf mehrere Threads. Das soll vor allem in großen Schlachten helfen, wenn der Prozessor die Grafikkarte ausbremst. Spieldateien werden dabei nicht verändert, die Korrekturen greifen nur im Arbeitsspeicher ein.",
-      "source_name": "Mein-MMO",
-      "source_url": "https://mein-mmo.de/entwickler-entfernte-total-war-spiel-fan-massive-verbesserungen/",
+      "title_de": "Gothic 1 Remake: Marvin-Modus kehrt per Gratis-Update zurück",
+      "summary_de": "Das Gothic 1 Remake hat am 29. Oktober sein erstes kostenloses Feature-Update bekommen. Im Mittelpunkt steht die Rückkehr des Marvin-Modus, den es schon im Original von 2001 gab. Dieser Modus ist ein offizieller Cheat- und Entwicklermodus: Man kann sich an jeden Ort teleportieren, Gegenstände aus dem Nichts erschaffen und Monster oder Figuren erscheinen lassen. Aktiviert wird er, indem man ESC drückt, MARVIN eintippt und ESC erneut drückt. Dazu kommt ein offizieller Fotomodus mit vielen Einstellungen, den man über das Pausenmenü oder mit der Taste L öffnet. Der namenlose Held erhält neue Frisuren und Tattoos, und auch die Bewohner des Sumpflagers lassen sich stärker anpassen. Außerdem gibt es neue Wartenanimationen auf der Bank und zusätzliche Soundeffekte. Wer das Remake noch nicht besitzt, kann sparen: Bei der Steam-Aktion von THQ Nordic kostet es bis zum 5. November 25 Prozent weniger, nämlich 37,49 Euro.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/Gothic-Remake-Spiel-73829/News/Update-mit-Marvin-Modus-und-Foto-Modus-1558318/",
       "glossary": [
         {
-          "form": "Strategiespielen",
-          "lemma": "Strategiespiel",
+          "form": "Mittelpunkt",
+          "lemma": "Mittelpunkt",
+          "article": "der",
+          "tr": "merkez"
+        },
+        {
+          "form": "Rückkehr",
+          "lemma": "Rückkehr",
+          "article": "die",
+          "tr": "geri dönüş"
+        },
+        {
+          "form": "Entwicklermodus",
+          "lemma": "Entwicklermodus",
+          "article": "der",
+          "tr": "geliştirici modu"
+        },
+        {
+          "form": "teleportieren",
+          "lemma": "teleportieren",
+          "article": null,
+          "tr": "ışınlamak"
+        },
+        {
+          "form": "Gegenstände",
+          "lemma": "Gegenstand",
+          "article": "der",
+          "tr": "nesne, eşya"
+        },
+        {
+          "form": "erschaffen",
+          "lemma": "erschaffen",
+          "article": null,
+          "tr": "yaratmak"
+        },
+        {
+          "form": "erscheinen",
+          "lemma": "erscheinen",
+          "article": null,
+          "tr": "belirmek, ortaya çıkmak"
+        },
+        {
+          "form": "Aktiviert",
+          "lemma": "aktivieren",
+          "article": null,
+          "tr": "etkinleştirmek"
+        },
+        {
+          "form": "eintippt",
+          "lemma": "eintippen",
+          "article": null,
+          "tr": "yazmak"
+        },
+        {
+          "form": "Fotomodus",
+          "lemma": "Fotomodus",
+          "article": "der",
+          "tr": "fotoğraf modu"
+        },
+        {
+          "form": "Einstellungen",
+          "lemma": "Einstellung",
+          "article": "die",
+          "tr": "ayar"
+        },
+        {
+          "form": "Pausenmenü",
+          "lemma": "Pausenmenü",
           "article": "das",
-          "tr": "strateji oyunu"
+          "tr": "duraklatma menüsü"
         },
         {
-          "form": "ungewöhnliche",
-          "lemma": "ungewöhnlich",
+          "form": "namenlose",
+          "lemma": "namenlos",
           "article": null,
-          "tr": "alışılmadık"
+          "tr": "isimsiz"
         },
         {
-          "form": "veröffentlicht",
-          "lemma": "veröffentlichen",
-          "article": null,
-          "tr": "yayınlamak"
+          "form": "Frisuren",
+          "lemma": "Frisur",
+          "article": "die",
+          "tr": "saç modeli"
         },
         {
-          "form": "verschwand",
-          "lemma": "verschwinden",
-          "article": null,
-          "tr": "kaybolmak"
+          "form": "Bewohner",
+          "lemma": "Bewohner",
+          "article": "der",
+          "tr": "sakin"
         },
         {
-          "form": "Kritisiert",
-          "lemma": "kritisieren",
-          "article": null,
-          "tr": "eleştirmek"
-        },
-        {
-          "form": "Werkzeug",
-          "lemma": "Werkzeug",
+          "form": "Sumpflagers",
+          "lemma": "Sumpflager",
           "article": "das",
-          "tr": "araç"
+          "tr": "bataklık kampı"
         },
         {
-          "form": "offengelegt",
-          "lemma": "offenlegen",
+          "form": "anpassen",
+          "lemma": "anpassen",
           "article": null,
-          "tr": "açıkça belirtmek"
+          "tr": "özelleştirmek, uyarlamak"
         },
         {
-          "form": "Neuauflage",
-          "lemma": "Neuauflage",
-          "article": "die",
-          "tr": "yeniden basım/sürüm"
-        },
-        {
-          "form": "Bewertungen",
-          "lemma": "Bewertung",
-          "article": "die",
-          "tr": "değerlendirme"
-        },
-        {
-          "form": "kündigten",
-          "lemma": "ankündigen",
-          "article": null,
-          "tr": "duyurmak"
-        },
-        {
-          "form": "überarbeiten",
-          "lemma": "überarbeiten",
-          "article": null,
-          "tr": "elden geçirmek"
-        },
-        {
-          "form": "Modder",
-          "lemma": "Modder",
+          "form": "Soundeffekte",
+          "lemma": "Soundeffekt",
           "article": "der",
-          "tr": "mod geliştiricisi"
+          "tr": "ses efekti"
         },
         {
-          "form": "quelloffen",
-          "lemma": "quelloffen",
+          "form": "besitzt",
+          "lemma": "besitzen",
           "article": null,
-          "tr": "açık kaynaklı"
+          "tr": "sahip olmak"
         },
         {
-          "form": "Prozessorkern",
-          "lemma": "Prozessorkern",
-          "article": "der",
-          "tr": "işlemci çekirdeği"
-        },
-        {
-          "form": "erledigt",
-          "lemma": "erledigen",
+          "form": "sparen",
+          "lemma": "sparen",
           "article": null,
-          "tr": "halletmek"
-        },
-        {
-          "form": "Schlachten",
-          "lemma": "Schlacht",
-          "article": "die",
-          "tr": "savaş (oyunda)"
-        },
-        {
-          "form": "Prozessor",
-          "lemma": "Prozessor",
-          "article": "der",
-          "tr": "işlemci"
-        },
-        {
-          "form": "Grafikkarte",
-          "lemma": "Grafikkarte",
-          "article": "die",
-          "tr": "ekran kartı"
-        },
-        {
-          "form": "ausbremst",
-          "lemma": "ausbremsen",
-          "article": null,
-          "tr": "yavaşlatmak"
-        },
-        {
-          "form": "Korrekturen",
-          "lemma": "Korrektur",
-          "article": "die",
-          "tr": "düzeltme"
-        },
-        {
-          "form": "Arbeitsspeicher",
-          "lemma": "Arbeitsspeicher",
-          "article": "der",
-          "tr": "RAM"
-        },
-        {
-          "form": "verändert",
-          "lemma": "verändern",
-          "article": null,
-          "tr": "değiştirmek"
+          "tr": "tasarruf etmek"
         }
       ],
       "vocabulary": [
         {
-          "de": "etwas veröffentlichen",
+          "de": "zurückkehren",
           "article": null,
-          "tr": "bir şeyi yayınlamak",
-          "example_de": "Die Firma will das Update nächste Woche veröffentlichen."
+          "tr": "geri dönmek",
+          "example_de": "Nach dem Urlaub kehre ich Montag an die Uni zurück."
         },
         {
-          "de": "schlecht ankommen",
+          "de": "im Mittelpunkt stehen",
           "article": null,
-          "tr": "kötü karşılanmak",
-          "example_de": "Die neue Regel kam bei den Spielern schlecht an."
+          "tr": "odakta olmak",
+          "example_de": "Bei dem Projekt steht die Teamarbeit im Mittelpunkt."
         },
         {
-          "de": "etwas selbst in die Hand nehmen",
+          "de": "etwas aktivieren",
           "article": null,
-          "tr": "işi kendi eline almak",
-          "example_de": "Weil niemand half, nahm er die Sache selbst in die Hand."
+          "tr": "etkinleştirmek",
+          "example_de": "Du musst den Modus zuerst in den Einstellungen aktivieren."
         },
         {
-          "de": "Bewertung",
+          "de": "Einstellung",
           "article": "die",
-          "tr": "değerlendirme, yorum",
-          "example_de": "Die Bewertung des Spiels auf Steam ist sehr gemischt."
+          "tr": "ayar",
+          "example_de": "Ich habe die Einstellungen für die Grafik geändert."
         },
         {
-          "de": "etwas ausbremsen",
+          "de": "anpassen",
           "article": null,
-          "tr": "bir şeyi frenlemek",
-          "example_de": "Ein alter Prozessor kann eine neue Grafikkarte ausbremsen."
+          "tr": "özelleştirmek",
+          "example_de": "Ich passe mein Profil an meinen Geschmack an."
         },
         {
-          "de": "Korrektur",
+          "de": "Aktion",
           "article": "die",
-          "tr": "düzeltme",
-          "example_de": "Die Korrektur im Code war nur eine Zeile."
+          "tr": "kampanya, indirim",
+          "example_de": "Im Moment gibt es eine Aktion auf viele Spiele."
         },
         {
-          "de": "etwas überarbeiten",
+          "de": "Geld sparen",
           "article": null,
-          "tr": "bir şeyi baştan elden geçirmek",
-          "example_de": "Ich muss meinen Lebenslauf noch überarbeiten."
+          "tr": "para biriktirmek",
+          "example_de": "Mit dem Studentenrabatt kann ich viel Geld sparen."
         }
       ],
       "exercises": [
         {
-          "question_de": "Warum verschwand das Spiel nach zwei Tagen von Steam?",
+          "question_de": "Wie aktiviert man den Marvin-Modus?",
           "options": [
-            "Es war ausverkauft",
-            "Wegen schlechter Performance und eines nicht offengelegten KI-Werkzeugs",
-            "Der Server war überlastet"
+            "Mit der Taste L",
+            "Mit ESC, MARVIN eintippen und erneut ESC",
+            "Über den Shop",
+            "Er ist immer aktiv"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was macht die Mod „s2fix“?",
+          "question_de": "Bis wann gilt der Rabatt auf Steam?",
           "options": [
-            "Sie verteilt Rechenarbeit auf mehrere Threads",
-            "Sie fügt neue Einheiten hinzu",
-            "Sie ändert die Spieldateien dauerhaft",
-            "Sie übersetzt das Spiel"
+            "Bis 1. November",
+            "Bis 5. November",
+            "Bis 29. Oktober"
           ],
-          "answer_index": 0
+          "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „quelloffen“?",
+          "question_de": "Was kann man im Marvin-Modus laut Artikel tun?",
           "options": [
-            "Kostenpflichtig",
-            "Mit öffentlich einsehbarem Quellcode",
-            "Nur für Profis"
+            "Spielstände löschen",
+            "Sich teleportieren",
+            "Das Spiel zurückgeben",
+            "Mit Freunden chatten"
           ],
           "answer_index": 1
         }

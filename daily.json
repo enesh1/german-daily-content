@@ -1,405 +1,389 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "level": "original",
   "items": [
     {
-      "id": "2026-10-30-meckenstock-auktion",
-      "category": "nrw",
-      "title_de": "Kabarettist versteigert Ungeliebtes für die Palliativstation",
-      "summary_de": "Der Düsseldorfer Kabarettist Manes Meckenstock lädt am Sonntag, dem 1. November, zu einer ungewöhnlichen Wohltätigkeitsauktion ein. Versteigert werden Dinge, die bei anderen Leuten lange ungenutzt herumlagen, dazu Gutscheine und Überraschungstüten. Meckenstock stellt jedes Stück auf seine humorvolle Art vor. Die Veranstaltung findet im Stammhaus der Brauerei Schumacher an der Oststraße statt. Ab 16 Uhr kann man die Gegenstände ansehen, um 17 Uhr beginnt das Bieten. Der Erlös kommt dem Förderverein für Palliativmedizin am Uniklinikum zugute. Mit dem Geld werden Angebote bezahlt, die über die normale Versorgung hinausgehen, etwa Aromatherapie, Klangschalen, Kunst- und Musiktherapie oder Therapiehunde. Wer nichts ersteigert, kann trotzdem etwas in eine Spendenbox legen.",
-      "source_name": "Ddorf-Aktuell",
-      "source_url": "https://www.ddorf-aktuell.de/2026/10/29/duesseldorf-zum-ersten-zum-zweiten-zum-dritten-manes-meckenstock-versteigert-fuer-palliativstation-des-ukd/",
+      "id": "2026-10-31-mars-meteorit",
+      "category": "de",
+      "title_de": "Ältester Mars-Meteorit zeigt Spuren von Wasser",
+      "summary_de": "Forschende haben einen Meteoriten aus der Sahara untersucht, der von der Oberfläche des Mars stammt. Der Stein mit dem Namen Teghaza 001 ist mindestens 4,1 Milliarden Jahre alt und damit nach Angaben des Teams der älteste bekannte Marsmeteorit aus Lavagestein. Das Alter bestimmten die Wissenschaftler anhand winziger Zirkonkristalle. Auffällig ist, dass die Zusammensetzung des Gesteins ungewöhnlich ist und Hinweise auf Wasser enthält. In einigen Bereichen fanden sich zudem viele Manganoxide, die oft mit mikrobiellem Leben in Verbindung gebracht werden. Ein Beweis für früheres Leben auf dem Mars ist das aber ausdrücklich nicht. Die Daten deuten eher darauf hin, dass der Planet damals der frühen Erde ähnelte, mit Wasser an der Oberfläche und einer dichteren Atmosphäre. Vermutlich stammt der Brocken aus dem südlichen Hochland nahe dem Hellas-Becken, wo noch kein Rover gelandet ist. Künftige Missionen könnten dort gezielt nach ähnlichen Proben suchen.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/mars-meteorit-spuren-wasser-1770911/",
       "glossary": [
         {
-          "form": "Kabarettist",
-          "lemma": "Kabarettist",
-          "article": "der",
-          "tr": "kabare sanatçısı"
-        },
-        {
-          "form": "Wohltätigkeitsauktion",
-          "lemma": "Wohltätigkeitsauktion",
+          "form": "Forschende",
+          "lemma": "Forschende",
           "article": "die",
-          "tr": "hayır müzayedesi"
+          "tr": "araştırmacılar"
         },
         {
-          "form": "Versteigert",
-          "lemma": "versteigern",
-          "article": null,
-          "tr": "müzayedeyle satmak"
-        },
-        {
-          "form": "ungenutzt",
-          "lemma": "ungenutzt",
-          "article": null,
-          "tr": "kullanılmamış"
-        },
-        {
-          "form": "Gutscheine",
-          "lemma": "Gutschein",
+          "form": "Meteoriten",
+          "lemma": "Meteorit",
           "article": "der",
-          "tr": "hediye çeki"
+          "tr": "göktaşı"
         },
         {
-          "form": "Überraschungstüten",
-          "lemma": "Überraschungstüte",
+          "form": "Oberfläche",
+          "lemma": "Oberfläche",
           "article": "die",
-          "tr": "sürpriz poşeti"
+          "tr": "yüzey"
         },
         {
-          "form": "Stammhaus",
-          "lemma": "Stammhaus",
+          "form": "mindestens",
+          "lemma": "mindestens",
+          "article": null,
+          "tr": "en az"
+        },
+        {
+          "form": "Lavagestein",
+          "lemma": "Lavagestein",
           "article": "das",
-          "tr": "ana şube"
+          "tr": "lav kayası"
         },
         {
-          "form": "Gegenstände",
-          "lemma": "Gegenstand",
-          "article": "der",
-          "tr": "nesne"
-        },
-        {
-          "form": "Erlös",
-          "lemma": "Erlös",
-          "article": "der",
-          "tr": "gelir"
-        },
-        {
-          "form": "Förderverein",
-          "lemma": "Förderverein",
-          "article": "der",
-          "tr": "destek derneği"
-        },
-        {
-          "form": "Palliativmedizin",
-          "lemma": "Palliativmedizin",
-          "article": "die",
-          "tr": "palyatif tıp"
-        },
-        {
-          "form": "zugute",
-          "lemma": "zugutekommen",
+          "form": "bestimmten",
+          "lemma": "bestimmen",
           "article": null,
-          "tr": "fayda sağlamak"
+          "tr": "belirlediler"
         },
         {
-          "form": "Versorgung",
-          "lemma": "Versorgung",
-          "article": "die",
-          "tr": "bakım, hizmet"
-        },
-        {
-          "form": "Aromatherapie",
-          "lemma": "Aromatherapie",
-          "article": "die",
-          "tr": "aromaterapi"
-        },
-        {
-          "form": "Klangschalen",
-          "lemma": "Klangschale",
-          "article": "die",
-          "tr": "şifa kasesi"
-        },
-        {
-          "form": "Therapiehunde",
-          "lemma": "Therapiehund",
+          "form": "Zirkonkristalle",
+          "lemma": "Zirkonkristall",
           "article": "der",
-          "tr": "terapi köpeği"
+          "tr": "zirkon kristalleri"
         },
         {
-          "form": "ersteigert",
-          "lemma": "ersteigern",
+          "form": "Auffällig",
+          "lemma": "auffällig",
           "article": null,
-          "tr": "müzayedede kazanmak"
+          "tr": "dikkat çekici"
         },
         {
-          "form": "Spendenbox",
-          "lemma": "Spendenbox",
+          "form": "Zusammensetzung",
+          "lemma": "Zusammensetzung",
           "article": "die",
-          "tr": "bağış kutusu"
+          "tr": "bileşim"
+        },
+        {
+          "form": "Hinweise",
+          "lemma": "Hinweis",
+          "article": "der",
+          "tr": "ipucu, işaret"
+        },
+        {
+          "form": "Manganoxide",
+          "lemma": "Manganoxid",
+          "article": "das",
+          "tr": "mangan oksit"
+        },
+        {
+          "form": "mikrobiellem",
+          "lemma": "mikrobiell",
+          "article": null,
+          "tr": "mikrobiyal"
+        },
+        {
+          "form": "Beweis",
+          "lemma": "Beweis",
+          "article": "der",
+          "tr": "kanıt"
+        },
+        {
+          "form": "dichteren",
+          "lemma": "dicht",
+          "article": null,
+          "tr": "daha yoğun"
+        },
+        {
+          "form": "Atmosphäre",
+          "lemma": "Atmosphäre",
+          "article": "die",
+          "tr": "atmosfer"
+        },
+        {
+          "form": "Hochland",
+          "lemma": "Hochland",
+          "article": "das",
+          "tr": "yayla, yüksek arazi"
+        },
+        {
+          "form": "Brocken",
+          "lemma": "Brocken",
+          "article": "der",
+          "tr": "parça, kütle"
+        },
+        {
+          "form": "Proben",
+          "lemma": "Probe",
+          "article": "die",
+          "tr": "numune"
+        },
+        {
+          "form": "ähnelte",
+          "lemma": "ähneln",
+          "article": null,
+          "tr": "benziyordu"
         }
       ],
       "vocabulary": [
         {
-          "de": "Erlös",
-          "article": "der",
-          "tr": "gelir",
-          "example_de": "Der Erlös des Flohmarkts geht an ein Tierheim."
-        },
-        {
-          "de": "spenden",
+          "de": "Hinweise auf etwas enthalten",
           "article": null,
-          "tr": "bağışlamak",
-          "example_de": "Ich spende jeden Monat zehn Euro an eine Hilfsorganisation."
+          "tr": "bir şeye dair ipuçları içermek",
+          "example_de": "Der Bericht enthält Hinweise auf neue Preise."
         },
         {
-          "de": "eine Auktion veranstalten",
+          "de": "einen Beweis liefern",
           "article": null,
-          "tr": "müzayede düzenlemek",
-          "example_de": "Der Verein veranstaltet jedes Jahr eine Auktion für einen guten Zweck."
+          "tr": "kanıt sunmak",
+          "example_de": "Die Studie liefert keinen Beweis für diese Theorie."
         },
         {
-          "de": "zugutekommen",
+          "de": "das Alter bestimmen",
           "article": null,
-          "tr": "fayda sağlamak",
-          "example_de": "Das Geld kommt den Kindern in der Nachbarschaft zugute."
+          "tr": "yaşı belirlemek",
+          "example_de": "Man kann das Alter von Gestein bestimmen."
         },
         {
-          "de": "über etwas hinausgehen",
+          "de": "Oberfläche",
+          "article": "die",
+          "tr": "yüzey",
+          "example_de": "Die Oberfläche des Tisches ist ganz glatt."
+        },
+        {
+          "de": "in Verbindung bringen",
           "article": null,
-          "tr": "bir şeyin ötesine geçmek",
-          "example_de": "Der Service geht weit über das Normale hinaus."
+          "tr": "ilişkilendirmek",
+          "example_de": "Viele bringen Herbst mit Regen in Verbindung."
         },
         {
-          "de": "Gutschein",
-          "article": "der",
-          "tr": "hediye çeki",
-          "example_de": "Zum Geburtstag habe ich einen Gutschein fürs Kino bekommen."
-        },
-        {
-          "de": "ein Gebot abgeben",
+          "de": "ausdrücklich",
           "article": null,
-          "tr": "teklif vermek",
-          "example_de": "Ich habe für das alte Fahrrad ein Gebot abgegeben."
+          "tr": "açıkça",
+          "example_de": "Der Prof. hat ausdrücklich gesagt, dass es keine Verlängerung gibt."
+        },
+        {
+          "de": "gezielt",
+          "article": null,
+          "tr": "hedefli, bilinçli",
+          "example_de": "Ich suche gezielt nach einem günstigen Laptop."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wohin fließt der Erlös der Auktion?",
+          "question_de": "Wo wurde der Meteorit gefunden?",
           "options": [
-            "An das Theatermuseum",
-            "An den Förderverein für Palliativmedizin",
-            "An die Brauerei Schumacher",
-            "An einen Karnevalsverein"
+            "In der Antarktis",
+            "In der Sahara",
+            "In Australien"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Wann beginnt das Bieten?",
+          "question_de": "Was stellt der Text klar?",
           "options": [
-            "Um 16 Uhr",
-            "Um 17 Uhr",
-            "Um 18 Uhr"
+            "Es ist ein Beweis für Leben auf dem Mars",
+            "Es ist kein Beweis für früheres Leben",
+            "Der Stein ist nur 400 Jahre alt"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „ersteigern“?",
+          "question_de": "Was bedeutet „gezielt“?",
           "options": [
-            "Etwas bei einer Auktion kaufen",
-            "Eine Treppe hochgehen",
-            "Etwas verschenken",
-            "Etwas verkaufen"
+            "zufällig",
+            "mit einem klaren Ziel",
+            "sehr schnell"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-doomformer",
+      "category": "de",
+      "title_de": "Doomformer: Ein neuronales Netz im Spiel Doom",
+      "summary_de": "Ein Entwickler hat im Klassiker Doom ein funktionierendes neuronales Netz gebaut, das handgeschriebene Ziffern erkennen kann. Das Projekt heißt Doomformer und läuft komplett innerhalb des Spiels. Als Rechenbausteine dienen sogenannte Voodoo Dolls, also Klone der Spielfigur, die entstehen, wenn ein Level mehrere Startpunkte hat. Rund 1.355 dieser Puppen laufen über Linien, die als Gewichte funktionieren, und steigen dann Treppen zur nächsten Schicht hinauf. Wer die linke Maustaste gedrückt hält, schießt nicht, sondern malt eine Ziffer auf den Boden. In einem Test mit 10.000 Versuchen lag das Netz bei etwa 9.716 Ziffern richtig, also bei rund 97 Prozent. Als Nächstes probiert der Entwickler aus, ob die KI das Spiel sogar selbst spielen kann. Eine einzige Entscheidung dauert dabei aber etwa 22 Sekunden, weshalb die Dämonen in den Tests so lange eingefroren werden. Spielbar ist das Ganze bisher noch nicht.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/doomformer-ki-in-doom-1770835/",
+      "glossary": [
+        {
+          "form": "Entwickler",
+          "lemma": "Entwickler",
+          "article": "der",
+          "tr": "geliştirici"
+        },
+        {
+          "form": "neuronales",
+          "lemma": "neuronal",
+          "article": null,
+          "tr": "nöral, sinirsel"
+        },
+        {
+          "form": "handgeschriebene",
+          "lemma": "handgeschrieben",
+          "article": null,
+          "tr": "el yazısıyla yazılmış"
+        },
+        {
+          "form": "Ziffern",
+          "lemma": "Ziffer",
+          "article": "die",
+          "tr": "rakam"
+        },
+        {
+          "form": "Rechenbausteine",
+          "lemma": "Rechenbaustein",
+          "article": "der",
+          "tr": "hesaplama yapı taşı"
+        },
+        {
+          "form": "Klone",
+          "lemma": "Klon",
+          "article": "der",
+          "tr": "klon"
+        },
+        {
+          "form": "Spielfigur",
+          "lemma": "Spielfigur",
+          "article": "die",
+          "tr": "oyun karakteri"
+        },
+        {
+          "form": "Gewichte",
+          "lemma": "Gewicht",
+          "article": "das",
+          "tr": "ağırlık"
+        },
+        {
+          "form": "Treppen",
+          "lemma": "Treppe",
+          "article": "die",
+          "tr": "merdiven"
+        },
+        {
+          "form": "Schicht",
+          "lemma": "Schicht",
+          "article": "die",
+          "tr": "katman"
+        },
+        {
+          "form": "gedrückt",
+          "lemma": "drücken",
+          "article": null,
+          "tr": "basılı"
+        },
+        {
+          "form": "Versuchen",
+          "lemma": "Versuch",
+          "article": "der",
+          "tr": "deneme"
+        },
+        {
+          "form": "Entscheidung",
+          "lemma": "Entscheidung",
+          "article": "die",
+          "tr": "karar"
+        },
+        {
+          "form": "Dämonen",
+          "lemma": "Dämon",
+          "article": "der",
+          "tr": "iblis"
+        },
+        {
+          "form": "eingefroren",
+          "lemma": "einfrieren",
+          "article": null,
+          "tr": "dondurulmuş"
+        },
+        {
+          "form": "Spielbar",
+          "lemma": "spielbar",
+          "article": null,
+          "tr": "oynanabilir"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "ein Netz bauen",
+          "article": null,
+          "tr": "bir ağ kurmak",
+          "example_de": "Er hat ein Netz aus Sensoren gebaut."
+        },
+        {
+          "de": "eine Entscheidung treffen",
+          "article": null,
+          "tr": "karar vermek",
+          "example_de": "Ich muss bis morgen eine Entscheidung treffen."
+        },
+        {
+          "de": "richtig liegen",
+          "article": null,
+          "tr": "doğru tahmin etmek",
+          "example_de": "Mit dieser Vermutung liegst du richtig."
+        },
+        {
+          "de": "Versuch",
+          "article": "der",
+          "tr": "deneme",
+          "example_de": "Beim zweiten Versuch hat es geklappt."
+        },
+        {
+          "de": "ausprobieren",
+          "article": null,
+          "tr": "denemek",
+          "example_de": "Ich will das neue Spiel ausprobieren."
+        },
+        {
+          "de": "erkennen",
+          "article": null,
+          "tr": "tanımak, fark etmek",
+          "example_de": "Die App kann Pflanzen automatisch erkennen."
+        },
+        {
+          "de": "komplett",
+          "article": null,
+          "tr": "tamamen",
+          "example_de": "Die Prüfung war komplett anders als erwartet."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was kann das Netz im Spiel erkennen?",
+          "options": [
+            "Gesichter",
+            "Handgeschriebene Ziffern",
+            "Musik"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wie lange dauert eine Entscheidung der Spiel-KI?",
+          "options": [
+            "etwa 2 Sekunden",
+            "etwa 22 Sekunden",
+            "etwa 22 Minuten"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wie oft lag das Netz richtig?",
+          "options": [
+            "bei etwa 97 Prozent",
+            "bei etwa 50 Prozent",
+            "bei etwa 10 Prozent"
           ],
           "answer_index": 0
         }
       ]
     },
     {
-      "id": "2026-10-30-halloween-kostueme-bussgeld",
+      "id": "2026-10-31-syros-katzen",
       "category": "de",
-      "title_de": "Halloween: Bei diesen Kostümen drohen hohe Bußgelder",
-      "summary_de": "Zu Halloween am 31. Oktober werden die Verkleidungen immer aufwendiger, doch laut watson gelten die Gesetze auch an diesem Abend. Besonders heikel sind Nachbildungen von Schusswaffen, die echten Waffen zu sehr ähneln. Wer solche Anscheinswaffen mit sich führt, begeht eine Ordnungswidrigkeit und muss mit einer Geldbuße von bis zu 10.000 Euro rechnen. Auch Kostüme, die wie echte Polizei- oder Bundeswehruniformen aussehen, können Ärger bringen und sogar strafbar sein. Der Grund: In einer Notlage sollen Menschen echte Einsatzkräfte klar erkennen können. Beliebte Masken aus Serien wie „Haus des Geldes“ sind am Steuer verboten, dafür drohen 60 Euro Bußgeld. Verfassungswidrige Symbole wie das Hakenkreuz sind ebenfalls tabu. Wer kreativ bleibt und diese Punkte beachtet, kann unbesorgt feiern.",
-      "source_name": "watson.de",
-      "source_url": "https://www.watson.de/leben/616836102-halloween-verkleidungen-bei-diesen-kostuemen-drohen-bis-zu-10-000-euro-bussgeld",
-      "glossary": [
-        {
-          "form": "Verkleidungen",
-          "lemma": "Verkleidung",
-          "article": "die",
-          "tr": "kostüm, giyinme"
-        },
-        {
-          "form": "aufwendiger",
-          "lemma": "aufwendig",
-          "article": null,
-          "tr": "daha masraflı/özenli"
-        },
-        {
-          "form": "heikel",
-          "lemma": "heikel",
-          "article": null,
-          "tr": "hassas, sorunlu"
-        },
-        {
-          "form": "Nachbildungen",
-          "lemma": "Nachbildung",
-          "article": "die",
-          "tr": "kopya, replika"
-        },
-        {
-          "form": "Schusswaffen",
-          "lemma": "Schusswaffe",
-          "article": "die",
-          "tr": "ateşli silah"
-        },
-        {
-          "form": "Anscheinswaffen",
-          "lemma": "Anscheinswaffe",
-          "article": "die",
-          "tr": "gerçek gibi görünen silah"
-        },
-        {
-          "form": "Ordnungswidrigkeit",
-          "lemma": "Ordnungswidrigkeit",
-          "article": "die",
-          "tr": "kabahat"
-        },
-        {
-          "form": "Geldbuße",
-          "lemma": "Geldbuße",
-          "article": "die",
-          "tr": "para cezası"
-        },
-        {
-          "form": "Bundeswehruniformen",
-          "lemma": "Bundeswehruniform",
-          "article": "die",
-          "tr": "Alman ordusu üniforması"
-        },
-        {
-          "form": "strafbar",
-          "lemma": "strafbar",
-          "article": null,
-          "tr": "suç teşkil eden"
-        },
-        {
-          "form": "Notlage",
-          "lemma": "Notlage",
-          "article": "die",
-          "tr": "acil durum"
-        },
-        {
-          "form": "Einsatzkräfte",
-          "lemma": "Einsatzkraft",
-          "article": "die",
-          "tr": "acil müdahale görevlisi"
-        },
-        {
-          "form": "Steuer",
-          "lemma": "Steuer",
-          "article": "das",
-          "tr": "direksiyon"
-        },
-        {
-          "form": "Bußgeld",
-          "lemma": "Bußgeld",
-          "article": "das",
-          "tr": "idari para cezası"
-        },
-        {
-          "form": "Verfassungswidrige",
-          "lemma": "verfassungswidrig",
-          "article": null,
-          "tr": "anayasaya aykırı"
-        },
-        {
-          "form": "Symbole",
-          "lemma": "Symbol",
-          "article": "das",
-          "tr": "sembol"
-        },
-        {
-          "form": "tabu",
-          "lemma": "tabu",
-          "article": null,
-          "tr": "yasak, dokunulmaz"
-        },
-        {
-          "form": "beachtet",
-          "lemma": "beachten",
-          "article": null,
-          "tr": "dikkate almak"
-        },
-        {
-          "form": "unbesorgt",
-          "lemma": "unbesorgt",
-          "article": null,
-          "tr": "kaygısız"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "Bußgeld",
-          "article": "das",
-          "tr": "idari para cezası",
-          "example_de": "Falsches Parken kostet in der Innenstadt ein Bußgeld."
-        },
-        {
-          "de": "mit einer Strafe rechnen",
-          "article": null,
-          "tr": "ceza beklemek",
-          "example_de": "Wer zu schnell fährt, muss mit einer Strafe rechnen."
-        },
-        {
-          "de": "gegen das Gesetz verstoßen",
-          "article": null,
-          "tr": "yasayı ihlal etmek",
-          "example_de": "Mit so einer Maske verstößt du gegen das Gesetz."
-        },
-        {
-          "de": "Verkleidung",
-          "article": "die",
-          "tr": "kostüm, kılık",
-          "example_de": "Meine Verkleidung für die Party ist selbst gebastelt."
-        },
-        {
-          "de": "etwas beachten",
-          "article": null,
-          "tr": "dikkate almak",
-          "example_de": "Bitte beachte die Regeln im Wohnheim."
-        },
-        {
-          "de": "am Steuer sitzen",
-          "article": null,
-          "tr": "direksiyonda olmak",
-          "example_de": "Nach der Party sollte niemand betrunken am Steuer sitzen."
-        },
-        {
-          "de": "strafbar sein",
-          "article": null,
-          "tr": "suç olmak",
-          "example_de": "Das Fälschen von Dokumenten ist strafbar."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wie hoch kann die Geldbuße für Anscheinswaffen sein?",
-          "options": [
-            "Bis zu 60 Euro",
-            "Bis zu 1.000 Euro",
-            "Bis zu 10.000 Euro"
-          ],
-          "answer_index": 2
-        },
-        {
-          "question_de": "Was ist laut Artikel am Steuer verboten?",
-          "options": [
-            "Eine Maske tragen",
-            "Musik hören",
-            "Mit Freunden reden",
-            "Eine Mütze tragen"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Welche Bedeutung hat „unbesorgt“?",
-          "options": [
-            "Ohne Sorgen",
-            "Sehr laut",
-            "Ohne Geld",
-            "Sehr schnell"
-          ],
-          "answer_index": 0
-        }
-      ]
-    },
-    {
-      "id": "2026-10-30-syros-katzen",
-      "category": "de",
-      "title_de": "Gratis auf einer griechischen Insel – dafür Katzen versorgen",
-      "summary_de": "Die griechische Kykladeninsel Syros ist deutlich ruhiger als Santorini oder Mykonos und sucht nun Hilfe für Katzen. Die Organisation Syros Cats braucht vier Freiwillige, die mindestens einen Monat zwischen Juli und Dezember 2027 bleiben. Als Gegenleistung gibt es ein Zimmer in einer Wohngemeinschaft samt Frühstück gratis, die Anreise und die übrigen Mahlzeiten zahlt man selbst. Gearbeitet wird etwa fünf Stunden am Tag an fünf Tagen pro Woche. Die Freiwilligen füttern die Tiere, reinigen die Katzentoiletten, versorgen sie und geben bei Bedarf Medikamente. Außerdem gewöhnen sie die Katzen an Menschen, damit diese leichter vermittelt werden können. Bewerber sollten fit und gesund sein, mindestens 25 Jahre alt sein und weder eigene Haustiere noch Kinder mitbringen. Die Bewerbung für 2027 öffnet am 1. November 2026.",
-      "source_name": "watson.de",
+      "title_de": "Gratis-Aufenthalt auf griechischer Insel für Katzenfreunde",
+      "summary_de": "Auf der griechischen Kykladeninsel Syros können sich Tierfreunde um einen kostenlosen Aufenthalt bewerben. Die Organisation Syros Cats sucht für die Zeit von Juli bis Dezember 2027 vier Freiwillige, die mindestens einen Monat bleiben. Dafür bekommen sie ein Zimmer in einer Wohngemeinschaft und das Frühstück, die Anreise und die übrigen Mahlzeiten zahlen sie selbst. Gearbeitet wird etwa fünf Stunden am Tag an fünf Tagen pro Woche. Zu den Aufgaben gehören Füttern, Saubermachen und die Pflege der Katzen, manchmal auch die Gabe von Medikamenten. Ziel ist es, die Tiere an Menschen zu gewöhnen, damit sie später ein neues Zuhause finden. Bewerber müssen körperlich fit und mindestens 25 Jahre alt sein, eigene Tiere und Kinder dürfen nicht mitkommen. Die Bewerbungsphase beginnt am 1. November 2026. Wegen des großen Andrangs war die Internetseite der Organisation zuletzt zeitweise nicht erreichbar.",
+      "source_name": "watson",
       "source_url": "https://www.watson.de/leben/good-news/389210934-einen-monat-kostenlos-auf-einer-griechischen-insel-verbringen-und-dabei-katzen-sitten-so-bewirbst-du-dich",
       "glossary": [
         {
@@ -409,28 +393,40 @@
           "tr": "Kiklad adası"
         },
         {
-          "form": "Freiwillige",
-          "lemma": "Freiwilliger",
+          "form": "Tierfreunde",
+          "lemma": "Tierfreund",
           "article": "der",
-          "tr": "gönüllü"
+          "tr": "hayvansever"
         },
         {
-          "form": "Gegenleistung",
-          "lemma": "Gegenleistung",
-          "article": "die",
-          "tr": "karşılık"
+          "form": "bewerben",
+          "lemma": "sich bewerben",
+          "article": null,
+          "tr": "başvurmak"
+        },
+        {
+          "form": "Aufenthalt",
+          "lemma": "Aufenthalt",
+          "article": "der",
+          "tr": "kalış"
+        },
+        {
+          "form": "Freiwillige",
+          "lemma": "Freiwillige",
+          "article": "der",
+          "tr": "gönüllü"
         },
         {
           "form": "Wohngemeinschaft",
           "lemma": "Wohngemeinschaft",
           "article": "die",
-          "tr": "ortak ev (WG)"
+          "tr": "paylaşımlı ev"
         },
         {
           "form": "Anreise",
           "lemma": "Anreise",
           "article": "die",
-          "tr": "varış yolculuğu"
+          "tr": "yolculuk, varış"
         },
         {
           "form": "Mahlzeiten",
@@ -439,31 +435,25 @@
           "tr": "öğün"
         },
         {
-          "form": "reinigen",
-          "lemma": "reinigen",
-          "article": null,
-          "tr": "temizlemek"
-        },
-        {
-          "form": "Katzentoiletten",
-          "lemma": "Katzentoilette",
+          "form": "Aufgaben",
+          "lemma": "Aufgabe",
           "article": "die",
-          "tr": "kedi tuvaleti"
+          "tr": "görev"
         },
         {
-          "form": "versorgen",
-          "lemma": "versorgen",
-          "article": null,
-          "tr": "bakmak, ilgilenmek"
+          "form": "Saubermachen",
+          "lemma": "Saubermachen",
+          "article": "das",
+          "tr": "temizlik yapma"
         },
         {
-          "form": "Bedarf",
-          "lemma": "Bedarf",
-          "article": "der",
-          "tr": "ihtiyaç"
+          "form": "Pflege",
+          "lemma": "Pflege",
+          "article": "die",
+          "tr": "bakım"
         },
         {
-          "form": "Medikamente",
+          "form": "Medikamenten",
           "lemma": "Medikament",
           "article": "das",
           "tr": "ilaç"
@@ -475,482 +465,495 @@
           "tr": "alıştırmak"
         },
         {
-          "form": "vermittelt",
-          "lemma": "vermitteln",
-          "article": null,
-          "tr": "yerleştirmek, aracılık etmek"
-        },
-        {
           "form": "Bewerber",
           "lemma": "Bewerber",
           "article": "der",
           "tr": "başvuran"
         },
         {
-          "form": "mitbringen",
-          "lemma": "mitbringen",
+          "form": "körperlich",
+          "lemma": "körperlich",
           "article": null,
-          "tr": "yanında getirmek"
+          "tr": "fiziksel olarak"
         },
         {
-          "form": "Bewerbung",
-          "lemma": "Bewerbung",
-          "article": "die",
-          "tr": "başvuru"
+          "form": "Andrangs",
+          "lemma": "Andrang",
+          "article": "der",
+          "tr": "yoğun ilgi, izdiham"
+        },
+        {
+          "form": "zeitweise",
+          "lemma": "zeitweise",
+          "article": null,
+          "tr": "zaman zaman"
+        },
+        {
+          "form": "erreichbar",
+          "lemma": "erreichbar",
+          "article": null,
+          "tr": "ulaşılabilir"
         }
       ],
       "vocabulary": [
         {
-          "de": "sich bewerben",
+          "de": "sich um etwas bewerben",
           "article": null,
-          "tr": "başvurmak",
-          "example_de": "Ich bewerbe mich für ein Praktikum bei einer Firma in Köln."
+          "tr": "bir şeye başvurmak",
+          "example_de": "Ich bewerbe mich um ein Praktikum bei Siemens."
         },
         {
-          "de": "Bewerbung",
+          "de": "Aufgaben gehören zu",
+          "article": null,
+          "tr": "görevler arasında … var",
+          "example_de": "Zu meinen Aufgaben gehört die Wartung der Geräte."
+        },
+        {
+          "de": "sich an etwas gewöhnen",
+          "article": null,
+          "tr": "bir şeye alışmak",
+          "example_de": "Ich muss mich an den frühen Unterricht gewöhnen."
+        },
+        {
+          "de": "Wohngemeinschaft",
           "article": "die",
-          "tr": "başvuru",
-          "example_de": "Meine Bewerbung habe ich gestern abgeschickt."
+          "tr": "paylaşımlı ev (WG)",
+          "example_de": "In Düsseldorf wohnen viele Studenten in einer Wohngemeinschaft."
         },
         {
-          "de": "im Gegenzug",
+          "de": "kostenlos",
           "article": null,
-          "tr": "karşılığında",
-          "example_de": "Du hilfst mir beim Umzug, im Gegenzug koche ich für dich."
+          "tr": "ücretsiz",
+          "example_de": "Der Eintritt ins Museum ist heute kostenlos."
         },
         {
-          "de": "Freiwillige",
+          "de": "Andrang",
           "article": "der",
-          "tr": "gönüllü",
-          "example_de": "Als Freiwilliger helfe ich am Wochenende im Tierheim."
+          "tr": "yoğun talep",
+          "example_de": "Am Samstag gibt es immer großen Andrang im Supermarkt."
         },
         {
-          "de": "Medikamente geben",
+          "de": "zeitweise",
           "article": null,
-          "tr": "ilaç vermek",
-          "example_de": "Der Tierarzt zeigt mir, wie ich dem Kater Medikamente gebe."
-        },
-        {
-          "de": "bei Bedarf",
-          "article": null,
-          "tr": "gerekirse",
-          "example_de": "Bei Bedarf kann ich dir meine Notizen leihen."
-        },
-        {
-          "de": "Mahlzeit",
-          "article": "die",
-          "tr": "öğün, yemek",
-          "example_de": "Drei Mahlzeiten am Tag sind für mich zu viel."
+          "tr": "zaman zaman",
+          "example_de": "Das Internet fiel zeitweise aus."
         }
       ],
       "exercises": [
         {
-          "question_de": "Was ist im Angebot enthalten?",
+          "question_de": "Wie lange müssen die Freiwilligen mindestens bleiben?",
           "options": [
-            "Flug und Verpflegung",
+            "eine Woche",
+            "einen Monat",
+            "ein Jahr"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was zahlen die Freiwilligen selbst?",
+          "options": [
             "Zimmer und Frühstück",
-            "Nur ein Mietwagen",
-            "Ein Gehalt"
+            "Anreise und übrige Mahlzeiten",
+            "Nichts"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Wie alt müssen Bewerber mindestens sein?",
+          "question_de": "Was bedeutet „Andrang“?",
           "options": [
-            "18 Jahre",
-            "21 Jahre",
-            "25 Jahre"
+            "viele Menschen wollen gleichzeitig etwas",
+            "ein Streit",
+            "eine Pause"
           ],
-          "answer_index": 2
-        },
-        {
-          "question_de": "Was bedeutet „bei Bedarf“?",
-          "options": [
-            "Immer",
-            "Nie",
-            "Wenn es nötig ist",
-            "Am Wochenende"
-          ],
-          "answer_index": 2
+          "answer_index": 0
         }
       ]
     },
     {
-      "id": "2026-10-30-phantom-blade-zero",
+      "id": "2026-10-31-elder-scrolls-6",
       "category": "gaming",
-      "title_de": "Phantom Blade Zero startet mit über 720.000 Spielern auf Steam",
-      "summary_de": "Das chinesische Action-Rollenspiel Phantom Blade Zero ist am 29. Oktober erschienen und hat auf Steam einen starken Start hingelegt. Am Nachmittag spielten laut PC Games über 720.000 Menschen gleichzeitig. Damit lag der Titel auf Platz drei der meistgespielten Steam-Spiele, hinter Counter-Strike 2 und PUBG Battlegrounds. Der Autor zieht Vergleiche mit Black Myth: Wukong, das zu seinem Höhepunkt rund 2,4 Millionen Spieler erreichte. Beide Spiele stammen aus China, basieren auf der Unreal Engine 5 und spielen in einer mythisch geprägten Version des Landes. Phantom Blade Zero ist in einer Wuxia-Welt angesiedelt. Die Kritik fällt sehr positiv aus, gelobt werden vor allem das Kampfsystem und die kreativen Bossgegner. Der Test betont außerdem, dass das Spiel trotz viel Action kein klassisches Soulslike ist.",
-      "source_name": "PC Games",
-      "source_url": "https://www.pcgames.de/Phantom-Blade-Zero-Spiel-74287/News/steam-peak-gleichzeitige-spieler-1558284/",
+      "title_de": "Elder Scrolls 6: Ankündigung im November?",
+      "summary_de": "Fans von The Elder Scrolls haben neue Hoffnung auf Nachrichten zum sechsten Teil der Reihe. Die Seite The Verge berichtet unter Berufung auf Quellen, dass Bethesda das Spiel schon im November 2026 ankündigen könnte. Es soll angeblich The Elder Scrolls VI: Sentinel heißen. Sentinel ist eines der größten Königreiche in der Provinz Hammerfell, die an Himmelsrand, Hochfels und Cyrodiil grenzt. Bestätigt hat Bethesda nichts, deshalb bleibt alles vorerst ein Gerücht. Ein neuer Instagram-Beitrag des Studios zeigt eine frostige Tür mit Laternen, die von Raben gehalten werden, was eher nach Norden als nach Wüste aussieht. Wer Hammerfell schon jetzt erkunden will, kann das in The Elder Scrolls Online tun, wo die Provinz inzwischen zum Basisspiel gehört. Das Spiel kostet auf Steam einmalig 19,99 Euro, die Deluxe-Version mit den früheren Erweiterungen 59,99 Euro. Allerdings spielt Online rund 1.000 Jahre vor Skyrim, die Provinz kann im neuen Teil also ganz anders aussehen.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/elder-scrolls-6-hammerfell-eso/",
       "glossary": [
         {
-          "form": "Action-Rollenspiel",
-          "lemma": "Action-Rollenspiel",
-          "article": "das",
-          "tr": "aksiyon RPG"
-        },
-        {
-          "form": "erschienen",
-          "lemma": "erscheinen",
-          "article": null,
-          "tr": "çıkmak"
-        },
-        {
-          "form": "hingelegt",
-          "lemma": "hinlegen",
-          "article": null,
-          "tr": "sergilemek (bir başlangıç yapmak)"
-        },
-        {
-          "form": "gleichzeitig",
-          "lemma": "gleichzeitig",
-          "article": null,
-          "tr": "aynı anda"
-        },
-        {
-          "form": "meistgespielten",
-          "lemma": "meistgespielt",
-          "article": null,
-          "tr": "en çok oynanan"
-        },
-        {
-          "form": "Vergleiche",
-          "lemma": "Vergleich",
-          "article": "der",
-          "tr": "karşılaştırma"
-        },
-        {
-          "form": "Höhepunkt",
-          "lemma": "Höhepunkt",
-          "article": "der",
-          "tr": "zirve"
-        },
-        {
-          "form": "basieren",
-          "lemma": "basieren",
-          "article": null,
-          "tr": "dayanmak"
-        },
-        {
-          "form": "mythisch geprägten",
-          "lemma": "mythisch geprägt",
-          "article": null,
-          "tr": "mitolojik etkilerle şekillenmiş"
-        },
-        {
-          "form": "angesiedelt",
-          "lemma": "ansiedeln",
-          "article": null,
-          "tr": "geçmek, konumlandırmak"
-        },
-        {
-          "form": "Kritik",
-          "lemma": "Kritik",
+          "form": "Hoffnung",
+          "lemma": "Hoffnung",
           "article": "die",
-          "tr": "eleştiri"
+          "tr": "umut"
         },
         {
-          "form": "gelobt",
-          "lemma": "loben",
+          "form": "Quellen",
+          "lemma": "Quelle",
+          "article": "die",
+          "tr": "kaynak"
+        },
+        {
+          "form": "ankündigen",
+          "lemma": "ankündigen",
           "article": null,
-          "tr": "övmek"
+          "tr": "duyurmak"
         },
         {
-          "form": "Kampfsystem",
-          "lemma": "Kampfsystem",
+          "form": "Königreiche",
+          "lemma": "Königreich",
           "article": "das",
-          "tr": "dövüş sistemi"
+          "tr": "krallık"
         },
         {
-          "form": "Bossgegner",
-          "lemma": "Bossgegner",
-          "article": "der",
-          "tr": "patron düşman"
+          "form": "Provinz",
+          "lemma": "Provinz",
+          "article": "die",
+          "tr": "eyalet"
         },
         {
-          "form": "betont",
-          "lemma": "betonen",
+          "form": "grenzt",
+          "lemma": "grenzen",
           "article": null,
-          "tr": "vurgulamak"
+          "tr": "sınır olmak"
+        },
+        {
+          "form": "Bestätigt",
+          "lemma": "bestätigen",
+          "article": null,
+          "tr": "doğrulamak"
+        },
+        {
+          "form": "Gerücht",
+          "lemma": "Gerücht",
+          "article": "das",
+          "tr": "söylenti"
+        },
+        {
+          "form": "frostige",
+          "lemma": "frostig",
+          "article": null,
+          "tr": "buz gibi, karlı"
+        },
+        {
+          "form": "Laternen",
+          "lemma": "Laterne",
+          "article": "die",
+          "tr": "fener"
+        },
+        {
+          "form": "Raben",
+          "lemma": "Rabe",
+          "article": "der",
+          "tr": "kuzgun"
+        },
+        {
+          "form": "Wüste",
+          "lemma": "Wüste",
+          "article": "die",
+          "tr": "çöl"
+        },
+        {
+          "form": "erkunden",
+          "lemma": "erkunden",
+          "article": null,
+          "tr": "keşfetmek"
+        },
+        {
+          "form": "Basisspiel",
+          "lemma": "Basisspiel",
+          "article": "das",
+          "tr": "temel oyun"
+        },
+        {
+          "form": "einmalig",
+          "lemma": "einmalig",
+          "article": null,
+          "tr": "tek seferlik"
+        },
+        {
+          "form": "Erweiterungen",
+          "lemma": "Erweiterung",
+          "article": "die",
+          "tr": "genişleme paketi"
+        },
+        {
+          "form": "inzwischen",
+          "lemma": "inzwischen",
+          "article": null,
+          "tr": "bu arada, artık"
         }
       ],
       "vocabulary": [
         {
-          "de": "einen starken Start hinlegen",
+          "de": "ein Gerücht",
           "article": null,
-          "tr": "güçlü bir başlangıç yapmak",
-          "example_de": "Das Team hat in der Liga einen starken Start hingelegt."
+          "tr": "söylenti",
+          "example_de": "Das ist nur ein Gerücht, nichts ist offiziell."
         },
         {
-          "de": "Vergleiche ziehen",
+          "de": "etwas ankündigen",
           "article": null,
-          "tr": "karşılaştırma yapmak",
-          "example_de": "Viele ziehen Vergleiche zwischen den beiden Spielen."
+          "tr": "bir şeyi duyurmak",
+          "example_de": "Die Firma will ein neues Handy ankündigen."
         },
         {
-          "de": "Höhepunkt",
-          "article": "der",
-          "tr": "zirve",
-          "example_de": "Der Höhepunkt des Abends war das Finale."
-        },
-        {
-          "de": "gleichzeitig",
+          "de": "unter Berufung auf",
           "article": null,
-          "tr": "aynı anda",
-          "example_de": "Wir können nicht beide gleichzeitig spielen."
+          "tr": "…e dayanarak",
+          "example_de": "Die Zeitung schreibt unter Berufung auf Insider darüber."
         },
         {
-          "de": "auf etwas basieren",
+          "de": "zu etwas gehören",
           "article": null,
-          "tr": "bir şeye dayanmak",
-          "example_de": "Das Spiel basiert auf einer alten Legende."
+          "tr": "bir şeyin parçası olmak",
+          "example_de": "Der Controller gehört zum Lieferumfang."
         },
         {
-          "de": "Kritik",
+          "de": "bestätigen",
+          "article": null,
+          "tr": "doğrulamak",
+          "example_de": "Der Prof. hat meine Note bestätigt."
+        },
+        {
+          "de": "Erweiterung",
           "article": "die",
-          "tr": "eleştiri",
-          "example_de": "Die Kritik an dem Update war ziemlich hart."
+          "tr": "genişleme (paketi)",
+          "example_de": "Für das Spiel kommt bald eine Erweiterung."
         },
         {
-          "de": "loben",
+          "de": "vorerst",
           "article": null,
-          "tr": "övmek",
-          "example_de": "Mein Professor lobt meine Projektarbeit."
+          "tr": "şimdilik",
+          "example_de": "Wir bleiben vorerst zu Hause."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wie viele Spieler waren am Nachmittag gleichzeitig online?",
+          "question_de": "Wie heißt das Spiel angeblich?",
           "options": [
-            "Rund 72.000",
-            "Über 720.000",
-            "Über 2,4 Millionen"
+            "The Elder Scrolls VI: Sentinel",
+            "Skyrim 2",
+            "Hammerfell Online"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Hat Bethesda das Spiel offiziell bestätigt?",
+          "options": [
+            "Ja, mit Datum",
+            "Nein, es ist ein Gerücht",
+            "Ja, im Oktober"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Welche Spiele lagen laut Artikel vor Phantom Blade Zero?",
+          "question_de": "Was bedeutet „vorerst“?",
           "options": [
-            "Dota 2 und Apex",
-            "Counter-Strike 2 und PUBG Battlegrounds",
-            "League of Legends und Fortnite",
-            "Nur Black Myth: Wukong"
+            "niemals",
+            "für den Moment",
+            "immer"
           ],
           "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „Höhepunkt“?",
-          "options": [
-            "Der tiefste Punkt",
-            "Der Anfang",
-            "Der beste oder höchste Moment"
-          ],
-          "answer_index": 2
         }
       ]
     },
     {
-      "id": "2026-10-30-gothic-remake-marvin",
+      "id": "2026-10-31-wow-forever-mega-raid",
       "category": "gaming",
-      "title_de": "Gothic 1 Remake: Marvin-Modus kehrt per Gratis-Update zurück",
-      "summary_de": "Das Gothic 1 Remake hat am 29. Oktober sein erstes kostenloses Feature-Update bekommen. Im Mittelpunkt steht die Rückkehr des Marvin-Modus, den es schon im Original von 2001 gab. Dieser Modus ist ein offizieller Cheat- und Entwicklermodus: Man kann sich an jeden Ort teleportieren, Gegenstände aus dem Nichts erschaffen und Monster oder Figuren erscheinen lassen. Aktiviert wird er, indem man ESC drückt, MARVIN eintippt und ESC erneut drückt. Dazu kommt ein offizieller Fotomodus mit vielen Einstellungen, den man über das Pausenmenü oder mit der Taste L öffnet. Der namenlose Held erhält neue Frisuren und Tattoos, und auch die Bewohner des Sumpflagers lassen sich stärker anpassen. Außerdem gibt es neue Wartenanimationen auf der Bank und zusätzliche Soundeffekte. Wer das Remake noch nicht besitzt, kann sparen: Bei der Steam-Aktion von THQ Nordic kostet es bis zum 5. November 25 Prozent weniger, nämlich 37,49 Euro.",
-      "source_name": "PC Games",
-      "source_url": "https://www.pcgames.de/Gothic-Remake-Spiel-73829/News/Update-mit-Marvin-Modus-und-Foto-Modus-1558318/",
+      "title_de": "WoW Forever: Kommen Mega-Raids mit 120 Spielern?",
+      "summary_de": "Für die Classic-Variante World of Warcraft Forever diskutieren Fans und Entwickler über deutlich größere Raidgruppen. Bisher sind in einem Raid höchstens 40 Spieler erlaubt, doch in einem aktuellen Podcast fragten Zuhörer nach Gruppen mit 80 oder sogar 120 Charakteren. Die Entwickler sagten, sie hätten dazu nichts anzukündigen, erwähnten aber ein Whiteboard mit dem Titel Mega-Raid. Das lässt vermuten, dass die Idee intern durchaus besprochen wird. Es geht dabei weniger um neue Bosskämpfe als darum, große Menschenmengen zusammenzubringen. Davon würden große Schlachten zwischen Spielern, Gilden-Events und Rollenspiel-Abende profitieren. Aktuell müssen Veranstalter mehrere Gruppen gründen und hoffen, dass das Layer-System sie nicht auf verschiedene Ebenen verteilt. Forever kennt nämlich keine getrennten Server, sondern teilt die Spielwelt automatisch in Schichten auf. Der Autor vermutet, dass es noch einige Wochen dauert, bis viele Spieler den Endgame-Inhalt erreichen.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/wow-forever-mega-raids-120-leute/",
       "glossary": [
         {
-          "form": "Mittelpunkt",
-          "lemma": "Mittelpunkt",
-          "article": "der",
-          "tr": "merkez"
+          "form": "diskutieren",
+          "lemma": "diskutieren",
+          "article": null,
+          "tr": "tartışmak"
         },
         {
-          "form": "Rückkehr",
-          "lemma": "Rückkehr",
+          "form": "deutlich",
+          "lemma": "deutlich",
+          "article": null,
+          "tr": "belirgin şekilde"
+        },
+        {
+          "form": "Raidgruppen",
+          "lemma": "Raidgruppe",
           "article": "die",
-          "tr": "geri dönüş"
+          "tr": "baskın grubu"
         },
         {
-          "form": "Entwicklermodus",
-          "lemma": "Entwicklermodus",
+          "form": "höchstens",
+          "lemma": "höchstens",
+          "article": null,
+          "tr": "en fazla"
+        },
+        {
+          "form": "erlaubt",
+          "lemma": "erlauben",
+          "article": null,
+          "tr": "izin verilmiş"
+        },
+        {
+          "form": "Zuhörer",
+          "lemma": "Zuhörer",
           "article": "der",
-          "tr": "geliştirici modu"
+          "tr": "dinleyici"
         },
         {
-          "form": "teleportieren",
-          "lemma": "teleportieren",
+          "form": "anzukündigen",
+          "lemma": "ankündigen",
           "article": null,
-          "tr": "ışınlamak"
+          "tr": "duyurmak"
         },
         {
-          "form": "Gegenstände",
-          "lemma": "Gegenstand",
-          "article": "der",
-          "tr": "nesne, eşya"
-        },
-        {
-          "form": "erschaffen",
-          "lemma": "erschaffen",
+          "form": "erwähnten",
+          "lemma": "erwähnen",
           "article": null,
-          "tr": "yaratmak"
+          "tr": "andılar"
         },
         {
-          "form": "erscheinen",
-          "lemma": "erscheinen",
+          "form": "vermuten",
+          "lemma": "vermuten",
           "article": null,
-          "tr": "belirmek, ortaya çıkmak"
+          "tr": "tahmin etmek"
         },
         {
-          "form": "Aktiviert",
-          "lemma": "aktivieren",
+          "form": "intern",
+          "lemma": "intern",
           "article": null,
-          "tr": "etkinleştirmek"
+          "tr": "dahili olarak"
         },
         {
-          "form": "eintippt",
-          "lemma": "eintippen",
+          "form": "besprochen",
+          "lemma": "besprechen",
           "article": null,
-          "tr": "yazmak"
+          "tr": "görüşmek"
         },
         {
-          "form": "Fotomodus",
-          "lemma": "Fotomodus",
-          "article": "der",
-          "tr": "fotoğraf modu"
-        },
-        {
-          "form": "Einstellungen",
-          "lemma": "Einstellung",
+          "form": "Menschenmengen",
+          "lemma": "Menschenmenge",
           "article": "die",
-          "tr": "ayar"
+          "tr": "kalabalık"
         },
         {
-          "form": "Pausenmenü",
-          "lemma": "Pausenmenü",
-          "article": "das",
-          "tr": "duraklatma menüsü"
-        },
-        {
-          "form": "namenlose",
-          "lemma": "namenlos",
+          "form": "profitieren",
+          "lemma": "profitieren",
           "article": null,
-          "tr": "isimsiz"
+          "tr": "yararlanmak"
         },
         {
-          "form": "Frisuren",
-          "lemma": "Frisur",
+          "form": "Schlachten",
+          "lemma": "Schlacht",
           "article": "die",
-          "tr": "saç modeli"
+          "tr": "savaş"
         },
         {
-          "form": "Bewohner",
-          "lemma": "Bewohner",
+          "form": "Veranstalter",
+          "lemma": "Veranstalter",
           "article": "der",
-          "tr": "sakin"
+          "tr": "organizatör"
         },
         {
-          "form": "Sumpflagers",
-          "lemma": "Sumpflager",
-          "article": "das",
-          "tr": "bataklık kampı"
-        },
-        {
-          "form": "anpassen",
-          "lemma": "anpassen",
+          "form": "verteilt",
+          "lemma": "verteilen",
           "article": null,
-          "tr": "özelleştirmek, uyarlamak"
+          "tr": "dağıtmak"
         },
         {
-          "form": "Soundeffekte",
-          "lemma": "Soundeffekt",
+          "form": "getrennten",
+          "lemma": "getrennt",
+          "article": null,
+          "tr": "ayrı"
+        },
+        {
+          "form": "Schichten",
+          "lemma": "Schicht",
+          "article": "die",
+          "tr": "katman"
+        },
+        {
+          "form": "Autor",
+          "lemma": "Autor",
           "article": "der",
-          "tr": "ses efekti"
+          "tr": "yazar"
         },
         {
-          "form": "besitzt",
-          "lemma": "besitzen",
+          "form": "vermutet",
+          "lemma": "vermuten",
           "article": null,
-          "tr": "sahip olmak"
-        },
-        {
-          "form": "sparen",
-          "lemma": "sparen",
-          "article": null,
-          "tr": "tasarruf etmek"
+          "tr": "tahmin ediyor"
         }
       ],
       "vocabulary": [
         {
-          "de": "zurückkehren",
+          "de": "von etwas profitieren",
           "article": null,
-          "tr": "geri dönmek",
-          "example_de": "Nach dem Urlaub kehre ich Montag an die Uni zurück."
+          "tr": "bir şeyden yararlanmak",
+          "example_de": "Studenten profitieren von günstigen Tickets."
         },
         {
-          "de": "im Mittelpunkt stehen",
+          "de": "etwas erwähnen",
           "article": null,
-          "tr": "odakta olmak",
-          "example_de": "Bei dem Projekt steht die Teamarbeit im Mittelpunkt."
+          "tr": "bir şeyi anmak",
+          "example_de": "Er hat den Termin nur kurz erwähnt."
         },
         {
-          "de": "etwas aktivieren",
+          "de": "nichts anzukündigen haben",
           "article": null,
-          "tr": "etkinleştirmek",
-          "example_de": "Du musst den Modus zuerst in den Einstellungen aktivieren."
+          "tr": "duyuracak bir şeyi olmamak",
+          "example_de": "Zum Release haben wir noch nichts anzukündigen."
         },
         {
-          "de": "Einstellung",
+          "de": "Veranstalter",
+          "article": "der",
+          "tr": "organizatör",
+          "example_de": "Der Veranstalter hat das Konzert verschoben."
+        },
+        {
+          "de": "Menschenmenge",
           "article": "die",
-          "tr": "ayar",
-          "example_de": "Ich habe die Einstellungen für die Grafik geändert."
+          "tr": "kalabalık",
+          "example_de": "Auf der Kö war eine große Menschenmenge."
         },
         {
-          "de": "anpassen",
+          "de": "vermuten",
           "article": null,
-          "tr": "özelleştirmek",
-          "example_de": "Ich passe mein Profil an meinen Geschmack an."
+          "tr": "tahmin etmek, sanmak",
+          "example_de": "Ich vermute, dass der Zug Verspätung hat."
         },
         {
-          "de": "Aktion",
-          "article": "die",
-          "tr": "kampanya, indirim",
-          "example_de": "Im Moment gibt es eine Aktion auf viele Spiele."
-        },
-        {
-          "de": "Geld sparen",
+          "de": "eine Idee besprechen",
           "article": null,
-          "tr": "para biriktirmek",
-          "example_de": "Mit dem Studentenrabatt kann ich viel Geld sparen."
+          "tr": "bir fikri görüşmek",
+          "example_de": "Wir besprechen die Idee morgen im Team."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wie aktiviert man den Marvin-Modus?",
+          "question_de": "Wie groß sind Raids bisher höchstens?",
           "options": [
-            "Mit der Taste L",
-            "Mit ESC, MARVIN eintippen und erneut ESC",
-            "Über den Shop",
-            "Er ist immer aktiv"
+            "10 Spieler",
+            "40 Spieler",
+            "120 Spieler"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Bis wann gilt der Rabatt auf Steam?",
+          "question_de": "Was haben die Entwickler zu Mega-Raids gesagt?",
           "options": [
-            "Bis 1. November",
-            "Bis 5. November",
-            "Bis 29. Oktober"
+            "Sie kommen morgen",
+            "Sie haben nichts anzukündigen",
+            "Sie sind verboten"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was kann man im Marvin-Modus laut Artikel tun?",
+          "question_de": "Was bedeutet „profitieren“?",
           "options": [
-            "Spielstände löschen",
-            "Sich teleportieren",
-            "Das Spiel zurückgeben",
-            "Mit Freunden chatten"
+            "einen Vorteil haben",
+            "verlieren",
+            "warten"
           ],
-          "answer_index": 1
+          "answer_index": 0
         }
       ]
     }

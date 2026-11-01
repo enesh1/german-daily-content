@@ -1,957 +1,944 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "level": "original",
   "items": [
     {
-      "id": "2026-10-31-mars-meteorit",
-      "category": "de",
-      "title_de": "Ältester Mars-Meteorit zeigt Spuren von Wasser",
-      "summary_de": "Forschende haben einen Meteoriten aus der Sahara untersucht, der von der Oberfläche des Mars stammt. Der Stein mit dem Namen Teghaza 001 ist mindestens 4,1 Milliarden Jahre alt und damit nach Angaben des Teams der älteste bekannte Marsmeteorit aus Lavagestein. Das Alter bestimmten die Wissenschaftler anhand winziger Zirkonkristalle. Auffällig ist, dass die Zusammensetzung des Gesteins ungewöhnlich ist und Hinweise auf Wasser enthält. In einigen Bereichen fanden sich zudem viele Manganoxide, die oft mit mikrobiellem Leben in Verbindung gebracht werden. Ein Beweis für früheres Leben auf dem Mars ist das aber ausdrücklich nicht. Die Daten deuten eher darauf hin, dass der Planet damals der frühen Erde ähnelte, mit Wasser an der Oberfläche und einer dichteren Atmosphäre. Vermutlich stammt der Brocken aus dem südlichen Hochland nahe dem Hellas-Becken, wo noch kein Rover gelandet ist. Künftige Missionen könnten dort gezielt nach ähnlichen Proben suchen.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/mars-meteorit-spuren-wasser-1770911/",
+      "id": "2026-11-01-duesseldorf-ehrenamtskarte",
+      "category": "nrw",
+      "title_de": "Düsseldorf startet digitale Ehrenamtsstadtkarte",
+      "summary_de": "Düsseldorf hat jetzt eine digitale Ehrenamtsstadtkarte, die das Engagement in der Stadt sichtbarer machen soll. Das städtische Büro für bürgerschaftliches Engagement hat sie gemeinsam mit dem Vermessungs- und Katasteramt entwickelt. Vorgestellt wurde das Projekt am Freitag im Rathaus vor rund 150 Vertreterinnen und Vertretern von Vereinen. Auf der Karte kann man sich entweder alle Organisationen auf einmal anzeigen lassen oder nach Kategorie und Stadtteil filtern. Zu jedem Eintrag gibt es kurze Informationen, Kontaktdaten und einen Link zur Webseite. Wer ein Ehrenamt sucht, findet so schneller etwas Passendes in der Nähe. Für die Vereine bedeutet die Karte mehr Aufmerksamkeit und bessere Chancen, neue Helfer zu gewinnen. Oberbürgermeister Stephan Keller sieht darin eine Möglichkeit, den Einstieg ins Vereinsleben zu erleichtern. Die Karte liegt im Geoportal „Düsseldorf Maps“, und weitere Vereine können sich noch anmelden.",
+      "source_name": "Landeshauptstadt Düsseldorf",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/digitale-ehrenamtsstadtkarte-macht-engagement-in-duesseldorf-sichtbar",
       "glossary": [
         {
-          "form": "Forschende",
-          "lemma": "Forschende",
+          "form": "Ehrenamtsstadtkarte",
+          "lemma": "Ehrenamtsstadtkarte",
           "article": "die",
-          "tr": "araştırmacılar"
+          "tr": "gönüllülük şehir haritası"
         },
         {
-          "form": "Meteoriten",
-          "lemma": "Meteorit",
-          "article": "der",
-          "tr": "göktaşı"
-        },
-        {
-          "form": "Oberfläche",
-          "lemma": "Oberfläche",
-          "article": "die",
-          "tr": "yüzey"
-        },
-        {
-          "form": "mindestens",
-          "lemma": "mindestens",
-          "article": null,
-          "tr": "en az"
-        },
-        {
-          "form": "Lavagestein",
-          "lemma": "Lavagestein",
+          "form": "Engagement",
+          "lemma": "Engagement",
           "article": "das",
-          "tr": "lav kayası"
+          "tr": "katılım, gönüllü çaba"
         },
         {
-          "form": "bestimmten",
-          "lemma": "bestimmen",
+          "form": "sichtbarer",
+          "lemma": "sichtbar",
           "article": null,
-          "tr": "belirlediler"
+          "tr": "daha görünür"
         },
         {
-          "form": "Zirkonkristalle",
-          "lemma": "Zirkonkristall",
-          "article": "der",
-          "tr": "zirkon kristalleri"
-        },
-        {
-          "form": "Auffällig",
-          "lemma": "auffällig",
+          "form": "bürgerschaftliches",
+          "lemma": "bürgerschaftlich",
           "article": null,
-          "tr": "dikkat çekici"
+          "tr": "yurttaşlara ait, sivil"
         },
         {
-          "form": "Zusammensetzung",
-          "lemma": "Zusammensetzung",
-          "article": "die",
-          "tr": "bileşim"
-        },
-        {
-          "form": "Hinweise",
-          "lemma": "Hinweis",
-          "article": "der",
-          "tr": "ipucu, işaret"
-        },
-        {
-          "form": "Manganoxide",
-          "lemma": "Manganoxid",
+          "form": "Vermessungs- und Katasteramt",
+          "lemma": "Vermessungs- und Katasteramt",
           "article": "das",
-          "tr": "mangan oksit"
+          "tr": "harita ve kadastro dairesi"
         },
         {
-          "form": "mikrobiellem",
-          "lemma": "mikrobiell",
+          "form": "Vorgestellt",
+          "lemma": "vorstellen",
           "article": null,
-          "tr": "mikrobiyal"
+          "tr": "tanıtıldı"
         },
         {
-          "form": "Beweis",
-          "lemma": "Beweis",
-          "article": "der",
-          "tr": "kanıt"
-        },
-        {
-          "form": "dichteren",
-          "lemma": "dicht",
-          "article": null,
-          "tr": "daha yoğun"
-        },
-        {
-          "form": "Atmosphäre",
-          "lemma": "Atmosphäre",
+          "form": "Vertreterinnen",
+          "lemma": "Vertreterin",
           "article": "die",
-          "tr": "atmosfer"
+          "tr": "kadın temsilciler"
         },
         {
-          "form": "Hochland",
-          "lemma": "Hochland",
+          "form": "Vereinen",
+          "lemma": "Verein",
+          "article": "der",
+          "tr": "dernek, kulüp"
+        },
+        {
+          "form": "Organisationen",
+          "lemma": "Organisation",
+          "article": "die",
+          "tr": "kuruluşlar"
+        },
+        {
+          "form": "filtern",
+          "lemma": "filtern",
+          "article": null,
+          "tr": "filtrelemek"
+        },
+        {
+          "form": "Kontaktdaten",
+          "lemma": "Kontaktdaten",
+          "article": "die",
+          "tr": "iletişim bilgileri"
+        },
+        {
+          "form": "Ehrenamt",
+          "lemma": "Ehrenamt",
           "article": "das",
-          "tr": "yayla, yüksek arazi"
+          "tr": "gönüllü görev"
         },
         {
-          "form": "Brocken",
-          "lemma": "Brocken",
-          "article": "der",
-          "tr": "parça, kütle"
-        },
-        {
-          "form": "Proben",
-          "lemma": "Probe",
+          "form": "Aufmerksamkeit",
+          "lemma": "Aufmerksamkeit",
           "article": "die",
-          "tr": "numune"
+          "tr": "dikkat, ilgi"
         },
         {
-          "form": "ähnelte",
-          "lemma": "ähneln",
+          "form": "gewinnen",
+          "lemma": "gewinnen",
           "article": null,
-          "tr": "benziyordu"
+          "tr": "kazanmak (burada: kazandırmak)"
+        },
+        {
+          "form": "Oberbürgermeister",
+          "lemma": "Oberbürgermeister",
+          "article": "der",
+          "tr": "büyükşehir belediye başkanı"
+        },
+        {
+          "form": "Einstieg",
+          "lemma": "Einstieg",
+          "article": "der",
+          "tr": "giriş, başlangıç"
+        },
+        {
+          "form": "erleichtern",
+          "lemma": "erleichtern",
+          "article": null,
+          "tr": "kolaylaştırmak"
+        },
+        {
+          "form": "anmelden",
+          "lemma": "sich anmelden",
+          "article": null,
+          "tr": "kaydolmak"
         }
       ],
       "vocabulary": [
         {
-          "de": "Hinweise auf etwas enthalten",
-          "article": null,
-          "tr": "bir şeye dair ipuçları içermek",
-          "example_de": "Der Bericht enthält Hinweise auf neue Preise."
-        },
-        {
-          "de": "einen Beweis liefern",
-          "article": null,
-          "tr": "kanıt sunmak",
-          "example_de": "Die Studie liefert keinen Beweis für diese Theorie."
-        },
-        {
-          "de": "das Alter bestimmen",
-          "article": null,
-          "tr": "yaşı belirlemek",
-          "example_de": "Man kann das Alter von Gestein bestimmen."
-        },
-        {
-          "de": "Oberfläche",
-          "article": "die",
-          "tr": "yüzey",
-          "example_de": "Die Oberfläche des Tisches ist ganz glatt."
-        },
-        {
-          "de": "in Verbindung bringen",
-          "article": null,
-          "tr": "ilişkilendirmek",
-          "example_de": "Viele bringen Herbst mit Regen in Verbindung."
-        },
-        {
-          "de": "ausdrücklich",
-          "article": null,
-          "tr": "açıkça",
-          "example_de": "Der Prof. hat ausdrücklich gesagt, dass es keine Verlängerung gibt."
-        },
-        {
-          "de": "gezielt",
-          "article": null,
-          "tr": "hedefli, bilinçli",
-          "example_de": "Ich suche gezielt nach einem günstigen Laptop."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wo wurde der Meteorit gefunden?",
-          "options": [
-            "In der Antarktis",
-            "In der Sahara",
-            "In Australien"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was stellt der Text klar?",
-          "options": [
-            "Es ist ein Beweis für Leben auf dem Mars",
-            "Es ist kein Beweis für früheres Leben",
-            "Der Stein ist nur 400 Jahre alt"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „gezielt“?",
-          "options": [
-            "zufällig",
-            "mit einem klaren Ziel",
-            "sehr schnell"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-10-31-doomformer",
-      "category": "de",
-      "title_de": "Doomformer: Ein neuronales Netz im Spiel Doom",
-      "summary_de": "Ein Entwickler hat im Klassiker Doom ein funktionierendes neuronales Netz gebaut, das handgeschriebene Ziffern erkennen kann. Das Projekt heißt Doomformer und läuft komplett innerhalb des Spiels. Als Rechenbausteine dienen sogenannte Voodoo Dolls, also Klone der Spielfigur, die entstehen, wenn ein Level mehrere Startpunkte hat. Rund 1.355 dieser Puppen laufen über Linien, die als Gewichte funktionieren, und steigen dann Treppen zur nächsten Schicht hinauf. Wer die linke Maustaste gedrückt hält, schießt nicht, sondern malt eine Ziffer auf den Boden. In einem Test mit 10.000 Versuchen lag das Netz bei etwa 9.716 Ziffern richtig, also bei rund 97 Prozent. Als Nächstes probiert der Entwickler aus, ob die KI das Spiel sogar selbst spielen kann. Eine einzige Entscheidung dauert dabei aber etwa 22 Sekunden, weshalb die Dämonen in den Tests so lange eingefroren werden. Spielbar ist das Ganze bisher noch nicht.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/doomformer-ki-in-doom-1770835/",
-      "glossary": [
-        {
-          "form": "Entwickler",
-          "lemma": "Entwickler",
-          "article": "der",
-          "tr": "geliştirici"
-        },
-        {
-          "form": "neuronales",
-          "lemma": "neuronal",
-          "article": null,
-          "tr": "nöral, sinirsel"
-        },
-        {
-          "form": "handgeschriebene",
-          "lemma": "handgeschrieben",
-          "article": null,
-          "tr": "el yazısıyla yazılmış"
-        },
-        {
-          "form": "Ziffern",
-          "lemma": "Ziffer",
-          "article": "die",
-          "tr": "rakam"
-        },
-        {
-          "form": "Rechenbausteine",
-          "lemma": "Rechenbaustein",
-          "article": "der",
-          "tr": "hesaplama yapı taşı"
-        },
-        {
-          "form": "Klone",
-          "lemma": "Klon",
-          "article": "der",
-          "tr": "klon"
-        },
-        {
-          "form": "Spielfigur",
-          "lemma": "Spielfigur",
-          "article": "die",
-          "tr": "oyun karakteri"
-        },
-        {
-          "form": "Gewichte",
-          "lemma": "Gewicht",
+          "de": "Ehrenamt",
           "article": "das",
-          "tr": "ağırlık"
+          "tr": "gönüllü görev",
+          "example_de": "Ich übernehme am Wochenende ein Ehrenamt im Sportverein."
         },
         {
-          "form": "Treppen",
-          "lemma": "Treppe",
-          "article": "die",
-          "tr": "merdiven"
-        },
-        {
-          "form": "Schicht",
-          "lemma": "Schicht",
-          "article": "die",
-          "tr": "katman"
-        },
-        {
-          "form": "gedrückt",
-          "lemma": "drücken",
+          "de": "sich engagieren",
           "article": null,
-          "tr": "basılı"
+          "tr": "gönüllü katılmak",
+          "example_de": "Viele Studierende engagieren sich in der Fachschaft."
         },
         {
-          "form": "Versuchen",
-          "lemma": "Versuch",
+          "de": "Aufmerksamkeit gewinnen",
+          "article": null,
+          "tr": "ilgi çekmek",
+          "example_de": "Das Video hat schnell Aufmerksamkeit gewonnen."
+        },
+        {
+          "de": "den Einstieg erleichtern",
+          "article": null,
+          "tr": "başlangıcı kolaylaştırmak",
+          "example_de": "Ein kurzer Kurs erleichtert den Einstieg ins Programmieren."
+        },
+        {
+          "de": "Kontakt aufnehmen",
+          "article": null,
+          "tr": "iletişime geçmek",
+          "example_de": "Du kannst direkt mit dem Verein Kontakt aufnehmen."
+        },
+        {
+          "de": "Verein",
           "article": "der",
-          "tr": "deneme"
-        },
-        {
-          "form": "Entscheidung",
-          "lemma": "Entscheidung",
-          "article": "die",
-          "tr": "karar"
-        },
-        {
-          "form": "Dämonen",
-          "lemma": "Dämon",
-          "article": "der",
-          "tr": "iblis"
-        },
-        {
-          "form": "eingefroren",
-          "lemma": "einfrieren",
-          "article": null,
-          "tr": "dondurulmuş"
-        },
-        {
-          "form": "Spielbar",
-          "lemma": "spielbar",
-          "article": null,
-          "tr": "oynanabilir"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "ein Netz bauen",
-          "article": null,
-          "tr": "bir ağ kurmak",
-          "example_de": "Er hat ein Netz aus Sensoren gebaut."
-        },
-        {
-          "de": "eine Entscheidung treffen",
-          "article": null,
-          "tr": "karar vermek",
-          "example_de": "Ich muss bis morgen eine Entscheidung treffen."
-        },
-        {
-          "de": "richtig liegen",
-          "article": null,
-          "tr": "doğru tahmin etmek",
-          "example_de": "Mit dieser Vermutung liegst du richtig."
-        },
-        {
-          "de": "Versuch",
-          "article": "der",
-          "tr": "deneme",
-          "example_de": "Beim zweiten Versuch hat es geklappt."
-        },
-        {
-          "de": "ausprobieren",
-          "article": null,
-          "tr": "denemek",
-          "example_de": "Ich will das neue Spiel ausprobieren."
-        },
-        {
-          "de": "erkennen",
-          "article": null,
-          "tr": "tanımak, fark etmek",
-          "example_de": "Die App kann Pflanzen automatisch erkennen."
-        },
-        {
-          "de": "komplett",
-          "article": null,
-          "tr": "tamamen",
-          "example_de": "Die Prüfung war komplett anders als erwartet."
+          "tr": "dernek, kulüp",
+          "example_de": "Mein Bruder spielt in einem Verein Tischtennis."
         }
       ],
       "exercises": [
         {
-          "question_de": "Was kann das Netz im Spiel erkennen?",
+          "question_de": "Was kann man mit der neuen Karte machen?",
           "options": [
-            "Gesichter",
-            "Handgeschriebene Ziffern",
-            "Musik"
+            "Tickets für Konzerte kaufen",
+            "Vereine finden und nach Stadtteil filtern",
+            "Bus- und Bahnfahrpläne abrufen"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Wie lange dauert eine Entscheidung der Spiel-KI?",
+          "question_de": "Wer hat die Karte zusammen mit dem Büro für Engagement entwickelt?",
           "options": [
-            "etwa 2 Sekunden",
-            "etwa 22 Sekunden",
-            "etwa 22 Minuten"
+            "Das Vermessungs- und Katasteramt",
+            "Die Polizei",
+            "Ein Sportverein",
+            "Die Universität"
           ],
-          "answer_index": 1
+          "answer_index": 0
         },
         {
-          "question_de": "Wie oft lag das Netz richtig?",
+          "question_de": "Was bedeutet „den Einstieg erleichtern“?",
           "options": [
-            "bei etwa 97 Prozent",
-            "bei etwa 50 Prozent",
-            "bei etwa 10 Prozent"
+            "den Anfang einfacher machen",
+            "etwas verbieten",
+            "einen Eintritt bezahlen"
           ],
           "answer_index": 0
         }
       ]
     },
     {
-      "id": "2026-10-31-syros-katzen",
+      "id": "2026-11-01-zuckerwatte-planeten",
       "category": "de",
-      "title_de": "Gratis-Aufenthalt auf griechischer Insel für Katzenfreunde",
-      "summary_de": "Auf der griechischen Kykladeninsel Syros können sich Tierfreunde um einen kostenlosen Aufenthalt bewerben. Die Organisation Syros Cats sucht für die Zeit von Juli bis Dezember 2027 vier Freiwillige, die mindestens einen Monat bleiben. Dafür bekommen sie ein Zimmer in einer Wohngemeinschaft und das Frühstück, die Anreise und die übrigen Mahlzeiten zahlen sie selbst. Gearbeitet wird etwa fünf Stunden am Tag an fünf Tagen pro Woche. Zu den Aufgaben gehören Füttern, Saubermachen und die Pflege der Katzen, manchmal auch die Gabe von Medikamenten. Ziel ist es, die Tiere an Menschen zu gewöhnen, damit sie später ein neues Zuhause finden. Bewerber müssen körperlich fit und mindestens 25 Jahre alt sein, eigene Tiere und Kinder dürfen nicht mitkommen. Die Bewerbungsphase beginnt am 1. November 2026. Wegen des großen Andrangs war die Internetseite der Organisation zuletzt zeitweise nicht erreichbar.",
-      "source_name": "watson",
-      "source_url": "https://www.watson.de/leben/good-news/389210934-einen-monat-kostenlos-auf-einer-griechischen-insel-verbringen-und-dabei-katzen-sitten-so-bewirbst-du-dich",
+      "title_de": "Zuckerwatte-Planeten: Zwei extrem leichte Riesen entdeckt",
+      "summary_de": "Astronomen haben zwei ungewöhnlich aufgeblähte Planeten entdeckt, die in den Medien schon Zuckerwatte-Planeten heißen. Sie umkreisen den sonnenähnlichen Stern TOI-791, der rund 1.113 Lichtjahre von uns entfernt liegt. Beide Planeten sind ungefähr so groß wie Jupiter, besitzen aber nur wenige Prozent von dessen Masse. Der kleinere bringt es auf etwa drei Prozent, der größere auf knapp sechs Prozent der Jupitermasse. Dadurch ist ihre Dichte extrem niedrig, vergleichbar mit der von Zuckerwatte. Gefunden hat das Team sie in Daten des Weltraumteleskops TESS, das den Stern sieben Jahre lang beobachtet hat. Weil sich die beiden Planeten gegenseitig anziehen, verschieben sich ihre Durchgänge vor dem Stern leicht, und daraus ließen sich die Massen berechnen. Solche Planeten sind selten, zwei davon im selben System sind eine echte Besonderheit. Als Nächstes wollen die Forschenden ihre Atmosphären genauer untersuchen.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/nasa-zuckerwatte-planeten-entdeckung-toi791-1749620/",
       "glossary": [
         {
-          "form": "Kykladeninsel",
-          "lemma": "Kykladeninsel",
-          "article": "die",
-          "tr": "Kiklad adası"
-        },
-        {
-          "form": "Tierfreunde",
-          "lemma": "Tierfreund",
+          "form": "Astronomen",
+          "lemma": "Astronom",
           "article": "der",
-          "tr": "hayvansever"
+          "tr": "astronomlar"
         },
         {
-          "form": "bewerben",
-          "lemma": "sich bewerben",
+          "form": "ungewöhnlich",
+          "lemma": "ungewöhnlich",
           "article": null,
-          "tr": "başvurmak"
+          "tr": "olağandışı"
         },
         {
-          "form": "Aufenthalt",
-          "lemma": "Aufenthalt",
-          "article": "der",
-          "tr": "kalış"
-        },
-        {
-          "form": "Freiwillige",
-          "lemma": "Freiwillige",
-          "article": "der",
-          "tr": "gönüllü"
-        },
-        {
-          "form": "Wohngemeinschaft",
-          "lemma": "Wohngemeinschaft",
-          "article": "die",
-          "tr": "paylaşımlı ev"
-        },
-        {
-          "form": "Anreise",
-          "lemma": "Anreise",
-          "article": "die",
-          "tr": "yolculuk, varış"
-        },
-        {
-          "form": "Mahlzeiten",
-          "lemma": "Mahlzeit",
-          "article": "die",
-          "tr": "öğün"
-        },
-        {
-          "form": "Aufgaben",
-          "lemma": "Aufgabe",
-          "article": "die",
-          "tr": "görev"
-        },
-        {
-          "form": "Saubermachen",
-          "lemma": "Saubermachen",
-          "article": "das",
-          "tr": "temizlik yapma"
-        },
-        {
-          "form": "Pflege",
-          "lemma": "Pflege",
-          "article": "die",
-          "tr": "bakım"
-        },
-        {
-          "form": "Medikamenten",
-          "lemma": "Medikament",
-          "article": "das",
-          "tr": "ilaç"
-        },
-        {
-          "form": "gewöhnen",
-          "lemma": "gewöhnen",
+          "form": "aufgeblähte",
+          "lemma": "aufgebläht",
           "article": null,
-          "tr": "alıştırmak"
+          "tr": "şişmiş"
         },
         {
-          "form": "Bewerber",
-          "lemma": "Bewerber",
-          "article": "der",
-          "tr": "başvuran"
-        },
-        {
-          "form": "körperlich",
-          "lemma": "körperlich",
-          "article": null,
-          "tr": "fiziksel olarak"
-        },
-        {
-          "form": "Andrangs",
-          "lemma": "Andrang",
-          "article": "der",
-          "tr": "yoğun ilgi, izdiham"
-        },
-        {
-          "form": "zeitweise",
-          "lemma": "zeitweise",
-          "article": null,
-          "tr": "zaman zaman"
-        },
-        {
-          "form": "erreichbar",
-          "lemma": "erreichbar",
-          "article": null,
-          "tr": "ulaşılabilir"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "sich um etwas bewerben",
-          "article": null,
-          "tr": "bir şeye başvurmak",
-          "example_de": "Ich bewerbe mich um ein Praktikum bei Siemens."
-        },
-        {
-          "de": "Aufgaben gehören zu",
-          "article": null,
-          "tr": "görevler arasında … var",
-          "example_de": "Zu meinen Aufgaben gehört die Wartung der Geräte."
-        },
-        {
-          "de": "sich an etwas gewöhnen",
-          "article": null,
-          "tr": "bir şeye alışmak",
-          "example_de": "Ich muss mich an den frühen Unterricht gewöhnen."
-        },
-        {
-          "de": "Wohngemeinschaft",
-          "article": "die",
-          "tr": "paylaşımlı ev (WG)",
-          "example_de": "In Düsseldorf wohnen viele Studenten in einer Wohngemeinschaft."
-        },
-        {
-          "de": "kostenlos",
-          "article": null,
-          "tr": "ücretsiz",
-          "example_de": "Der Eintritt ins Museum ist heute kostenlos."
-        },
-        {
-          "de": "Andrang",
-          "article": "der",
-          "tr": "yoğun talep",
-          "example_de": "Am Samstag gibt es immer großen Andrang im Supermarkt."
-        },
-        {
-          "de": "zeitweise",
-          "article": null,
-          "tr": "zaman zaman",
-          "example_de": "Das Internet fiel zeitweise aus."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wie lange müssen die Freiwilligen mindestens bleiben?",
-          "options": [
-            "eine Woche",
-            "einen Monat",
-            "ein Jahr"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was zahlen die Freiwilligen selbst?",
-          "options": [
-            "Zimmer und Frühstück",
-            "Anreise und übrige Mahlzeiten",
-            "Nichts"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „Andrang“?",
-          "options": [
-            "viele Menschen wollen gleichzeitig etwas",
-            "ein Streit",
-            "eine Pause"
-          ],
-          "answer_index": 0
-        }
-      ]
-    },
-    {
-      "id": "2026-10-31-elder-scrolls-6",
-      "category": "gaming",
-      "title_de": "Elder Scrolls 6: Ankündigung im November?",
-      "summary_de": "Fans von The Elder Scrolls haben neue Hoffnung auf Nachrichten zum sechsten Teil der Reihe. Die Seite The Verge berichtet unter Berufung auf Quellen, dass Bethesda das Spiel schon im November 2026 ankündigen könnte. Es soll angeblich The Elder Scrolls VI: Sentinel heißen. Sentinel ist eines der größten Königreiche in der Provinz Hammerfell, die an Himmelsrand, Hochfels und Cyrodiil grenzt. Bestätigt hat Bethesda nichts, deshalb bleibt alles vorerst ein Gerücht. Ein neuer Instagram-Beitrag des Studios zeigt eine frostige Tür mit Laternen, die von Raben gehalten werden, was eher nach Norden als nach Wüste aussieht. Wer Hammerfell schon jetzt erkunden will, kann das in The Elder Scrolls Online tun, wo die Provinz inzwischen zum Basisspiel gehört. Das Spiel kostet auf Steam einmalig 19,99 Euro, die Deluxe-Version mit den früheren Erweiterungen 59,99 Euro. Allerdings spielt Online rund 1.000 Jahre vor Skyrim, die Provinz kann im neuen Teil also ganz anders aussehen.",
-      "source_name": "Mein-MMO",
-      "source_url": "https://mein-mmo.de/elder-scrolls-6-hammerfell-eso/",
-      "glossary": [
-        {
-          "form": "Hoffnung",
-          "lemma": "Hoffnung",
-          "article": "die",
-          "tr": "umut"
-        },
-        {
-          "form": "Quellen",
-          "lemma": "Quelle",
-          "article": "die",
-          "tr": "kaynak"
-        },
-        {
-          "form": "ankündigen",
-          "lemma": "ankündigen",
-          "article": null,
-          "tr": "duyurmak"
-        },
-        {
-          "form": "Königreiche",
-          "lemma": "Königreich",
-          "article": "das",
-          "tr": "krallık"
-        },
-        {
-          "form": "Provinz",
-          "lemma": "Provinz",
-          "article": "die",
-          "tr": "eyalet"
-        },
-        {
-          "form": "grenzt",
-          "lemma": "grenzen",
-          "article": null,
-          "tr": "sınır olmak"
-        },
-        {
-          "form": "Bestätigt",
-          "lemma": "bestätigen",
-          "article": null,
-          "tr": "doğrulamak"
-        },
-        {
-          "form": "Gerücht",
-          "lemma": "Gerücht",
-          "article": "das",
-          "tr": "söylenti"
-        },
-        {
-          "form": "frostige",
-          "lemma": "frostig",
-          "article": null,
-          "tr": "buz gibi, karlı"
-        },
-        {
-          "form": "Laternen",
-          "lemma": "Laterne",
-          "article": "die",
-          "tr": "fener"
-        },
-        {
-          "form": "Raben",
-          "lemma": "Rabe",
-          "article": "der",
-          "tr": "kuzgun"
-        },
-        {
-          "form": "Wüste",
-          "lemma": "Wüste",
-          "article": "die",
-          "tr": "çöl"
-        },
-        {
-          "form": "erkunden",
-          "lemma": "erkunden",
+          "form": "entdeckt",
+          "lemma": "entdecken",
           "article": null,
           "tr": "keşfetmek"
         },
         {
-          "form": "Basisspiel",
-          "lemma": "Basisspiel",
+          "form": "umkreisen",
+          "lemma": "umkreisen",
+          "article": null,
+          "tr": "yörüngesinde dönmek"
+        },
+        {
+          "form": "sonnenähnlichen",
+          "lemma": "sonnenähnlich",
+          "article": null,
+          "tr": "Güneş'e benzer"
+        },
+        {
+          "form": "Lichtjahre",
+          "lemma": "Lichtjahr",
           "article": "das",
-          "tr": "temel oyun"
+          "tr": "ışık yılı"
+        },
+        {
+          "form": "entfernt",
+          "lemma": "entfernt",
+          "article": null,
+          "tr": "uzakta"
+        },
+        {
+          "form": "Masse",
+          "lemma": "Masse",
+          "article": "die",
+          "tr": "kütle"
+        },
+        {
+          "form": "Dichte",
+          "lemma": "Dichte",
+          "article": "die",
+          "tr": "yoğunluk"
+        },
+        {
+          "form": "vergleichbar",
+          "lemma": "vergleichbar",
+          "article": null,
+          "tr": "karşılaştırılabilir"
+        },
+        {
+          "form": "Weltraumteleskops",
+          "lemma": "Weltraumteleskop",
+          "article": "das",
+          "tr": "uzay teleskobu"
+        },
+        {
+          "form": "beobachtet",
+          "lemma": "beobachten",
+          "article": null,
+          "tr": "gözlemlemek"
+        },
+        {
+          "form": "gegenseitig",
+          "lemma": "gegenseitig",
+          "article": null,
+          "tr": "karşılıklı"
+        },
+        {
+          "form": "Durchgänge",
+          "lemma": "Durchgang",
+          "article": "der",
+          "tr": "geçiş (transit)"
+        },
+        {
+          "form": "berechnen",
+          "lemma": "berechnen",
+          "article": null,
+          "tr": "hesaplamak"
+        },
+        {
+          "form": "Besonderheit",
+          "lemma": "Besonderheit",
+          "article": "die",
+          "tr": "özellik, ayrıcalık"
+        },
+        {
+          "form": "Forschenden",
+          "lemma": "Forschende",
+          "article": "der",
+          "tr": "araştırmacılar"
+        },
+        {
+          "form": "Atmosphären",
+          "lemma": "Atmosphäre",
+          "article": "die",
+          "tr": "atmosferler"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Dichte",
+          "article": "die",
+          "tr": "yoğunluk",
+          "example_de": "Blei hat eine viel höhere Dichte als Holz."
+        },
+        {
+          "de": "Daten auswerten",
+          "article": null,
+          "tr": "verileri değerlendirmek",
+          "example_de": "Im Labor müssen wir die Messdaten auswerten."
+        },
+        {
+          "de": "etwas berechnen",
+          "article": null,
+          "tr": "hesaplamak",
+          "example_de": "Mit der Formel kannst du den Widerstand berechnen."
+        },
+        {
+          "de": "gegenseitig",
+          "article": null,
+          "tr": "karşılıklı",
+          "example_de": "Wir helfen uns gegenseitig beim Lernen."
+        },
+        {
+          "de": "eine Entdeckung machen",
+          "article": null,
+          "tr": "keşif yapmak",
+          "example_de": "Die Forscherin hat eine spannende Entdeckung gemacht."
+        },
+        {
+          "de": "selten sein",
+          "article": null,
+          "tr": "nadir olmak",
+          "example_de": "Gute Wohnungen in Düsseldorf sind selten."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie groß sind die beiden Planeten?",
+          "options": [
+            "So groß wie die Erde",
+            "Etwa so groß wie Jupiter",
+            "Viel größer als die Sonne"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Womit werden die Planeten verglichen?",
+          "options": [
+            "Mit Zuckerwatte",
+            "Mit Eisen",
+            "Mit Wasser",
+            "Mit Gold"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Wie konnten die Massen berechnet werden?",
+          "options": [
+            "Durch Fotos vom Boden",
+            "Durch verschobene Durchgänge vor dem Stern",
+            "Durch eine Raumsonde vor Ort"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-mars-sonden-rettung",
+      "category": "de",
+      "title_de": "Wie die NASA ihre alten Mars-Sonden am Leben hält",
+      "summary_de": "Zwei amerikanische Raumsonden, die den Mars umkreisen, laufen seit Jahrzehnten weit über ihre geplante Dauer hinaus. Mars Odyssey ist seit 25 Jahren im Einsatz, der Mars Reconnaissance Orbiter seit 2006. Sie leiten die Daten der Rover zur Erde weiter, weil deren Sender dafür zu schwach sind. Nach den Fehlschlägen von 1999 ließ das Team wichtige Bauteile doppelt einbauen und packte zusätzliche Reserven an Batterien und Treibstoff ein. Beim Orbiter musste man zuletzt einen Sternenkatalog aktualisieren, weil sich die Sterne im Lauf der Jahre minimal bewegt haben. Bei Odyssey wird der Treibstoff knapp, und es gibt keine normale Tankanzeige. Deshalb heizt das Bodenteam den Tank und misst, wie schnell er warm wird, denn ein voller Tank erwärmt sich langsamer. Sorgen macht den Fachleuten der Nachwuchs: Die Sonde MAVEN ist ausgefallen, und die geplanten Nachfolger sind kleiner und günstiger. Ein neuer Relaissatellit von Blue Origin soll bis 2028 fertig sein.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/nasa-mars-sonden-technik-rettung-1770491/",
+      "glossary": [
+        {
+          "form": "Raumsonden",
+          "lemma": "Raumsonde",
+          "article": "die",
+          "tr": "uzay sondaları"
+        },
+        {
+          "form": "umkreisen",
+          "lemma": "umkreisen",
+          "article": null,
+          "tr": "yörüngesinde dönmek"
+        },
+        {
+          "form": "Dauer",
+          "lemma": "Dauer",
+          "article": "die",
+          "tr": "süre"
+        },
+        {
+          "form": "Einsatz",
+          "lemma": "Einsatz",
+          "article": "der",
+          "tr": "görev, kullanım"
+        },
+        {
+          "form": "leiten",
+          "lemma": "weiterleiten",
+          "article": null,
+          "tr": "iletmek"
+        },
+        {
+          "form": "Sender",
+          "lemma": "Sender",
+          "article": "der",
+          "tr": "verici"
+        },
+        {
+          "form": "Fehlschlägen",
+          "lemma": "Fehlschlag",
+          "article": "der",
+          "tr": "başarısızlık"
+        },
+        {
+          "form": "Bauteile",
+          "lemma": "Bauteil",
+          "article": "das",
+          "tr": "parça, bileşen"
+        },
+        {
+          "form": "Reserven",
+          "lemma": "Reserve",
+          "article": "die",
+          "tr": "yedek"
+        },
+        {
+          "form": "Treibstoff",
+          "lemma": "Treibstoff",
+          "article": "der",
+          "tr": "yakıt"
+        },
+        {
+          "form": "aktualisieren",
+          "lemma": "aktualisieren",
+          "article": null,
+          "tr": "güncellemek"
+        },
+        {
+          "form": "minimal",
+          "lemma": "minimal",
+          "article": null,
+          "tr": "çok az"
+        },
+        {
+          "form": "knapp",
+          "lemma": "knapp",
+          "article": null,
+          "tr": "kıt"
+        },
+        {
+          "form": "Tankanzeige",
+          "lemma": "Tankanzeige",
+          "article": "die",
+          "tr": "yakıt göstergesi"
+        },
+        {
+          "form": "heizt",
+          "lemma": "heizen",
+          "article": null,
+          "tr": "ısıtmak"
+        },
+        {
+          "form": "erwärmt",
+          "lemma": "sich erwärmen",
+          "article": null,
+          "tr": "ısınmak"
+        },
+        {
+          "form": "Fachleuten",
+          "lemma": "Fachmann",
+          "article": "der",
+          "tr": "uzmanlar"
+        },
+        {
+          "form": "ausgefallen",
+          "lemma": "ausfallen",
+          "article": null,
+          "tr": "arızalanmak"
+        },
+        {
+          "form": "Nachfolger",
+          "lemma": "Nachfolger",
+          "article": "der",
+          "tr": "halef, yerine geçen"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "im Einsatz sein",
+          "article": null,
+          "tr": "görevde olmak",
+          "example_de": "Die Feuerwehr war die ganze Nacht im Einsatz."
+        },
+        {
+          "de": "Reserven",
+          "article": "die",
+          "tr": "yedekler",
+          "example_de": "Ich habe immer eine Powerbank als Reserve dabei."
+        },
+        {
+          "de": "knapp werden",
+          "article": null,
+          "tr": "azalmak, tükenmeye başlamak",
+          "example_de": "Vor der Klausur wird die Zeit knapp."
+        },
+        {
+          "de": "ausfallen",
+          "article": null,
+          "tr": "arızalanmak, iptal olmak",
+          "example_de": "Heute fällt die Vorlesung aus."
+        },
+        {
+          "de": "Sorgen machen",
+          "article": null,
+          "tr": "endişelendirmek",
+          "example_de": "Der hohe Energieverbrauch macht mir Sorgen."
+        },
+        {
+          "de": "Treibstoff",
+          "article": "der",
+          "tr": "yakıt",
+          "example_de": "Raketen brauchen sehr viel Treibstoff."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wofür sind die beiden Sonden im Orbit besonders wichtig?",
+          "options": [
+            "Sie bauen neue Rover",
+            "Sie leiten Daten der Rover zur Erde weiter",
+            "Sie fotografieren nur die Erde"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wie schätzt das Team den restlichen Treibstoff bei Odyssey ein?",
+          "options": [
+            "Mit einer normalen Tankanzeige",
+            "Es heizt den Tank und misst die Erwärmung",
+            "Es wiegt die Sonde"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „knapp“ im Text?",
+          "options": [
+            "sehr groß",
+            "neu",
+            "fast aufgebraucht",
+            "kostenlos"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-wow-forever-start",
+      "category": "gaming",
+      "title_de": "World of Warcraft: Forever – Das erwartet euch zum Start",
+      "summary_de": "Am 5. November startet World of Warcraft: Forever, und Blizzard hat vorab weitere Details verraten. Für die Stufen 1 bis 60 soll es mehr als 1.000 neue Quests geben, die Spieler unter anderem nach Hyjal führen. Dazu kommen neun Dungeons für fünf Spieler. Neu ist auch das Volk der Highborne, das man in beiden Fraktionen spielen kann. Allerdings ist dieses Volk nicht im normalen Abo enthalten, sondern verlangt mindestens das kostenpflichtige Heroic-Paket. Beim ersten Start wählt man zwischen einer klassischen und einer verbesserten Darstellung. Die verbesserte Variante bringt HD-Modelle, Questmarker und eine gemeinsame Taschenansicht mit. Außerdem bekommen Figuren einen zweiteiligen Namen, der in der Region einmalig sein muss. Der Hardcore-Modus fehlt zum Start und soll erst später nachgereicht werden.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/World-of-Warcraft-Forever-Spiel-78891/News/1000-neue-quests-volk-kostet-extra-1558477/",
+      "glossary": [
+        {
+          "form": "verraten",
+          "lemma": "verraten",
+          "article": null,
+          "tr": "açıklamak, ele vermek"
+        },
+        {
+          "form": "vorab",
+          "lemma": "vorab",
+          "article": null,
+          "tr": "önceden"
+        },
+        {
+          "form": "Stufen",
+          "lemma": "Stufe",
+          "article": "die",
+          "tr": "seviye"
+        },
+        {
+          "form": "führen",
+          "lemma": "führen",
+          "article": null,
+          "tr": "götürmek"
+        },
+        {
+          "form": "Fraktionen",
+          "lemma": "Fraktion",
+          "article": "die",
+          "tr": "hizip, taraf"
+        },
+        {
+          "form": "Abo",
+          "lemma": "Abo",
+          "article": "das",
+          "tr": "abonelik"
+        },
+        {
+          "form": "enthalten",
+          "lemma": "enthalten",
+          "article": null,
+          "tr": "içermek"
+        },
+        {
+          "form": "verlangt",
+          "lemma": "verlangen",
+          "article": null,
+          "tr": "gerektirmek, talep etmek"
+        },
+        {
+          "form": "kostenpflichtige",
+          "lemma": "kostenpflichtig",
+          "article": null,
+          "tr": "ücretli"
+        },
+        {
+          "form": "Paket",
+          "lemma": "Paket",
+          "article": "das",
+          "tr": "paket"
+        },
+        {
+          "form": "Darstellung",
+          "lemma": "Darstellung",
+          "article": "die",
+          "tr": "görünüm, sunum"
+        },
+        {
+          "form": "verbesserten",
+          "lemma": "verbessert",
+          "article": null,
+          "tr": "geliştirilmiş"
+        },
+        {
+          "form": "Variante",
+          "lemma": "Variante",
+          "article": "die",
+          "tr": "varyant"
+        },
+        {
+          "form": "Figuren",
+          "lemma": "Figur",
+          "article": "die",
+          "tr": "karakterler"
+        },
+        {
+          "form": "zweiteiligen",
+          "lemma": "zweiteilig",
+          "article": null,
+          "tr": "iki parçalı"
         },
         {
           "form": "einmalig",
           "lemma": "einmalig",
           "article": null,
-          "tr": "tek seferlik"
+          "tr": "benzersiz"
         },
         {
-          "form": "Erweiterungen",
-          "lemma": "Erweiterung",
-          "article": "die",
-          "tr": "genişleme paketi"
-        },
-        {
-          "form": "inzwischen",
-          "lemma": "inzwischen",
+          "form": "fehlt",
+          "lemma": "fehlen",
           "article": null,
-          "tr": "bu arada, artık"
+          "tr": "eksik olmak"
+        },
+        {
+          "form": "nachgereicht",
+          "lemma": "nachreichen",
+          "article": null,
+          "tr": "sonradan eklemek"
         }
       ],
       "vocabulary": [
         {
-          "de": "ein Gerücht",
+          "de": "Details verraten",
           "article": null,
-          "tr": "söylenti",
-          "example_de": "Das ist nur ein Gerücht, nichts ist offiziell."
+          "tr": "detayları açıklamak",
+          "example_de": "Der Entwickler hat noch keine Details verraten."
         },
         {
-          "de": "etwas ankündigen",
+          "de": "im Abo enthalten sein",
           "article": null,
-          "tr": "bir şeyi duyurmak",
-          "example_de": "Die Firma will ein neues Handy ankündigen."
+          "tr": "abonelikte dahil olmak",
+          "example_de": "Die Serie ist im Abo enthalten."
         },
         {
-          "de": "unter Berufung auf",
+          "de": "kostenpflichtig",
           "article": null,
-          "tr": "…e dayanarak",
-          "example_de": "Die Zeitung schreibt unter Berufung auf Insider darüber."
+          "tr": "ücretli",
+          "example_de": "Der Parkplatz ist leider kostenpflichtig."
         },
         {
-          "de": "zu etwas gehören",
+          "de": "zum Start",
           "article": null,
-          "tr": "bir şeyin parçası olmak",
-          "example_de": "Der Controller gehört zum Lieferumfang."
+          "tr": "başlangıçta",
+          "example_de": "Zum Start gibt es nur wenige Server."
         },
         {
-          "de": "bestätigen",
+          "de": "später nachreichen",
           "article": null,
-          "tr": "doğrulamak",
-          "example_de": "Der Prof. hat meine Note bestätigt."
+          "tr": "sonradan eklemek",
+          "example_de": "Die Unterlagen reiche ich später nach."
         },
         {
-          "de": "Erweiterung",
+          "de": "Variante",
           "article": "die",
-          "tr": "genişleme (paketi)",
-          "example_de": "Für das Spiel kommt bald eine Erweiterung."
-        },
-        {
-          "de": "vorerst",
-          "article": null,
-          "tr": "şimdilik",
-          "example_de": "Wir bleiben vorerst zu Hause."
+          "tr": "seçenek, varyant",
+          "example_de": "Welche Variante gefällt dir besser?"
         }
       ],
       "exercises": [
         {
-          "question_de": "Wie heißt das Spiel angeblich?",
+          "question_de": "Was ist am neuen Volk der Highborne ein Nachteil?",
           "options": [
-            "The Elder Scrolls VI: Sentinel",
-            "Skyrim 2",
-            "Hammerfell Online"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Hat Bethesda das Spiel offiziell bestätigt?",
-          "options": [
-            "Ja, mit Datum",
-            "Nein, es ist ein Gerücht",
-            "Ja, im Oktober"
+            "Es ist nur für Horde spielbar",
+            "Es kostet extra und ist nicht im normalen Abo",
+            "Es hat keine Quests"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „vorerst“?",
+          "question_de": "Was fehlt zum Start?",
           "options": [
-            "niemals",
-            "für den Moment",
-            "immer"
+            "Der Hardcore-Modus",
+            "Alle Dungeons",
+            "Neue Quests",
+            "Der Enhanced-Modus"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „kostenpflichtig“?",
+          "options": [
+            "gratis",
+            "man muss dafür bezahlen",
+            "sehr schwer"
           ],
           "answer_index": 1
         }
       ]
     },
     {
-      "id": "2026-10-31-wow-forever-mega-raid",
+      "id": "2026-11-01-romero-shooter-neustart",
       "category": "gaming",
-      "title_de": "WoW Forever: Kommen Mega-Raids mit 120 Spielern?",
-      "summary_de": "Für die Classic-Variante World of Warcraft Forever diskutieren Fans und Entwickler über deutlich größere Raidgruppen. Bisher sind in einem Raid höchstens 40 Spieler erlaubt, doch in einem aktuellen Podcast fragten Zuhörer nach Gruppen mit 80 oder sogar 120 Charakteren. Die Entwickler sagten, sie hätten dazu nichts anzukündigen, erwähnten aber ein Whiteboard mit dem Titel Mega-Raid. Das lässt vermuten, dass die Idee intern durchaus besprochen wird. Es geht dabei weniger um neue Bosskämpfe als darum, große Menschenmengen zusammenzubringen. Davon würden große Schlachten zwischen Spielern, Gilden-Events und Rollenspiel-Abende profitieren. Aktuell müssen Veranstalter mehrere Gruppen gründen und hoffen, dass das Layer-System sie nicht auf verschiedene Ebenen verteilt. Forever kennt nämlich keine getrennten Server, sondern teilt die Spielwelt automatisch in Schichten auf. Der Autor vermutet, dass es noch einige Wochen dauert, bis viele Spieler den Endgame-Inhalt erreichen.",
-      "source_name": "Mein-MMO",
-      "source_url": "https://mein-mmo.de/wow-forever-mega-raids-120-leute/",
+      "title_de": "Romeros Shooter überlebt den Xbox-Ausstieg – aber ganz anders",
+      "summary_de": "Das neue Shooter-Projekt von Romero Games hat das Ende der Xbox-Finanzierung überlebt, sieht aber völlig anders aus als geplant. Das Studio von Doom-Mitschöpfer John Romero sollte ursprünglich ein großes Ego-Shooter-Spiel entwickeln. Als Microsoft Stellen strich, stellte sich heraus, dass Xbox der bisher ungenannte Geldgeber war. Danach schrumpfte das Team zeitweise von 110 auf nur noch fünf Leute. Inzwischen hat ein neuer, noch unbekannter Publisher die Wiedereinstellung von zehn Entwicklern ermöglicht. Das ursprüngliche Spiel war für 110 Mitarbeitende ausgelegt und lässt sich mit dem kleinen Team nicht fertigstellen. Deshalb arbeitet das Studio nun an einem neuen, kleineren Konzept. Vieles aus der früheren Arbeit, etwa Waffen und Grafiken, kann dabei weiterverwendet werden. Laut Romero lässt der neue Geldgeber dem Team volle kreative Freiheit. Wann das Spiel erscheint, ist offen.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/Spiele-Thema-239104/News/John-Romero-Doom-Neuer-Shooter-Neustart-1558488/",
       "glossary": [
         {
-          "form": "diskutieren",
-          "lemma": "diskutieren",
-          "article": null,
-          "tr": "tartışmak"
-        },
-        {
-          "form": "deutlich",
-          "lemma": "deutlich",
-          "article": null,
-          "tr": "belirgin şekilde"
-        },
-        {
-          "form": "Raidgruppen",
-          "lemma": "Raidgruppe",
+          "form": "Finanzierung",
+          "lemma": "Finanzierung",
           "article": "die",
-          "tr": "baskın grubu"
+          "tr": "finansman"
         },
         {
-          "form": "höchstens",
-          "lemma": "höchstens",
+          "form": "überlebt",
+          "lemma": "überleben",
           "article": null,
-          "tr": "en fazla"
+          "tr": "hayatta kalmak"
         },
         {
-          "form": "erlaubt",
-          "lemma": "erlauben",
+          "form": "ursprünglich",
+          "lemma": "ursprünglich",
           "article": null,
-          "tr": "izin verilmiş"
+          "tr": "aslen, başlangıçta"
         },
         {
-          "form": "Zuhörer",
-          "lemma": "Zuhörer",
+          "form": "Mitschöpfer",
+          "lemma": "Mitschöpfer",
           "article": "der",
-          "tr": "dinleyici"
+          "tr": "ortak yaratıcı"
         },
         {
-          "form": "anzukündigen",
-          "lemma": "ankündigen",
-          "article": null,
-          "tr": "duyurmak"
-        },
-        {
-          "form": "erwähnten",
-          "lemma": "erwähnen",
-          "article": null,
-          "tr": "andılar"
-        },
-        {
-          "form": "vermuten",
-          "lemma": "vermuten",
-          "article": null,
-          "tr": "tahmin etmek"
-        },
-        {
-          "form": "intern",
-          "lemma": "intern",
-          "article": null,
-          "tr": "dahili olarak"
-        },
-        {
-          "form": "besprochen",
-          "lemma": "besprechen",
-          "article": null,
-          "tr": "görüşmek"
-        },
-        {
-          "form": "Menschenmengen",
-          "lemma": "Menschenmenge",
+          "form": "Stellen",
+          "lemma": "Stelle",
           "article": "die",
-          "tr": "kalabalık"
+          "tr": "kadro, pozisyon"
         },
         {
-          "form": "profitieren",
-          "lemma": "profitieren",
+          "form": "strich",
+          "lemma": "streichen",
           "article": null,
-          "tr": "yararlanmak"
+          "tr": "silmek, kesmek"
         },
         {
-          "form": "Schlachten",
-          "lemma": "Schlacht",
-          "article": "die",
-          "tr": "savaş"
+          "form": "ungenannte",
+          "lemma": "ungenannt",
+          "article": null,
+          "tr": "adı verilmemiş"
         },
         {
-          "form": "Veranstalter",
-          "lemma": "Veranstalter",
+          "form": "Geldgeber",
+          "lemma": "Geldgeber",
           "article": "der",
-          "tr": "organizatör"
+          "tr": "finansör"
         },
         {
-          "form": "verteilt",
-          "lemma": "verteilen",
+          "form": "schrumpfte",
+          "lemma": "schrumpfen",
           "article": null,
-          "tr": "dağıtmak"
+          "tr": "küçülmek"
         },
         {
-          "form": "getrennten",
-          "lemma": "getrennt",
+          "form": "zeitweise",
+          "lemma": "zeitweise",
           "article": null,
-          "tr": "ayrı"
+          "tr": "geçici olarak"
         },
         {
-          "form": "Schichten",
-          "lemma": "Schicht",
+          "form": "Wiedereinstellung",
+          "lemma": "Wiedereinstellung",
           "article": "die",
-          "tr": "katman"
+          "tr": "yeniden işe alım"
         },
         {
-          "form": "Autor",
-          "lemma": "Autor",
-          "article": "der",
-          "tr": "yazar"
-        },
-        {
-          "form": "vermutet",
-          "lemma": "vermuten",
+          "form": "ermöglicht",
+          "lemma": "ermöglichen",
           "article": null,
-          "tr": "tahmin ediyor"
+          "tr": "mümkün kılmak"
+        },
+        {
+          "form": "ausgelegt",
+          "lemma": "auslegen",
+          "article": null,
+          "tr": "tasarlamak"
+        },
+        {
+          "form": "fertigstellen",
+          "lemma": "fertigstellen",
+          "article": null,
+          "tr": "tamamlamak"
+        },
+        {
+          "form": "Konzept",
+          "lemma": "Konzept",
+          "article": "das",
+          "tr": "konsept"
+        },
+        {
+          "form": "weiterverwendet",
+          "lemma": "weiterverwenden",
+          "article": null,
+          "tr": "yeniden kullanmak"
+        },
+        {
+          "form": "kreative",
+          "lemma": "kreativ",
+          "article": null,
+          "tr": "yaratıcı"
+        },
+        {
+          "form": "offen",
+          "lemma": "offen",
+          "article": null,
+          "tr": "belirsiz, açık"
         }
       ],
       "vocabulary": [
         {
-          "de": "von etwas profitieren",
+          "de": "Stellen streichen",
           "article": null,
-          "tr": "bir şeyden yararlanmak",
-          "example_de": "Studenten profitieren von günstigen Tickets."
+          "tr": "kadro kesmek",
+          "example_de": "Die Firma will 200 Stellen streichen."
         },
         {
-          "de": "etwas erwähnen",
+          "de": "fertigstellen",
           "article": null,
-          "tr": "bir şeyi anmak",
-          "example_de": "Er hat den Termin nur kurz erwähnt."
+          "tr": "tamamlamak",
+          "example_de": "Ich muss die Hausarbeit bis Freitag fertigstellen."
         },
         {
-          "de": "nichts anzukündigen haben",
-          "article": null,
-          "tr": "duyuracak bir şeyi olmamak",
-          "example_de": "Zum Release haben wir noch nichts anzukündigen."
-        },
-        {
-          "de": "Veranstalter",
+          "de": "Geldgeber",
           "article": "der",
-          "tr": "organizatör",
-          "example_de": "Der Veranstalter hat das Konzert verschoben."
+          "tr": "finansör",
+          "example_de": "Das Start-up sucht noch einen Geldgeber."
         },
         {
-          "de": "Menschenmenge",
-          "article": "die",
-          "tr": "kalabalık",
-          "example_de": "Auf der Kö war eine große Menschenmenge."
-        },
-        {
-          "de": "vermuten",
+          "de": "auf etwas ausgelegt sein",
           "article": null,
-          "tr": "tahmin etmek, sanmak",
-          "example_de": "Ich vermute, dass der Zug Verspätung hat."
+          "tr": "bir şey için tasarlanmış olmak",
+          "example_de": "Die Küche ist für vier Personen ausgelegt."
         },
         {
-          "de": "eine Idee besprechen",
+          "de": "freie Hand haben",
           "article": null,
-          "tr": "bir fikri görüşmek",
-          "example_de": "Wir besprechen die Idee morgen im Team."
+          "tr": "serbest olmak",
+          "example_de": "Im Projekt hatte ich freie Hand."
+        },
+        {
+          "de": "offen sein",
+          "article": null,
+          "tr": "belirsiz olmak",
+          "example_de": "Ob wir fahren, ist noch offen."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wie groß sind Raids bisher höchstens?",
+          "question_de": "Wie viele Entwickler konnte das Studio dank des neuen Publishers wieder einstellen?",
           "options": [
-            "10 Spieler",
-            "40 Spieler",
-            "120 Spieler"
+            "Fünf",
+            "Zehn",
+            "110"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was haben die Entwickler zu Mega-Raids gesagt?",
+          "question_de": "Warum kann das ursprüngliche Spiel nicht wie geplant fertig werden?",
           "options": [
-            "Sie kommen morgen",
-            "Sie haben nichts anzukündigen",
-            "Sie sind verboten"
+            "Es war für ein viel größeres Team ausgelegt",
+            "Die Waffen funktionieren nicht",
+            "Microsoft hat es verboten",
+            "Es gibt keinen Titel"
           ],
-          "answer_index": 1
+          "answer_index": 0
         },
         {
-          "question_de": "Was bedeutet „profitieren“?",
+          "question_de": "Was bedeutet „Der Termin ist offen“?",
           "options": [
-            "einen Vorteil haben",
-            "verlieren",
-            "warten"
+            "Er ist noch nicht entschieden",
+            "Er war gestern",
+            "Er ist kostenlos"
           ],
           "answer_index": 0
         }

@@ -30,6 +30,22 @@ Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, ö
 - **Seçme:** seçimler, parti tartışmaları, savaş, terör, ağır suç ve şiddet, ölüm/kaza ayrıntıları, ünlü dedikodusu.
 - Haberler **son 48 saatten** olsun, mümkünse son 24 saatten.
 
+## Bugün öğren (genel kültür) ve günün deyimi
+Haberlerin yanında her gün dosyaya şunları da ekle:
+
+**`facts`: tam 3 kısa genel kültür bilgisi.**
+- Her biri **1, en fazla 2 cümle**, doğal Almanca (B2–C1) ve Türkçe çevirisi (`tr`).
+- Konular karışık ve ilginç olsun: bilim, teknoloji, tarih, coğrafya, doğa, insan vücudu, dil, Almanya/Türkiye hakkında şaşırtıcı ama doğru bilgiler.
+- **Yalnızca kesin, iyi bilinen ve doğrulanabilir bilgiler.** Emin olmadığın, tartışmalı, sayısı sık değişen ya da "efsane" olan bilgileri yazma.
+  Mümkünse bilgiyi güvenilir bir kaynakta (ör. de.wikipedia.org, bilimsel kurumlar) kontrol et ve `source_url` olarak ekle; kontrol edemediğin bilgiyi seçme.
+- Siyaset ve şiddet içermesin. Son 7 günün arşivindeki bilgileri tekrarlama.
+
+**`idiom`: 1 Almanca deyim ya da atasözü.**
+- Gerçek ve yaygın kullanılan bir Redewendung/Sprichwort olsun (uydurma ya da çok nadir olanlar değil).
+- Alanlar: `de` (deyimin kendisi), `meaning_tr` (anlamı), `literal_tr` (kelimesi kelimesine çevirisi), `equivalent_tr` (varsa Türkçedeki karşılığı, yoksa `null`),
+  `example_de` (kendi yazdığın doğal bir örnek cümle), `example_tr` (çevirisi).
+- Son 30 günün arşivindeki deyimleri tekrarlama.
+
 ## Telif ve kaynak kuralları (zorunlu)
 - `title_de`: haberin başlığı (kısa; gerekirse kendin kısalt).
 - `summary_de`: haberin **kendi cümlelerinle** yazılmış özeti. **5–10 cümle**, yaklaşık 30 saniyelik okuma.
@@ -44,6 +60,14 @@ Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, ö
 {
   "date": "YYYY-MM-DD",
   "level": "original",
+  "facts": [
+    { "de": "1-2 cümle", "tr": "Türkçesi", "source_url": "https://… (kontrol ettiğin kaynak)" }
+  ],
+  "idiom": {
+    "de": "Da steppt der Bär.", "meaning_tr": "Orada çok eğlenceli/hareketli bir ortam var.",
+    "literal_tr": "Orada ayı step dansı yapıyor.", "equivalent_tr": "Ortalık yıkılıyor.",
+    "example_de": "…", "example_tr": "…"
+  },
   "items": [
     {
       "id": "YYYY-MM-DD-kisa-slug",
@@ -86,6 +110,7 @@ Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, ö
 - Her `item`'da `id`, `category`, `title_de`, `summary_de`, `source_name`, `source_url` dolu mu? `category` şu altı değerden biri mi: nrw, de, tech, health, tr, gaming?
 - Her `glossary.form` gerçekten `summary_de` içinde aynen geçiyor mu?
 - `article` yalnızca `der`, `die`, `das` ya da `null` mı? Her `answer_index` geçerli mi?
+- `facts` tam 3 tane ve her biri 1–2 cümle mi? Her bilgiden gerçekten emin misin? `idiom` gerçek bir deyim mi ve tüm alanları dolu mu?
 - Ağır siyaset/şiddet haberi kalmadı mı? Almanca yazım (büyük harf, umlaut, ß) doğru mu?
 
 ## Arşiv (zorunlu)

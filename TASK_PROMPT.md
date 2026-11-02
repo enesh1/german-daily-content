@@ -46,6 +46,29 @@ Haberlerin yanında her gün dosyaya şunları da ekle:
   `example_de` (kendi yazdığın doğal bir örnek cümle), `example_tr` (çevirisi).
 - Son 30 günün arşivindeki deyimleri tekrarlama.
 
+## Paragraf soruları (`reading`, her gün tam 5 soru)
+Türkiye'deki YKS Türkçe paragraf sorularına benzeyen, **zor ve kafa karıştırıcı** Almanca okuma soruları.
+Amaç: okuyucunun metni gerçekten tam anlayıp anlamadığını, birbirine çok yakın şıklar arasından seçerek sınamak.
+- `text_de`: **kendi yazdığın** 3–6 cümlelik bir paragraf, B2–C1 seviyesinde doğal Almanca. Konular karışık: günlük hayat, teknoloji, bilim,
+  psikoloji, spor/oyun, şehir hayatı, tarih. O günün haberlerinden ilham alabilirsin ama haber metninden cümle kopyalama.
+  Paragrafta bir düşünce akışı olsun (iddia → karşı görüş → sonuç gibi); "jedoch, allerdings, zwar … aber, daher" gibi bağlaçlar anlamı taşısın.
+- `type` ve `question_de` (soru Almanca); 5 sorunun en az 4'ü farklı tipte olsun:
+  - `ana`: „Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?“
+  - `cikarilamaz`: „Welche Aussage lässt sich aus dem Text NICHT ableiten?“
+  - `deginilmemis`: „Worauf wird im Text NICHT eingegangen?“
+  - `bosluk`: paragrafta `___` ile bir boşluk bırak; „Welcher Satz passt am besten in die Lücke (___)?“
+  - `anlam`: paragraftaki bir ifade tırnak içinde sorulur; „Was ist mit „…“ gemeint?“
+  - `tutum`: „Welche Haltung vertritt der Autor?“ ya da tonu sor (ironisch, kritisch, sachlich…)
+  - `celiski`: „Welche Aussage widerspricht dem Text?“
+- `options`: **tam 4 şık**, hepsi Almanca, benzer uzunlukta ve birbirinden farklı. `answer_index` 0–3; doğru şıkkın yerini sorudan soruya değiştir.
+- **Çeldiriciler zor olsun:** metindeki kelimeleri tekrar eden ama anlamı biraz kaydıran şıklar, aşırı genelleme ("immer", "grundsätzlich"),
+  metinde geçen ama ana fikir olmayan ayrıntı, kelimenin düz anlamına takılan yorum, metne yakın ama söylenmeyen bir sonuç.
+  Bariz yanlış ya da konu dışı şık koyma.
+- **Tek bir doğru cevap olmalı** ve metne dayanarak savunulabilmeli. Göndermeden önce her soruyu baştan çöz ve diğer şıkların neden yanlış olduğunu kontrol et.
+- `explanation_tr`: Türkçe, 2–3 cümle: doğru cevabın neden doğru olduğu ve en çekici yanlış şıkkın neden yanlış olduğu. Şıklardan A/B/C/D harfleriyle söz edebilirsin (sırası `options` ile aynı).
+- Paragraflarda gerçek dünya bilgisi kullanıyorsan doğru olsun; emin değilsen kurgusal ama gerçekçi bir durum yaz (ör. "eine Umfrage", "die Stadtbibliothek").
+- Son 7 günün arşivindeki paragrafları tekrarlama.
+
 ## Telif ve kaynak kuralları (zorunlu)
 - `title_de`: haberin başlığı (kısa; gerekirse kendin kısalt).
 - `summary_de`: haberin **kendi cümlelerinle** yazılmış özeti. **5–10 cümle**, yaklaşık 30 saniyelik okuma.
@@ -68,6 +91,11 @@ Haberlerin yanında her gün dosyaya şunları da ekle:
     "literal_tr": "Orada ayı step dansı yapıyor.", "equivalent_tr": "Ortalık yıkılıyor.",
     "example_de": "…", "example_tr": "…"
   },
+  "reading": [
+    { "type": "ana | cikarilamaz | deginilmemis | bosluk | anlam | tutum | celiski",
+      "text_de": "3-6 cümlelik paragraf", "question_de": "…?",
+      "options": ["A", "B", "C", "D"], "answer_index": 2, "explanation_tr": "…" }
+  ],
   "items": [
     {
       "id": "YYYY-MM-DD-kisa-slug",
@@ -110,6 +138,7 @@ Haberlerin yanında her gün dosyaya şunları da ekle:
 - Her `item`'da `id`, `category`, `title_de`, `summary_de`, `source_name`, `source_url` dolu mu? `category` şu altı değerden biri mi: nrw, de, tech, health, tr, gaming?
 - Her `glossary.form` gerçekten `summary_de` içinde aynen geçiyor mu?
 - `article` yalnızca `der`, `die`, `das` ya da `null` mı? Her `answer_index` geçerli mi?
+- `reading` tam 5 soru mu, her birinde tam 4 farklı şık ve tek bir savunulabilir doğru cevap var mı? Doğru cevapların yeri karışık mı?
 - `facts` tam 3 tane ve her biri 1–2 cümle mi? Her bilgiden gerçekten emin misin? `idiom` gerçek bir deyim mi ve tüm alanları dolu mu?
 - Ağır siyaset/şiddet haberi kalmadı mı? Almanca yazım (büyük harf, umlaut, ß) doğru mu?
 

@@ -1,0 +1,862 @@
+{
+  "date": "2026-10-27",
+  "level": "original",
+  "items": [
+    {
+      "id": "2026-10-27-unsterbliche-qualle",
+      "category": "de",
+      "title_de": "Was die „unsterbliche Qualle“ übers Altern verrät",
+      "summary_de": "Die Qualle Turritopsis dohrnii wird oft als „unsterbliche Qualle“ bezeichnet, weil sie einen erstaunlichen Trick beherrscht. Gerät das Tier unter Stress, beendet es seinen normalen Lebenszyklus und sinkt auf den Meeresboden. Dort entwickelt es sich innerhalb weniger Tage zu einem Polypen zurück, also zu einer Jugendform. Aus diesem Polypen können anschließend neue Quallen heranwachsen, und der Vorgang lässt sich theoretisch beliebig oft wiederholen. Forschende vermuten, dass zusätzliche Kopien von Genen zur Reparatur der DNA eine Rolle spielen könnten. Sicher ist das allerdings nicht, denn die Funktion vieler Gene ist noch unbekannt. Langfristig hoffen Wissenschaftler, mit diesem Wissen eines Tages Gewebe nach Verletzungen erneuern zu können. Bis zu einer medizinischen Anwendung dürften aber noch viele Jahre vergehen. Auch in der Natur sterben diese Tiere übrigens an Krankheiten oder Fressfeinden.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/good-news/854373531-was-die-unsterbliche-qualle-uebers-altern-verraet-und-warum-forschende-genau-hinschauen",
+      "glossary": [
+        {
+          "form": "Qualle",
+          "lemma": "Qualle",
+          "article": "die",
+          "tr": "Qualle"
+        },
+        {
+          "form": "erstaunlichen",
+          "lemma": "erstaunlich",
+          "article": null,
+          "tr": "erstaunlich"
+        },
+        {
+          "form": "beherrscht",
+          "lemma": "beherrschen",
+          "article": null,
+          "tr": "ustalıkla yapmak, hâkim olmak"
+        },
+        {
+          "form": "Lebenszyklus",
+          "lemma": "Lebenszyklus",
+          "article": "der",
+          "tr": "yaşam döngüsü"
+        },
+        {
+          "form": "Meeresboden",
+          "lemma": "Meeresboden",
+          "article": "der",
+          "tr": "deniz tabanı"
+        },
+        {
+          "form": "Polypen",
+          "lemma": "Polyp",
+          "article": "der",
+          "tr": "polip"
+        },
+        {
+          "form": "Jugendform",
+          "lemma": "Jugendform",
+          "article": "die",
+          "tr": "genç/larva evre"
+        },
+        {
+          "form": "heranwachsen",
+          "lemma": "heranwachsen",
+          "article": null,
+          "tr": "büyüyüp gelişmek"
+        },
+        {
+          "form": "theoretisch",
+          "lemma": "theoretisch",
+          "article": null,
+          "tr": "teorik olarak"
+        },
+        {
+          "form": "wiederholen",
+          "lemma": "wiederholen",
+          "article": null,
+          "tr": "tekrarlamak"
+        },
+        {
+          "form": "Forschende",
+          "lemma": "Forschende",
+          "article": "der",
+          "tr": "araştırmacılar"
+        },
+        {
+          "form": "vermuten",
+          "lemma": "vermuten",
+          "article": null,
+          "tr": "sanmak, tahmin etmek"
+        },
+        {
+          "form": "Reparatur",
+          "lemma": "Reparatur",
+          "article": "die",
+          "tr": "onarım"
+        },
+        {
+          "form": "Gewebe",
+          "lemma": "Gewebe",
+          "article": "das",
+          "tr": "doku"
+        },
+        {
+          "form": "Verletzungen",
+          "lemma": "Verletzung",
+          "article": "die",
+          "tr": "yaralanma"
+        },
+        {
+          "form": "erneuern",
+          "lemma": "erneuern",
+          "article": null,
+          "tr": "yenilemek"
+        },
+        {
+          "form": "Fressfeinden",
+          "lemma": "Fressfeind",
+          "article": "der",
+          "tr": "avcı düşman"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich zurückentwickeln",
+          "article": null,
+          "tr": "geriye doğru gelişmek",
+          "example_de": "Nach dem Urlaub entwickelt sich mein Schlafrhythmus leider wieder zurück."
+        },
+        {
+          "de": "eine Rolle spielen",
+          "article": null,
+          "tr": "rol oynamak",
+          "example_de": "Der Preis spielt bei meiner Wahl eine große Rolle."
+        },
+        {
+          "de": "Stress",
+          "article": "der",
+          "tr": "stres",
+          "example_de": "Vor Klausuren habe ich meistens ziemlich viel Stress."
+        },
+        {
+          "de": "Funktion",
+          "article": "die",
+          "tr": "işlev",
+          "example_de": "Ich verstehe die Funktion dieses Knopfes nicht."
+        },
+        {
+          "de": "Anwendung",
+          "article": "die",
+          "tr": "uygulama, kullanım",
+          "example_de": "Die Anwendung der Formel fällt mir noch schwer."
+        },
+        {
+          "de": "langfristig",
+          "article": null,
+          "tr": "uzun vadede",
+          "example_de": "Langfristig möchte ich in der Energietechnik arbeiten."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was tut die Qualle, wenn sie unter Stress gerät?",
+          "options": [
+            "Sie wandert in flaches Wasser",
+            "Sie entwickelt sich zur Jugendform zurück",
+            "Sie frisst mehr",
+            "Sie wird unsichtbar"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was ist laut Text noch unklar?",
+          "options": [
+            "Ob die Qualle im Meer lebt",
+            "Welche Funktion viele ihrer Gene haben",
+            "Wie viele Quallen es gibt",
+            "Wann sie Stress bekommt"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „erneuern“?",
+          "options": [
+            "zerstören",
+            "neu machen",
+            "verstecken",
+            "bezahlen"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-youtube-av2",
+      "category": "de",
+      "title_de": "YouTube plant den Umstieg auf AV2",
+      "summary_de": "YouTube will Anfang 2027 die ersten Videos im neuen Format AV2 ausliefern. Zunächst soll das nur im Web funktionieren, und zwar nur, wenn Browser und Rechner damit zurechtkommen. Der Nachfolger von AV1 soll laut der Allianz AOMedia rund 30 Prozent effizienter arbeiten. Streamingdienste könnten dadurch entweder Bandbreite sparen oder bei gleicher Datenrate ein schärferes Bild liefern. Unabhängige Vergleiche gibt es allerdings noch nicht, die Zahl stammt vor allem von den Entwicklern selbst. Ein Haken ist der hohe Rechenaufwand, denn das Dekodieren soll etwa fünfmal so anspruchsvoll sein wie bei AV1. Chips mit eingebauter Unterstützung existieren bislang nicht. Auch Netflix und Meta wollen das Format künftig einsetzen.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/youtube-warum-videos-bald-besser-aussehen-und-schneller-laden-sollen-1769847/",
+      "glossary": [
+        {
+          "form": "ausliefern",
+          "lemma": "ausliefern",
+          "article": null,
+          "tr": "sunmak, dağıtmak"
+        },
+        {
+          "form": "zurechtkommen",
+          "lemma": "zurechtkommen",
+          "article": null,
+          "tr": "başa çıkmak, uyum sağlamak"
+        },
+        {
+          "form": "Nachfolger",
+          "lemma": "Nachfolger",
+          "article": "der",
+          "tr": "halef, ardıl"
+        },
+        {
+          "form": "effizienter",
+          "lemma": "effizient",
+          "article": null,
+          "tr": "daha verimli"
+        },
+        {
+          "form": "Streamingdienste",
+          "lemma": "Streamingdienst",
+          "article": "der",
+          "tr": "yayın platformları"
+        },
+        {
+          "form": "Bandbreite",
+          "lemma": "Bandbreite",
+          "article": "die",
+          "tr": "bant genişliği"
+        },
+        {
+          "form": "Datenrate",
+          "lemma": "Datenrate",
+          "article": "die",
+          "tr": "veri hızı"
+        },
+        {
+          "form": "schärferes",
+          "lemma": "scharf",
+          "article": null,
+          "tr": "daha keskin"
+        },
+        {
+          "form": "Vergleiche",
+          "lemma": "Vergleich",
+          "article": "der",
+          "tr": "karşılaştırma"
+        },
+        {
+          "form": "Entwicklern",
+          "lemma": "Entwickler",
+          "article": "der",
+          "tr": "geliştirici"
+        },
+        {
+          "form": "Haken",
+          "lemma": "Haken",
+          "article": "der",
+          "tr": "(işin) ters yanı"
+        },
+        {
+          "form": "Rechenaufwand",
+          "lemma": "Rechenaufwand",
+          "article": "der",
+          "tr": "işlem yükü"
+        },
+        {
+          "form": "Dekodieren",
+          "lemma": "Dekodieren",
+          "article": "das",
+          "tr": "kod çözme"
+        },
+        {
+          "form": "anspruchsvoll",
+          "lemma": "anspruchsvoll",
+          "article": null,
+          "tr": "zorlu, yüksek talepli"
+        },
+        {
+          "form": "Unterstützung",
+          "lemma": "Unterstützung",
+          "article": "die",
+          "tr": "destek"
+        },
+        {
+          "form": "künftig",
+          "lemma": "künftig",
+          "article": null,
+          "tr": "gelecekte"
+        },
+        {
+          "form": "einsetzen",
+          "lemma": "einsetzen",
+          "article": null,
+          "tr": "kullanmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Bandbreite sparen",
+          "article": null,
+          "tr": "bant genişliğinden tasarruf etmek",
+          "example_de": "Mit dem Handyvertrag muss ich Bandbreite sparen."
+        },
+        {
+          "de": "Haken",
+          "article": "der",
+          "tr": "işin bir ters yanı",
+          "example_de": "Der Haken an dem Angebot ist die lange Laufzeit."
+        },
+        {
+          "de": "Nachfolger",
+          "article": "der",
+          "tr": "halef, yeni model",
+          "example_de": "Der Nachfolger meines Laptops ist viel leiser."
+        },
+        {
+          "de": "etwas einsetzen",
+          "article": null,
+          "tr": "bir şeyi kullanmak",
+          "example_de": "Wir setzen im Labor ein neues Messgerät ein."
+        },
+        {
+          "de": "Unterstützung",
+          "article": "die",
+          "tr": "destek",
+          "example_de": "Für das Projekt brauche ich deine Unterstützung."
+        },
+        {
+          "de": "Vergleich",
+          "article": "der",
+          "tr": "karşılaştırma",
+          "example_de": "Im Vergleich zu früher lädt die Seite viel schneller."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wann will YouTube die ersten AV2-Videos ausliefern?",
+          "options": [
+            "Anfang 2027",
+            "Schon im November",
+            "Im Sommer 2030",
+            "Gar nicht"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was ist der Haken bei AV2?",
+          "options": [
+            "Es sieht schlechter aus",
+            "Es ist zu teuer für Zuschauer",
+            "Das Dekodieren braucht viel Rechenleistung",
+            "Es läuft nur auf Apple-Geräten"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Wer nennt die 30 Prozent Effizienz?",
+          "options": [
+            "Netflix",
+            "Die Allianz AOMedia",
+            "Ein Student",
+            "Die Bahn"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-wow-forever",
+      "category": "gaming",
+      "title_de": "WoW Forever: Das neue Classic Plus startet am 5. November",
+      "summary_de": "Blizzard bringt am 5. November in Europa „WoW Forever“ an den Start, eine neue Classic-Plus-Version von World of Warcraft. Das Spiel behält das klassische Spielgefühl bei, ergänzt aber neue Geschichten und Inhalte, und die Stufengrenze bleibt bei 60. Es gibt keine herkömmlichen Realms mehr, stattdessen laufen alle Spieler auf riesigen Megaservern. Zu Beginn muss man sich für ein Regelwerk entscheiden, nämlich Normal, PvP, Rollenspiel oder Rollenspiel-PvP, und diese Wahl gilt dauerhaft für den Charakter. Ein Hardcore-Modus ist erst für Anfang 2027 geplant. Die Namensreservierung beginnt in Deutschland heute um 18 Uhr, setzt aber den Kauf eines optionalen Pakets voraus. Wer spielen möchte, braucht außerdem ein reguläres Abo, das monatlich etwa 13 Euro kostet. Die teureren Pakete schalten das neue Volk der Skybound frei. Alle drei Monate will Blizzard größere Inhaltsupdates nachlegen.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/wow-forever-blizzcon-2026/",
+      "glossary": [
+        {
+          "form": "behält",
+          "lemma": "beibehalten",
+          "article": null,
+          "tr": "korumak"
+        },
+        {
+          "form": "ergänzt",
+          "lemma": "ergänzen",
+          "article": null,
+          "tr": "eklemek, tamamlamak"
+        },
+        {
+          "form": "Stufengrenze",
+          "lemma": "Stufengrenze",
+          "article": "die",
+          "tr": "seviye sınırı"
+        },
+        {
+          "form": "herkömmlichen",
+          "lemma": "herkömmlich",
+          "article": null,
+          "tr": "geleneksel"
+        },
+        {
+          "form": "Regelwerk",
+          "lemma": "Regelwerk",
+          "article": "das",
+          "tr": "kural seti"
+        },
+        {
+          "form": "dauerhaft",
+          "lemma": "dauerhaft",
+          "article": null,
+          "tr": "kalıcı"
+        },
+        {
+          "form": "Namensreservierung",
+          "lemma": "Namensreservierung",
+          "article": "die",
+          "tr": "isim rezervasyonu"
+        },
+        {
+          "form": "setzt",
+          "lemma": "voraussetzen",
+          "article": null,
+          "tr": "şart koşmak"
+        },
+        {
+          "form": "optionalen",
+          "lemma": "optional",
+          "article": null,
+          "tr": "isteğe bağlı"
+        },
+        {
+          "form": "Abo",
+          "lemma": "Abo",
+          "article": "das",
+          "tr": "abonelik"
+        },
+        {
+          "form": "schalten",
+          "lemma": "freischalten",
+          "article": null,
+          "tr": "kilidini açmak"
+        },
+        {
+          "form": "Volk",
+          "lemma": "Volk",
+          "article": "das",
+          "tr": "halk, ırk"
+        },
+        {
+          "form": "nachlegen",
+          "lemma": "nachlegen",
+          "article": null,
+          "tr": "ardından eklemek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "an den Start bringen",
+          "article": null,
+          "tr": "piyasaya sürmek",
+          "example_de": "Die Firma bringt nächste Woche ein neues Produkt an den Start."
+        },
+        {
+          "de": "sich für etwas entscheiden",
+          "article": null,
+          "tr": "bir şeye karar vermek",
+          "example_de": "Ich habe mich für das günstigere Modell entschieden."
+        },
+        {
+          "de": "Abo",
+          "article": "das",
+          "tr": "abonelik",
+          "example_de": "Mein Abo läuft Ende des Monats aus."
+        },
+        {
+          "de": "Regelwerk",
+          "article": "das",
+          "tr": "kural seti",
+          "example_de": "Das Regelwerk des Turniers ist ziemlich streng."
+        },
+        {
+          "de": "dauerhaft",
+          "article": null,
+          "tr": "kalıcı olarak",
+          "example_de": "Die Strecke ist dauerhaft gesperrt."
+        },
+        {
+          "de": "freischalten",
+          "article": null,
+          "tr": "kilidini açmak",
+          "example_de": "Mit dem Code kannst du neue Skins freischalten."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wann startet „WoW Forever“ in Europa?",
+          "options": [
+            "Am 4. November",
+            "Am 5. November",
+            "Anfang 2027",
+            "Schon heute"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was gilt für das gewählte Regelwerk?",
+          "options": [
+            "Es gilt dauerhaft für den Charakter",
+            "Man kann es täglich ändern",
+            "Es kostet extra",
+            "Es gibt keins"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Wann kommt der Hardcore-Modus?",
+          "options": [
+            "Zum Start",
+            "Im Dezember",
+            "Anfang 2027",
+            "Nie"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-jono-steam",
+      "category": "gaming",
+      "title_de": "„Jono“: Ein Steam-Spiel, bei dem fast alle warten",
+      "summary_de": "Auf Steam gibt es seit Anfang Oktober ein kostenloses Spiel namens „Jono“, das ein ungewöhnliches Multiplayer-Konzept verfolgt. Es ist ein Plattformer im Stil von Super Meat Boy, in dem man eine kleine Figur durch knifflige Level mit Stacheln und fliegenden Kugeln steuert. Der Haken: Weltweit darf immer nur eine einzige Person die Figur lenken. Jede Runde dauert 60 Sekunden, danach ist der nächste Spieler in der Warteschlange an der Reihe. Wer wartet, kann den anderen beim Scheitern oder Gewinnen zuschauen. Zum Start waren nur etwa 20 Leute gleichzeitig dabei, Ende Oktober waren es laut SteamDB gut 200. Die Community hat inzwischen mehr als 100.000 Level gelöst, ist aber auch rund 141.000 Mal gestorben. Das Spiel versteht sich als Gemeinschaftsprojekt, und wer nicht anstehen will, kann einen Livestream der Entwickler verfolgen.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/steam-multiplayer-spiel-warten-1769873/",
+      "glossary": [
+        {
+          "form": "kostenloses",
+          "lemma": "kostenlos",
+          "article": null,
+          "tr": "ücretsiz"
+        },
+        {
+          "form": "ungewöhnliches",
+          "lemma": "ungewöhnlich",
+          "article": null,
+          "tr": "alışılmadık"
+        },
+        {
+          "form": "verfolgt",
+          "lemma": "verfolgen",
+          "article": null,
+          "tr": "izlemek, takip etmek"
+        },
+        {
+          "form": "knifflige",
+          "lemma": "knifflig",
+          "article": null,
+          "tr": "zorlu, kurnaz"
+        },
+        {
+          "form": "Stacheln",
+          "lemma": "Stachel",
+          "article": "der",
+          "tr": "diken"
+        },
+        {
+          "form": "steuert",
+          "lemma": "steuern",
+          "article": null,
+          "tr": "yönetmek, kontrol etmek"
+        },
+        {
+          "form": "lenken",
+          "lemma": "lenken",
+          "article": null,
+          "tr": "yönlendirmek"
+        },
+        {
+          "form": "Warteschlange",
+          "lemma": "Warteschlange",
+          "article": "die",
+          "tr": "bekleme sırası"
+        },
+        {
+          "form": "Scheitern",
+          "lemma": "Scheitern",
+          "article": "das",
+          "tr": "başarısız olma"
+        },
+        {
+          "form": "gleichzeitig",
+          "lemma": "gleichzeitig",
+          "article": null,
+          "tr": "aynı anda"
+        },
+        {
+          "form": "gelöst",
+          "lemma": "lösen",
+          "article": null,
+          "tr": "çözmek"
+        },
+        {
+          "form": "Gemeinschaftsprojekt",
+          "lemma": "Gemeinschaftsprojekt",
+          "article": "das",
+          "tr": "ortak proje"
+        },
+        {
+          "form": "anstehen",
+          "lemma": "anstehen",
+          "article": null,
+          "tr": "sırada beklemek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "an der Reihe sein",
+          "article": null,
+          "tr": "sıra kendinde olmak",
+          "example_de": "Du bist gleich an der Reihe."
+        },
+        {
+          "de": "in der Warteschlange stehen",
+          "article": null,
+          "tr": "sırada beklemek",
+          "example_de": "Ich stand eine halbe Stunde in der Warteschlange."
+        },
+        {
+          "de": "ein Level lösen",
+          "article": null,
+          "tr": "bir seviyeyi çözmek",
+          "example_de": "Ich habe das Level beim dritten Versuch gelöst."
+        },
+        {
+          "de": "gleichzeitig",
+          "article": null,
+          "tr": "aynı anda",
+          "example_de": "Wir können nicht beide gleichzeitig reden."
+        },
+        {
+          "de": "Gemeinschaft",
+          "article": "die",
+          "tr": "topluluk",
+          "example_de": "Die Gemeinschaft im Wohnheim ist super."
+        },
+        {
+          "de": "ungewöhnlich",
+          "article": null,
+          "tr": "alışılmadık",
+          "example_de": "Das ist ein ungewöhnlicher Plan."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Personen steuern „Jono“ gleichzeitig?",
+          "options": [
+            "Zwei",
+            "Zehn",
+            "Nur eine",
+            "200"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Wie lange dauert eine Runde?",
+          "options": [
+            "10 Sekunden",
+            "60 Sekunden",
+            "5 Minuten",
+            "Eine Stunde"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „anstehen“ hier?",
+          "options": [
+            "In der Schlange warten",
+            "Schnell rennen",
+            "Ein Spiel kaufen",
+            "Abstürzen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-gta6-lucia-livestream",
+      "category": "gaming",
+      "title_de": "GTA 6: Die mutmaßliche „Lucia“ ignoriert alle Spiel-Fragen",
+      "summary_de": "Auf Instagram hat eine Schauspielerin, die viele Fans für das reale Vorbild von Lucia Caminos aus GTA 6 halten, einen Livestream gestartet. Tausende Zuschauer strömten in den Chat, und viele stellten Fragen zum Spiel, etwa ob die Bilder Gameplay zeigen. Die Frau ging auf keine dieser Fragen ein und erzählte stattdessen von ihrem Alltag mit Einkaufen, Kochen und ihrem gebrauchten Kleinwagen. Fans bewundern, wie souverän sie alles ignoriert hat, was mit dem Spiel zu tun hat. Ein möglicher Grund ist eine Verschwiegenheitsvereinbarung, die Darsteller offenbar erst nach dem Release brechen dürfen. Diese Erklärung stammt allerdings aus einem Podcast und ist nicht bestätigt. Die Schauspielerin selbst hat sich nicht zu ihrer Rolle geäußert. Für viele Fans gilt ihre Gelassenheit trotzdem als weiterer Beweis.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/lucia-caminos-schauspielerin-gta-6-livechat-mit-fans/",
+      "glossary": [
+        {
+          "form": "Vorbild",
+          "lemma": "Vorbild",
+          "article": "das",
+          "tr": "model, örnek"
+        },
+        {
+          "form": "strömten",
+          "lemma": "strömen",
+          "article": null,
+          "tr": "akın etmek"
+        },
+        {
+          "form": "Zuschauer",
+          "lemma": "Zuschauer",
+          "article": "der",
+          "tr": "izleyici"
+        },
+        {
+          "form": "ging",
+          "lemma": "eingehen",
+          "article": null,
+          "tr": "(bir konuya) yanıt vermek"
+        },
+        {
+          "form": "gebrauchten",
+          "lemma": "gebraucht",
+          "article": null,
+          "tr": "ikinci el"
+        },
+        {
+          "form": "Kleinwagen",
+          "lemma": "Kleinwagen",
+          "article": "der",
+          "tr": "küçük araba"
+        },
+        {
+          "form": "bewundern",
+          "lemma": "bewundern",
+          "article": null,
+          "tr": "hayran olmak"
+        },
+        {
+          "form": "souverän",
+          "lemma": "souverän",
+          "article": null,
+          "tr": "kendinden emin, ustaca"
+        },
+        {
+          "form": "ignoriert",
+          "lemma": "ignorieren",
+          "article": null,
+          "tr": "görmezden gelmek"
+        },
+        {
+          "form": "Verschwiegenheitsvereinbarung",
+          "lemma": "Verschwiegenheitsvereinbarung",
+          "article": "die",
+          "tr": "gizlilik sözleşmesi"
+        },
+        {
+          "form": "Darsteller",
+          "lemma": "Darsteller",
+          "article": "der",
+          "tr": "oyuncu"
+        },
+        {
+          "form": "offenbar",
+          "lemma": "offenbar",
+          "article": null,
+          "tr": "anlaşılan"
+        },
+        {
+          "form": "bestätigt",
+          "lemma": "bestätigen",
+          "article": null,
+          "tr": "doğrulamak"
+        },
+        {
+          "form": "geäußert",
+          "lemma": "äußern",
+          "article": null,
+          "tr": "görüş bildirmek"
+        },
+        {
+          "form": "Gelassenheit",
+          "lemma": "Gelassenheit",
+          "article": "die",
+          "tr": "soğukkanlılık"
+        },
+        {
+          "form": "Beweis",
+          "lemma": "Beweis",
+          "article": "der",
+          "tr": "kanıt"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "auf eine Frage eingehen",
+          "article": null,
+          "tr": "bir soruya cevap vermek",
+          "example_de": "Der Professor ist ausführlich auf meine Frage eingegangen."
+        },
+        {
+          "de": "sich zu etwas äußern",
+          "article": null,
+          "tr": "bir konuda açıklama yapmak",
+          "example_de": "Die Firma hat sich noch nicht dazu geäußert."
+        },
+        {
+          "de": "als Beweis gelten",
+          "article": null,
+          "tr": "kanıt sayılmak",
+          "example_de": "Dieses Foto gilt als Beweis."
+        },
+        {
+          "de": "Gelassenheit",
+          "article": "die",
+          "tr": "soğukkanlılık",
+          "example_de": "Mit Gelassenheit geht die Prüfung besser."
+        },
+        {
+          "de": "offenbar",
+          "article": null,
+          "tr": "anlaşılan",
+          "example_de": "Er hat offenbar den Bus verpasst."
+        },
+        {
+          "de": "Vorbild",
+          "article": "das",
+          "tr": "örnek, rol model",
+          "example_de": "Mein Opa ist mein größtes Vorbild."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was tat die Schauspielerin im Livestream?",
+          "options": [
+            "Sie sprach über GTA 6",
+            "Sie ignorierte die GTA-Fragen",
+            "Sie zeigte Gameplay",
+            "Sie beendete den Stream sofort"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Welche Erklärung wird genannt?",
+          "options": [
+            "Ein Streit mit Fans",
+            "Eine Verschwiegenheitsvereinbarung",
+            "Ein Internetausfall",
+            "Eine Prüfung"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Ist die Erklärung bestätigt?",
+          "options": [
+            "Ja, offiziell",
+            "Ja, von Rockstar",
+            "Nein, sie ist nicht bestätigt",
+            "Das steht nicht im Text und ist egal"
+          ],
+          "answer_index": 2
+        }
+      ]
+    }
+  ]
+}

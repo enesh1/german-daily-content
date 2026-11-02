@@ -1,20 +1,23 @@
 # Günlük görev: daily.json'u güncelle
 
 Bu talimat her sabah çalışan planlanmış Claude görevi içindir. Görev bu depodaki (`german-daily-content`) `daily.json` dosyasını
-o günün içeriğiyle değiştirir, `main` dalına commit'ler ve push eder. AktivDeutsch uygulaması dosyayı doğrudan GitHub'dan okur.
+o günün içeriğiyle değiştirir, aynı içeriği arşive de yazar, `main` dalına commit'ler ve push eder. AktivDeutsch uygulaması dosyaları doğrudan GitHub'dan okur.
 
 ## Okuyucu
 - 22 yaşında, **Düsseldorf'ta** yaşayan, Türkçe konuşan bir elektrik-elektronik öğrencisi. Almancası **B2**.
 - League of Legends ve Counter-Strike 2 oynuyor; büyük oyun haberlerini seviyor.
+- Arabalara ve genel teknolojiye ilgi duyuyor.
 - **İlginç, eğlenceli, sohbette anlatılabilecek** haberler istiyor. Ağır siyaset istemiyor.
 
 ## Bugünün karışımı (toplam 10–15 haber)
 | category | Konu | Adet | Kaynak önerileri |
 |---|---|---|---|
 | `nrw` | Düsseldorf ve NRW'den şehir hayatı, etkinlik, ulaşım, tuhaf/güzel olaylar | 2–3 | WDR, Rheinische Post, Westdeutsche Zeitung (wz.de), Düsseldorf'un resmî sitesi (duesseldorf.de), radioduesseldorf.de, Deutschlandfunk |
-| `de` | Almanya genelinden ilginç/eğlenceli: bilim, teknoloji, internet, tuhaf olaylar, spor, kültür, öğrenci hayatı | 4–6 | watson.de, Deutschlandfunk / Deutschlandfunk Nova (deutschlandfunk.de, deutschlandfunknova.de), MDR, tagesschau, Spiegel, DW, t3n.de, netzpolitik.org |
+| `de` | Almanya genelinden ilginç/eğlenceli: bilim, internet, tuhaf olaylar, spor, kültür, öğrenci hayatı | 3–4 | watson.de, Deutschlandfunk / Deutschlandfunk Nova (deutschlandfunk.de, deutschlandfunknova.de), MDR, tagesschau, Spiegel, DW, t3n.de, netzpolitik.org |
+| `tech` | Arabalar (yeni modeller, elektrikli araçlar, otonom sürüş, ilginç araç teknolojisi) ve genel teknoloji (akıllı telefonlar, yapay zekâ ürünleri, donanım, uzay, internet servisleri) | 2–3 | t3n.de, heise.de, golem.de, netzwelt.de, chip.de, computerbild.de; arabalar: auto-motor-und-sport.de, autobild.de, adac.de, electrive.net, ecomento.de |
+| `health` | Genel kitleye hitap eden, ilgi çekici sağlık/tıp haberleri: yeni araştırmalar, beslenme, uyku, spor, beyin, ilginç keşifler | 1–2 | apotheken-umschau.de, quarks.de, spektrum.de, Deutschlandfunk / Deutschlandfunk Nova, MDR Wissen, tagesschau Wissen, aerzteblatt.de (sadece genel ilgi çeken haberler) |
 | `tr` | Türkiye'den ilginç/eğlenceli haber — **Almanca kaynaktan** | 1–2 | Deutschlandfunk, DW, watson.de, tagesschau, diğer Almanca medya |
-| `gaming` | LoL ve CS2 büyük güncellemeleri/olayları; ses getiren diğer oyun haberleri | 2–4 | Mein-MMO, PC Games, GamePro, ingame.de, GameStar; resmî yama notları: leagueoflegends.com/de-de, counter-strike.net |
+| `gaming` | LoL ve CS2 büyük güncellemeleri/olayları; ses getiren diğer oyun haberleri | 2–3 | Mein-MMO, PC Games, GamePro, ingame.de, GameStar; resmî yama notları: leagueoflegends.com/de-de, counter-strike.net |
 
 **Erişim kuralı:** Bir site içerik vermezse (ör. "unable to fetch", 403) onu atla ve listedeki ya da arama ile bulduğun başka bir Almanca kaynağa geç.
 Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, önbellek/arşiv kopyalarına ya da ayna sitelere gitme. Arama sonuçlarından yalnızca gerçekten açabildiğin makaleleri kullan.
@@ -23,6 +26,7 @@ Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, ö
 - Toplam 10'a ulaşmak için kalite düşürme: gerçekten ilginç ve okuduğun haberlerden en az 10 bulamazsan bulduğun kadarını yayımla.
 - Aynı olayı iki kez anlatan haberleri tekrar koyma; bir önceki günün `daily.json` dosyasındaki haberleri de tekrarlama.
 - Oyun haberinde: büyük yama/sezon, yeni şampiyon/harita/silah, büyük e-spor turnuvası, büyük oyun duyurusu gibi gelişmeler. Küçük "indirim" ya da "tier list" yazıları değil.
+- Sağlık haberlerinde: korkutucu ya da sansasyonel başlık seçme, kişisel tıbbi tavsiye gibi yazma ("şunu yapmalısın" değil "araştırmaya göre …"). Tek bir küçük çalışmayı kesin gerçek gibi sunma; çalışmanın sınırlarını bir cümleyle belirt. Hastalık/ölüm ağırlıklı haberleri seçme.
 - **Seçme:** seçimler, parti tartışmaları, savaş, terör, ağır suç ve şiddet, ölüm/kaza ayrıntıları, ünlü dedikodusu.
 - Haberler **son 48 saatten** olsun, mümkünse son 24 saatten.
 
@@ -43,7 +47,7 @@ Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, ö
   "items": [
     {
       "id": "YYYY-MM-DD-kisa-slug",
-      "category": "nrw | de | tr | gaming",
+      "category": "nrw | de | tech | health | tr | gaming",
       "title_de": "string",
       "summary_de": "string (5-10 cümle, sadeleştirilmemiş)",
       "source_name": "string",
@@ -79,9 +83,16 @@ Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, ö
 
 ## Göndermeden önce doğrulama
 - Dosya geçerli JSON mu (parse et)?
-- Her `item`'da `id`, `category`, `title_de`, `summary_de`, `source_name`, `source_url` dolu mu? `category` dört değerden biri mi?
+- Her `item`'da `id`, `category`, `title_de`, `summary_de`, `source_name`, `source_url` dolu mu? `category` şu altı değerden biri mi: nrw, de, tech, health, tr, gaming?
 - Her `glossary.form` gerçekten `summary_de` içinde aynen geçiyor mu?
 - `article` yalnızca `der`, `die`, `das` ya da `null` mı? Her `answer_index` geçerli mi?
 - Ağır siyaset/şiddet haberi kalmadı mı? Almanca yazım (büyük harf, umlaut, ß) doğru mu?
 
-Commit mesajı: `daily: YYYY-MM-DD`
+## Arşiv (zorunlu)
+`daily.json` ile **aynı içeriği** şuraya da yaz:
+- `archive/YYYY-MM-DD.json` (bugünün tarihi).
+- `archive/index.json` içindeki `days` listesine `{ "date": "YYYY-MM-DD", "count": <haber sayısı> }` ekle. Aynı tarih varsa yenisiyle değiştir; liste **yeniden eskiye** sıralı olsun. Eski girdileri silme.
+  Biçim: `{ "days": [ { "date": "2026-11-02", "count": 12 }, … ] }`
+Arşivdeki eski günlerin dosyalarına dokunma. Haber tekrarını önlemek için `archive/index.json`'daki en yeni günün dosyasına bakabilirsin.
+
+Commit: yalnızca `daily.json`, `archive/YYYY-MM-DD.json` ve `archive/index.json` dosyalarını commit'le. Mesaj: `daily: YYYY-MM-DD`

@@ -1,0 +1,958 @@
+{
+  "date": "2026-10-30",
+  "level": "original",
+  "items": [
+    {
+      "id": "2026-10-30-meckenstock-auktion",
+      "category": "nrw",
+      "title_de": "Kabarettist versteigert Ungeliebtes für die Palliativstation",
+      "summary_de": "Der Düsseldorfer Kabarettist Manes Meckenstock lädt am Sonntag, dem 1. November, zu einer ungewöhnlichen Wohltätigkeitsauktion ein. Versteigert werden Dinge, die bei anderen Leuten lange ungenutzt herumlagen, dazu Gutscheine und Überraschungstüten. Meckenstock stellt jedes Stück auf seine humorvolle Art vor. Die Veranstaltung findet im Stammhaus der Brauerei Schumacher an der Oststraße statt. Ab 16 Uhr kann man die Gegenstände ansehen, um 17 Uhr beginnt das Bieten. Der Erlös kommt dem Förderverein für Palliativmedizin am Uniklinikum zugute. Mit dem Geld werden Angebote bezahlt, die über die normale Versorgung hinausgehen, etwa Aromatherapie, Klangschalen, Kunst- und Musiktherapie oder Therapiehunde. Wer nichts ersteigert, kann trotzdem etwas in eine Spendenbox legen.",
+      "source_name": "Ddorf-Aktuell",
+      "source_url": "https://www.ddorf-aktuell.de/2026/10/29/duesseldorf-zum-ersten-zum-zweiten-zum-dritten-manes-meckenstock-versteigert-fuer-palliativstation-des-ukd/",
+      "glossary": [
+        {
+          "form": "Kabarettist",
+          "lemma": "Kabarettist",
+          "article": "der",
+          "tr": "kabare sanatçısı"
+        },
+        {
+          "form": "Wohltätigkeitsauktion",
+          "lemma": "Wohltätigkeitsauktion",
+          "article": "die",
+          "tr": "hayır müzayedesi"
+        },
+        {
+          "form": "Versteigert",
+          "lemma": "versteigern",
+          "article": null,
+          "tr": "müzayedeyle satmak"
+        },
+        {
+          "form": "ungenutzt",
+          "lemma": "ungenutzt",
+          "article": null,
+          "tr": "kullanılmamış"
+        },
+        {
+          "form": "Gutscheine",
+          "lemma": "Gutschein",
+          "article": "der",
+          "tr": "hediye çeki"
+        },
+        {
+          "form": "Überraschungstüten",
+          "lemma": "Überraschungstüte",
+          "article": "die",
+          "tr": "sürpriz poşeti"
+        },
+        {
+          "form": "Stammhaus",
+          "lemma": "Stammhaus",
+          "article": "das",
+          "tr": "ana şube"
+        },
+        {
+          "form": "Gegenstände",
+          "lemma": "Gegenstand",
+          "article": "der",
+          "tr": "nesne"
+        },
+        {
+          "form": "Erlös",
+          "lemma": "Erlös",
+          "article": "der",
+          "tr": "gelir"
+        },
+        {
+          "form": "Förderverein",
+          "lemma": "Förderverein",
+          "article": "der",
+          "tr": "destek derneği"
+        },
+        {
+          "form": "Palliativmedizin",
+          "lemma": "Palliativmedizin",
+          "article": "die",
+          "tr": "palyatif tıp"
+        },
+        {
+          "form": "zugute",
+          "lemma": "zugutekommen",
+          "article": null,
+          "tr": "fayda sağlamak"
+        },
+        {
+          "form": "Versorgung",
+          "lemma": "Versorgung",
+          "article": "die",
+          "tr": "bakım, hizmet"
+        },
+        {
+          "form": "Aromatherapie",
+          "lemma": "Aromatherapie",
+          "article": "die",
+          "tr": "aromaterapi"
+        },
+        {
+          "form": "Klangschalen",
+          "lemma": "Klangschale",
+          "article": "die",
+          "tr": "şifa kasesi"
+        },
+        {
+          "form": "Therapiehunde",
+          "lemma": "Therapiehund",
+          "article": "der",
+          "tr": "terapi köpeği"
+        },
+        {
+          "form": "ersteigert",
+          "lemma": "ersteigern",
+          "article": null,
+          "tr": "müzayedede kazanmak"
+        },
+        {
+          "form": "Spendenbox",
+          "lemma": "Spendenbox",
+          "article": "die",
+          "tr": "bağış kutusu"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Erlös",
+          "article": "der",
+          "tr": "gelir",
+          "example_de": "Der Erlös des Flohmarkts geht an ein Tierheim."
+        },
+        {
+          "de": "spenden",
+          "article": null,
+          "tr": "bağışlamak",
+          "example_de": "Ich spende jeden Monat zehn Euro an eine Hilfsorganisation."
+        },
+        {
+          "de": "eine Auktion veranstalten",
+          "article": null,
+          "tr": "müzayede düzenlemek",
+          "example_de": "Der Verein veranstaltet jedes Jahr eine Auktion für einen guten Zweck."
+        },
+        {
+          "de": "zugutekommen",
+          "article": null,
+          "tr": "fayda sağlamak",
+          "example_de": "Das Geld kommt den Kindern in der Nachbarschaft zugute."
+        },
+        {
+          "de": "über etwas hinausgehen",
+          "article": null,
+          "tr": "bir şeyin ötesine geçmek",
+          "example_de": "Der Service geht weit über das Normale hinaus."
+        },
+        {
+          "de": "Gutschein",
+          "article": "der",
+          "tr": "hediye çeki",
+          "example_de": "Zum Geburtstag habe ich einen Gutschein fürs Kino bekommen."
+        },
+        {
+          "de": "ein Gebot abgeben",
+          "article": null,
+          "tr": "teklif vermek",
+          "example_de": "Ich habe für das alte Fahrrad ein Gebot abgegeben."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wohin fließt der Erlös der Auktion?",
+          "options": [
+            "An das Theatermuseum",
+            "An den Förderverein für Palliativmedizin",
+            "An die Brauerei Schumacher",
+            "An einen Karnevalsverein"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wann beginnt das Bieten?",
+          "options": [
+            "Um 16 Uhr",
+            "Um 17 Uhr",
+            "Um 18 Uhr"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „ersteigern“?",
+          "options": [
+            "Etwas bei einer Auktion kaufen",
+            "Eine Treppe hochgehen",
+            "Etwas verschenken",
+            "Etwas verkaufen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-halloween-kostueme-bussgeld",
+      "category": "de",
+      "title_de": "Halloween: Bei diesen Kostümen drohen hohe Bußgelder",
+      "summary_de": "Zu Halloween am 31. Oktober werden die Verkleidungen immer aufwendiger, doch laut watson gelten die Gesetze auch an diesem Abend. Besonders heikel sind Nachbildungen von Schusswaffen, die echten Waffen zu sehr ähneln. Wer solche Anscheinswaffen mit sich führt, begeht eine Ordnungswidrigkeit und muss mit einer Geldbuße von bis zu 10.000 Euro rechnen. Auch Kostüme, die wie echte Polizei- oder Bundeswehruniformen aussehen, können Ärger bringen und sogar strafbar sein. Der Grund: In einer Notlage sollen Menschen echte Einsatzkräfte klar erkennen können. Beliebte Masken aus Serien wie „Haus des Geldes“ sind am Steuer verboten, dafür drohen 60 Euro Bußgeld. Verfassungswidrige Symbole wie das Hakenkreuz sind ebenfalls tabu. Wer kreativ bleibt und diese Punkte beachtet, kann unbesorgt feiern.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/616836102-halloween-verkleidungen-bei-diesen-kostuemen-drohen-bis-zu-10-000-euro-bussgeld",
+      "glossary": [
+        {
+          "form": "Verkleidungen",
+          "lemma": "Verkleidung",
+          "article": "die",
+          "tr": "kostüm, giyinme"
+        },
+        {
+          "form": "aufwendiger",
+          "lemma": "aufwendig",
+          "article": null,
+          "tr": "daha masraflı/özenli"
+        },
+        {
+          "form": "heikel",
+          "lemma": "heikel",
+          "article": null,
+          "tr": "hassas, sorunlu"
+        },
+        {
+          "form": "Nachbildungen",
+          "lemma": "Nachbildung",
+          "article": "die",
+          "tr": "kopya, replika"
+        },
+        {
+          "form": "Schusswaffen",
+          "lemma": "Schusswaffe",
+          "article": "die",
+          "tr": "ateşli silah"
+        },
+        {
+          "form": "Anscheinswaffen",
+          "lemma": "Anscheinswaffe",
+          "article": "die",
+          "tr": "gerçek gibi görünen silah"
+        },
+        {
+          "form": "Ordnungswidrigkeit",
+          "lemma": "Ordnungswidrigkeit",
+          "article": "die",
+          "tr": "kabahat"
+        },
+        {
+          "form": "Geldbuße",
+          "lemma": "Geldbuße",
+          "article": "die",
+          "tr": "para cezası"
+        },
+        {
+          "form": "Bundeswehruniformen",
+          "lemma": "Bundeswehruniform",
+          "article": "die",
+          "tr": "Alman ordusu üniforması"
+        },
+        {
+          "form": "strafbar",
+          "lemma": "strafbar",
+          "article": null,
+          "tr": "suç teşkil eden"
+        },
+        {
+          "form": "Notlage",
+          "lemma": "Notlage",
+          "article": "die",
+          "tr": "acil durum"
+        },
+        {
+          "form": "Einsatzkräfte",
+          "lemma": "Einsatzkraft",
+          "article": "die",
+          "tr": "acil müdahale görevlisi"
+        },
+        {
+          "form": "Steuer",
+          "lemma": "Steuer",
+          "article": "das",
+          "tr": "direksiyon"
+        },
+        {
+          "form": "Bußgeld",
+          "lemma": "Bußgeld",
+          "article": "das",
+          "tr": "idari para cezası"
+        },
+        {
+          "form": "Verfassungswidrige",
+          "lemma": "verfassungswidrig",
+          "article": null,
+          "tr": "anayasaya aykırı"
+        },
+        {
+          "form": "Symbole",
+          "lemma": "Symbol",
+          "article": "das",
+          "tr": "sembol"
+        },
+        {
+          "form": "tabu",
+          "lemma": "tabu",
+          "article": null,
+          "tr": "yasak, dokunulmaz"
+        },
+        {
+          "form": "beachtet",
+          "lemma": "beachten",
+          "article": null,
+          "tr": "dikkate almak"
+        },
+        {
+          "form": "unbesorgt",
+          "lemma": "unbesorgt",
+          "article": null,
+          "tr": "kaygısız"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Bußgeld",
+          "article": "das",
+          "tr": "idari para cezası",
+          "example_de": "Falsches Parken kostet in der Innenstadt ein Bußgeld."
+        },
+        {
+          "de": "mit einer Strafe rechnen",
+          "article": null,
+          "tr": "ceza beklemek",
+          "example_de": "Wer zu schnell fährt, muss mit einer Strafe rechnen."
+        },
+        {
+          "de": "gegen das Gesetz verstoßen",
+          "article": null,
+          "tr": "yasayı ihlal etmek",
+          "example_de": "Mit so einer Maske verstößt du gegen das Gesetz."
+        },
+        {
+          "de": "Verkleidung",
+          "article": "die",
+          "tr": "kostüm, kılık",
+          "example_de": "Meine Verkleidung für die Party ist selbst gebastelt."
+        },
+        {
+          "de": "etwas beachten",
+          "article": null,
+          "tr": "dikkate almak",
+          "example_de": "Bitte beachte die Regeln im Wohnheim."
+        },
+        {
+          "de": "am Steuer sitzen",
+          "article": null,
+          "tr": "direksiyonda olmak",
+          "example_de": "Nach der Party sollte niemand betrunken am Steuer sitzen."
+        },
+        {
+          "de": "strafbar sein",
+          "article": null,
+          "tr": "suç olmak",
+          "example_de": "Das Fälschen von Dokumenten ist strafbar."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie hoch kann die Geldbuße für Anscheinswaffen sein?",
+          "options": [
+            "Bis zu 60 Euro",
+            "Bis zu 1.000 Euro",
+            "Bis zu 10.000 Euro"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was ist laut Artikel am Steuer verboten?",
+          "options": [
+            "Eine Maske tragen",
+            "Musik hören",
+            "Mit Freunden reden",
+            "Eine Mütze tragen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Welche Bedeutung hat „unbesorgt“?",
+          "options": [
+            "Ohne Sorgen",
+            "Sehr laut",
+            "Ohne Geld",
+            "Sehr schnell"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-syros-katzen",
+      "category": "de",
+      "title_de": "Gratis auf einer griechischen Insel – dafür Katzen versorgen",
+      "summary_de": "Die griechische Kykladeninsel Syros ist deutlich ruhiger als Santorini oder Mykonos und sucht nun Hilfe für Katzen. Die Organisation Syros Cats braucht vier Freiwillige, die mindestens einen Monat zwischen Juli und Dezember 2027 bleiben. Als Gegenleistung gibt es ein Zimmer in einer Wohngemeinschaft samt Frühstück gratis, die Anreise und die übrigen Mahlzeiten zahlt man selbst. Gearbeitet wird etwa fünf Stunden am Tag an fünf Tagen pro Woche. Die Freiwilligen füttern die Tiere, reinigen die Katzentoiletten, versorgen sie und geben bei Bedarf Medikamente. Außerdem gewöhnen sie die Katzen an Menschen, damit diese leichter vermittelt werden können. Bewerber sollten fit und gesund sein, mindestens 25 Jahre alt sein und weder eigene Haustiere noch Kinder mitbringen. Die Bewerbung für 2027 öffnet am 1. November 2026.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/good-news/389210934-einen-monat-kostenlos-auf-einer-griechischen-insel-verbringen-und-dabei-katzen-sitten-so-bewirbst-du-dich",
+      "glossary": [
+        {
+          "form": "Kykladeninsel",
+          "lemma": "Kykladeninsel",
+          "article": "die",
+          "tr": "Kiklad adası"
+        },
+        {
+          "form": "Freiwillige",
+          "lemma": "Freiwilliger",
+          "article": "der",
+          "tr": "gönüllü"
+        },
+        {
+          "form": "Gegenleistung",
+          "lemma": "Gegenleistung",
+          "article": "die",
+          "tr": "karşılık"
+        },
+        {
+          "form": "Wohngemeinschaft",
+          "lemma": "Wohngemeinschaft",
+          "article": "die",
+          "tr": "ortak ev (WG)"
+        },
+        {
+          "form": "Anreise",
+          "lemma": "Anreise",
+          "article": "die",
+          "tr": "varış yolculuğu"
+        },
+        {
+          "form": "Mahlzeiten",
+          "lemma": "Mahlzeit",
+          "article": "die",
+          "tr": "öğün"
+        },
+        {
+          "form": "reinigen",
+          "lemma": "reinigen",
+          "article": null,
+          "tr": "temizlemek"
+        },
+        {
+          "form": "Katzentoiletten",
+          "lemma": "Katzentoilette",
+          "article": "die",
+          "tr": "kedi tuvaleti"
+        },
+        {
+          "form": "versorgen",
+          "lemma": "versorgen",
+          "article": null,
+          "tr": "bakmak, ilgilenmek"
+        },
+        {
+          "form": "Bedarf",
+          "lemma": "Bedarf",
+          "article": "der",
+          "tr": "ihtiyaç"
+        },
+        {
+          "form": "Medikamente",
+          "lemma": "Medikament",
+          "article": "das",
+          "tr": "ilaç"
+        },
+        {
+          "form": "gewöhnen",
+          "lemma": "gewöhnen",
+          "article": null,
+          "tr": "alıştırmak"
+        },
+        {
+          "form": "vermittelt",
+          "lemma": "vermitteln",
+          "article": null,
+          "tr": "yerleştirmek, aracılık etmek"
+        },
+        {
+          "form": "Bewerber",
+          "lemma": "Bewerber",
+          "article": "der",
+          "tr": "başvuran"
+        },
+        {
+          "form": "mitbringen",
+          "lemma": "mitbringen",
+          "article": null,
+          "tr": "yanında getirmek"
+        },
+        {
+          "form": "Bewerbung",
+          "lemma": "Bewerbung",
+          "article": "die",
+          "tr": "başvuru"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich bewerben",
+          "article": null,
+          "tr": "başvurmak",
+          "example_de": "Ich bewerbe mich für ein Praktikum bei einer Firma in Köln."
+        },
+        {
+          "de": "Bewerbung",
+          "article": "die",
+          "tr": "başvuru",
+          "example_de": "Meine Bewerbung habe ich gestern abgeschickt."
+        },
+        {
+          "de": "im Gegenzug",
+          "article": null,
+          "tr": "karşılığında",
+          "example_de": "Du hilfst mir beim Umzug, im Gegenzug koche ich für dich."
+        },
+        {
+          "de": "Freiwillige",
+          "article": "der",
+          "tr": "gönüllü",
+          "example_de": "Als Freiwilliger helfe ich am Wochenende im Tierheim."
+        },
+        {
+          "de": "Medikamente geben",
+          "article": null,
+          "tr": "ilaç vermek",
+          "example_de": "Der Tierarzt zeigt mir, wie ich dem Kater Medikamente gebe."
+        },
+        {
+          "de": "bei Bedarf",
+          "article": null,
+          "tr": "gerekirse",
+          "example_de": "Bei Bedarf kann ich dir meine Notizen leihen."
+        },
+        {
+          "de": "Mahlzeit",
+          "article": "die",
+          "tr": "öğün, yemek",
+          "example_de": "Drei Mahlzeiten am Tag sind für mich zu viel."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist im Angebot enthalten?",
+          "options": [
+            "Flug und Verpflegung",
+            "Zimmer und Frühstück",
+            "Nur ein Mietwagen",
+            "Ein Gehalt"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wie alt müssen Bewerber mindestens sein?",
+          "options": [
+            "18 Jahre",
+            "21 Jahre",
+            "25 Jahre"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was bedeutet „bei Bedarf“?",
+          "options": [
+            "Immer",
+            "Nie",
+            "Wenn es nötig ist",
+            "Am Wochenende"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-phantom-blade-zero",
+      "category": "gaming",
+      "title_de": "Phantom Blade Zero startet mit über 720.000 Spielern auf Steam",
+      "summary_de": "Das chinesische Action-Rollenspiel Phantom Blade Zero ist am 29. Oktober erschienen und hat auf Steam einen starken Start hingelegt. Am Nachmittag spielten laut PC Games über 720.000 Menschen gleichzeitig. Damit lag der Titel auf Platz drei der meistgespielten Steam-Spiele, hinter Counter-Strike 2 und PUBG Battlegrounds. Der Autor zieht Vergleiche mit Black Myth: Wukong, das zu seinem Höhepunkt rund 2,4 Millionen Spieler erreichte. Beide Spiele stammen aus China, basieren auf der Unreal Engine 5 und spielen in einer mythisch geprägten Version des Landes. Phantom Blade Zero ist in einer Wuxia-Welt angesiedelt. Die Kritik fällt sehr positiv aus, gelobt werden vor allem das Kampfsystem und die kreativen Bossgegner. Der Test betont außerdem, dass das Spiel trotz viel Action kein klassisches Soulslike ist.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/Phantom-Blade-Zero-Spiel-74287/News/steam-peak-gleichzeitige-spieler-1558284/",
+      "glossary": [
+        {
+          "form": "Action-Rollenspiel",
+          "lemma": "Action-Rollenspiel",
+          "article": "das",
+          "tr": "aksiyon RPG"
+        },
+        {
+          "form": "erschienen",
+          "lemma": "erscheinen",
+          "article": null,
+          "tr": "çıkmak"
+        },
+        {
+          "form": "hingelegt",
+          "lemma": "hinlegen",
+          "article": null,
+          "tr": "sergilemek (bir başlangıç yapmak)"
+        },
+        {
+          "form": "gleichzeitig",
+          "lemma": "gleichzeitig",
+          "article": null,
+          "tr": "aynı anda"
+        },
+        {
+          "form": "meistgespielten",
+          "lemma": "meistgespielt",
+          "article": null,
+          "tr": "en çok oynanan"
+        },
+        {
+          "form": "Vergleiche",
+          "lemma": "Vergleich",
+          "article": "der",
+          "tr": "karşılaştırma"
+        },
+        {
+          "form": "Höhepunkt",
+          "lemma": "Höhepunkt",
+          "article": "der",
+          "tr": "zirve"
+        },
+        {
+          "form": "basieren",
+          "lemma": "basieren",
+          "article": null,
+          "tr": "dayanmak"
+        },
+        {
+          "form": "mythisch geprägten",
+          "lemma": "mythisch geprägt",
+          "article": null,
+          "tr": "mitolojik etkilerle şekillenmiş"
+        },
+        {
+          "form": "angesiedelt",
+          "lemma": "ansiedeln",
+          "article": null,
+          "tr": "geçmek, konumlandırmak"
+        },
+        {
+          "form": "Kritik",
+          "lemma": "Kritik",
+          "article": "die",
+          "tr": "eleştiri"
+        },
+        {
+          "form": "gelobt",
+          "lemma": "loben",
+          "article": null,
+          "tr": "övmek"
+        },
+        {
+          "form": "Kampfsystem",
+          "lemma": "Kampfsystem",
+          "article": "das",
+          "tr": "dövüş sistemi"
+        },
+        {
+          "form": "Bossgegner",
+          "lemma": "Bossgegner",
+          "article": "der",
+          "tr": "patron düşman"
+        },
+        {
+          "form": "betont",
+          "lemma": "betonen",
+          "article": null,
+          "tr": "vurgulamak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen starken Start hinlegen",
+          "article": null,
+          "tr": "güçlü bir başlangıç yapmak",
+          "example_de": "Das Team hat in der Liga einen starken Start hingelegt."
+        },
+        {
+          "de": "Vergleiche ziehen",
+          "article": null,
+          "tr": "karşılaştırma yapmak",
+          "example_de": "Viele ziehen Vergleiche zwischen den beiden Spielen."
+        },
+        {
+          "de": "Höhepunkt",
+          "article": "der",
+          "tr": "zirve",
+          "example_de": "Der Höhepunkt des Abends war das Finale."
+        },
+        {
+          "de": "gleichzeitig",
+          "article": null,
+          "tr": "aynı anda",
+          "example_de": "Wir können nicht beide gleichzeitig spielen."
+        },
+        {
+          "de": "auf etwas basieren",
+          "article": null,
+          "tr": "bir şeye dayanmak",
+          "example_de": "Das Spiel basiert auf einer alten Legende."
+        },
+        {
+          "de": "Kritik",
+          "article": "die",
+          "tr": "eleştiri",
+          "example_de": "Die Kritik an dem Update war ziemlich hart."
+        },
+        {
+          "de": "loben",
+          "article": null,
+          "tr": "övmek",
+          "example_de": "Mein Professor lobt meine Projektarbeit."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Spieler waren am Nachmittag gleichzeitig online?",
+          "options": [
+            "Rund 72.000",
+            "Über 720.000",
+            "Über 2,4 Millionen"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Welche Spiele lagen laut Artikel vor Phantom Blade Zero?",
+          "options": [
+            "Dota 2 und Apex",
+            "Counter-Strike 2 und PUBG Battlegrounds",
+            "League of Legends und Fortnite",
+            "Nur Black Myth: Wukong"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „Höhepunkt“?",
+          "options": [
+            "Der tiefste Punkt",
+            "Der Anfang",
+            "Der beste oder höchste Moment"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-gothic-remake-marvin",
+      "category": "gaming",
+      "title_de": "Gothic 1 Remake: Marvin-Modus kehrt per Gratis-Update zurück",
+      "summary_de": "Das Gothic 1 Remake hat am 29. Oktober sein erstes kostenloses Feature-Update bekommen. Im Mittelpunkt steht die Rückkehr des Marvin-Modus, den es schon im Original von 2001 gab. Dieser Modus ist ein offizieller Cheat- und Entwicklermodus: Man kann sich an jeden Ort teleportieren, Gegenstände aus dem Nichts erschaffen und Monster oder Figuren erscheinen lassen. Aktiviert wird er, indem man ESC drückt, MARVIN eintippt und ESC erneut drückt. Dazu kommt ein offizieller Fotomodus mit vielen Einstellungen, den man über das Pausenmenü oder mit der Taste L öffnet. Der namenlose Held erhält neue Frisuren und Tattoos, und auch die Bewohner des Sumpflagers lassen sich stärker anpassen. Außerdem gibt es neue Wartenanimationen auf der Bank und zusätzliche Soundeffekte. Wer das Remake noch nicht besitzt, kann sparen: Bei der Steam-Aktion von THQ Nordic kostet es bis zum 5. November 25 Prozent weniger, nämlich 37,49 Euro.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/Gothic-Remake-Spiel-73829/News/Update-mit-Marvin-Modus-und-Foto-Modus-1558318/",
+      "glossary": [
+        {
+          "form": "Mittelpunkt",
+          "lemma": "Mittelpunkt",
+          "article": "der",
+          "tr": "merkez"
+        },
+        {
+          "form": "Rückkehr",
+          "lemma": "Rückkehr",
+          "article": "die",
+          "tr": "geri dönüş"
+        },
+        {
+          "form": "Entwicklermodus",
+          "lemma": "Entwicklermodus",
+          "article": "der",
+          "tr": "geliştirici modu"
+        },
+        {
+          "form": "teleportieren",
+          "lemma": "teleportieren",
+          "article": null,
+          "tr": "ışınlamak"
+        },
+        {
+          "form": "Gegenstände",
+          "lemma": "Gegenstand",
+          "article": "der",
+          "tr": "nesne, eşya"
+        },
+        {
+          "form": "erschaffen",
+          "lemma": "erschaffen",
+          "article": null,
+          "tr": "yaratmak"
+        },
+        {
+          "form": "erscheinen",
+          "lemma": "erscheinen",
+          "article": null,
+          "tr": "belirmek, ortaya çıkmak"
+        },
+        {
+          "form": "Aktiviert",
+          "lemma": "aktivieren",
+          "article": null,
+          "tr": "etkinleştirmek"
+        },
+        {
+          "form": "eintippt",
+          "lemma": "eintippen",
+          "article": null,
+          "tr": "yazmak"
+        },
+        {
+          "form": "Fotomodus",
+          "lemma": "Fotomodus",
+          "article": "der",
+          "tr": "fotoğraf modu"
+        },
+        {
+          "form": "Einstellungen",
+          "lemma": "Einstellung",
+          "article": "die",
+          "tr": "ayar"
+        },
+        {
+          "form": "Pausenmenü",
+          "lemma": "Pausenmenü",
+          "article": "das",
+          "tr": "duraklatma menüsü"
+        },
+        {
+          "form": "namenlose",
+          "lemma": "namenlos",
+          "article": null,
+          "tr": "isimsiz"
+        },
+        {
+          "form": "Frisuren",
+          "lemma": "Frisur",
+          "article": "die",
+          "tr": "saç modeli"
+        },
+        {
+          "form": "Bewohner",
+          "lemma": "Bewohner",
+          "article": "der",
+          "tr": "sakin"
+        },
+        {
+          "form": "Sumpflagers",
+          "lemma": "Sumpflager",
+          "article": "das",
+          "tr": "bataklık kampı"
+        },
+        {
+          "form": "anpassen",
+          "lemma": "anpassen",
+          "article": null,
+          "tr": "özelleştirmek, uyarlamak"
+        },
+        {
+          "form": "Soundeffekte",
+          "lemma": "Soundeffekt",
+          "article": "der",
+          "tr": "ses efekti"
+        },
+        {
+          "form": "besitzt",
+          "lemma": "besitzen",
+          "article": null,
+          "tr": "sahip olmak"
+        },
+        {
+          "form": "sparen",
+          "lemma": "sparen",
+          "article": null,
+          "tr": "tasarruf etmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "zurückkehren",
+          "article": null,
+          "tr": "geri dönmek",
+          "example_de": "Nach dem Urlaub kehre ich Montag an die Uni zurück."
+        },
+        {
+          "de": "im Mittelpunkt stehen",
+          "article": null,
+          "tr": "odakta olmak",
+          "example_de": "Bei dem Projekt steht die Teamarbeit im Mittelpunkt."
+        },
+        {
+          "de": "etwas aktivieren",
+          "article": null,
+          "tr": "etkinleştirmek",
+          "example_de": "Du musst den Modus zuerst in den Einstellungen aktivieren."
+        },
+        {
+          "de": "Einstellung",
+          "article": "die",
+          "tr": "ayar",
+          "example_de": "Ich habe die Einstellungen für die Grafik geändert."
+        },
+        {
+          "de": "anpassen",
+          "article": null,
+          "tr": "özelleştirmek",
+          "example_de": "Ich passe mein Profil an meinen Geschmack an."
+        },
+        {
+          "de": "Aktion",
+          "article": "die",
+          "tr": "kampanya, indirim",
+          "example_de": "Im Moment gibt es eine Aktion auf viele Spiele."
+        },
+        {
+          "de": "Geld sparen",
+          "article": null,
+          "tr": "para biriktirmek",
+          "example_de": "Mit dem Studentenrabatt kann ich viel Geld sparen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie aktiviert man den Marvin-Modus?",
+          "options": [
+            "Mit der Taste L",
+            "Mit ESC, MARVIN eintippen und erneut ESC",
+            "Über den Shop",
+            "Er ist immer aktiv"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Bis wann gilt der Rabatt auf Steam?",
+          "options": [
+            "Bis 1. November",
+            "Bis 5. November",
+            "Bis 29. Oktober"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was kann man im Marvin-Modus laut Artikel tun?",
+          "options": [
+            "Spielstände löschen",
+            "Sich teleportieren",
+            "Das Spiel zurückgeben",
+            "Mit Freunden chatten"
+          ],
+          "answer_index": 1
+        }
+      ]
+    }
+  ]
+}

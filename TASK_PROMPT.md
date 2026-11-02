@@ -8,18 +8,20 @@ o günün içeriğiyle değiştirir, `main` dalına commit'ler ve push eder. Akt
 - League of Legends ve Counter-Strike 2 oynuyor; büyük oyun haberlerini seviyor.
 - **İlginç, eğlenceli, sohbette anlatılabilecek** haberler istiyor. Ağır siyaset istemiyor.
 
-## Bugünün karışımı (toplam 5–6 haber)
+## Bugünün karışımı (toplam 10–15 haber)
 | category | Konu | Adet | Kaynak önerileri |
 |---|---|---|---|
-| `nrw` | Düsseldorf ve NRW'den şehir hayatı, etkinlik, ulaşım, tuhaf/güzel olaylar | 1 | WDR, Rheinische Post, Westdeutsche Zeitung (wz.de), Düsseldorf'un resmî sitesi (duesseldorf.de), radioduesseldorf.de, Deutschlandfunk |
-| `de` | Almanya genelinden ilginç/eğlenceli: bilim, teknoloji, internet, tuhaf olaylar, spor, kültür, öğrenci hayatı | 2 | watson.de, Deutschlandfunk / Deutschlandfunk Nova (deutschlandfunk.de, deutschlandfunknova.de), MDR, tagesschau, Spiegel, DW, t3n.de, netzpolitik.org |
-| `tr` | Türkiye'den ilginç/eğlenceli haber — **Almanca kaynaktan** | 1 | Deutschlandfunk, DW, watson.de, tagesschau, diğer Almanca medya |
-| `gaming` | LoL ve CS2 büyük güncellemeleri/olayları; ses getiren diğer oyun haberleri | 1–2 | Mein-MMO, PC Games, GamePro, ingame.de, GameStar; resmî yama notları: leagueoflegends.com/de-de, counter-strike.net |
+| `nrw` | Düsseldorf ve NRW'den şehir hayatı, etkinlik, ulaşım, tuhaf/güzel olaylar | 2–3 | WDR, Rheinische Post, Westdeutsche Zeitung (wz.de), Düsseldorf'un resmî sitesi (duesseldorf.de), radioduesseldorf.de, Deutschlandfunk |
+| `de` | Almanya genelinden ilginç/eğlenceli: bilim, teknoloji, internet, tuhaf olaylar, spor, kültür, öğrenci hayatı | 4–6 | watson.de, Deutschlandfunk / Deutschlandfunk Nova (deutschlandfunk.de, deutschlandfunknova.de), MDR, tagesschau, Spiegel, DW, t3n.de, netzpolitik.org |
+| `tr` | Türkiye'den ilginç/eğlenceli haber — **Almanca kaynaktan** | 1–2 | Deutschlandfunk, DW, watson.de, tagesschau, diğer Almanca medya |
+| `gaming` | LoL ve CS2 büyük güncellemeleri/olayları; ses getiren diğer oyun haberleri | 2–4 | Mein-MMO, PC Games, GamePro, ingame.de, GameStar; resmî yama notları: leagueoflegends.com/de-de, counter-strike.net |
 
 **Erişim kuralı:** Bir site içerik vermezse (ör. "unable to fetch", 403) onu atla ve listedeki ya da arama ile bulduğun başka bir Almanca kaynağa geç.
 Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, önbellek/arşiv kopyalarına ya da ayna sitelere gitme. Arama sonuçlarından yalnızca gerçekten açabildiğin makaleleri kullan.
 
 - O gün bir kategoride uygun haber yoksa o kategoriyi **atla**; boşluğu `de` ile doldurabilirsin. Asla haber uydurma.
+- Toplam 10'a ulaşmak için kalite düşürme: gerçekten ilginç ve okuduğun haberlerden en az 10 bulamazsan bulduğun kadarını yayımla.
+- Aynı olayı iki kez anlatan haberleri tekrar koyma; bir önceki günün `daily.json` dosyasındaki haberleri de tekrarlama.
 - Oyun haberinde: büyük yama/sezon, yeni şampiyon/harita/silah, büyük e-spor turnuvası, büyük oyun duyurusu gibi gelişmeler. Küçük "indirim" ya da "tier list" yazıları değil.
 - **Seçme:** seçimler, parti tartışmaları, savaş, terör, ağır suç ve şiddet, ölüm/kaza ayrıntıları, ünlü dedikodusu.
 - Haberler **son 48 saatten** olsun, mümkünse son 24 saatten.
@@ -69,10 +71,10 @@ Engeli aşmaya çalışma: başka araçla (curl vb.) aynı sayfayı çekmeye, ö
   - `article`: isimlerde `der/die/das`, diğerlerinde `null`.
   - `tr`: bu cümledeki anlamına uygun kısa Türkçe karşılık.
   - Özel isimleri (kişi, şehir, oyun adı) ve çok basit kelimeleri (und, der, ist, haben…) koyma.
-- `vocabulary` (öne çıkan kalıplar): haber başına **5–8** giriş; konuşmada işe yarayan kelimeler ve **fiil + isim kalıpları**.
+- `vocabulary` (öne çıkan kalıplar): haber başına **4–6** giriş; konuşmada işe yarayan kelimeler ve **fiil + isim kalıpları**.
   - İsimlerde `de` artikelsiz tekil, artikel `article` alanında. Kalıp ve fiillerde `article: null`.
   - `example_de`: **kendi yazdığın**, doğal, günlük hayattan bir cümle (haberden kopya değil).
-- `exercises`: haber başına **2–3** çoktan seçmeli soru: anlama sorusu ve kelime sorusu karışık.
+- `exercises`: haber başına **2** çoktan seçmeli soru: anlama sorusu ve kelime sorusu karışık.
   - 3–4 seçenek, tek doğru cevap, `answer_index` 0'dan başlar; doğru cevabın yeri sorular arasında değişsin.
 
 ## Göndermeden önce doğrulama

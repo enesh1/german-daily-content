@@ -1,0 +1,1845 @@
+{
+  "date": "2026-11-04",
+  "level": "original",
+  "facts": [
+    {
+      "de": "Das Wort „Quarantäne“ geht auf das italienische „quaranta giorni“ (vierzig Tage) zurück. In Venedig durften pestverdächtige Schiffe schon 1374 nicht mehr in den Hafen einfahren.",
+      "tr": "„Quarantäne“ (karantina) sözcüğü İtalyanca „quaranta giorni“ (kırk gün) ifadesine dayanır. Venedik'te veba şüphesi taşıyan gemilerin limana girmesi daha 1374'te yasaklanmıştı.",
+      "source_url": "https://de.wikipedia.org/wiki/Quarantäne"
+    },
+    {
+      "de": "Der Bosporus ist eine Meerenge zwischen Europa und Asien, und die Millionenstadt Istanbul liegt auf beiden Seiten.",
+      "tr": "Boğaziçi Avrupa ile Asya arasındaki bir boğazdır ve milyonluk İstanbul şehri iki yakasında da yer alır.",
+      "source_url": "https://de.wikipedia.org/wiki/Bosporus"
+    },
+    {
+      "de": "Durch die Gezeitenreibung entfernt sich der Mond jedes Jahr um etwa 3,8 Zentimeter von der Erde.",
+      "tr": "Gelgit sürtünmesi nedeniyle Ay, her yıl Dünya'dan yaklaşık 3,8 santimetre uzaklaşır.",
+      "source_url": "https://de.wikipedia.org/wiki/Mond"
+    }
+  ],
+  "idiom": {
+    "de": "Das ist nicht mein Bier.",
+    "meaning_tr": "Bu beni ilgilendirmez; bu benim sorumluluğumda ya da ilgi alanımda değil.",
+    "literal_tr": "Bu benim biram değil.",
+    "equivalent_tr": "Bana ne? / Benim işim değil.",
+    "example_de": "Die Organisation der Semesterparty? Das ist nicht mein Bier, frag lieber Anna.",
+    "example_tr": "Dönem partisinin organizasyonu mu? Bu benim işim değil, en iyisi Anna'ya sor."
+  },
+  "reading": [
+    {
+      "type": "ana",
+      "text_de": "Viele Studierende glauben, dass ein Mitschnitt der Vorlesung das Lernen erleichtert, weil man alles später in Ruhe nachhören kann. In einer Befragung gab jedoch mehr als die Hälfte an, die Aufnahmen kaum anzuhören. Zwar beruhigt das Wissen, dass der Stoff jederzeit verfügbar ist, doch genau diese Gewissheit senkt die Aufmerksamkeit im Hörsaal. Wer sich auf die Aufnahme verlässt, verschiebt das eigentliche Lernen oft auf einen Zeitpunkt, der nie kommt.",
+      "question_de": "Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?",
+      "options": [
+        "Vorlesungsaufnahmen sind nutzlos, weil Studierende sie grundsätzlich nie anhören.",
+        "Die Möglichkeit, eine Vorlesung später nachzuhören, kann dazu führen, dass man weniger aufmerksam lernt.",
+        "Studierende sollten im Hörsaal mehr mitschreiben, weil Aufnahmen die Qualität der Lehre senken.",
+        "Mehr als die Hälfte der Studierenden hört die Aufnahmen an, verliert aber trotzdem den Überblick."
+      ],
+      "answer_index": 1,
+      "explanation_tr": "Metin, kaydın varlığının derste dikkati düşürdüğünü ve öğrenmeyi ertelettiğini anlatır; doğru cevap B. A şıkkı 'grundsätzlich nie' ile aşırı genelleme yapar (metin 'kaum' der), D şıkkı ise yarıdan fazlasının kayıtları dinlemediği bilgisini tersine çevirir."
+    },
+    {
+      "type": "cikarilamaz",
+      "text_de": "Städte, die Tempo 30 einführen, ernten häufig Kritik von Autofahrern, die längere Fahrzeiten befürchten. Messungen zeigen allerdings, dass sich die Fahrtdauer innerhalb der Stadt kaum verlängert, weil der Verkehr gleichmäßiger fließt und weniger an Ampeln gebremst wird. Dafür sinkt der Lärmpegel spürbar, und bei Unfällen sind die Folgen für Fußgänger meist geringer. Ob dadurch auch weniger Abgase entstehen, hängt dagegen stark von der Straße und vom Fahrzeug ab.",
+      "question_de": "Welche Aussage lässt sich aus dem Text NICHT ableiten?",
+      "options": [
+        "Ein gleichmäßigerer Verkehrsfluss kann den Zeitverlust durch langsameres Fahren weitgehend ausgleichen.",
+        "Bei niedrigerem Tempo fallen die Unfallfolgen für Fußgänger tendenziell weniger schwer aus.",
+        "Tempo 30 verringert den Schadstoffausstoß in jeder Straße deutlich.",
+        "Autofahrer befürchten häufig, dass sie mit Tempo 30 länger unterwegs sind."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "Metin, egzoz azalmasının sokağa ve araca göre değiştiğini söyler; bu yüzden C ('her sokakta belirgin şekilde azaltır') metinden çıkarılamaz. A, B ve D doğrudan metne dayanır; A şıkkı en çekici çeldiricidir ama 'kaum verlängert' ifadesiyle desteklenir."
+    },
+    {
+      "type": "bosluk",
+      "text_de": "Beim Kochen nach Rezepten aus dem Internet scheitern viele nicht an der Technik, sondern an den Mengenangaben. ___ Wer dagegen nach Gefühl würzt und zwischendurch probiert, korrigiert Fehler noch während des Kochens.",
+      "question_de": "Welcher Satz passt am besten in die Lücke (___)?",
+      "options": [
+        "Wer jede Angabe stur befolgt, bemerkt einen Fehler häufig erst, wenn das Gericht schon fertig ist.",
+        "Rezepte sind daher überflüssig, weil Kochen ohnehin reine Gefühlssache ist.",
+        "Wer zwischendurch probiert, verlängert die Kochzeit erheblich.",
+        "Gute Köche vermeiden Salz grundsätzlich, um Fehler auszuschließen."
+      ],
+      "answer_index": 0,
+      "explanation_tr": "'Dagegen' ile başlayan cümle, tadarak pişirenle zıtlık kurar; boşluğa kuralları körü körüne uygulayanın hatayı geç fark etmesi gelmelidir (A). B şıkkı 'überflüssig' ile aşırıya kaçar, C şıkkı ise tadan kişiyi olumsuz gösterip zıtlık mantığını bozar."
+    },
+    {
+      "type": "anlam",
+      "text_de": "Viele Menschen greifen in jeder Wartepause zum Handy und nennen das Entspannung. Psychologen halten dagegen, dass das Gehirn dabei keine Ruhe findet, sondern ununterbrochen neue Reize verarbeitet. Das Handy wirkt in solchen Momenten wie ein „Lückenfüller“, der Langeweile gar nicht erst entstehen lässt. Dabei ist gerade Langeweile oft der Auslöser für Tagträume und neue Ideen.",
+      "question_de": "Was ist mit „Lückenfüller“ gemeint?",
+      "options": [
+        "Es hilft dabei, Wissenslücken schnell zu schließen.",
+        "Es ersetzt Gespräche, die sonst in Wartepausen stattfinden würden.",
+        "Es sorgt dafür, dass das Gehirn endlich zur Ruhe kommt.",
+        "Es füllt freie Momente aus und verhindert dadurch, dass Langeweile aufkommt."
+      ],
+      "answer_index": 3,
+      "explanation_tr": "Metinde 'Lückenfüller', boş anları dolduran ve sıkıntının oluşmasını engelleyen şeydir (D). A şıkkı kelimenin düz anlamına ('Lücke' = bilgi boşluğu) takılır; C şıkkı ise metindeki 'beyin dinlenmez' bilgisiyle çelişir."
+    },
+    {
+      "type": "tutum",
+      "text_de": "Seit Jahren versprechen Hersteller, dass vollautonome Autos bald den Alltag bestimmen werden. Bislang beschränkt sich die Technik jedoch auf Autobahnen und klar markierte Strecken, und selbst dort muss der Fahrer jederzeit eingreifen können. Die Ankündigungen klingen nach Revolution, die Realität ähnelt eher einer Reihe kleiner Updates. Das mag enttäuschen, ist aber kein Grund, den Fortschritt kleinzureden: Jede Verbesserung der Assistenzsysteme verhindert schon heute Unfälle.",
+      "question_de": "Welche Haltung vertritt der Autor?",
+      "options": [
+        "Er ist begeistert von der Technik und überzeugt, dass die Revolution unmittelbar bevorsteht.",
+        "Er lehnt Assistenzsysteme ab, weil sie seiner Meinung nach mehr Unfälle verursachen.",
+        "Er ist skeptisch gegenüber den Versprechen, erkennt aber die tatsächlichen Fortschritte an.",
+        "Er ist gleichgültig, weil er die Entwicklung der Autos für unwichtig hält."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "Yazar vaatleri abartılı bulur ama küçük ilerlemelerin bugün bile kazaları önlediğini vurgular; doğru cevap C. A şıkkı yazarın coşkusunu uydurur, B şıkkı ise metindeki 'verhindert Unfälle' bilgisinin tam tersidir."
+    }
+  ],
+  "items": [
+    {
+      "id": "2026-11-04-bad-frankenhausen-schiefer-turm",
+      "category": "de",
+      "title_de": "Deutschlands „Pisa“: Der schiefe Turm von Bad Frankenhausen",
+      "summary_de": "Im Norden Thüringens steht in Bad Frankenhausen ein Kirchturm, der noch schiefer ist als der berühmte Turm von Pisa. Je nach Quelle neigt er sich um 4,7 bis 5,14 Grad, während Pisa knapp unter vier Grad bleibt. Schuld daran ist Salzwasser im Untergrund: Es löst Salz aus dem Gestein, sodass sich der Boden ungleichmäßig absenkt. Weil der Turm einmal als Abrisskandidat galt, investierte die Stadt rund 15 Millionen Euro in seine Sanierung. Seit diesem Jahr können Besucher über eine historische Holztreppe auf einen Skywalk steigen und über die Dächer der Altstadt blicken. Im Fundament zeigen ein Kino und eine VR-Zeitreise die Geschichte des Ortes. Wer länger bleibt, kann außerdem das riesige Bauernkriegspanorama besichtigen oder in der Kyffhäusertherme entspannen.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/urlaub-freizeit/864186695-deutschlands-pisa-dieser-unbekannte-ort-hat-einen-schiefen-turm-einen-skywalk-und-herrliche-natur",
+      "glossary": [
+        {
+          "form": "schiefer",
+          "lemma": "schief",
+          "article": null,
+          "tr": "daha eğik"
+        },
+        {
+          "form": "neigt",
+          "lemma": "sich neigen",
+          "article": null,
+          "tr": "eğilir"
+        },
+        {
+          "form": "Untergrund",
+          "lemma": "Untergrund",
+          "article": "der",
+          "tr": "zemin, alt tabaka"
+        },
+        {
+          "form": "Gestein",
+          "lemma": "Gestein",
+          "article": "das",
+          "tr": "kaya"
+        },
+        {
+          "form": "ungleichmäßig",
+          "lemma": "ungleichmäßig",
+          "article": null,
+          "tr": "düzensiz, eşitsiz"
+        },
+        {
+          "form": "absenkt",
+          "lemma": "sich absenken",
+          "article": null,
+          "tr": "çöker, alçalır"
+        },
+        {
+          "form": "Abrisskandidat",
+          "lemma": "Abrisskandidat",
+          "article": "der",
+          "tr": "yıkım adayı"
+        },
+        {
+          "form": "investierte",
+          "lemma": "investieren",
+          "article": null,
+          "tr": "yatırım yaptı"
+        },
+        {
+          "form": "Sanierung",
+          "lemma": "Sanierung",
+          "article": "die",
+          "tr": "restorasyon, yenileme"
+        },
+        {
+          "form": "Besucher",
+          "lemma": "Besucher",
+          "article": "der",
+          "tr": "ziyaretçiler"
+        },
+        {
+          "form": "Holztreppe",
+          "lemma": "Holztreppe",
+          "article": "die",
+          "tr": "ahşap merdiven"
+        },
+        {
+          "form": "Fundament",
+          "lemma": "Fundament",
+          "article": "das",
+          "tr": "temel"
+        },
+        {
+          "form": "Bauernkriegspanorama",
+          "lemma": "Bauernkriegspanorama",
+          "article": "das",
+          "tr": "Köylü Savaşı panoraması"
+        },
+        {
+          "form": "besichtigen",
+          "lemma": "besichtigen",
+          "article": null,
+          "tr": "gezmek, görmek"
+        },
+        {
+          "form": "entspannen",
+          "lemma": "sich entspannen",
+          "article": null,
+          "tr": "dinlenmek"
+        },
+        {
+          "form": "berühmte",
+          "lemma": "berühmt",
+          "article": null,
+          "tr": "ünlü"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "die Sanierung",
+          "article": "die",
+          "tr": "restorasyon",
+          "example_de": "Die Sanierung der alten Schule dauert zwei Jahre."
+        },
+        {
+          "de": "in etwas investieren",
+          "article": null,
+          "tr": "bir şeye yatırım yapmak",
+          "example_de": "Ich möchte lieber in ein gutes Fahrrad als in ein Auto investieren."
+        },
+        {
+          "de": "sich neigen",
+          "article": null,
+          "tr": "eğilmek",
+          "example_de": "Der alte Zaun neigt sich langsam zur Seite."
+        },
+        {
+          "de": "der Untergrund",
+          "article": "der",
+          "tr": "zemin",
+          "example_de": "Auf nassem Untergrund rutscht man schnell aus."
+        },
+        {
+          "de": "einen Blick über etwas werfen",
+          "article": null,
+          "tr": "bir şeye göz atmak / manzarayı seyretmek",
+          "example_de": "Von der Brücke aus konnten wir einen Blick über die ganze Stadt werfen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wodurch ist der Turm von Bad Frankenhausen so schief?",
+          "options": [
+            "Durch Salzwasser im Untergrund",
+            "Durch ein altes Erdbeben",
+            "Durch einen Baufehler im Dach",
+            "Durch Hochwasser der Saale"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „Abrisskandidat“ im Text?",
+          "options": [
+            "Ein Bürger, der für einen Posten kandidiert",
+            "Ein Turm mit besonders vielen Besuchern",
+            "Ein Gebäude, das vielleicht abgerissen wird"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-nextcloud-schulen-sechs-laender",
+      "category": "de",
+      "title_de": "Sechs Bundesländer setzen an Schulen auf Nextcloud statt Microsoft",
+      "summary_de": "Sechs Bundesländer wollen ihre Schulen künftig mit einer Open-Source-Plattform statt mit Software von Microsoft oder Google ausstatten. Beteiligt sind Berlin, Bremen, Hamburg, Hessen, Nordrhein-Westfalen und Rheinland-Pfalz. Grundlage ist ein Rahmenvertrag über das Angebot „Ionos Nextcloud Workspace“, das Dateiablage, Chat, Videokonferenzen, E-Mail, Kalender und Büroprogramme bündelt. Die Software stammt von Nextcloud aus Stuttgart, Ionos stellt die Server bereit. Dank der Beschaffung über die Genossenschaft govdigital ist keine neue Ausschreibung nötig. Der Vertrag läuft zunächst vier Jahre, und Schulen müssen die Plattform nicht nutzen. Befürworter verweisen auf den Datenschutz und auf den Schutz vor dem Zugriff amerikanischer Behörden. Bekannt wurde die Vereinbarung am Rande des Digitalgipfels in Berlin.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Nextcloud-und-Ionos-Open-Source-Bildungsplattform-fuer-sechs-Bundeslaender-11510231.html",
+      "glossary": [
+        {
+          "form": "Bundesländer",
+          "lemma": "Bundesland",
+          "article": "das",
+          "tr": "eyaletler"
+        },
+        {
+          "form": "ausstatten",
+          "lemma": "ausstatten",
+          "article": null,
+          "tr": "donatmak"
+        },
+        {
+          "form": "Plattform",
+          "lemma": "Plattform",
+          "article": "die",
+          "tr": "platform"
+        },
+        {
+          "form": "Beteiligt",
+          "lemma": "beteiligt",
+          "article": null,
+          "tr": "katılan, dahil"
+        },
+        {
+          "form": "Rahmenvertrag",
+          "lemma": "Rahmenvertrag",
+          "article": "der",
+          "tr": "çerçeve sözleşme"
+        },
+        {
+          "form": "Dateiablage",
+          "lemma": "Dateiablage",
+          "article": "die",
+          "tr": "dosya depolama"
+        },
+        {
+          "form": "Videokonferenzen",
+          "lemma": "Videokonferenz",
+          "article": "die",
+          "tr": "video konferanslar"
+        },
+        {
+          "form": "bündelt",
+          "lemma": "bündeln",
+          "article": null,
+          "tr": "bir araya getirir"
+        },
+        {
+          "form": "Beschaffung",
+          "lemma": "Beschaffung",
+          "article": "die",
+          "tr": "tedarik"
+        },
+        {
+          "form": "Genossenschaft",
+          "lemma": "Genossenschaft",
+          "article": "die",
+          "tr": "kooperatif"
+        },
+        {
+          "form": "Ausschreibung",
+          "lemma": "Ausschreibung",
+          "article": "die",
+          "tr": "ihale"
+        },
+        {
+          "form": "Befürworter",
+          "lemma": "Befürworter",
+          "article": "der",
+          "tr": "savunucular"
+        },
+        {
+          "form": "verweisen",
+          "lemma": "verweisen",
+          "article": null,
+          "tr": "işaret etmek, atıfta bulunmak"
+        },
+        {
+          "form": "Datenschutz",
+          "lemma": "Datenschutz",
+          "article": "der",
+          "tr": "veri koruma"
+        },
+        {
+          "form": "Zugriff",
+          "lemma": "Zugriff",
+          "article": "der",
+          "tr": "erişim"
+        },
+        {
+          "form": "Behörden",
+          "lemma": "Behörde",
+          "article": "die",
+          "tr": "kurumlar, makamlar"
+        },
+        {
+          "form": "Vereinbarung",
+          "lemma": "Vereinbarung",
+          "article": "die",
+          "tr": "anlaşma"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "der Rahmenvertrag",
+          "article": "der",
+          "tr": "çerçeve sözleşme",
+          "example_de": "Die Firma hat einen Rahmenvertrag mit mehreren Schulen abgeschlossen."
+        },
+        {
+          "de": "eine Ausschreibung gewinnen",
+          "article": null,
+          "tr": "ihaleyi kazanmak",
+          "example_de": "Unser Betrieb hat die Ausschreibung der Stadt gewonnen."
+        },
+        {
+          "de": "auf etwas verweisen",
+          "article": null,
+          "tr": "bir şeye işaret etmek",
+          "example_de": "Er verweist in der Diskussion immer wieder auf die Kosten."
+        },
+        {
+          "de": "der Datenschutz",
+          "article": "der",
+          "tr": "veri koruma",
+          "example_de": "Beim Datenschutz sind deutsche Firmen oft besonders streng."
+        },
+        {
+          "de": "am Rande von etwas",
+          "article": null,
+          "tr": "bir şeyin kenarında / vesilesiyle",
+          "example_de": "Am Rande des Turniers gab es viele Gespräche."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie lange läuft der Vertrag zunächst?",
+          "options": [
+            "Zwei Jahre",
+            "Vier Jahre",
+            "Zehn Jahre"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „bündelt“ im Text?",
+          "options": [
+            "Es verbindet mehrere Funktionen in einem Angebot",
+            "Es verkauft Programme einzeln",
+            "Es löscht alte Dateien"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-google-botnetz-android-boxen",
+      "category": "de",
+      "title_de": "Google legt Botnetz aus vorinfizierten Android-Boxen lahm",
+      "summary_de": "Google hat gemeinsam mit Partnern, darunter die japanische Polizei, ein riesiges Botnetz lahmgelegt, das vor allem aus Android-Fernsehboxen bestand. Nach Angaben des Konzerns waren mehr als 1,3 Millionen Geräte betroffen, auch in Deutschland. Besonders brisant: Die Schadsoftware steckte offenbar ab Werk in der Firmware und kam nach einem Neustart sogar zurück, wenn man sie löschte. Google beschuldigt den chinesischen Hersteller Videostrong, das Netz absichtlich als Geschäftsmodell aufgebaut zu haben. Die infizierten Geräte vermieteten ihre Internetverbindung an Kriminelle und täuschten Werbeklicks vor. Videostrong darf künftig keine zertifizierten Android-Geräte mehr bauen oder verkaufen. Laut heise hat sich die Firma zu den Vorwürfen bislang nicht geäußert. Die Sicherheitsfirma Synthient rät betroffenen Nutzern, die Boxen zu entsorgen.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Google-legt-Botnetz-lahm-beschuldigt-Hersteller-von-Android-Set-Top-Boxen-11510056.html",
+      "glossary": [
+        {
+          "form": "lahmgelegt",
+          "lemma": "lahmlegen",
+          "article": null,
+          "tr": "felç etti, devre dışı bıraktı"
+        },
+        {
+          "form": "Botnetz",
+          "lemma": "Botnetz",
+          "article": "das",
+          "tr": "botnet"
+        },
+        {
+          "form": "Fernsehboxen",
+          "lemma": "Fernsehbox",
+          "article": "die",
+          "tr": "TV kutuları"
+        },
+        {
+          "form": "betroffen",
+          "lemma": "betroffen",
+          "article": null,
+          "tr": "etkilenmiş"
+        },
+        {
+          "form": "brisant",
+          "lemma": "brisant",
+          "article": null,
+          "tr": "patlayıcı, çarpıcı"
+        },
+        {
+          "form": "Schadsoftware",
+          "lemma": "Schadsoftware",
+          "article": "die",
+          "tr": "zararlı yazılım"
+        },
+        {
+          "form": "ab Werk",
+          "lemma": "ab Werk",
+          "article": null,
+          "tr": "fabrikadan itibaren"
+        },
+        {
+          "form": "Firmware",
+          "lemma": "Firmware",
+          "article": "die",
+          "tr": "donanım yazılımı"
+        },
+        {
+          "form": "Neustart",
+          "lemma": "Neustart",
+          "article": "der",
+          "tr": "yeniden başlatma"
+        },
+        {
+          "form": "beschuldigt",
+          "lemma": "beschuldigen",
+          "article": null,
+          "tr": "suçluyor"
+        },
+        {
+          "form": "Hersteller",
+          "lemma": "Hersteller",
+          "article": "der",
+          "tr": "üretici"
+        },
+        {
+          "form": "Geschäftsmodell",
+          "lemma": "Geschäftsmodell",
+          "article": "das",
+          "tr": "iş modeli"
+        },
+        {
+          "form": "infizierten",
+          "lemma": "infiziert",
+          "article": null,
+          "tr": "bulaşmış"
+        },
+        {
+          "form": "vermieteten",
+          "lemma": "vermieten",
+          "article": null,
+          "tr": "kiraya verdiler"
+        },
+        {
+          "form": "Kriminelle",
+          "lemma": "Kriminelle",
+          "article": "der",
+          "tr": "suçlular"
+        },
+        {
+          "form": "zertifizierten",
+          "lemma": "zertifiziert",
+          "article": null,
+          "tr": "sertifikalı"
+        },
+        {
+          "form": "Vorwürfen",
+          "lemma": "Vorwurf",
+          "article": "der",
+          "tr": "suçlamalar"
+        },
+        {
+          "form": "geäußert",
+          "lemma": "sich äußern",
+          "article": null,
+          "tr": "açıklama yaptı"
+        },
+        {
+          "form": "entsorgen",
+          "lemma": "entsorgen",
+          "article": null,
+          "tr": "imha etmek, atmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas lahmlegen",
+          "article": null,
+          "tr": "bir şeyi felç etmek",
+          "example_de": "Ein Stromausfall hat den ganzen Bahnhof lahmgelegt."
+        },
+        {
+          "de": "der Neustart",
+          "article": "der",
+          "tr": "yeniden başlatma",
+          "example_de": "Nach dem Neustart lief der Laptop wieder flüssig."
+        },
+        {
+          "de": "jemanden beschuldigen",
+          "article": null,
+          "tr": "birini suçlamak",
+          "example_de": "Man sollte niemanden ohne Beweise beschuldigen."
+        },
+        {
+          "de": "sich zu etwas äußern",
+          "article": null,
+          "tr": "bir konuda görüş bildirmek",
+          "example_de": "Der Trainer wollte sich nicht zur Niederlage äußern."
+        },
+        {
+          "de": "ab Werk",
+          "article": null,
+          "tr": "fabrika çıkışı",
+          "example_de": "Das Auto hat ab Werk eine Rückfahrkamera."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wen beschuldigt Google?",
+          "options": [
+            "Die japanische Polizei",
+            "Die Besitzer der Boxen",
+            "Den Hersteller Videostrong",
+            "Die Firma Synthient"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was bedeutet „ab Werk“?",
+          "options": [
+            "Nach Feierabend",
+            "Seit der Auslieferung durch den Hersteller",
+            "Erst nach einem Update"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-eugh-chatbot-urheberrecht",
+      "category": "de",
+      "title_de": "EuGH-Gutachten: Können KI-Chatbots das Urheberrecht verletzen?",
+      "summary_de": "Zum ersten Mal beschäftigt sich der Europäische Gerichtshof mit einem Fall zu generativer KI. Ausgelöst hat ihn der ungarische Verlag Like Company, der Google verklagt, weil der Chatbot Gemini geschützte Artikel ohne Erlaubnis wiedergegeben haben soll. Generalanwalt Maciej Szpunar hat nun seine Schlussanträge vorgelegt, die für die Richter nicht bindend sind. Seiner Ansicht nach kann ein Chatbot die Rechte von Presseverlegern verletzen, wenn er Texte so wiedergibt, dass Leser das Original nicht mehr aufrufen müssen. Geschützt ist dabei die konkrete Ausdrucksform, nicht aber die berichtete Nachricht selbst. Wichtig ist außerdem, ob die KI auf unrechtmäßigem Weg an die Artikel gelangt ist, etwa durch das Umgehen einer Bezahlschranke. Google begrüßte die Einschätzung und betont, Gemini erzeuge eigene Inhalte. Ein Urteil wird frühestens 2027 erwartet.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/EuGH-Gutachten-KI-Chatbots-koennen-Urheberrecht-verletzen-11510768.html",
+      "glossary": [
+        {
+          "form": "beschäftigt",
+          "lemma": "sich beschäftigen",
+          "article": null,
+          "tr": "ilgilenir, uğraşır"
+        },
+        {
+          "form": "Gerichtshof",
+          "lemma": "Gerichtshof",
+          "article": "der",
+          "tr": "mahkeme"
+        },
+        {
+          "form": "generativer",
+          "lemma": "generativ",
+          "article": null,
+          "tr": "üretken"
+        },
+        {
+          "form": "Ausgelöst",
+          "lemma": "auslösen",
+          "article": null,
+          "tr": "tetiklemiş"
+        },
+        {
+          "form": "verklagt",
+          "lemma": "verklagen",
+          "article": null,
+          "tr": "dava eder"
+        },
+        {
+          "form": "geschützte",
+          "lemma": "geschützt",
+          "article": null,
+          "tr": "korumalı"
+        },
+        {
+          "form": "wiedergegeben",
+          "lemma": "wiedergeben",
+          "article": null,
+          "tr": "yeniden üretmiş"
+        },
+        {
+          "form": "Generalanwalt",
+          "lemma": "Generalanwalt",
+          "article": "der",
+          "tr": "başsavcı (AB Adalet Divanı)"
+        },
+        {
+          "form": "Schlussanträge",
+          "lemma": "Schlussantrag",
+          "article": "der",
+          "tr": "nihai görüş (hukuk)"
+        },
+        {
+          "form": "bindend",
+          "lemma": "bindend",
+          "article": null,
+          "tr": "bağlayıcı"
+        },
+        {
+          "form": "Presseverlegern",
+          "lemma": "Presseverleger",
+          "article": "der",
+          "tr": "basın yayıncıları"
+        },
+        {
+          "form": "verletzen",
+          "lemma": "verletzen",
+          "article": null,
+          "tr": "ihlal etmek"
+        },
+        {
+          "form": "wiedergibt",
+          "lemma": "wiedergeben",
+          "article": null,
+          "tr": "yeniden verir"
+        },
+        {
+          "form": "Ausdrucksform",
+          "lemma": "Ausdrucksform",
+          "article": "die",
+          "tr": "ifade biçimi"
+        },
+        {
+          "form": "unrechtmäßigem",
+          "lemma": "unrechtmäßig",
+          "article": null,
+          "tr": "hukuka aykırı"
+        },
+        {
+          "form": "gelangt",
+          "lemma": "gelangen",
+          "article": null,
+          "tr": "ulaşmış"
+        },
+        {
+          "form": "Umgehen",
+          "lemma": "Umgehen",
+          "article": "das",
+          "tr": "aşma, dolanma"
+        },
+        {
+          "form": "Bezahlschranke",
+          "lemma": "Bezahlschranke",
+          "article": "die",
+          "tr": "ödeme duvarı"
+        },
+        {
+          "form": "begrüßte",
+          "lemma": "begrüßen",
+          "article": null,
+          "tr": "memnuniyetle karşıladı"
+        },
+        {
+          "form": "Einschätzung",
+          "lemma": "Einschätzung",
+          "article": "die",
+          "tr": "değerlendirme"
+        },
+        {
+          "form": "erzeuge",
+          "lemma": "erzeugen",
+          "article": null,
+          "tr": "üretiyor (dolaylı anlatım)"
+        },
+        {
+          "form": "Urteil",
+          "lemma": "Urteil",
+          "article": "das",
+          "tr": "karar"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "das Urteil",
+          "article": "das",
+          "tr": "mahkeme kararı",
+          "example_de": "Das Urteil wird erst im nächsten Jahr erwartet."
+        },
+        {
+          "de": "jemanden verklagen",
+          "article": null,
+          "tr": "birine dava açmak",
+          "example_de": "Die Mieter wollen den Vermieter verklagen."
+        },
+        {
+          "de": "gegen ein Recht verstoßen",
+          "article": null,
+          "tr": "bir hakkı ihlal etmek",
+          "example_de": "Wer Texte kopiert, kann gegen das Urheberrecht verstoßen."
+        },
+        {
+          "de": "nicht bindend sein",
+          "article": null,
+          "tr": "bağlayıcı olmamak",
+          "example_de": "Die Empfehlung der Kommission ist nicht bindend."
+        },
+        {
+          "de": "die Einschätzung",
+          "article": "die",
+          "tr": "değerlendirme",
+          "example_de": "Seine Einschätzung der Lage war ziemlich genau."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was gilt für die Schlussanträge des Generalanwalts?",
+          "options": [
+            "Sie sind für die Richter nicht bindend",
+            "Sie sind bereits das endgültige Urteil",
+            "Sie gelten nur in Ungarn"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was ist laut Text geschützt?",
+          "options": [
+            "Die berichtete Nachricht selbst",
+            "Die konkrete Ausdrucksform eines Textes",
+            "Jede Idee eines Artikels",
+            "Nur Texte hinter einer Bezahlschranke"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-stromnetz-usv-selbsttests",
+      "category": "tech",
+      "title_de": "Mysteriöses Zucken im Stromnetz: Forscher lösen das Rätsel",
+      "summary_de": "In Stromnetzen auf der ganzen Welt sinkt die Frequenz etwa einmal pro Minute für wenige Sekunden leicht ab. Dieses regelmäßige „Zucken“ ist seit Jahren bekannt und wurde seit etwa 2015 stärker. Ein Team aus Forschungszentrum Jülich, RWTH Aachen, KIT, Universität zu Köln und dem Netzbetreiber TenneT hat nun eine Erklärung gefunden. Die Forscher untersuchten zwölf Netze auf fünf Kontinenten und stellten fest, dass der Effekt immer zur selben Sekunde jeder Minute auftritt. Das deutet auf eine externe Uhr hin und nicht auf natürliche Schwingungen. Wahrscheinlich lösen die Selbsttests unterbrechungsfreier Stromversorgungen und Batteriespeicher den Effekt aus, weil sie gleichzeitig kurz Strom ziehen. Gleichgetaktet sind die Geräte, da viele ihre Uhrzeit über das Internet beziehen. Die Autoren raten, zufällige Zeitversätze einzubauen, denn mit mehr Batteriespeichern und Rechenzentren dürfte das Phänomen wachsen.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Mysterioeses-Zucken-im-Stromnetz-Forscher-loesen-Raetsel-um-USV-Selbsttests-11510323.html",
+      "glossary": [
+        {
+          "form": "Stromnetzen",
+          "lemma": "Stromnetz",
+          "article": "das",
+          "tr": "elektrik şebekeleri"
+        },
+        {
+          "form": "Frequenz",
+          "lemma": "Frequenz",
+          "article": "die",
+          "tr": "frekans"
+        },
+        {
+          "form": "sinkt",
+          "lemma": "sinken",
+          "article": null,
+          "tr": "düşer"
+        },
+        {
+          "form": "regelmäßige",
+          "lemma": "regelmäßig",
+          "article": null,
+          "tr": "düzenli"
+        },
+        {
+          "form": "Netzbetreiber",
+          "lemma": "Netzbetreiber",
+          "article": "der",
+          "tr": "şebeke işletmecisi"
+        },
+        {
+          "form": "Erklärung",
+          "lemma": "Erklärung",
+          "article": "die",
+          "tr": "açıklama"
+        },
+        {
+          "form": "untersuchten",
+          "lemma": "untersuchen",
+          "article": null,
+          "tr": "incelediler"
+        },
+        {
+          "form": "Kontinenten",
+          "lemma": "Kontinent",
+          "article": "der",
+          "tr": "kıtalar"
+        },
+        {
+          "form": "Effekt",
+          "lemma": "Effekt",
+          "article": "der",
+          "tr": "etki"
+        },
+        {
+          "form": "deutet",
+          "lemma": "deuten",
+          "article": null,
+          "tr": "işaret eder"
+        },
+        {
+          "form": "Schwingungen",
+          "lemma": "Schwingung",
+          "article": "die",
+          "tr": "salınımlar"
+        },
+        {
+          "form": "Selbsttests",
+          "lemma": "Selbsttest",
+          "article": "der",
+          "tr": "kendi kendine testler"
+        },
+        {
+          "form": "Stromversorgungen",
+          "lemma": "Stromversorgung",
+          "article": "die",
+          "tr": "güç kaynakları"
+        },
+        {
+          "form": "Batteriespeicher",
+          "lemma": "Batteriespeicher",
+          "article": "der",
+          "tr": "batarya depoları"
+        },
+        {
+          "form": "Gleichgetaktet",
+          "lemma": "gleichgetaktet",
+          "article": null,
+          "tr": "aynı ritimde çalışan"
+        },
+        {
+          "form": "beziehen",
+          "lemma": "beziehen",
+          "article": null,
+          "tr": "almak, edinmek"
+        },
+        {
+          "form": "Zeitversätze",
+          "lemma": "Zeitversatz",
+          "article": "der",
+          "tr": "zaman kaydırmaları"
+        },
+        {
+          "form": "einzubauen",
+          "lemma": "einbauen",
+          "article": null,
+          "tr": "eklemek, yerleştirmek"
+        },
+        {
+          "form": "Rechenzentren",
+          "lemma": "Rechenzentrum",
+          "article": "das",
+          "tr": "veri merkezleri"
+        },
+        {
+          "form": "Phänomen",
+          "lemma": "Phänomen",
+          "article": "das",
+          "tr": "fenomen"
+        },
+        {
+          "form": "wachsen",
+          "lemma": "wachsen",
+          "article": null,
+          "tr": "büyümek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "die Frequenz",
+          "article": "die",
+          "tr": "frekans",
+          "example_de": "Die Frequenz im Netz liegt in Europa bei 50 Hertz."
+        },
+        {
+          "de": "auf etwas hindeuten",
+          "article": null,
+          "tr": "bir şeye işaret etmek",
+          "example_de": "Die Spuren deuten auf einen technischen Defekt hin."
+        },
+        {
+          "de": "einen Test durchführen",
+          "article": null,
+          "tr": "test yapmak",
+          "example_de": "Wir führen jeden Monat einen Test der Notstromanlage durch."
+        },
+        {
+          "de": "das Rätsel lösen",
+          "article": null,
+          "tr": "bilmeceyi çözmek",
+          "example_de": "Endlich hat jemand das Rätsel gelöst."
+        },
+        {
+          "de": "das Rechenzentrum",
+          "article": "das",
+          "tr": "veri merkezi",
+          "example_de": "Das neue Rechenzentrum verbraucht sehr viel Strom."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Worauf deutet die feste Sekunde im Minutentakt hin?",
+          "options": [
+            "Auf natürliche Schwankungen",
+            "Auf eine externe Uhr",
+            "Auf Wetterumschwünge"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was empfehlen die Autoren?",
+          "options": [
+            "Alle Batteriespeicher abzuschalten",
+            "Nur noch nachts zu testen",
+            "Zufällige Zeitversätze einzubauen",
+            "Die Frequenz zu erhöhen"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-edenenergy-speicher-escooter-akkus",
+      "category": "tech",
+      "title_de": "EDENenergy baut Stromspeicher aus alten E-Scooter-Akkus",
+      "summary_de": "Das Freiburger Start-up EDENenergy, eine Ausgründung des Fraunhofer-Instituts für Solare Energiesysteme, baut Stromspeicher aus gebrauchten E-Scooter-Akkus. Mitte Oktober lieferte die Firma ihr erstes System mit 70 Kilowattstunden an einen Kunden aus; darin stecken 112 miteinander verbundene Akkus. Von rund 350 bislang geprüften Batterien behielten manche weit über 90 Prozent ihrer ursprünglichen Kapazität, die Gründer hatten nur mit 80 Prozent gerechnet. Eine am Institut entwickelte Leistungselektronik soll es ermöglichen, unterschiedliche Akkutypen ohne Zerlegen der Zellen zu kombinieren. Zielgruppe sind zunächst mittelständische Unternehmen mit eigener Photovoltaikanlage, die ihren Eigenverbrauch erhöhen oder Lastspitzen senken wollen. Nach zehn Jahren soll der Speicher noch die volle Kapazität von 70 Kilowattstunden bieten, weil einzelne Module im Betrieb ausgetauscht werden. Als Hürde nennt das Start-up fehlende einheitliche Kommunikationsstandards und unklare Regeln für die Zweitnutzung von Akkus.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/03/edenenergy-speicher-e-scooter-akkus/",
+      "glossary": [
+        {
+          "form": "Ausgründung",
+          "lemma": "Ausgründung",
+          "article": "die",
+          "tr": "spin-off (kuruluş)"
+        },
+        {
+          "form": "Stromspeicher",
+          "lemma": "Stromspeicher",
+          "article": "der",
+          "tr": "enerji depolama"
+        },
+        {
+          "form": "gebrauchten",
+          "lemma": "gebraucht",
+          "article": null,
+          "tr": "kullanılmış"
+        },
+        {
+          "form": "verbundene",
+          "lemma": "verbunden",
+          "article": null,
+          "tr": "birbirine bağlı"
+        },
+        {
+          "form": "geprüften",
+          "lemma": "geprüft",
+          "article": null,
+          "tr": "test edilmiş"
+        },
+        {
+          "form": "ursprünglichen",
+          "lemma": "ursprünglich",
+          "article": null,
+          "tr": "orijinal"
+        },
+        {
+          "form": "Kapazität",
+          "lemma": "Kapazität",
+          "article": "die",
+          "tr": "kapasite"
+        },
+        {
+          "form": "Gründer",
+          "lemma": "Gründer",
+          "article": "der",
+          "tr": "kurucular"
+        },
+        {
+          "form": "Leistungselektronik",
+          "lemma": "Leistungselektronik",
+          "article": "die",
+          "tr": "güç elektroniği"
+        },
+        {
+          "form": "ermöglichen",
+          "lemma": "ermöglichen",
+          "article": null,
+          "tr": "mümkün kılmak"
+        },
+        {
+          "form": "Zerlegen",
+          "lemma": "Zerlegen",
+          "article": "das",
+          "tr": "parçalara ayırma"
+        },
+        {
+          "form": "kombinieren",
+          "lemma": "kombinieren",
+          "article": null,
+          "tr": "birleştirmek"
+        },
+        {
+          "form": "mittelständische",
+          "lemma": "mittelständisch",
+          "article": null,
+          "tr": "orta ölçekli"
+        },
+        {
+          "form": "Photovoltaikanlage",
+          "lemma": "Photovoltaikanlage",
+          "article": "die",
+          "tr": "güneş enerjisi sistemi"
+        },
+        {
+          "form": "Eigenverbrauch",
+          "lemma": "Eigenverbrauch",
+          "article": "der",
+          "tr": "kendi tüketimi"
+        },
+        {
+          "form": "Lastspitzen",
+          "lemma": "Lastspitze",
+          "article": "die",
+          "tr": "yük zirveleri"
+        },
+        {
+          "form": "ausgetauscht",
+          "lemma": "austauschen",
+          "article": null,
+          "tr": "değiştirilir"
+        },
+        {
+          "form": "Hürde",
+          "lemma": "Hürde",
+          "article": "die",
+          "tr": "engel"
+        },
+        {
+          "form": "einheitliche",
+          "lemma": "einheitlich",
+          "article": null,
+          "tr": "tek tip, standart"
+        },
+        {
+          "form": "Zweitnutzung",
+          "lemma": "Zweitnutzung",
+          "article": "die",
+          "tr": "ikinci kullanım"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "die Kapazität",
+          "article": "die",
+          "tr": "kapasite",
+          "example_de": "Der Akku hat noch 90 Prozent seiner Kapazität."
+        },
+        {
+          "de": "eine Hürde nehmen",
+          "article": null,
+          "tr": "bir engeli aşmak",
+          "example_de": "Mit dem Praktikum hat sie die erste Hürde genommen."
+        },
+        {
+          "de": "etwas austauschen",
+          "article": null,
+          "tr": "bir şeyi değiştirmek",
+          "example_de": "Wir müssen die defekte Lampe austauschen."
+        },
+        {
+          "de": "den Eigenverbrauch erhöhen",
+          "article": null,
+          "tr": "kendi tüketimini artırmak",
+          "example_de": "Mit einem Speicher kann man den Eigenverbrauch erhöhen."
+        },
+        {
+          "de": "gebraucht",
+          "article": null,
+          "tr": "kullanılmış, ikinci el",
+          "example_de": "Ich habe meine Kamera gebraucht gekauft."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Akkus stecken im ersten gelieferten System?",
+          "options": [
+            "70",
+            "350",
+            "112"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was war „besser als erwartet“?",
+          "options": [
+            "Der Preis der Photovoltaikanlagen",
+            "Der Gesundheitszustand der geprüften Batterien",
+            "Die Zahl der Kunden"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-heidelberg-wasserstoff-muellauto",
+      "category": "tech",
+      "title_de": "Heidelberg will sein Wasserstoff-Müllauto auf Diesel umrüsten",
+      "summary_de": "Die Stadt Heidelberg will ihr Wasserstoff-Müllfahrzeug auf Dieselantrieb umrüsten, weil es zu oft ausfällt. Das Fahrzeug, ein Mercedes eEconic mit Brennstoffzelle, wurde 2022 für rund 1,2 Millionen Euro gekauft, wovon etwa 745.000 Euro als Förderung kamen. Laut Abfallwirtschaft lag die Ausfallquote zwischen 2023 und August 2026 im Schnitt bei 64 Prozent. Der Wagen musste daher ständig durch ein altes Reservefahrzeug ersetzt werden. Der Umbau auf ein neues Dieselfahrgestell würde etwa 240.000 Euro kosten, ein vergleichbarer Neuwagen etwa 426.000 Euro. Das alte Wasserstoff-Fahrgestell soll künftig als Ersatzteillager dienen. Auch andere Städte berichten von Problemen: Bielefeld hat seine sieben Wasserstoff-Müllwagen Anfang 2026 ausgemustert.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/03/zu-stoeranfaellig-heidelberg-will-h2-muellauto-auf-diesel-umruesten/",
+      "glossary": [
+        {
+          "form": "Müllfahrzeug",
+          "lemma": "Müllfahrzeug",
+          "article": "das",
+          "tr": "çöp aracı"
+        },
+        {
+          "form": "umrüsten",
+          "lemma": "umrüsten",
+          "article": null,
+          "tr": "dönüştürmek"
+        },
+        {
+          "form": "ausfällt",
+          "lemma": "ausfallen",
+          "article": null,
+          "tr": "arızalanır, devre dışı kalır"
+        },
+        {
+          "form": "Brennstoffzelle",
+          "lemma": "Brennstoffzelle",
+          "article": "die",
+          "tr": "yakıt hücresi"
+        },
+        {
+          "form": "Förderung",
+          "lemma": "Förderung",
+          "article": "die",
+          "tr": "teşvik, hibe"
+        },
+        {
+          "form": "Abfallwirtschaft",
+          "lemma": "Abfallwirtschaft",
+          "article": "die",
+          "tr": "atık yönetimi"
+        },
+        {
+          "form": "Ausfallquote",
+          "lemma": "Ausfallquote",
+          "article": "die",
+          "tr": "arıza oranı"
+        },
+        {
+          "form": "Schnitt",
+          "lemma": "Schnitt",
+          "article": "der",
+          "tr": "ortalama"
+        },
+        {
+          "form": "Reservefahrzeug",
+          "lemma": "Reservefahrzeug",
+          "article": "das",
+          "tr": "yedek araç"
+        },
+        {
+          "form": "ersetzt",
+          "lemma": "ersetzen",
+          "article": null,
+          "tr": "değiştirilmek"
+        },
+        {
+          "form": "Umbau",
+          "lemma": "Umbau",
+          "article": "der",
+          "tr": "dönüşüm, yeniden yapım"
+        },
+        {
+          "form": "Dieselfahrgestell",
+          "lemma": "Dieselfahrgestell",
+          "article": "das",
+          "tr": "dizel şasi"
+        },
+        {
+          "form": "vergleichbarer",
+          "lemma": "vergleichbar",
+          "article": null,
+          "tr": "benzer, kıyaslanabilir"
+        },
+        {
+          "form": "Neuwagen",
+          "lemma": "Neuwagen",
+          "article": "der",
+          "tr": "sıfır araç"
+        },
+        {
+          "form": "Ersatzteillager",
+          "lemma": "Ersatzteillager",
+          "article": "das",
+          "tr": "yedek parça deposu"
+        },
+        {
+          "form": "dienen",
+          "lemma": "dienen",
+          "article": null,
+          "tr": "hizmet etmek"
+        },
+        {
+          "form": "berichten",
+          "lemma": "berichten",
+          "article": null,
+          "tr": "bildirmek, anlatmak"
+        },
+        {
+          "form": "ausgemustert",
+          "lemma": "ausmustern",
+          "article": null,
+          "tr": "hizmetten çıkardı"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "die Brennstoffzelle",
+          "article": "die",
+          "tr": "yakıt hücresi",
+          "example_de": "Die Brennstoffzelle wandelt Wasserstoff in Strom um."
+        },
+        {
+          "de": "die Ausfallquote",
+          "article": "die",
+          "tr": "arıza oranı",
+          "example_de": "Die Ausfallquote der alten Server war zu hoch."
+        },
+        {
+          "de": "im Schnitt",
+          "article": null,
+          "tr": "ortalama olarak",
+          "example_de": "Im Schnitt fahre ich 20 Kilometer am Tag."
+        },
+        {
+          "de": "etwas ausmustern",
+          "article": null,
+          "tr": "bir şeyi hizmetten çıkarmak",
+          "example_de": "Die Stadt musterte die alten Busse aus."
+        },
+        {
+          "de": "als Ersatz dienen",
+          "article": null,
+          "tr": "yedek olarak kullanılmak",
+          "example_de": "Der alte Laptop dient mir noch als Ersatz."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Warum will Heidelberg das Fahrzeug umrüsten?",
+          "options": [
+            "Es fällt zu oft aus",
+            "Diesel ist billiger geworden",
+            "Es ist zu schwer für die Straßen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was ist laut Text günstiger?",
+          "options": [
+            "Ein neues Müllfahrzeug",
+            "Beides kostet gleich viel",
+            "Der Umbau auf Diesel"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-bitwise-elektronik-puzzle",
+      "category": "gaming",
+      "title_de": "BitWise: Ein Elektronik-Puzzle auf Steam",
+      "summary_de": "Wer Elektronik nicht nur aus Vorlesungen kennen will, findet auf Steam jetzt ein passendes Rätselspiel: In BitWise verdrahten Spieler Schaltungen von Hand, und ein eingebauter Simulator lässt den Strom fließen. Das Spiel des Entwicklers Faint Current ist seit dem 13. Oktober erhältlich und kostet 12,25 Euro. Es beginnt mit Batterie, Lampe und Kabel und führt über Widerstände, Kondensatoren und Transistoren bis zu Logikgattern, Addierern und Speicher. Fertige Schaltungen lassen sich als Chip versiegeln, sodass aus NAND-Gattern nach und nach ein XOR, ein Halbaddierer und schließlich eine ALU entsteht. Eine einzige Musterlösung gibt es nicht, der Simulator prüft, ob die Schaltung wirklich funktioniert. Der Rezensent lobt das Hinweissystem mit drei Stufen, kritisiert aber die manchmal unübersichtliche Bedienung. Mit 238 Levels, einem Sandkasten und einem Editor samt Steam-Workshop bietet das Spiel viel Umfang. Entwickelt wurde es von einer einzelnen Person.",
+      "source_name": "heise online (Make)",
+      "source_url": "https://www.heise.de/news/BitWise-Vergnuegliches-Elektronikpuzzle-auf-Steam-11510621.html",
+      "glossary": [
+        {
+          "form": "Rätselspiel",
+          "lemma": "Rätselspiel",
+          "article": "das",
+          "tr": "bulmaca oyunu"
+        },
+        {
+          "form": "verdrahten",
+          "lemma": "verdrahten",
+          "article": null,
+          "tr": "kablolamak"
+        },
+        {
+          "form": "Schaltungen",
+          "lemma": "Schaltung",
+          "article": "die",
+          "tr": "devreler"
+        },
+        {
+          "form": "Simulator",
+          "lemma": "Simulator",
+          "article": "der",
+          "tr": "simülatör"
+        },
+        {
+          "form": "erhältlich",
+          "lemma": "erhältlich",
+          "article": null,
+          "tr": "satışta, mevcut"
+        },
+        {
+          "form": "Widerstände",
+          "lemma": "Widerstand",
+          "article": "der",
+          "tr": "dirençler"
+        },
+        {
+          "form": "Kondensatoren",
+          "lemma": "Kondensator",
+          "article": "der",
+          "tr": "kondansatörler"
+        },
+        {
+          "form": "Transistoren",
+          "lemma": "Transistor",
+          "article": "der",
+          "tr": "transistörler"
+        },
+        {
+          "form": "Logikgattern",
+          "lemma": "Logikgatter",
+          "article": "das",
+          "tr": "mantık kapıları"
+        },
+        {
+          "form": "Addierern",
+          "lemma": "Addierer",
+          "article": "der",
+          "tr": "toplayıcılar"
+        },
+        {
+          "form": "versiegeln",
+          "lemma": "versiegeln",
+          "article": null,
+          "tr": "mühürlemek, paketlemek"
+        },
+        {
+          "form": "Halbaddierer",
+          "lemma": "Halbaddierer",
+          "article": "der",
+          "tr": "yarım toplayıcı"
+        },
+        {
+          "form": "Musterlösung",
+          "lemma": "Musterlösung",
+          "article": "die",
+          "tr": "örnek çözüm"
+        },
+        {
+          "form": "funktioniert",
+          "lemma": "funktionieren",
+          "article": null,
+          "tr": "çalışır"
+        },
+        {
+          "form": "Rezensent",
+          "lemma": "Rezensent",
+          "article": "der",
+          "tr": "eleştirmen, inceleyen"
+        },
+        {
+          "form": "Hinweissystem",
+          "lemma": "Hinweissystem",
+          "article": "das",
+          "tr": "ipucu sistemi"
+        },
+        {
+          "form": "unübersichtliche",
+          "lemma": "unübersichtlich",
+          "article": null,
+          "tr": "karmaşık, dağınık"
+        },
+        {
+          "form": "Bedienung",
+          "lemma": "Bedienung",
+          "article": "die",
+          "tr": "kullanım, arayüz"
+        },
+        {
+          "form": "Sandkasten",
+          "lemma": "Sandkasten",
+          "article": "der",
+          "tr": "sandbox modu"
+        },
+        {
+          "form": "Umfang",
+          "lemma": "Umfang",
+          "article": "der",
+          "tr": "kapsam, içerik"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "die Schaltung",
+          "article": "die",
+          "tr": "devre",
+          "example_de": "Die Schaltung auf dem Steckbrett funktioniert endlich."
+        },
+        {
+          "de": "der Widerstand",
+          "article": "der",
+          "tr": "direnç",
+          "example_de": "Für die LED brauchst du einen passenden Widerstand."
+        },
+        {
+          "de": "eine Aufgabe lösen",
+          "article": null,
+          "tr": "bir görevi çözmek",
+          "example_de": "Ich konnte die Aufgabe erst nach drei Versuchen lösen."
+        },
+        {
+          "de": "erhältlich sein",
+          "article": null,
+          "tr": "satışta olmak",
+          "example_de": "Das Handy ist ab nächster Woche erhältlich."
+        },
+        {
+          "de": "die Bedienung",
+          "article": "die",
+          "tr": "kullanım (arayüz)",
+          "example_de": "Die Bedienung der App ist ziemlich einfach."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was kostet BitWise laut Text?",
+          "options": [
+            "Es ist kostenlos",
+            "12,25 Euro",
+            "29,99 Euro"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Woran erkennt der Simulator eine richtige Lösung?",
+          "options": [
+            "Er prüft, ob die Schaltung wirklich funktioniert",
+            "Er vergleicht sie mit einer festen Musterlösung",
+            "Er zählt die verbauten Bauteile"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-ki-im-gaming-umfrage-meinmmo",
+      "category": "gaming",
+      "title_de": "KI im Gaming: Was MeinMMO-Leser wirklich denken",
+      "summary_de": "Die Redaktion von MeinMMO wollte wissen, wie ihre Leser über künstliche Intelligenz in Spielen denken. Anlass war die Steam Next Fest, bei der vielen Spielern auffiel, dass zahlreiche Titel offenbar KI-generiert waren. An der Umfrage beteiligten sich knapp 650 Personen. Das Ergebnis ist gespalten: Keine Antwort erreichte 30 Prozent, die beiden beliebtesten kamen auf 26 und 24 Prozent. 18 Prozent wünschen sich KI-generierte Inhalte ausdrücklich, 13 Prozent lehnen generative KI in Spielen völlig ab. Die meisten Leser akzeptieren KI vor allem dann, wenn sie unsichtbar im Hintergrund arbeitet, etwa beim Aufspüren von Bugs oder beim Optimieren von Code. Generierte Grafiken, Texturen oder Geschichten, die sonst Menschen erschaffen würden, wollen sie dagegen nicht. Valve räumt zwar ein, dass auf Steam viel KI-Müll landet, will Entwicklern aber keine Vorschriften machen.",
+      "source_name": "MeinMMO",
+      "source_url": "https://mein-mmo.de/ki-im-gaming-umfrage-ergebnisse-meinmmo-leser/",
+      "glossary": [
+        {
+          "form": "Redaktion",
+          "lemma": "Redaktion",
+          "article": "die",
+          "tr": "editörlük, yazı işleri"
+        },
+        {
+          "form": "Anlass",
+          "lemma": "Anlass",
+          "article": "der",
+          "tr": "vesile, neden"
+        },
+        {
+          "form": "offenbar",
+          "lemma": "offenbar",
+          "article": null,
+          "tr": "görünüşe göre"
+        },
+        {
+          "form": "beteiligten",
+          "lemma": "sich beteiligen",
+          "article": null,
+          "tr": "katıldılar"
+        },
+        {
+          "form": "Umfrage",
+          "lemma": "Umfrage",
+          "article": "die",
+          "tr": "anket"
+        },
+        {
+          "form": "gespalten",
+          "lemma": "gespalten",
+          "article": null,
+          "tr": "bölünmüş"
+        },
+        {
+          "form": "erreichte",
+          "lemma": "erreichen",
+          "article": null,
+          "tr": "ulaştı"
+        },
+        {
+          "form": "beliebtesten",
+          "lemma": "beliebt",
+          "article": null,
+          "tr": "en sevilen"
+        },
+        {
+          "form": "ausdrücklich",
+          "lemma": "ausdrücklich",
+          "article": null,
+          "tr": "açıkça"
+        },
+        {
+          "form": "generative",
+          "lemma": "generativ",
+          "article": null,
+          "tr": "üretken"
+        },
+        {
+          "form": "akzeptieren",
+          "lemma": "akzeptieren",
+          "article": null,
+          "tr": "kabul etmek"
+        },
+        {
+          "form": "unsichtbar",
+          "lemma": "unsichtbar",
+          "article": null,
+          "tr": "görünmez"
+        },
+        {
+          "form": "Aufspüren",
+          "lemma": "Aufspüren",
+          "article": "das",
+          "tr": "tespit etme"
+        },
+        {
+          "form": "Optimieren",
+          "lemma": "Optimieren",
+          "article": "das",
+          "tr": "optimize etme"
+        },
+        {
+          "form": "Texturen",
+          "lemma": "Textur",
+          "article": "die",
+          "tr": "dokular"
+        },
+        {
+          "form": "erschaffen",
+          "lemma": "erschaffen",
+          "article": null,
+          "tr": "yaratmak"
+        },
+        {
+          "form": "Vorschriften",
+          "lemma": "Vorschrift",
+          "article": "die",
+          "tr": "kurallar, talimatlar"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich an etwas beteiligen",
+          "article": null,
+          "tr": "bir şeye katılmak",
+          "example_de": "Viele Studierende beteiligen sich an der Umfrage."
+        },
+        {
+          "de": "das Ergebnis ist gespalten",
+          "article": null,
+          "tr": "sonuç bölünmüş durumda",
+          "example_de": "Das Ergebnis der Abstimmung war ziemlich gespalten."
+        },
+        {
+          "de": "jemandem Vorschriften machen",
+          "article": null,
+          "tr": "birine kural dayatmak",
+          "example_de": "Ich lasse mir von niemandem Vorschriften machen."
+        },
+        {
+          "de": "etwas ablehnen",
+          "article": null,
+          "tr": "bir şeyi reddetmek",
+          "example_de": "Viele Spieler lehnen Lootboxen ab."
+        },
+        {
+          "de": "der Anlass",
+          "article": "der",
+          "tr": "vesile, sebep",
+          "example_de": "Der Anlass für das Treffen war ihr Geburtstag."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Prozent lehnen generative KI in Spielen völlig ab?",
+          "options": [
+            "18 Prozent",
+            "26 Prozent",
+            "13 Prozent"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Wann akzeptieren die meisten Leser KI?",
+          "options": [
+            "Wenn sie komplette Geschichten schreibt",
+            "Wenn sie Grafiken ersetzt",
+            "Wenn sie unsichtbar im Hintergrund arbeitet",
+            "Nie"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-wow-forever-klassenbalance",
+      "category": "gaming",
+      "title_de": "WoW Forever: Blizzard will keine perfekte Klassenbalance",
+      "summary_de": "Kurz vor dem Start von World of Warcraft Forever hat Blizzard aktualisierte Patch Notes zu den Klassen veröffentlicht. Darin erklären die Entwickler, dass sie keine perfekte numerische Gleichheit anstreben. Stattdessen soll sich jede Klasse in einer Gruppe wertvoll anfühlen und bei guter Beherrschung unvergessliche Momente erzeugen. MeinMMO-Autor Cortyn begrüßt das ausdrücklich. Im modernen Retail-WoW sei enge Balance wegen des kompetitiven Endgames sinnvoll, in Forever brauche es sie aber nicht. Als Beispiele nennt er die Frostnova des Magiers, die einem Heiler in der Not helfen kann, und die Furcht des Hexenmeisters, die selbst bei guter Absicht weitere Gegner in den Kampf ziehen kann. Ecken und Kanten, so seine These, stärken die Identifikation mit dem eigenen Charakter.",
+      "source_name": "MeinMMO",
+      "source_url": "https://mein-mmo.de/wow-forever-alle-klassen-gleich-stark/",
+      "glossary": [
+        {
+          "form": "aktualisierte",
+          "lemma": "aktualisiert",
+          "article": null,
+          "tr": "güncellenmiş"
+        },
+        {
+          "form": "veröffentlicht",
+          "lemma": "veröffentlichen",
+          "article": null,
+          "tr": "yayımlamak"
+        },
+        {
+          "form": "numerische",
+          "lemma": "numerisch",
+          "article": null,
+          "tr": "sayısal"
+        },
+        {
+          "form": "Gleichheit",
+          "lemma": "Gleichheit",
+          "article": "die",
+          "tr": "eşitlik"
+        },
+        {
+          "form": "anstreben",
+          "lemma": "anstreben",
+          "article": null,
+          "tr": "hedeflemek"
+        },
+        {
+          "form": "Beherrschung",
+          "lemma": "Beherrschung",
+          "article": "die",
+          "tr": "ustalık, hakimiyet"
+        },
+        {
+          "form": "unvergessliche",
+          "lemma": "unvergesslich",
+          "article": null,
+          "tr": "unutulmaz"
+        },
+        {
+          "form": "erzeugen",
+          "lemma": "erzeugen",
+          "article": null,
+          "tr": "yaratmak, üretmek"
+        },
+        {
+          "form": "begrüßt",
+          "lemma": "begrüßen",
+          "article": null,
+          "tr": "memnuniyetle karşılar"
+        },
+        {
+          "form": "ausdrücklich",
+          "lemma": "ausdrücklich",
+          "article": null,
+          "tr": "açıkça"
+        },
+        {
+          "form": "kompetitiven",
+          "lemma": "kompetitiv",
+          "article": null,
+          "tr": "rekabetçi"
+        },
+        {
+          "form": "sinnvoll",
+          "lemma": "sinnvoll",
+          "article": null,
+          "tr": "mantıklı, anlamlı"
+        },
+        {
+          "form": "Heiler",
+          "lemma": "Heiler",
+          "article": "der",
+          "tr": "şifacı (oyunda)"
+        },
+        {
+          "form": "Gegner",
+          "lemma": "Gegner",
+          "article": "der",
+          "tr": "rakipler, düşmanlar"
+        },
+        {
+          "form": "stärken",
+          "lemma": "stärken",
+          "article": null,
+          "tr": "güçlendirmek"
+        },
+        {
+          "form": "Identifikation",
+          "lemma": "Identifikation",
+          "article": "die",
+          "tr": "özdeşleşme"
+        },
+        {
+          "form": "These",
+          "lemma": "These",
+          "article": "die",
+          "tr": "tez, iddia"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "anstreben",
+          "article": null,
+          "tr": "hedeflemek",
+          "example_de": "Sie strebt einen Abschluss mit Bestnote an."
+        },
+        {
+          "de": "die Beherrschung",
+          "article": "die",
+          "tr": "ustalık",
+          "example_de": "Die Beherrschung der Sprache braucht Übung."
+        },
+        {
+          "de": "sinnvoll sein",
+          "article": null,
+          "tr": "mantıklı olmak",
+          "example_de": "Es ist sinnvoll, vor dem Test zu wiederholen."
+        },
+        {
+          "de": "Ecken und Kanten haben",
+          "article": null,
+          "tr": "karakteri / pürüzleri olmak",
+          "example_de": "Ich mag Menschen mit Ecken und Kanten."
+        },
+        {
+          "de": "die These",
+          "article": "die",
+          "tr": "tez, iddia",
+          "example_de": "Seine These wurde in der Diskussion widerlegt."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was streben die Entwickler laut Text NICHT an?",
+          "options": [
+            "Perfekte numerische Gleichheit der Klassen",
+            "Unvergessliche Momente",
+            "Wertvolle Rollen in der Gruppe"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „anstreben“?",
+          "options": [
+            "Etwas ablehnen",
+            "Etwas vergessen",
+            "Etwas als Ziel haben"
+          ],
+          "answer_index": 2
+        }
+      ]
+    }
+  ]
+}

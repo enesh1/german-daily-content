@@ -1,0 +1,1870 @@
+{
+  "date": "2026-11-07",
+  "level": "original",
+  "facts": [
+    {
+      "de": "Wasser dehnt sich beim Gefrieren aus: Eis hat ein um etwa neun Prozent größeres Volumen als die gleiche Menge flüssiges Wasser.",
+      "tr": "Su donarken genleşir: Buz, aynı miktardaki sıvı suya göre yaklaşık yüzde dokuz daha büyük bir hacme sahiptir.",
+      "source_url": "https://de.wikipedia.org/wiki/Anomalie_des_Wassers"
+    },
+    {
+      "de": "Die Tempelanlage Göbekli Tepe bei Şanlıurfa in der Südosttürkei ist rund 11.000 Jahre alt und damit deutlich älter als die Pyramiden von Gizeh.",
+      "tr": "Güneydoğu Türkiye'de Şanlıurfa yakınlarındaki Göbeklitepe tapınak yapısı yaklaşık 11.000 yıllıktır ve Gize piramitlerinden çok daha eskidir.",
+      "source_url": "https://de.wikipedia.org/wiki/Göbekli_Tepe"
+    },
+    {
+      "de": "Botanisch gehören die einzelnen Früchte der Banane zu den Beeren.",
+      "tr": "Botanik açıdan muzun tek tek meyveleri üzümsü meyveler (Beeren) grubuna girer.",
+      "source_url": "https://de.wikipedia.org/wiki/Bananen"
+    }
+  ],
+  "idiom": {
+    "de": "Jemandem einen Bären aufbinden",
+    "meaning_tr": "Birine inandırıcı bir yalan söylemek, birini kandırıp şaka yapmak.",
+    "literal_tr": "Birine bir ayı bağlamak/yüklemek.",
+    "equivalent_tr": "Birine palavra sıkmak.",
+    "example_de": "Glaub ihm nicht, er hat dir bestimmt wieder einen Bären aufgebunden.",
+    "example_tr": "Ona inanma, sana yine palavra sıkmıştır."
+  },
+  "reading": [
+    {
+      "type": "ana",
+      "text_de": "Als die Stadt Pfand auf Kaffeebecher einführte, rechneten Kritiker mit Chaos in den Cafés. Nach einem halben Jahr zeigte eine Zählung, dass etwa zwei Drittel der Becher zurückgebracht wurden – deutlich mehr als erwartet. Allerdings stammte ein großer Teil der Rückgaben von wenigen Stammkunden, und viele Gelegenheitskäufer verzichteten weiter auf das System. Ob die Maßnahme langfristig wirkt, hängt daher davon ab, ob es gelingt, auch diese zweite Gruppe zu erreichen.",
+      "question_de": "Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?",
+      "options": [
+        "Das Becherpfand ist gescheitert, weil Gelegenheitskäufer es ignorieren.",
+        "Stammkunden geben ihre Becher zurück, weil sie die Cafés unterstützen wollen.",
+        "Mit einer Rückgabequote von zwei Dritteln hat die Stadt ihr Ziel bereits erreicht.",
+        "Das Becherpfand lief besser als befürchtet, doch sein Erfolg hängt davon ab, auch Gelegenheitskäufer zu gewinnen."
+      ],
+      "answer_index": 3,
+      "explanation_tr": "Metin hem beklenenden iyi sonucu hem de ikinci grubun (arada bir alışveriş yapanlar) kazanılması gerektiğini söyler; bu yüzden D doğrudur. A en çekici yanlış şıktır: „gescheitert“ metinde yok, sonuç aksine beklenenden iyi. B'deki neden metinde verilmez, C'deki „Ziel“ ise hiç belirtilmez."
+    },
+    {
+      "type": "cikarilamaz",
+      "text_de": "Wer eine Fremdsprache lernt, vergisst anfangs oft Vokabeln, die er erst am Vortag gepaukt hat. Gedächtnisforscher raten deshalb, den Stoff in wachsenden Abständen zu wiederholen, statt alles an einem Abend zu lernen. Zwar kostet diese Methode mehr Disziplin, doch sie verankert Wissen länger im Gedächtnis. Wer dagegen kurz vor der Prüfung büffelt, kann zwar kurzfristig gute Ergebnisse erzielen, hat nach wenigen Wochen aber meist wieder viel vergessen.",
+      "question_de": "Welche Aussage lässt sich aus dem Text NICHT ableiten?",
+      "options": [
+        "Wer seinen Stoff in wachsenden Abständen wiederholt, hat nach Wochen garantiert nichts mehr vergessen.",
+        "Verteiltes Lernen erfordert mehr Selbstdisziplin als ein Lernabend vor der Prüfung.",
+        "Kurz vor der Prüfung zu lernen, kann kurzfristig durchaus Erfolg bringen.",
+        "Frisch gelernte Vokabeln geraten anfangs leicht wieder in Vergessenheit."
+      ],
+      "answer_index": 0,
+      "explanation_tr": "Metin, aralıklı tekrarın bilgiyi „daha uzun“ kalıcı kıldığını söyler, „garantiert nichts vergessen“ demez; bu yüzden A çıkarılamaz. B, C ve D doğrudan metinde dayanak bulur; A ise aşırı bir genellemedir."
+    },
+    {
+      "type": "bosluk",
+      "text_de": "In vielen Esports-Teams gilt ein Spieler als besonders wertvoll, wenn er hohe Trefferquoten erzielt. Trainer weisen jedoch darauf hin, dass Zahlen allein wenig aussagen. ___ Ein Spieler, der Gegner bindet und Räume öffnet, taucht in der Statistik kaum auf, entscheidet aber oft die Runde.",
+      "question_de": "Welcher Satz passt am besten in die Lücke (___)?",
+      "options": [
+        "Deshalb sollten Teams künftig vollständig auf Statistiken verzichten.",
+        "Der Beitrag zum Teamerfolg lässt sich nämlich nicht immer in Kennzahlen ausdrücken.",
+        "Trotzdem erzielen die besten Spieler fast immer auch die höchsten Werte.",
+        "Außerdem trainieren die Teams heute deutlich länger als noch vor zehn Jahren."
+      ],
+      "answer_index": 1,
+      "explanation_tr": "Boşluktan sonraki cümle, istatistikte görünmeyen bir katkıyı örnekliyor; B bunu „nämlich“ ile gerekçelendirir. A çok aşırı bir sonuç çıkarır („vollständig verzichten“), C ise sonraki cümleyle çelişir."
+    },
+    {
+      "type": "anlam",
+      "text_de": "Wenn Jugendliche stundenlang Serien schauen, sprechen Eltern oft von verlorener Zeit. Medienpädagogen sehen das differenzierter: Gemeinsames Schauen und Reden über die Handlung könne Gesprächsanlässe schaffen, die im Alltag sonst fehlen. Wer Serien jedoch nur laufen lässt, um „die Stille zu übertönen“, nutzt sie eher als Betäubung denn als Anregung. Ob Serien nützen oder schaden, liegt daher weniger an der Dauer als an der Art der Nutzung.",
+      "question_de": "Was ist mit „die Stille zu übertönen“ gemeint?",
+      "options": [
+        "Man schaut Serien so laut, dass sich die Nachbarn gestört fühlen.",
+        "Man möchte durch Serien neue Ideen und Anregungen bekommen.",
+        "Man nutzt Serien, um unangenehme Ruhe zu vermeiden, ohne wirklich hinzuschauen.",
+        "Man schaltet Serien aus, sobald ein Gespräch beginnt."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "„Die Stille übertönen“ sessizliği bastırmak demektir; metin bunu „Betäubung statt Anregung“ ile karşılaştırır, yani C doğrudur. B tam tersidir (Anregung), A ise ifadenin düz anlamına takılan çeldiricidir."
+    },
+    {
+      "type": "tutum",
+      "text_de": "Ein Hersteller kündigt an, sein neues Smartphone sei „das nachhaltigste aller Zeiten“. Dabei verlängert er die Softwareunterstützung auf sieben Jahre, liefert aber weiterhin ein Modell mit fest verklebtem Akku aus. Zwar ist die längere Update-Zeit ein echter Fortschritt, doch ein Akku, den man nicht selbst tauschen kann, begrenzt die Lebensdauer weiterhin. Der Slogan wirkt daher größer, als es die tatsächlichen Verbesserungen rechtfertigen.",
+      "question_de": "Welche Haltung vertritt der Autor?",
+      "options": [
+        "Er lehnt Smartphones aus ethischen Gründen grundsätzlich ab.",
+        "Er lobt den Hersteller uneingeschränkt für seinen Beitrag zum Umweltschutz.",
+        "Er bleibt neutral und verzichtet auf jede Bewertung der Herstelleraussage.",
+        "Er erkennt Fortschritte an, hält die Werbeaussage insgesamt aber für übertrieben."
+      ],
+      "answer_index": 3,
+      "explanation_tr": "Yazar uzun güncelleme süresini gerçek bir ilerleme olarak görür, ama sloganın „gerçek iyileştirmelerden büyük“ olduğunu söyler; bu D'dir. B, ilk yarıdaki övgüye takılan çeldiricidir, C ise „wirkt größer, als …“ ifadesindeki değerlendirmeyi yok sayar."
+    }
+  ],
+  "items": [
+    {
+      "id": "2026-11-07-cybertruck-aus",
+      "category": "tech",
+      "title_de": "Cybercab statt Cybertruck: Tesla beendet die Produktion in Texas",
+      "summary_de": "Tesla-Chef Elon Musk hat über die Plattform X angekündigt, dass die Produktion des Cybertrucks im texanischen Werk eingestellt wird. Ab Mitte 2027 sollen in der frei werdenden Kapazität stattdessen Cybercab-Robotaxis vom Band laufen. Ursprünglich lagen dem Unternehmen rund eine Million Vorbestellungen vor, und die Fabrik war auf bis zu 250.000 Fahrzeuge pro Jahr ausgelegt. Tatsächlich hat Tesla in den ersten drei Jahren offenbar nur 70.000 bis 80.000 Stück verkauft, ein beträchtlicher Teil davon ging an Schwesterfirmen wie SpaceX. Offen bleibt, ob der Pick-up komplett verschwindet oder anderswo weitergebaut wird. In der EU ist das Modell ohnehin nicht offiziell zugelassen, und in Deutschland bräuchte man wegen des hohen Gewichts sogar einen Lkw-Führerschein. Die Tesla-Aktie legte nach der Meldung um fast sechs Prozent zu. Das Cybercab hat weder Pedale noch Lenkrad und fährt bislang nur in wenigen Städten in Texas und Florida.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/cybertruck-musk-aus-1772173/",
+      "glossary": [
+        {
+          "form": "angekündigt",
+          "lemma": "ankündigen",
+          "article": null,
+          "tr": "duyurmak"
+        },
+        {
+          "form": "Produktion",
+          "lemma": "Produktion",
+          "article": "die",
+          "tr": "üretim"
+        },
+        {
+          "form": "eingestellt",
+          "lemma": "einstellen",
+          "article": null,
+          "tr": "durdurmak, sonlandırmak"
+        },
+        {
+          "form": "Kapazität",
+          "lemma": "Kapazität",
+          "article": "die",
+          "tr": "kapasite"
+        },
+        {
+          "form": "Vorbestellungen",
+          "lemma": "Vorbestellung",
+          "article": "die",
+          "tr": "ön sipariş"
+        },
+        {
+          "form": "ausgelegt",
+          "lemma": "auslegen",
+          "article": null,
+          "tr": "(belirli bir amaca) göre tasarlamak"
+        },
+        {
+          "form": "beträchtlicher",
+          "lemma": "beträchtlich",
+          "article": null,
+          "tr": "hatırı sayılır"
+        },
+        {
+          "form": "Schwesterfirmen",
+          "lemma": "Schwesterfirma",
+          "article": "die",
+          "tr": "kardeş şirket"
+        },
+        {
+          "form": "weitergebaut",
+          "lemma": "weiterbauen",
+          "article": null,
+          "tr": "üretmeye devam etmek"
+        },
+        {
+          "form": "zugelassen",
+          "lemma": "zulassen",
+          "article": null,
+          "tr": "ruhsat vermek, onaylamak"
+        },
+        {
+          "form": "Gewichts",
+          "lemma": "Gewicht",
+          "article": "das",
+          "tr": "ağırlık"
+        },
+        {
+          "form": "Lkw-Führerschein",
+          "lemma": "Lkw-Führerschein",
+          "article": "der",
+          "tr": "kamyon ehliyeti"
+        },
+        {
+          "form": "Pedale",
+          "lemma": "Pedal",
+          "article": "das",
+          "tr": "pedal"
+        },
+        {
+          "form": "Lenkrad",
+          "lemma": "Lenkrad",
+          "article": "das",
+          "tr": "direksiyon"
+        },
+        {
+          "form": "bislang",
+          "lemma": "bislang",
+          "article": null,
+          "tr": "şimdiye kadar"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "die Produktion einstellen",
+          "article": null,
+          "tr": "üretimi durdurmak",
+          "example_de": "Das Werk musste die Produktion wegen fehlender Chips einstellen."
+        },
+        {
+          "de": "Vorbestellung",
+          "article": "die",
+          "tr": "ön sipariş",
+          "example_de": "Ich habe das neue Handy schon vorbestellt – meine Vorbestellung ist bestätigt."
+        },
+        {
+          "de": "zugelassen sein",
+          "article": null,
+          "tr": "ruhsatlı/onaylı olmak",
+          "example_de": "Das Auto ist in Deutschland nicht zugelassen."
+        },
+        {
+          "de": "offen bleiben",
+          "article": null,
+          "tr": "belirsiz kalmak",
+          "example_de": "Ob wir am Wochenende fahren, bleibt noch offen."
+        },
+        {
+          "de": "Kapazität",
+          "article": "die",
+          "tr": "kapasite",
+          "example_de": "Die Kapazität des Servers reicht für so viele Spieler nicht aus."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was plant Tesla ab Mitte 2027 im texanischen Werk?",
+          "options": [
+            "Mehr Cybertrucks für Europa zu bauen",
+            "Cybercab-Robotaxis herzustellen",
+            "Das Werk zu schließen",
+            "Ein Modell mit Lenkrad und Pedalen zu bauen"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „zugelassen“ im Satz „nicht offiziell zugelassen“?",
+          "options": [
+            "erlaubt für den Straßenverkehr",
+            "sehr teuer",
+            "besonders schnell",
+            "nur für Firmen bestimmt"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-discord-rust",
+      "category": "tech",
+      "title_de": "Discord stellt seinen Client auf Rust um",
+      "summary_de": "Discord baut seinen Client grundlegend um. Technikchef Stanislav Vishnevskiy kündigte auf X an, dass die Programme künftig ohne Electron und React auskommen sollen. Stattdessen entsteht ein Kern in der Programmiersprache Rust, die Oberfläche wird mit dem Framework GPUI gezeichnet. Dieser gemeinsame Kern soll auch die Apps für Android und iOS antreiben, die weiterhin native Oberflächen nutzen. Hintergrund ist, dass Electron einen kompletten Browser-Unterbau mitbringt und den Arbeitsspeicher stark belasten kann. Die neue Basis soll mit weniger als 300 Megabyte RAM auskommen, öffentlich getestet wurde das aber noch nicht. GPUI stammt vom Team hinter dem Editor Zed und hat selbst noch keine Version 1.0 erreicht, weshalb sich Schnittstellen zwischen den Versionen oft ändern. Eingebettete Inhalte wie YouTube-Videos laufen weiterhin über System-Webviews. Discord setzt übrigens schon seit 2018 auf Rust, etwa für einen Dienst zum Lesen von Nachrichten.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Alles-neu-in-Rust-Discord-verabschiedet-sich-von-React-und-Electron-11515467.html",
+      "glossary": [
+        {
+          "form": "grundlegend",
+          "lemma": "grundlegend",
+          "article": null,
+          "tr": "temelden, kökten"
+        },
+        {
+          "form": "Technikchef",
+          "lemma": "Technikchef",
+          "article": "der",
+          "tr": "teknik direktörü"
+        },
+        {
+          "form": "auskommen",
+          "lemma": "auskommen",
+          "article": null,
+          "tr": "idare etmek, yetinmek"
+        },
+        {
+          "form": "Kern",
+          "lemma": "Kern",
+          "article": "der",
+          "tr": "çekirdek"
+        },
+        {
+          "form": "Oberfläche",
+          "lemma": "Oberfläche",
+          "article": "die",
+          "tr": "arayüz"
+        },
+        {
+          "form": "gezeichnet",
+          "lemma": "zeichnen",
+          "article": null,
+          "tr": "çizmek (burada: ekrana çizmek)"
+        },
+        {
+          "form": "antreiben",
+          "lemma": "antreiben",
+          "article": null,
+          "tr": "çalıştırmak, beslemek"
+        },
+        {
+          "form": "Unterbau",
+          "lemma": "Unterbau",
+          "article": "der",
+          "tr": "alt yapı"
+        },
+        {
+          "form": "Arbeitsspeicher",
+          "lemma": "Arbeitsspeicher",
+          "article": "der",
+          "tr": "RAM, bellek"
+        },
+        {
+          "form": "belasten",
+          "lemma": "belasten",
+          "article": null,
+          "tr": "yüklemek, zorlamak"
+        },
+        {
+          "form": "Schnittstellen",
+          "lemma": "Schnittstelle",
+          "article": "die",
+          "tr": "arayüz (teknik), API"
+        },
+        {
+          "form": "Eingebettete",
+          "lemma": "eingebettet",
+          "article": null,
+          "tr": "gömülü"
+        },
+        {
+          "form": "erreicht",
+          "lemma": "erreichen",
+          "article": null,
+          "tr": "ulaşmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "ohne etwas auskommen",
+          "article": null,
+          "tr": "bir şey olmadan idare etmek",
+          "example_de": "Ich komme im Studium ohne Auto gut aus."
+        },
+        {
+          "de": "den Arbeitsspeicher belasten",
+          "article": null,
+          "tr": "belleği yormak",
+          "example_de": "Zu viele Browser-Tabs belasten den Arbeitsspeicher."
+        },
+        {
+          "de": "Schnittstelle",
+          "article": "die",
+          "tr": "arayüz, API",
+          "example_de": "Die Schnittstelle zwischen App und Server funktioniert wieder."
+        },
+        {
+          "de": "grundlegend ändern",
+          "article": null,
+          "tr": "kökten değiştirmek",
+          "example_de": "Der Verein will seine Regeln grundlegend ändern."
+        },
+        {
+          "de": "Oberfläche",
+          "article": "die",
+          "tr": "(kullanıcı) arayüzü",
+          "example_de": "Die Oberfläche der App ist sehr übersichtlich."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wofür soll der neue gemeinsame Rust-Kern verwendet werden?",
+          "options": [
+            "Nur für den Desktop-Client",
+            "Für Desktop-Client und Mobile-Apps",
+            "Nur für Spielserver",
+            "Nur für YouTube-Videos"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „Arbeitsspeicher“?",
+          "options": [
+            "Festplatte für Videos",
+            "Speicher, den ein Programm beim Laufen nutzt",
+            "Programm zum Chatten",
+            "Akku eines Laptops"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-ermis3-laser",
+      "category": "tech",
+      "title_de": "Ermis-3: Kleinsatellit funkt erstmals per Laser Daten zur Erde",
+      "summary_de": "Ein kleiner Satellit aus Griechenland hat erstmals Daten per Laser zur Erde gefunkt. Ermis-3 ist ein sogenannter CubeSat im Format 8U, also ein Würfel aus acht genormten Modulen, und wurde im März 2026 in eine niedrige Umlaufbahn gebracht. Die Verbindung kam mit der Bodenstation HolOGS-1 auf dem Berg Holomondas in Nordgriechenland zustande. Die Europäische Weltraumagentur ESA begleitete das Projekt, entwickelt wurde der Satellit von der Universität Athen, die Sendetechnik stammt vom litauischen Unternehmen Astrolight. Laserkommunikation verspricht deutlich höhere Datenraten als herkömmlicher Funk. Die Herausforderung liegt darin, den Strahl bei mehreren tausend Stundenkilometern exakt auf den Empfänger auszurichten, und pro Überflug bleibt nur wenig Zeit. Wolken und Turbulenzen in der Atmosphäre können die Verbindung zusätzlich stören. Dass der Kontakt schnell klappte, zeigt, dass das genaue Ausrichten und Verfolgen des Ziels funktioniert hat.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/ermis-3-laser-kommunikation-esa-1771860/",
+      "glossary": [
+        {
+          "form": "gefunkt",
+          "lemma": "funken",
+          "article": null,
+          "tr": "telsizle/radyo ile iletmek"
+        },
+        {
+          "form": "Würfel",
+          "lemma": "Würfel",
+          "article": "der",
+          "tr": "küp, zar"
+        },
+        {
+          "form": "genormten",
+          "lemma": "genormt",
+          "article": null,
+          "tr": "standartlaştırılmış"
+        },
+        {
+          "form": "Umlaufbahn",
+          "lemma": "Umlaufbahn",
+          "article": "die",
+          "tr": "yörünge"
+        },
+        {
+          "form": "Bodenstation",
+          "lemma": "Bodenstation",
+          "article": "die",
+          "tr": "yer istasyonu"
+        },
+        {
+          "form": "zustande",
+          "lemma": "zustande kommen",
+          "article": null,
+          "tr": "gerçekleşmek"
+        },
+        {
+          "form": "Weltraumagentur",
+          "lemma": "Weltraumagentur",
+          "article": "die",
+          "tr": "uzay ajansı"
+        },
+        {
+          "form": "begleitete",
+          "lemma": "begleiten",
+          "article": null,
+          "tr": "eşlik etmek, desteklemek"
+        },
+        {
+          "form": "Sendetechnik",
+          "lemma": "Sendetechnik",
+          "article": "die",
+          "tr": "iletim teknolojisi"
+        },
+        {
+          "form": "herkömmlicher",
+          "lemma": "herkömmlich",
+          "article": null,
+          "tr": "geleneksel"
+        },
+        {
+          "form": "Herausforderung",
+          "lemma": "Herausforderung",
+          "article": "die",
+          "tr": "zorluk, meydan okuma"
+        },
+        {
+          "form": "Strahl",
+          "lemma": "Strahl",
+          "article": "der",
+          "tr": "ışın"
+        },
+        {
+          "form": "auszurichten",
+          "lemma": "ausrichten",
+          "article": null,
+          "tr": "hizalamak, yöneltmen"
+        },
+        {
+          "form": "Überflug",
+          "lemma": "Überflug",
+          "article": "der",
+          "tr": "üzerinden geçiş"
+        },
+        {
+          "form": "Turbulenzen",
+          "lemma": "Turbulenz",
+          "article": "die",
+          "tr": "türbülans"
+        },
+        {
+          "form": "Verfolgen",
+          "lemma": "verfolgen",
+          "article": null,
+          "tr": "takip etmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "zustande kommen",
+          "article": null,
+          "tr": "gerçekleşmek, kurulmak",
+          "example_de": "Die Verbindung kam erst nach dem zweiten Versuch zustande."
+        },
+        {
+          "de": "herkömmlich",
+          "article": null,
+          "tr": "geleneksel",
+          "example_de": "Herkömmliche Glühbirnen verbrauchen viel Strom."
+        },
+        {
+          "de": "Herausforderung",
+          "article": "die",
+          "tr": "zorluk",
+          "example_de": "Die Prüfung war eine echte Herausforderung für mich."
+        },
+        {
+          "de": "etwas ausrichten",
+          "article": null,
+          "tr": "bir şeyi hizalamak/yöneltmek",
+          "example_de": "Wir müssen die Antenne genau nach Süden ausrichten."
+        },
+        {
+          "de": "Umlaufbahn",
+          "article": "die",
+          "tr": "yörünge",
+          "example_de": "Der Satellit zieht seine Kreise in der Umlaufbahn."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist ein Vorteil von Laserkommunikation laut Text?",
+          "options": [
+            "Sie funktioniert bei jedem Wetter",
+            "Sie bietet höhere Datenraten als Funk",
+            "Sie braucht keine Bodenstation",
+            "Sie ist billiger als ein Handy"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was ist mit „herkömmlicher Funk“ gemeint?",
+          "options": [
+            "ein neuer, geheimer Funk",
+            "der bisher übliche Funk",
+            "ein sehr schneller Funk",
+            "ein Funk nur für Satelliten"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-zf-30000",
+      "category": "tech",
+      "title_de": "ZF zeigt E-Antrieb mit bis zu 30.000 Umdrehungen pro Minute",
+      "summary_de": "Der Zulieferer ZF hat einen kompakten Elektroantrieb vorgestellt, dessen Motor bis zu 30.000 Umdrehungen pro Minute erreicht. Elektromotor, Inverter und Getriebe sitzen in einer Einheit, die für Bordnetze mit 400 und 800 Volt ausgelegt ist. Dank einer zweistufigen Untersetzung von rund 18:1 sind laut ZF eine Spitzenleistung von 200 Kilowatt und ein Raddrehmoment von 3.500 Newtonmetern möglich. Im Vergleich zum bisherigen SELECT-Antrieb mit höchstens 18.000 Umdrehungen soll das System etwa ein Viertel weniger Bauraum und Gewicht benötigen. Außerdem braucht es nur halb so viel Magnetmaterial, was Kosten und Abhängigkeit von Rohstoffen senkt. Hohe Drehzahlen bringen allerdings Geräusche und Vibrationen mit sich, deshalb wurden Motor, Verzahnung und Lager gemeinsam entwickelt. Konkrete Effizienzwerte hat der Konzern nicht veröffentlicht. Serienreif ist der Antrieb noch nicht: ZF verhandelt mit mehreren Herstellern und peilt die Serienproduktion bis 2030 an.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/06/zf-high-revolution-drive-30000-u/",
+      "glossary": [
+        {
+          "form": "Zulieferer",
+          "lemma": "Zulieferer",
+          "article": "der",
+          "tr": "yan sanayi tedarikçisi"
+        },
+        {
+          "form": "kompakten",
+          "lemma": "kompakt",
+          "article": null,
+          "tr": "kompakt"
+        },
+        {
+          "form": "Umdrehungen",
+          "lemma": "Umdrehung",
+          "article": "die",
+          "tr": "devir"
+        },
+        {
+          "form": "Getriebe",
+          "lemma": "Getriebe",
+          "article": "das",
+          "tr": "şanzıman"
+        },
+        {
+          "form": "Bordnetze",
+          "lemma": "Bordnetz",
+          "article": "das",
+          "tr": "araç içi elektrik şebekesi"
+        },
+        {
+          "form": "Untersetzung",
+          "lemma": "Untersetzung",
+          "article": "die",
+          "tr": "dişli oranı (redüksiyon)"
+        },
+        {
+          "form": "Spitzenleistung",
+          "lemma": "Spitzenleistung",
+          "article": "die",
+          "tr": "tepe güç"
+        },
+        {
+          "form": "Raddrehmoment",
+          "lemma": "Raddrehmoment",
+          "article": "das",
+          "tr": "tekerlek torku"
+        },
+        {
+          "form": "Bauraum",
+          "lemma": "Bauraum",
+          "article": "der",
+          "tr": "yerleşim hacmi"
+        },
+        {
+          "form": "Magnetmaterial",
+          "lemma": "Magnetmaterial",
+          "article": "das",
+          "tr": "mıknatıs malzemesi"
+        },
+        {
+          "form": "Abhängigkeit",
+          "lemma": "Abhängigkeit",
+          "article": "die",
+          "tr": "bağımlılık"
+        },
+        {
+          "form": "Rohstoffen",
+          "lemma": "Rohstoff",
+          "article": "der",
+          "tr": "hammadde"
+        },
+        {
+          "form": "Drehzahlen",
+          "lemma": "Drehzahl",
+          "article": "die",
+          "tr": "devir sayısı"
+        },
+        {
+          "form": "Verzahnung",
+          "lemma": "Verzahnung",
+          "article": "die",
+          "tr": "dişli profili"
+        },
+        {
+          "form": "Serienreif",
+          "lemma": "serienreif",
+          "article": null,
+          "tr": "seri üretime hazır"
+        },
+        {
+          "form": "peilt",
+          "lemma": "anpeilen",
+          "article": null,
+          "tr": "hedeflemek"
+        },
+        {
+          "form": "Serienproduktion",
+          "lemma": "Serienproduktion",
+          "article": "die",
+          "tr": "seri üretim"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Drehzahl",
+          "article": "die",
+          "tr": "devir sayısı",
+          "example_de": "Bei hoher Drehzahl wird der Motor ziemlich laut."
+        },
+        {
+          "de": "Abhängigkeit von etwas",
+          "article": "die",
+          "tr": "bir şeye bağımlılık",
+          "example_de": "Die Abhängigkeit von Rohstoffen macht Firmen verwundbar."
+        },
+        {
+          "de": "serienreif sein",
+          "article": null,
+          "tr": "seri üretime hazır olmak",
+          "example_de": "Der Prototyp ist noch nicht serienreif."
+        },
+        {
+          "de": "etwas anpeilen",
+          "article": null,
+          "tr": "bir şeyi hedeflemek",
+          "example_de": "Wir peilen einen Abschluss in Regelstudienzeit an."
+        },
+        {
+          "de": "Spitzenleistung",
+          "article": "die",
+          "tr": "tepe güç",
+          "example_de": "Die Spitzenleistung des Motors liegt bei 200 Kilowatt."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viel weniger Magnetmaterial braucht der neue Antrieb laut Text?",
+          "options": [
+            "ein Viertel",
+            "die Hälfte",
+            "ein Drittel",
+            "gar keins"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „serienreif“?",
+          "options": [
+            "bereit für die Massenproduktion",
+            "nur für Serien im Fernsehen",
+            "besonders leise",
+            "sehr alt"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-flugzeug-doppler",
+      "category": "de",
+      "title_de": "YouTuber ortet Videoaufnahmen anhand von Flugzeuggeräuschen",
+      "summary_de": "Ein YouTuber namens Colsto will Videoaufnahmen allein anhand von Hintergrundgeräuschen verorten können. Dafür sucht er in einem Spektrogramm nach Doppler-Kurven vorbeifliegender Propellerflugzeuge, die man mit bloßem Ohr kaum hört. Diese Muster gleicht er mit öffentlichen ADS-B-Flugdaten ab, die Position, Geschwindigkeit und Höhe der Maschinen enthalten. In einem Test kannte er nur das Datum und das Land der Aufnahme einer Überwachungskamera und konnte die möglichen Orte in mehreren Schritten von Zehntausenden Punkten auf einen eingrenzen. Er behauptet, auf etwa 100 Meter genau zu liegen, und bestätigte den Ort per Street View. Unabhängig überprüft ist das bislang nicht, weil er nur den Ort Oyster Bay nannte und seinen Code nicht veröffentlichte. Schutz davor ist schwierig, denn Filter oder zusätzliches Rauschen helfen kaum, während Schnitte im Video die Zeitabstände zerstören. Colsto hält das praktische Risiko für gering, da es einfachere Wege gebe, Menschen zu finden.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/YouTuber-ortet-Videoaufnahmen-anhand-von-Flugzeuggeraeuschen-11515927.html",
+      "glossary": [
+        {
+          "form": "verorten",
+          "lemma": "verorten",
+          "article": null,
+          "tr": "konumlandırmak, yerini belirlemek"
+        },
+        {
+          "form": "Hintergrundgeräuschen",
+          "lemma": "Hintergrundgeräusch",
+          "article": "das",
+          "tr": "arka plan sesi"
+        },
+        {
+          "form": "Spektrogramm",
+          "lemma": "Spektrogramm",
+          "article": "das",
+          "tr": "spektrogram"
+        },
+        {
+          "form": "bloßem",
+          "lemma": "bloß",
+          "article": null,
+          "tr": "çıplak, yalın"
+        },
+        {
+          "form": "gleicht",
+          "lemma": "abgleichen",
+          "article": null,
+          "tr": "karşılaştırmak, eşleştirmek"
+        },
+        {
+          "form": "Überwachungskamera",
+          "lemma": "Überwachungskamera",
+          "article": "die",
+          "tr": "güvenlik kamerası"
+        },
+        {
+          "form": "eingrenzen",
+          "lemma": "eingrenzen",
+          "article": null,
+          "tr": "daraltmak, sınırlamak"
+        },
+        {
+          "form": "behauptet",
+          "lemma": "behaupten",
+          "article": null,
+          "tr": "iddia etmek"
+        },
+        {
+          "form": "bestätigte",
+          "lemma": "bestätigen",
+          "article": null,
+          "tr": "doğrulamak"
+        },
+        {
+          "form": "Unabhängig",
+          "lemma": "unabhängig",
+          "article": null,
+          "tr": "bağımsız"
+        },
+        {
+          "form": "überprüft",
+          "lemma": "überprüfen",
+          "article": null,
+          "tr": "kontrol etmek"
+        },
+        {
+          "form": "veröffentlichte",
+          "lemma": "veröffentlichen",
+          "article": null,
+          "tr": "yayımlamak"
+        },
+        {
+          "form": "Rauschen",
+          "lemma": "Rauschen",
+          "article": "das",
+          "tr": "gürültü, parazit"
+        },
+        {
+          "form": "Schnitte",
+          "lemma": "Schnitt",
+          "article": "der",
+          "tr": "kesme (video)"
+        },
+        {
+          "form": "zerstören",
+          "lemma": "zerstören",
+          "article": null,
+          "tr": "yok etmek"
+        },
+        {
+          "form": "Risiko",
+          "lemma": "Risiko",
+          "article": "das",
+          "tr": "risk"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas eingrenzen",
+          "article": null,
+          "tr": "bir şeyi daraltmak",
+          "example_de": "Wir konnten den Fehler auf zwei Zeilen im Code eingrenzen."
+        },
+        {
+          "de": "etwas behaupten",
+          "article": null,
+          "tr": "iddia etmek",
+          "example_de": "Er behauptet, dass er jede Folge schon gesehen hat."
+        },
+        {
+          "de": "Risiko",
+          "article": "das",
+          "tr": "risk",
+          "example_de": "Das Risiko, dass jemand meine Wohnung findet, ist gering."
+        },
+        {
+          "de": "unabhängig überprüfen",
+          "article": null,
+          "tr": "bağımsız olarak doğrulamak",
+          "example_de": "Journalisten sollten Aussagen unabhängig überprüfen."
+        },
+        {
+          "de": "mit bloßem Ohr",
+          "article": null,
+          "tr": "kulakla (aletsiz)",
+          "example_de": "Mit bloßem Ohr hört man den Unterschied kaum."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Welche Daten gleicht Colsto mit den Geräuschen ab?",
+          "options": [
+            "ADS-B-Flugdaten",
+            "Wetterberichte",
+            "Handy-Standorte",
+            "Straßenkarten"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „behaupten“?",
+          "options": [
+            "etwas ohne Beweis als wahr darstellen",
+            "etwas verstecken",
+            "etwas kaufen",
+            "etwas reparieren"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-digitaler-fuehrerschein",
+      "category": "de",
+      "title_de": "Digitaler Führerschein: So kommt das Dokument aufs Smartphone",
+      "summary_de": "Der digitale Führerschein soll in Deutschland nach Angaben des Bundesverkehrsministeriums Ende November 2026 starten, ein offizielles Datum gibt es aber noch nicht. Er wird in der kostenlosen App i-Kfz gespeichert, die das Kraftfahrt-Bundesamt gemeinsam mit der Bundesdruckerei entwickelt hat. Für Inlandsfahrten soll das Dokument auf dem Smartphone die Plastikkarte ersetzen können, auch bei Mietwagen und Carsharing. Für Reisen ins Ausland bleibt die Karte jedoch Pflicht. Wer Dokumente speichern will, braucht eine aktivierte Online-Ausweisfunktion, die dazugehörige PIN und ein Handy mit NFC. Im August 2026 war die App laut Behörde bereits auf mehr als zwei Millionen Geräten installiert, den Fahrzeugschein kann man schon jetzt darin zeigen. Anfang 2027 soll der Führerschein außerdem in die deutsche EUDI-Wallet kommen. Eine europaweite Umsetzung ist geplant, kann aber bis 2030 dauern.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/digitaler-fuehrerschein-deutschland-einfuehrung-app-anleitung-1771282/",
+      "glossary": [
+        {
+          "form": "Bundesverkehrsministeriums",
+          "lemma": "Bundesverkehrsministerium",
+          "article": "das",
+          "tr": "federal ulaştırma bakanlığı"
+        },
+        {
+          "form": "Angaben",
+          "lemma": "Angabe",
+          "article": "die",
+          "tr": "bilgi, beyan"
+        },
+        {
+          "form": "gespeichert",
+          "lemma": "speichern",
+          "article": null,
+          "tr": "kaydetmek"
+        },
+        {
+          "form": "Kraftfahrt-Bundesamt",
+          "lemma": "Kraftfahrt-Bundesamt",
+          "article": "das",
+          "tr": "Federal Motorlu Taşıtlar Dairesi"
+        },
+        {
+          "form": "Inlandsfahrten",
+          "lemma": "Inlandsfahrt",
+          "article": "die",
+          "tr": "yurt içi yolculuk"
+        },
+        {
+          "form": "ersetzen",
+          "lemma": "ersetzen",
+          "article": null,
+          "tr": "yerini almak, değiştirmek"
+        },
+        {
+          "form": "Mietwagen",
+          "lemma": "Mietwagen",
+          "article": "der",
+          "tr": "kiralık araç"
+        },
+        {
+          "form": "Pflicht",
+          "lemma": "Pflicht",
+          "article": "die",
+          "tr": "zorunluluk"
+        },
+        {
+          "form": "aktivierte",
+          "lemma": "aktivieren",
+          "article": null,
+          "tr": "etkinleştirmek"
+        },
+        {
+          "form": "Online-Ausweisfunktion",
+          "lemma": "Online-Ausweisfunktion",
+          "article": "die",
+          "tr": "kimlik kartının online işlevi"
+        },
+        {
+          "form": "Behörde",
+          "lemma": "Behörde",
+          "article": "die",
+          "tr": "resmî makam, kurum"
+        },
+        {
+          "form": "installiert",
+          "lemma": "installieren",
+          "article": null,
+          "tr": "yüklemek"
+        },
+        {
+          "form": "Fahrzeugschein",
+          "lemma": "Fahrzeugschein",
+          "article": "der",
+          "tr": "araç ruhsatı"
+        },
+        {
+          "form": "Umsetzung",
+          "lemma": "Umsetzung",
+          "article": "die",
+          "tr": "uygulama, hayata geçirme"
+        },
+        {
+          "form": "dauern",
+          "lemma": "dauern",
+          "article": null,
+          "tr": "sürmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "nach Angaben",
+          "article": null,
+          "tr": "…'in beyanına göre",
+          "example_de": "Nach Angaben der Polizei blieb der Verkehr ruhig."
+        },
+        {
+          "de": "etwas speichern",
+          "article": null,
+          "tr": "kaydetmek",
+          "example_de": "Ich speichere meine Tickets immer in der App."
+        },
+        {
+          "de": "Pflicht sein",
+          "article": null,
+          "tr": "zorunlu olmak",
+          "example_de": "Im Auto ist der Sicherheitsgurt Pflicht."
+        },
+        {
+          "de": "Behörde",
+          "article": "die",
+          "tr": "resmî kurum",
+          "example_de": "Die Behörde hat meinen Antrag schnell bearbeitet."
+        },
+        {
+          "de": "Umsetzung",
+          "article": "die",
+          "tr": "uygulama",
+          "example_de": "Die Umsetzung des Projekts dauert noch zwei Jahre."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was braucht man, um den digitalen Führerschein zu speichern?",
+          "options": [
+            "Eine Kreditkarte",
+            "Aktivierte Online-Ausweisfunktion, PIN und ein NFC-Handy",
+            "Einen Laptop",
+            "Ein Auto mit Bluetooth"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „Das ist Pflicht“?",
+          "options": [
+            "Das ist verboten.",
+            "Das ist zwingend vorgeschrieben.",
+            "Das ist freiwillig.",
+            "Das ist teuer."
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-homeoffice-bitkom",
+      "category": "de",
+      "title_de": "Mehrheit der Unternehmen hat Homeoffice-Möglichkeiten reduziert",
+      "summary_de": "Die Mehrheit der deutschen Unternehmen hat das Homeoffice in den vergangenen fünf Jahren eingeschränkt, wie eine Umfrage des Digitalverbands Bitkom zeigt. 39 Prozent haben die Möglichkeiten reduziert und 17 Prozent ganz abgeschafft, während 14 Prozent sie ausgebaut oder neu eingeführt haben. Derzeit bieten 54 Prozent der befragten Firmen mobiles Arbeiten an. Für die nächsten zwei Jahre planen nur drei Prozent eine Ausweitung, 35 Prozent wollen weiter kürzen. Dabei halten 71 Prozent das Homeoffice für hilfreich, um Familie und Beruf zu vereinbaren, und 63 Prozent sagen, ohne Homeoffice sei es schwerer, gute Mitarbeiter zu finden. Gleichzeitig glauben 65 Prozent, dass es den Zusammenhalt im Unternehmen schwächt. Bitkom-Chef Bernhard Rohleder nennt den Rückgang wenig überraschend, weil das Arbeiten von zu Hause während der Pandemie vielerorts Pflicht war. Die Deutsche Bahn will bis Ende 2027 für geeignete Beschäftigte mindestens drei Bürotage pro Woche vorschreiben. Befragt wurden mehr als 600 Unternehmen.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Mehrheit-der-Unternehmen-hat-Homeoffice-Moeglichkeiten-reduziert-11515901.html",
+      "glossary": [
+        {
+          "form": "eingeschränkt",
+          "lemma": "einschränken",
+          "article": null,
+          "tr": "kısıtlamak"
+        },
+        {
+          "form": "Umfrage",
+          "lemma": "Umfrage",
+          "article": "die",
+          "tr": "anket"
+        },
+        {
+          "form": "reduziert",
+          "lemma": "reduzieren",
+          "article": null,
+          "tr": "azaltmak"
+        },
+        {
+          "form": "abgeschafft",
+          "lemma": "abschaffen",
+          "article": null,
+          "tr": "kaldırmak"
+        },
+        {
+          "form": "ausgebaut",
+          "lemma": "ausbauen",
+          "article": null,
+          "tr": "genişletmek"
+        },
+        {
+          "form": "eingeführt",
+          "lemma": "einführen",
+          "article": null,
+          "tr": "uygulamaya koymak"
+        },
+        {
+          "form": "Ausweitung",
+          "lemma": "Ausweitung",
+          "article": "die",
+          "tr": "genişletme"
+        },
+        {
+          "form": "kürzen",
+          "lemma": "kürzen",
+          "article": null,
+          "tr": "kısmak, azaltmak"
+        },
+        {
+          "form": "vereinbaren",
+          "lemma": "vereinbaren",
+          "article": null,
+          "tr": "bağdaştırmak"
+        },
+        {
+          "form": "Zusammenhalt",
+          "lemma": "Zusammenhalt",
+          "article": "der",
+          "tr": "dayanışma, bütünlük"
+        },
+        {
+          "form": "schwächt",
+          "lemma": "schwächen",
+          "article": null,
+          "tr": "zayıflatmak"
+        },
+        {
+          "form": "Rückgang",
+          "lemma": "Rückgang",
+          "article": "der",
+          "tr": "düşüş, gerileme"
+        },
+        {
+          "form": "Pandemie",
+          "lemma": "Pandemie",
+          "article": "die",
+          "tr": "pandemi"
+        },
+        {
+          "form": "vielerorts",
+          "lemma": "vielerorts",
+          "article": null,
+          "tr": "birçok yerde"
+        },
+        {
+          "form": "Pflicht",
+          "lemma": "Pflicht",
+          "article": "die",
+          "tr": "zorunluluk"
+        },
+        {
+          "form": "geeignete",
+          "lemma": "geeignet",
+          "article": null,
+          "tr": "uygun"
+        },
+        {
+          "form": "vorschreiben",
+          "lemma": "vorschreiben",
+          "article": null,
+          "tr": "zorunlu kılmak"
+        },
+        {
+          "form": "Befragt",
+          "lemma": "befragen",
+          "article": null,
+          "tr": "sormak, anket yapmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Familie und Beruf vereinbaren",
+          "article": null,
+          "tr": "aile ve işi bağdaştırmak",
+          "example_de": "Mit Gleitzeit kann man Familie und Beruf besser vereinbaren."
+        },
+        {
+          "de": "etwas abschaffen",
+          "article": null,
+          "tr": "bir şeyi kaldırmak",
+          "example_de": "Die Uni hat die Anwesenheitspflicht abgeschafft."
+        },
+        {
+          "de": "Zusammenhalt",
+          "article": "der",
+          "tr": "dayanışma",
+          "example_de": "Der Zusammenhalt im Team ist mir sehr wichtig."
+        },
+        {
+          "de": "einen Rückgang verzeichnen",
+          "article": null,
+          "tr": "düşüş kaydetmek",
+          "example_de": "Der Laden verzeichnet einen Rückgang bei den Besuchern."
+        },
+        {
+          "de": "eine Umfrage durchführen",
+          "article": null,
+          "tr": "anket yapmak",
+          "example_de": "Wir führen eine Umfrage unter Studierenden durch."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viel Prozent der Firmen haben das Homeoffice ganz abgeschafft?",
+          "options": [
+            "14 Prozent",
+            "17 Prozent",
+            "39 Prozent",
+            "54 Prozent"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „abschaffen“?",
+          "options": [
+            "etwas ganz beenden",
+            "etwas verbessern",
+            "etwas teilen",
+            "etwas kaufen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-karrierewechsel",
+      "category": "health",
+      "title_de": "Karrierewechsel: Macht ein neuer Job wirklich zufriedener?",
+      "summary_de": "Quarks fragt, ob ein neuer Job wirklich dauerhaft zufriedener macht. Laut dem Wellbeing Report der Universität Oxford sind nur 21 Prozent der Beschäftigten in Deutschland mit ihrer Arbeit zufrieden, und eine Forsa-Umfrage zeigt, dass fast jeder Dritte schon konkrete Schritte zum Wechsel unternommen hat. Eine ältere Studie aus dem Jahr 2005 beschreibt jedoch einen Honeymoon-Hangover-Effekt: Nach einem radikalen Wechsel steigt die Zufriedenheit, sinkt aber meist rasch auf das alte Niveau zurück. Die Karrierecoachin Madeleine Leitner berichtet, dass bei nur etwa fünf Prozent ihrer Klienten tatsächlich der Job selbst das Problem sei. Ihre Zahl stammt allerdings aus der eigenen Praxis und ist nicht repräsentativ. Als Tipps nennt der Beitrag, vor einer Kündigung zu analysieren, was am aktuellen Job gut ist, und zunächst kleinere Änderungen bei Aufgaben oder Arbeitsplatz auszuprobieren. Auch ein frühes Gespräch mit der Führungskraft und regelmäßige Weiterbildung können laut dem Artikel die Wechselfreude dämpfen. Zu den meisten Studien fehlen im Text Angaben zu Stichproben und Effektgrößen.",
+      "source_name": "Quarks",
+      "source_url": "https://www.quarks.de/gesellschaft/karrierewechsel-job-zufriedenheit-daily-spezial/",
+      "glossary": [
+        {
+          "form": "dauerhaft",
+          "lemma": "dauerhaft",
+          "article": null,
+          "tr": "kalıcı olarak"
+        },
+        {
+          "form": "Beschäftigten",
+          "lemma": "Beschäftigte",
+          "article": "der",
+          "tr": "çalışan"
+        },
+        {
+          "form": "zufrieden",
+          "lemma": "zufrieden",
+          "article": null,
+          "tr": "memnun"
+        },
+        {
+          "form": "konkrete",
+          "lemma": "konkret",
+          "article": null,
+          "tr": "somut"
+        },
+        {
+          "form": "unternommen",
+          "lemma": "unternehmen",
+          "article": null,
+          "tr": "girişmek, atmak (adım)"
+        },
+        {
+          "form": "radikalen",
+          "lemma": "radikal",
+          "article": null,
+          "tr": "köklü"
+        },
+        {
+          "form": "Zufriedenheit",
+          "lemma": "Zufriedenheit",
+          "article": "die",
+          "tr": "memnuniyet"
+        },
+        {
+          "form": "Niveau",
+          "lemma": "Niveau",
+          "article": "das",
+          "tr": "seviye"
+        },
+        {
+          "form": "Klienten",
+          "lemma": "Klient",
+          "article": "der",
+          "tr": "müşteri, danışan"
+        },
+        {
+          "form": "repräsentativ",
+          "lemma": "repräsentativ",
+          "article": null,
+          "tr": "temsil edici"
+        },
+        {
+          "form": "Kündigung",
+          "lemma": "Kündigung",
+          "article": "die",
+          "tr": "işten ayrılma/çıkarılma bildirimi"
+        },
+        {
+          "form": "analysieren",
+          "lemma": "analysieren",
+          "article": null,
+          "tr": "analiz etmek"
+        },
+        {
+          "form": "Führungskraft",
+          "lemma": "Führungskraft",
+          "article": "die",
+          "tr": "yönetici"
+        },
+        {
+          "form": "Weiterbildung",
+          "lemma": "Weiterbildung",
+          "article": "die",
+          "tr": "mesleki gelişim eğitimi"
+        },
+        {
+          "form": "dämpfen",
+          "lemma": "dämpfen",
+          "article": null,
+          "tr": "dizginlemek, azaltmak"
+        },
+        {
+          "form": "Stichproben",
+          "lemma": "Stichprobe",
+          "article": "die",
+          "tr": "örneklem"
+        },
+        {
+          "form": "Effektgrößen",
+          "lemma": "Effektgröße",
+          "article": "die",
+          "tr": "etki büyüklüğü"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Schritte unternehmen",
+          "article": null,
+          "tr": "adım atmak",
+          "example_de": "Die Stadt will Schritte gegen den Lärm unternehmen."
+        },
+        {
+          "de": "zufrieden sein mit",
+          "article": null,
+          "tr": "…'den memnun olmak",
+          "example_de": "Ich bin mit meinem Nebenjob ziemlich zufrieden."
+        },
+        {
+          "de": "Kündigung",
+          "article": "die",
+          "tr": "işten çıkma/çıkış bildirimi",
+          "example_de": "Er hat gestern seine Kündigung geschrieben."
+        },
+        {
+          "de": "sich weiterbilden",
+          "article": null,
+          "tr": "kendini geliştirmek",
+          "example_de": "Ich möchte mich neben dem Studium weiterbilden."
+        },
+        {
+          "de": "auf das alte Niveau zurücksinken",
+          "article": null,
+          "tr": "eski seviyeye geri düşmek",
+          "example_de": "Nach dem Urlaub sinkt meine Laune schnell auf das alte Niveau zurück."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was beschreibt der Honeymoon-Hangover-Effekt?",
+          "options": [
+            "Zufriedenheit steigt nach dem Wechsel kurz und sinkt dann wieder",
+            "Man verdient nach dem Wechsel dauerhaft mehr",
+            "Man bekommt nach dem Wechsel mehr Urlaub",
+            "Man wechselt jedes Jahr den Job"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „repräsentativ“ im Text?",
+          "options": [
+            "für alle gültig und aussagekräftig",
+            "besonders teuer",
+            "sehr alt",
+            "nur für Chefs"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-lol-patch-2622",
+      "category": "gaming",
+      "title_de": "League of Legends: Patch 26.22 bringt TFT-Client und Mel-Überarbeitung",
+      "summary_de": "Riot Games hat Patch 26.22 für League of Legends veröffentlicht, und der fällt größer aus als üblich. Die wichtigste Neuerung: Teamfight Tactics bekommt ab dem 4. November einen eigenen Client, sodass der Wechsel zwischen beiden Spielen künftig nur einen Klick dauert. Bereits gekaufte TFT-Kosmetika funktionieren noch bis zum 15. Dezember in League, danach werden sie endgültig getrennt. Bei den Champions bekommt Mel eine mittelgroße Überarbeitung, ihr W wird zu einer Nova, die gegnerische Geschosse zerstört und ihr Lauftempo erhöht. Locke wird abgeschwächt, ebenso Yasuo, Thresh und Doran's Bow, während unter anderem Corki, Kayle und Rumble Verstärkungen erhalten. Im Modus ARAM: Chaos kehren die Karten Schlachterbrücke und Koeshin-Brücke zurück, außerdem wurden mehrere Augments angepasst. Die Classic-Pass-Marken pro Spiel steigen für den Rest der Saison um 50 Prozent, nachdem ein Fortschrittsfehler behoben wurde.",
+      "source_name": "League of Legends (Patchnotizen)",
+      "source_url": "https://www.leagueoflegends.com/de-de/news/game-updates/league-of-legends-patch-26-22-notes/",
+      "glossary": [
+        {
+          "form": "veröffentlicht",
+          "lemma": "veröffentlichen",
+          "article": null,
+          "tr": "yayımlamak"
+        },
+        {
+          "form": "üblich",
+          "lemma": "üblich",
+          "article": null,
+          "tr": "alışılmış"
+        },
+        {
+          "form": "Neuerung",
+          "lemma": "Neuerung",
+          "article": "die",
+          "tr": "yenilik"
+        },
+        {
+          "form": "Wechsel",
+          "lemma": "Wechsel",
+          "article": "der",
+          "tr": "geçiş, değişim"
+        },
+        {
+          "form": "Kosmetika",
+          "lemma": "Kosmetikum",
+          "article": "das",
+          "tr": "kozmetik öğeler (oyun içi)"
+        },
+        {
+          "form": "endgültig",
+          "lemma": "endgültig",
+          "article": null,
+          "tr": "kesin olarak"
+        },
+        {
+          "form": "getrennt",
+          "lemma": "trennen",
+          "article": null,
+          "tr": "ayırmak"
+        },
+        {
+          "form": "Überarbeitung",
+          "lemma": "Überarbeitung",
+          "article": "die",
+          "tr": "elden geçirme, yeniden tasarım"
+        },
+        {
+          "form": "Geschosse",
+          "lemma": "Geschoss",
+          "article": "das",
+          "tr": "mermi, füze"
+        },
+        {
+          "form": "zerstört",
+          "lemma": "zerstören",
+          "article": null,
+          "tr": "yok etmek"
+        },
+        {
+          "form": "Lauftempo",
+          "lemma": "Lauftempo",
+          "article": "das",
+          "tr": "koşma hızı"
+        },
+        {
+          "form": "abgeschwächt",
+          "lemma": "abschwächen",
+          "article": null,
+          "tr": "zayıflatmak (nerf)"
+        },
+        {
+          "form": "Verstärkungen",
+          "lemma": "Verstärkung",
+          "article": "die",
+          "tr": "güçlendirme (buff)"
+        },
+        {
+          "form": "kehren",
+          "lemma": "zurückkehren",
+          "article": null,
+          "tr": "geri dönmek"
+        },
+        {
+          "form": "angepasst",
+          "lemma": "anpassen",
+          "article": null,
+          "tr": "uyarlamak, ayarlamak"
+        },
+        {
+          "form": "Fortschrittsfehler",
+          "lemma": "Fortschrittsfehler",
+          "article": "der",
+          "tr": "ilerleme hatası"
+        },
+        {
+          "form": "behoben",
+          "lemma": "beheben",
+          "article": null,
+          "tr": "gidermek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "eine Neuerung",
+          "article": "die",
+          "tr": "yenilik",
+          "example_de": "Die wichtigste Neuerung ist der neue Spielmodus."
+        },
+        {
+          "de": "endgültig",
+          "article": null,
+          "tr": "kesin olarak",
+          "example_de": "Das Spiel wird endgültig eingestellt."
+        },
+        {
+          "de": "etwas abschwächen",
+          "article": null,
+          "tr": "zayıflatmak",
+          "example_de": "Die Entwickler haben den Helden stark abgeschwächt."
+        },
+        {
+          "de": "einen Fehler beheben",
+          "article": null,
+          "tr": "hatayı gidermek",
+          "example_de": "Der Patch soll einen schweren Fehler beheben."
+        },
+        {
+          "de": "zurückkehren",
+          "article": null,
+          "tr": "geri dönmek",
+          "example_de": "Nach der Pause kehrt die Karte zurück."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was passiert ab dem 4. November mit Teamfight Tactics?",
+          "options": [
+            "Es wird abgeschaltet",
+            "Es bekommt einen eigenen Client",
+            "Es wird nur noch mobil gespielt",
+            "Es kostet Geld"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „abgeschwächt“ bei einem Champion?",
+          "options": [
+            "Er wird schwächer gemacht",
+            "Er wird teurer",
+            "Er bekommt einen neuen Skin",
+            "Er wird entfernt"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-arc-raiders-pve",
+      "category": "gaming",
+      "title_de": "ARC Raiders: Chef deutet dauerhaften PvE-Modus an",
+      "summary_de": "Der Chef von Embark Studios, Patrick Söderlund, hat in einem Interview angedeutet, dass ARC Raiders dauerhaft einen PvE-Modus bekommen könnte. In der Community streiten zwei Lager: Die einen wünschen sich seit dem Release einen Modus ohne Kämpfe gegen andere Spieler, die anderen fürchten, dass er das Spiel beschädigt. Söderlund sagt, das Studio könne so einen Modus ohne Probleme einbauen, wolle aber den Kern des Spiels nicht verändern, weil gerade die Spannung durch PvP Emotionen erzeuge. Gleichzeitig betont er, dass man die PvE-Fans bei einem so großen Publikum nicht ignorieren könne. Im Oktober 2026 lief bereits ein zeitlich begrenzter PvE-Test, der laut Produzent Alexander Grøndal enormes Interesse weckte. Rund die Hälfte aller Runden in diesem Zeitraum wurde auf PvE-Servern gespielt. Der Autor, eigentlich PvP-Fan, hatte selbst Spaß daran, verbrachte aber viel Zeit mit Fotografieren und verlor deshalb viel Ausrüstung. Ob und wann ein fester Modus kommt, ist bislang offen.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/arc-raiders-ceo-ueber-pve/",
+      "glossary": [
+        {
+          "form": "angedeutet",
+          "lemma": "andeuten",
+          "article": null,
+          "tr": "ima etmek"
+        },
+        {
+          "form": "dauerhaft",
+          "lemma": "dauerhaft",
+          "article": null,
+          "tr": "kalıcı olarak"
+        },
+        {
+          "form": "streiten",
+          "lemma": "streiten",
+          "article": null,
+          "tr": "tartışmak, çekişmek"
+        },
+        {
+          "form": "Lager",
+          "lemma": "Lager",
+          "article": "das",
+          "tr": "kamp, taraf"
+        },
+        {
+          "form": "beschädigt",
+          "lemma": "beschädigen",
+          "article": null,
+          "tr": "zarar vermek"
+        },
+        {
+          "form": "einbauen",
+          "lemma": "einbauen",
+          "article": null,
+          "tr": "eklemek, entegre etmek"
+        },
+        {
+          "form": "Kern",
+          "lemma": "Kern",
+          "article": "der",
+          "tr": "öz, çekirdek"
+        },
+        {
+          "form": "Spannung",
+          "lemma": "Spannung",
+          "article": "die",
+          "tr": "gerilim, heyecan"
+        },
+        {
+          "form": "erzeuge",
+          "lemma": "erzeugen",
+          "article": null,
+          "tr": "yaratmak, üretmek"
+        },
+        {
+          "form": "betont",
+          "lemma": "betonen",
+          "article": null,
+          "tr": "vurgulamak"
+        },
+        {
+          "form": "Publikum",
+          "lemma": "Publikum",
+          "article": "das",
+          "tr": "kitle, izleyici"
+        },
+        {
+          "form": "ignorieren",
+          "lemma": "ignorieren",
+          "article": null,
+          "tr": "görmezden gelmek"
+        },
+        {
+          "form": "begrenzter",
+          "lemma": "begrenzt",
+          "article": null,
+          "tr": "sınırlı"
+        },
+        {
+          "form": "enormes",
+          "lemma": "enorm",
+          "article": null,
+          "tr": "muazzam"
+        },
+        {
+          "form": "weckte",
+          "lemma": "wecken",
+          "article": null,
+          "tr": "uyandırmak"
+        },
+        {
+          "form": "Ausrüstung",
+          "lemma": "Ausrüstung",
+          "article": "die",
+          "tr": "ekipman"
+        },
+        {
+          "form": "offen",
+          "lemma": "offen",
+          "article": null,
+          "tr": "belirsiz, açık"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas andeuten",
+          "article": null,
+          "tr": "ima etmek",
+          "example_de": "Der Entwickler deutete ein neues Update an."
+        },
+        {
+          "de": "ein Lager",
+          "article": "das",
+          "tr": "kamp, taraf",
+          "example_de": "In der Community gibt es zwei Lager."
+        },
+        {
+          "de": "Spannung erzeugen",
+          "article": null,
+          "tr": "gerilim yaratmak",
+          "example_de": "Der Boss-Kampf erzeugt viel Spannung."
+        },
+        {
+          "de": "Interesse wecken",
+          "article": null,
+          "tr": "ilgi uyandırmak",
+          "example_de": "Der Trailer hat mein Interesse geweckt."
+        },
+        {
+          "de": "offen sein",
+          "article": null,
+          "tr": "belirsiz olmak",
+          "example_de": "Ob das Turnier stattfindet, ist noch offen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was zeigte der PvE-Test im Oktober laut Text?",
+          "options": [
+            "Kaum jemand war interessiert",
+            "Etwa die Hälfte der Runden lief auf PvE-Servern",
+            "Das Spiel stürzte ständig ab",
+            "Der Test dauerte ein ganzes Jahr"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „etwas andeuten“?",
+          "options": [
+            "etwas indirekt sagen",
+            "etwas laut verkünden",
+            "etwas verbieten",
+            "etwas löschen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-soulframe-offen",
+      "category": "gaming",
+      "title_de": "Soulframe ist ab sofort für alle Spieler offen",
+      "summary_de": "Soulframe, das neue Spiel der Warframe-Macher, ist ab sofort für alle Spieler offen. Man braucht weder ein Founder-Paket noch einen Einladungsschlüssel, der Download ist kostenlos und startet über den eigenen Launcher. Offiziell befindet sich das Spiel noch in der Pre-Alpha, Versionen für Konsolen und Steam sind geplant. Es spielt in der Fantasywelt Alca, in der sich Natur und Industrie gegenüberstehen und man auf der Seite der Natur kämpft. Der Autor beschreibt es als „MMO-lite“ mit Nah- und Fernkampf, Charakterstufen und anpassbaren Builds, in dem bis zu vier Spieler zusammen losziehen können. Fähigkeiten erhält man über Pakte mit Naturgeistern, etwa die Kraft eines Bären oder Hirschs. Gelobt werden die Spielwelt und die Atmosphäre, kritisiert werden unausgereifte Klassenbalance, wenig Mehrspielerinhalte und knappe Tutorials. Weil der Einstieg gratis ist, empfiehlt der Autor, es einfach selbst auszuprobieren.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/soulframe-empfehlung-update-offen-fuer-alle/",
+      "glossary": [
+        {
+          "form": "Einladungsschlüssel",
+          "lemma": "Einladungsschlüssel",
+          "article": "der",
+          "tr": "davet anahtarı"
+        },
+        {
+          "form": "kostenlos",
+          "lemma": "kostenlos",
+          "article": null,
+          "tr": "ücretsiz"
+        },
+        {
+          "form": "befindet",
+          "lemma": "sich befinden",
+          "article": null,
+          "tr": "bulunmak"
+        },
+        {
+          "form": "gegenüberstehen",
+          "lemma": "gegenüberstehen",
+          "article": null,
+          "tr": "karşı karşıya durmak"
+        },
+        {
+          "form": "kämpft",
+          "lemma": "kämpfen",
+          "article": null,
+          "tr": "savaşmak"
+        },
+        {
+          "form": "anpassbaren",
+          "lemma": "anpassbar",
+          "article": null,
+          "tr": "özelleştirilebilir"
+        },
+        {
+          "form": "losziehen",
+          "lemma": "losziehen",
+          "article": null,
+          "tr": "yola koyulmak"
+        },
+        {
+          "form": "Fähigkeiten",
+          "lemma": "Fähigkeit",
+          "article": "die",
+          "tr": "yetenek"
+        },
+        {
+          "form": "Pakte",
+          "lemma": "Pakt",
+          "article": "der",
+          "tr": "pakt, anlaşma"
+        },
+        {
+          "form": "Naturgeistern",
+          "lemma": "Naturgeist",
+          "article": "der",
+          "tr": "doğa ruhu"
+        },
+        {
+          "form": "Gelobt",
+          "lemma": "loben",
+          "article": null,
+          "tr": "övmek"
+        },
+        {
+          "form": "kritisiert",
+          "lemma": "kritisieren",
+          "article": null,
+          "tr": "eleştirmek"
+        },
+        {
+          "form": "unausgereifte",
+          "lemma": "unausgereift",
+          "article": null,
+          "tr": "olgunlaşmamış"
+        },
+        {
+          "form": "Mehrspielerinhalte",
+          "lemma": "Mehrspielerinhalt",
+          "article": "der",
+          "tr": "çok oyunculu içerik"
+        },
+        {
+          "form": "knappe",
+          "lemma": "knapp",
+          "article": null,
+          "tr": "kısıtlı, kısa"
+        },
+        {
+          "form": "empfiehlt",
+          "lemma": "empfehlen",
+          "article": null,
+          "tr": "tavsiye etmek"
+        },
+        {
+          "form": "auszuprobieren",
+          "lemma": "ausprobieren",
+          "article": null,
+          "tr": "denemek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich befinden",
+          "article": null,
+          "tr": "(bir durumda/yerde) olmak",
+          "example_de": "Das Spiel befindet sich noch in der Testphase."
+        },
+        {
+          "de": "etwas ausprobieren",
+          "article": null,
+          "tr": "denemek",
+          "example_de": "Ich möchte das neue Spiel einfach mal ausprobieren."
+        },
+        {
+          "de": "unausgereift",
+          "article": null,
+          "tr": "olgunlaşmamış",
+          "example_de": "Die Steuerung wirkt noch unausgereift."
+        },
+        {
+          "de": "etwas empfehlen",
+          "article": null,
+          "tr": "tavsiye etmek",
+          "example_de": "Ich kann dir dieses Spiel wirklich empfehlen."
+        },
+        {
+          "de": "Fähigkeit",
+          "article": "die",
+          "tr": "yetenek",
+          "example_de": "Jede Klasse hat eine besondere Fähigkeit."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was braucht man laut Text, um Soulframe zu spielen?",
+          "options": [
+            "Ein Founder-Paket",
+            "Einen Einladungsschlüssel",
+            "Nichts davon – der Download ist kostenlos",
+            "Eine Konsole"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was bedeutet „unausgereift“?",
+          "options": [
+            "noch nicht fertig entwickelt",
+            "sehr alt",
+            "besonders schön",
+            "extrem teuer"
+          ],
+          "answer_index": 0
+        }
+      ]
+    }
+  ]
+}

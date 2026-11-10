@@ -1,1346 +1,1542 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "level": "original",
   "facts": [
     {
-      "de": "Der Kölner Dom wurde 1248 begonnen und erst 1880 fertiggestellt, die Bauzeit betrug also mehr als 600 Jahre.",
-      "tr": "Köln Katedrali 1248'de başlandı ve ancak 1880'de tamamlandı; yani inşa süresi 600 yıldan uzun sürdü.",
-      "source_url": "https://de.wikipedia.org/wiki/K%C3%B6lner_Dom"
+      "de": "Die Venus braucht für eine Drehung um die eigene Achse etwa 243 Erdtage und damit länger als für einen Umlauf um die Sonne, der rund 225 Erdtage dauert.",
+      "tr": "Venüs kendi ekseni etrafında yaklaşık 243 Dünya günüyle dönüyor; bu, Güneş etrafındaki yaklaşık 225 günlük turundan daha uzun sürüyor.",
+      "source_url": "https://de.wikipedia.org/wiki/Venus_(Planet)"
     },
     {
-      "de": "Der Olympus Mons auf dem Mars ist mit rund 22 Kilometern Höhe der höchste bekannte Berg im Sonnensystem.",
-      "tr": "Mars'taki Olympos Dağı yaklaşık 22 kilometre yüksekliğiyle Güneş Sistemi'nin bilinen en yüksek dağıdır.",
-      "source_url": "https://de.wikipedia.org/wiki/Olympus_Mons"
+      "de": "Das Matterhorn ist 4.478 Meter hoch und liegt an der Grenze zwischen der Schweiz und Italien; erstmals bestiegen wurde es am 14. Juli 1865.",
+      "tr": "Matterhorn 4.478 metre yüksekliğinde ve İsviçre ile İtalya sınırında yer alıyor; ilk kez 14 Temmuz 1865'te tırmanıldı.",
+      "source_url": "https://de.wikipedia.org/wiki/Matterhorn"
     },
     {
-      "de": "Der Rhein ist rund 1.230 Kilometer lang und mündet in den Niederlanden in die Nordsee.",
-      "tr": "Ren Nehri yaklaşık 1.230 kilometre uzunluğundadır ve Hollanda'da Kuzey Denizi'ne dökülür.",
-      "source_url": "https://de.wikipedia.org/wiki/Rhein"
+      "de": "Am Bodensee grenzen Deutschland, Österreich und die Schweiz aneinander, doch eine anerkannte Grenze gibt es nur im Untersee zwischen Deutschland und der Schweiz.",
+      "tr": "Bodensee'de Almanya, Avusturya ve İsviçre birbirine komşudur; ancak kabul edilmiş bir sınır yalnızca Untersee'de, Almanya ile İsviçre arasında vardır.",
+      "source_url": "https://de.wikipedia.org/wiki/Bodensee"
     }
   ],
   "idiom": {
-    "de": "Den Nagel auf den Kopf treffen.",
-    "meaning_tr": "Bir konuyu tam isabetle, doğru bir şekilde ifade etmek.",
-    "literal_tr": "Çivinin başına vurmak.",
-    "equivalent_tr": "Tam on ikiden vurmak.",
-    "example_de": "Mit deiner Analyse hast du den Nagel auf den Kopf getroffen.",
-    "example_tr": "Analizinle tam on ikiden vurdun."
+    "de": "Jemandem die Daumen drücken.",
+    "meaning_tr": "Birine başarı dilemek, birinin şansı için dua etmek.",
+    "literal_tr": "Birinin için baş parmakları bastırmak.",
+    "equivalent_tr": "Parmaklarını çaprazlamak / Parmak çaprazlamak",
+    "example_de": "Morgen schreibe ich die Klausur in Elektrotechnik – drück mir die Daumen!",
+    "example_tr": "Yarın elektrik mühendisliği sınavına giriyorum – bana şans dile!"
   },
   "reading": [
     {
       "type": "ana",
-      "text_de": "Viele Unternehmen setzen inzwischen auf Homeoffice, weil Beschäftigte dadurch Pendelzeit sparen und konzentrierter arbeiten können. Allerdings zeigt eine interne Umfrage, dass sich besonders neue Mitarbeitende im Team weniger zugehörig fühlen. Zwar lassen sich Besprechungen problemlos per Video führen, doch beiläufige Gespräche in der Kaffeeküche fallen weg. Deshalb will die Firma künftig an zwei festen Tagen pro Woche Präsenz verlangen.",
+      "text_de": "Viele Menschen glauben, dass sie unter Zeitdruck besser arbeiten. Tatsächlich zeigen Untersuchungen jedoch, dass knappe Fristen zwar die Konzentration kurzfristig erhöhen können, die Fehlerquote aber deutlich steigt. Wer ständig kurz vor Schluss beginnt, verwechselt außerdem oft Stress mit Leistung. Sinnvoller ist es daher, große Aufgaben in kleine Schritte zu teilen und früh anzufangen.",
       "question_de": "Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?",
       "options": [
-        "Homeoffice ist unproduktiv und soll deshalb in der Firma ganz abgeschafft werden.",
-        "Neue Mitarbeitende arbeiten im Homeoffice grundsätzlich schlechter als erfahrene Kollegen.",
-        "Homeoffice hat Vorteile, doch weil das Zugehörigkeitsgefühl leidet, werden feste Präsenztage eingeführt.",
-        "Videobesprechungen sind weniger effizient als beiläufige Gespräche in der Kaffeeküche."
+        "Zeitdruck steigert die Leistung nur dann, wenn man Aufgaben in kleine Schritte aufteilt.",
+        "Das Gefühl, unter Druck besser zu arbeiten, täuscht oft; frühes und schrittweises Arbeiten ist ratsamer.",
+        "Knappe Fristen sind schädlich, weil sie die Konzentration grundsätzlich senken.",
+        "Fehler entstehen vor allem deshalb, weil Menschen zu spät mit ihren Aufgaben beginnen."
       ],
-      "answer_index": 2,
-      "explanation_tr": "Der Text nennt Vorteile (Pendelzeit, Konzentration), dann das Problem (Zugehörigkeit) und die Lösung (zwei Präsenztage); das fasst C zusammen. A ist zu extrem, denn die Firma schafft Homeoffice nicht ab; B verallgemeinert mit „grundsätzlich“; D widerspricht dem Satz, dass Videobesprechungen problemlos funktionieren."
+      "answer_index": 1,
+      "explanation_tr": "Metin, baskı altında daha iyi çalışma inancının yanıltıcı olduğunu ve erken, adım adım çalışmanın daha mantıklı olduğunu söylüyor; B bunu doğru özetliyor. C çekici bir çeldirici ama yanlış: metne göre kısa süreli konsantrasyon artabilir, yani 'grundsätzlich senken' denemez."
     },
     {
       "type": "cikarilamaz",
-      "text_de": "Seit die Stadtbibliothek ihre Öffnungszeiten bis 22 Uhr verlängert hat, kommen deutlich mehr Studierende zum Lernen. Eine Befragung ergab, dass viele die ruhige Atmosphäre schätzen, obwohl die Arbeitsplätze oft knapp sind. Die Bibliotheksleitung räumt ein, dass die Verlängerung zusätzliche Kosten verursacht. Dennoch will sie das Angebot behalten, weil die Nutzerzahlen seit Monaten steigen.",
+      "text_de": "Die Stadtbibliothek hat ihre Öffnungszeiten ausgeweitet und ist nun auch sonntags geöffnet. Anlass war eine Umfrage, in der viele Studierende angaben, am Wochenende keinen ruhigen Lernplatz zu finden. Zwar kostet der Sonntagsbetrieb zusätzliches Personal, doch die Stadt rechnet damit, dass sich die Investition lohnt. Kritiker bemängeln allerdings, dass die Lernplätze weiterhin nicht reserviert werden können.",
       "question_de": "Welche Aussage lässt sich aus dem Text NICHT ableiten?",
       "options": [
-        "Die längeren Öffnungszeiten werden von den Studierenden gut angenommen.",
-        "Die Bibliothek hat die Verlängerung wegen der Kosten inzwischen wieder zurückgenommen.",
-        "Die Arbeitsplätze reichen zu manchen Zeiten nicht für alle Besucher aus.",
-        "Die Verlängerung ist für die Bibliothek mit höheren Ausgaben verbunden."
+        "Alle Kritiker fordern, dass der Sonntagsbetrieb wieder abgeschafft wird.",
+        "Die Bibliothek reagiert mit der neuen Regelung auf einen Wunsch vieler Studierender.",
+        "Der Sonntagsbetrieb verursacht für die Stadt zusätzliche Personalkosten.",
+        "Ein Teil der Kritik betrifft die fehlende Reservierungsmöglichkeit der Lernplätze."
       ],
-      "answer_index": 1,
-      "explanation_tr": "Der Text sagt ausdrücklich, dass die Bibliothek das Angebot trotz der Kosten behalten will; B ist daher nicht ableitbar. A folgt aus den steigenden Besucherzahlen, C aus „Arbeitsplätze oft knapp“, D aus „zusätzliche Kosten“."
+      "answer_index": 0,
+      "explanation_tr": "Metinde kritikçilerin yalnızca rezervasyon yapılamamasını eleştirdiği yazıyor; pazar günü hizmetin kaldırılmasını isteyen kimse yok, bu yüzden A çıkarılamaz. B, C ve D doğrudan metinden çıkar (anket, ek personel, rezervasyon eleştirisi)."
     },
     {
       "type": "bosluk",
-      "text_de": "Viele Spieler glauben, dass Talent allein über den Erfolg im E-Sport entscheidet. ___ Denn Analysen von Profiteams zeigen, dass regelmäßiges Training und gute Absprachen mindestens ebenso wichtig sind. Wer nur auf sein Können vertraut, stößt daher früher oder später an Grenzen.",
+      "text_de": "Moderne Navigationsapps nehmen uns viel Denkarbeit ab. Wer jedoch jahrelang nur noch dem Pfeil auf dem Display folgt, entwickelt kaum noch eine innere Karte der Stadt. ___ Deshalb empfehlen manche Forschende, Strecken gelegentlich ohne App zu gehen, damit das räumliche Gedächtnis aktiv bleibt.",
       "question_de": "Welcher Satz passt am besten in die Lücke (___)?",
       "options": [
-        "Dieser Eindruck wird durch Studien eindeutig bestätigt.",
-        "Talent spielt deshalb überhaupt keine Rolle mehr.",
-        "Profiteams verzichten aus diesem Grund ganz auf Training.",
-        "Dieser Eindruck greift jedoch zu kurz."
+        "Dennoch bleiben Apps das einzige Mittel, um sich in fremden Städten zurechtzufinden.",
+        "Das räumliche Gedächtnis wird durch Apps sogar zusätzlich trainiert, weil man mehr Wege zurücklegt.",
+        "Das räumliche Gedächtnis kann also schwächer werden, wenn man es kaum noch benutzt.",
+        "Wer eine innere Karte besitzt, braucht trotzdem ständig eine App."
       ],
-      "answer_index": 3,
-      "explanation_tr": "Der folgende Satz mit „Denn“ begründet, warum die Annahme unvollständig ist; das leistet D. A passt nicht, weil der Text die Annahme relativiert; B und C übertreiben und widersprechen der Aussage, dass Training wichtig ist."
+      "answer_index": 2,
+      "explanation_tr": "Boşluktan sonraki 'Deshalb' cümlesi, hafızayı aktif tutma önerisini bir sonuç olarak veriyor; bunun için önceki cümlenin 'kullanılmazsa mekânsal hafıza zayıflayabilir' demesi gerekir (C). B metindeki mantığın tam tersini söylüyor, A ise aşırı genelleme yapıyor."
     },
     {
       "type": "anlam",
-      "text_de": "Der Bürgermeister versprach, den Radverkehr zu fördern, doch bisher blieb es bei Ankündigungen. Als im Sommer die ersten Radwege nur auf dem Papier existierten, sprachen Kritiker davon, die Stadt habe „den Mund zu voll genommen“. Erst nach deutlichem Druck der Bürger wurden tatsächlich Bauarbeiten begonnen. Inzwischen hat sich der Ton etwas entspannt.",
-      "question_de": "Was ist mit „den Mund zu voll genommen“ gemeint?",
+      "text_de": "Beim E-Sport gilt Talent als Eintrittskarte, aber nicht als Garantie. Viele junge Spieler erreichen früh einen hohen Rang, verlieren dann jedoch die Motivation, weil sie glauben, das Wichtigste sei geschafft. Ein Trainer warnt deshalb: „Der Rang ist nur die Spitze des Eisbergs.“ Langfristig Erfolg hat, wer akzeptiert, dass Verbesserung meist langsam und wenig spektakulär verläuft.",
+      "question_de": "Was ist mit „Der Rang ist nur die Spitze des Eisbergs“ gemeint?",
       "options": [
-        "Die Stadt hat mehr versprochen, als sie halten konnte.",
-        "Die Stadt hat zu viele Radwege gleichzeitig gebaut.",
-        "Die Stadtverwaltung hat in Pressekonferenzen zu lange geredet.",
-        "Die Verwaltung hat die Kritik der Bürger ungeduldig zurückgewiesen."
+        "Nur sehr wenige Spieler können überhaupt einen hohen Rang erreichen.",
+        "Ein hoher Rang ist gefährlich, weil er viele Spieler zum Teamwechsel verleitet.",
+        "Der Rang verschwindet schnell wieder, sobald die Motivation fehlt.",
+        "Ein hoher Rang zeigt nur einen kleinen sichtbaren Teil dessen, was für Erfolg nötig ist."
       ],
-      "answer_index": 0,
-      "explanation_tr": "Die Redewendung bedeutet „mehr versprechen als man erfüllen kann“; im Text blieben die Radwege zunächst nur auf dem Papier. C nimmt „Mund“ wörtlich als Reden, ist aber nicht gemeint; B widerspricht dem Text, denn es wurde zu wenig gebaut."
+      "answer_index": 3,
+      "explanation_tr": "Deyim, görünen kısmın (rank) başarı için gereken çalışmanın sadece küçük bir bölümü olduğunu anlatıyor (D). A, 'zirvede az kişi var' şeklinde deyimin düz anlamına takılıyor; C ise metinde söylenmeyen bir sonuç."
     },
     {
       "type": "tutum",
-      "text_de": "Ein Autor schreibt über Smartphones in Schulen: Natürlich seien digitale Hilfsmittel praktisch, und niemand wolle die Technik verteufeln. Doch wenn Schüler in jeder Pause nur noch auf den Bildschirm starren, gehe etwas verloren, das sich nicht per App ersetzen lasse: das spontane Gespräch. Ein generelles Verbot hält er trotzdem für übertrieben, sinnvoller seien klare Regeln für feste Zeiten.",
-      "question_de": "Welche Haltung vertritt der Autor?",
+      "text_de": "Die Einführung der Vier-Tage-Woche wird oft als Allheilmittel gegen Stress gefeiert. Zwar berichten viele Beschäftigte tatsächlich von mehr Erholung, doch in manchen Betrieben werden die Aufgaben einfach auf vier Tage zusammengepresst. Das Ergebnis ist dann nicht weniger, sondern nur dichter gepackte Arbeit. Es wäre also voreilig, das Modell pauschal zu loben oder zu verwerfen; entscheidend ist, wie es umgesetzt wird.",
+      "question_de": "Welche Haltung nimmt der Text zur Vier-Tage-Woche ein?",
       "options": [
-        "Er lehnt Smartphones in Schulen grundsätzlich ab, räumt aber ein, dass sie praktisch sind.",
-        "Er sieht Nutzen und Risiken und befürwortet klare Regeln statt eines Verbots.",
-        "Er hält die Sorge um das Gespräch für übertrieben und fordert mehr digitale Technik.",
-        "Er ist unentschlossen und möchte die Entscheidung den Schülern überlassen."
+        "Er lehnt sie ab, weil sie die Arbeitsbelastung grundsätzlich erhöht.",
+        "Er bewertet sie differenziert und hält die Umsetzung für ausschlaggebend.",
+        "Er begrüßt sie uneingeschränkt, weil sich Beschäftigte dadurch besser erholen.",
+        "Er hält ein Urteil für unmöglich, weil bisher keine Daten vorliegen."
       ],
       "answer_index": 1,
-      "explanation_tr": "Der Autor erkennt den Nutzen an, warnt vor dem Verlust spontaner Gespräche und hält ein Verbot für übertrieben, will aber Regeln; das ist B. A ist am verlockendsten, aber ein generelles Verbot lehnt er ausdrücklich ab. C und D haben keinen Rückhalt im Text."
+      "explanation_tr": "Metin hem olumlu (daha fazla dinlenme) hem olumsuz (sıkışık iş) yönü gösterip sonuçta 'uygulama biçimi belirleyici' diyor; yani dengeli bir tutum (B). D çekici ama yanlış: metin veri eksikliğinden değil, uygulamanın farklılığından söz ediyor."
     }
   ],
   "items": [
     {
-      "id": "2026-11-09-wurm-gate-duesseldorf",
+      "id": "2026-11-10-zukunftspreis-grenzenlos",
       "category": "nrw",
-      "title_de": "Erwin Wurm schenkt Düsseldorf die Skulptur „Gate“",
-      "summary_de": "Düsseldorf hat ein neues Kunstwerk im öffentlichen Raum: Der österreichische Bildhauer Erwin Wurm hat der Stadt seine Skulptur „Gate“ geschenkt. Am Donnerstag wurde sie gemeinsam mit Oberbürgermeister Stephan Keller auf dem Gustaf-Gründgens-Platz enthüllt. Das Werk ist rund vier Meter hoch und besteht aus lackiertem Aluminium. Es gehört zur Serie „In the Skin“ und wurde nach einem menschlichen Körper abgegossen. Auffällig ist eine große Öffnung im Oberkörper, durch die die Figur wie ein Tor wirkt und zugleich zerbrechlich erscheint. Die verdrehten Glieder und die ungewohnten Proportionen verleihen ihr eine sperrige Präsenz. Keller lobte die Schenkung als Zeichen für Wurms Verbundenheit mit der Düsseldorfer Kunstszene. Bekannt wurde der Künstler in den Neunzigerjahren mit seinen „One Minute Sculptures“, in denen er oft Humor und Absurdität verbindet. Für 2027 ist im Kunstpalast eine große Ausstellung geplant.",
+      "title_de": "Düsseldorfer Zukunftspreis 2026 geht an grenzenlos e. V.",
+      "summary_de": "Der Verein grenzenlos e. V. hat den Düsseldorfer Zukunftspreis 2026 gewonnen. Oberbürgermeister Stephan Keller überreichte die Auszeichnung am Freitag im Bürgerhaus Bilk. Unter den insgesamt 60 Bewerbungen wählte eine Jury drei Finalisten aus, anschließend durfte die Stadtgesellschaft online abstimmen. Dabei kamen mehr als 800 Stimmen zusammen. Das Restaurant des Vereins in Unterbilk bietet Menschen mit wenig Geld günstige Mahlzeiten und einen Treffpunkt zum Austausch. Der erste Platz ist mit 4.000 Euro dotiert, die beiden anderen Finalprojekte erhalten 2.000 und 1.000 Euro. Das Motto lautete in diesem Jahr, die Folgen von Armut zu mindern und Teilhabe zu ermöglichen. Der Preis wurde erst 2025 eingeführt und ersetzt den früheren Umweltpreis der Stadt. Im kommenden Jahr steht das Thema Müllvermeidung im Mittelpunkt.",
       "source_name": "Landeshauptstadt Düsseldorf",
-      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/erwin-wurm-schenkt-duesseldorf-seine-monumentale-skulptur-gate",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/grenzenlos-e-v-gewinnt-den-duesseldorfer-zukunftspreis-2026",
       "glossary": [
         {
-          "form": "Bildhauer",
-          "lemma": "Bildhauer",
+          "form": "überreichte",
+          "lemma": "überreichen",
+          "article": null,
+          "tr": "takdim etti"
+        },
+        {
+          "form": "Auszeichnung",
+          "lemma": "Auszeichnung",
+          "article": "die",
+          "tr": "ödül"
+        },
+        {
+          "form": "Bewerbungen",
+          "lemma": "Bewerbung",
+          "article": "die",
+          "tr": "başvuru"
+        },
+        {
+          "form": "Jury",
+          "lemma": "Jury",
+          "article": "die",
+          "tr": "jüri"
+        },
+        {
+          "form": "Finalisten",
+          "lemma": "Finalist",
           "article": "der",
-          "tr": "Bildhauer"
+          "tr": "finalist"
         },
         {
-          "form": "Skulptur",
-          "lemma": "Skulptur",
+          "form": "Stadtgesellschaft",
+          "lemma": "Stadtgesellschaft",
           "article": "die",
-          "tr": "heykel"
+          "tr": "şehir toplumu"
         },
         {
-          "form": "Oberbürgermeister",
-          "lemma": "Oberbürgermeister",
+          "form": "abstimmen",
+          "lemma": "abstimmen",
+          "article": null,
+          "tr": "oy kullanmak"
+        },
+        {
+          "form": "Stimmen",
+          "lemma": "Stimme",
+          "article": "die",
+          "tr": "oy"
+        },
+        {
+          "form": "Mahlzeiten",
+          "lemma": "Mahlzeit",
+          "article": "die",
+          "tr": "öğün, yemek"
+        },
+        {
+          "form": "Treffpunkt",
+          "lemma": "Treffpunkt",
           "article": "der",
-          "tr": "belediye başkanı"
+          "tr": "buluşma noktası"
         },
         {
-          "form": "enthüllt",
-          "lemma": "enthüllen",
+          "form": "Austausch",
+          "lemma": "Austausch",
+          "article": "der",
+          "tr": "paylaşım, değiş tokuş"
+        },
+        {
+          "form": "dotiert",
+          "lemma": "dotieren",
           "article": null,
-          "tr": "açıldı, perdesi kaldırıldı"
+          "tr": "ödül parası olan"
         },
         {
-          "form": "lackiertem",
-          "lemma": "lackiert",
+          "form": "Folgen",
+          "lemma": "Folge",
+          "article": "die",
+          "tr": "sonuç, etki"
+        },
+        {
+          "form": "mindern",
+          "lemma": "mindern",
           "article": null,
-          "tr": "cilalı, boyalı"
+          "tr": "azaltmak"
         },
         {
-          "form": "abgegossen",
-          "lemma": "abgießen",
+          "form": "Teilhabe",
+          "lemma": "Teilhabe",
+          "article": "die",
+          "tr": "katılım imkânı"
+        },
+        {
+          "form": "eingeführt",
+          "lemma": "einführen",
           "article": null,
-          "tr": "kalıba dökülmek"
+          "tr": "başlatılmak, getirilmek"
         },
         {
-          "form": "Öffnung",
-          "lemma": "Öffnung",
-          "article": "die",
-          "tr": "açıklık, delik"
-        },
-        {
-          "form": "zerbrechlich",
-          "lemma": "zerbrechlich",
+          "form": "ersetzt",
+          "lemma": "ersetzen",
           "article": null,
-          "tr": "kırılgan"
+          "tr": "yerini almak"
         },
         {
-          "form": "verdrehten",
-          "lemma": "verdreht",
-          "article": null,
-          "tr": "bükülmüş"
-        },
-        {
-          "form": "Glieder",
-          "lemma": "Glied",
-          "article": "das",
-          "tr": "uzuvlar"
-        },
-        {
-          "form": "Proportionen",
-          "lemma": "Proportion",
+          "form": "Müllvermeidung",
+          "lemma": "Müllvermeidung",
           "article": "die",
-          "tr": "oranlar"
-        },
-        {
-          "form": "sperrige",
-          "lemma": "sperrig",
-          "article": null,
-          "tr": "hantal, iri"
-        },
-        {
-          "form": "Präsenz",
-          "lemma": "Präsenz",
-          "article": "die",
-          "tr": "varlık, etki"
-        },
-        {
-          "form": "Schenkung",
-          "lemma": "Schenkung",
-          "article": "die",
-          "tr": "bağış, hediye"
-        },
-        {
-          "form": "Verbundenheit",
-          "lemma": "Verbundenheit",
-          "article": "die",
-          "tr": "bağlılık"
-        },
-        {
-          "form": "Absurdität",
-          "lemma": "Absurdität",
-          "article": "die",
-          "tr": "saçmalık, absürdlük"
+          "tr": "atık önleme"
         }
       ],
       "vocabulary": [
         {
-          "de": "Skulptur",
-          "article": "die",
-          "tr": "heykel",
-          "example_de": "Vor dem Museum steht eine riesige Skulptur aus Metall."
-        },
-        {
-          "de": "öffentlicher Raum",
-          "article": "der",
-          "tr": "kamusal alan",
-          "example_de": "Kunst im öffentlichen Raum ist für alle kostenlos."
-        },
-        {
-          "de": "etwas schenken",
+          "de": "einen Preis gewinnen",
           "article": null,
-          "tr": "bir şey hediye etmek",
-          "example_de": "Sie schenkt der Stadt ein Gemälde."
+          "tr": "ödül kazanmak",
+          "example_de": "Unser Team hat beim Hackathon einen Preis gewonnen."
         },
         {
-          "de": "Zeichen setzen",
+          "de": "sich für etwas engagieren",
           "article": null,
-          "tr": "işaret vermek, mesaj vermek",
-          "example_de": "Mit der Aktion wollen wir ein Zeichen setzen."
+          "tr": "bir konuda gönüllü çalışmak",
+          "example_de": "Sie engagiert sich ehrenamtlich für Geflüchtete."
         },
         {
-          "de": "Verbundenheit",
+          "de": "Teilhabe",
           "article": "die",
-          "tr": "bağlılık",
-          "example_de": "Seine Verbundenheit mit der Heimat ist groß."
+          "tr": "katılım imkânı",
+          "example_de": "Kostenlose Angebote fördern die Teilhabe aller."
+        },
+        {
+          "de": "an einer Abstimmung teilnehmen",
+          "article": null,
+          "tr": "oylamaya katılmak",
+          "example_de": "Viele Studierende nahmen an der Abstimmung teil."
+        },
+        {
+          "de": "Bewerbung",
+          "article": "die",
+          "tr": "başvuru",
+          "example_de": "Meine Bewerbung für das Praktikum habe ich gestern abgeschickt."
         }
       ],
       "exercises": [
         {
-          "question_de": "Woraus besteht die Skulptur „Gate“?",
+          "question_de": "Wer entscheidet nach der Vorauswahl der Jury über den Gewinner?",
           "options": [
-            "Aus Holz",
-            "Aus lackiertem Aluminium",
-            "Aus Bronze"
+            "Der Oberbürgermeister allein",
+            "Die Düsseldorferinnen und Düsseldorfer per Online-Abstimmung",
+            "Die Geschäftsstelle Nachhaltigkeit",
+            "Der Stadtrat"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „enthüllt“ im Text?",
+          "question_de": "Was bedeutet „dotiert“ im Satz „Der erste Platz ist mit 4.000 Euro dotiert“?",
           "options": [
-            "zum ersten Mal öffentlich gezeigt",
-            "abgerissen",
-            "verkauft"
+            "Er ist mit einem Preisgeld verbunden",
+            "Er wurde verschoben",
+            "Er ist kostenlos",
+            "Er wurde abgesagt"
           ],
           "answer_index": 0
         }
       ]
     },
     {
-      "id": "2026-11-09-unicef-herzen-duesseldorf",
+      "id": "2026-11-10-jujitsu-union-rathaus",
       "category": "nrw",
-      "title_de": "„Ein Herz für UNICEF“: Campino und Dieter Nuhr gestalten Holzherzen",
-      "summary_de": "Im Düsseldorfer Rathaus ist die Aktion „Ein Herz für UNICEF“ neu gestartet. Anlass ist das 80-jährige Bestehen des Kinderhilfswerks. Campino, Dieter Nuhr und die Künstlerin Theresa Kallrath haben jeweils ein Holzherz gestaltet. Die Herzen wurden bei einem Empfang im Jan-Wellem-Saal übergeben. Theresa Kallrath und der Galerist Dirk Geuer reichten sie an Heribert Klein weiter, der die Aktion ins Leben gerufen hat. Auch Oberbürgermeister Stephan Keller war dabei. Die Kunstwerke sollen später versteigert werden, der Erlös ist für Kinder in Not bestimmt. Insgesamt gestalten Kreative in 80 deutschen Städten solche Holzherzen.",
+      "title_de": "Europäische Jujitsu Union wählt neuen Präsidenten in Düsseldorf",
+      "summary_de": "In Düsseldorf haben sich Vertreter europäischer Jujitsu-Verbände zum ersten Mal zu ihrer Delegiertenversammlung getroffen. Die Sitzung fand im Rathaus statt und wurde von Generalsekretär Franz Knafl geleitet. Im Mittelpunkt stand die Wahl eines neuen Präsidenten der Europäischen Jujitsu Union. Gewählt wurde Kalla Bergers, 9. Dan und Leitung des Sakura Dojo in Düsseldorf. Gastgeber war der Sakura Dojo, der Sportverein der städtischen Beschäftigten. Er richtete außerdem den 19. Internationalen Jujitsu-Lehrgang aus. Am Wochenende trainierten rund 130 Sportlerinnen und Sportler aus elf Nationen in einer Turnhalle in Vennhausen. Stadtdirektor Burkhard Hintzsche und Yoshitaka Tsunoda, Generalkonsul Japans, lobten in ihren Reden den internationalen Austausch und die Werte der Kampfkunst.",
       "source_name": "Landeshauptstadt Düsseldorf",
-      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/duesseldorfer-kuenstler-unterstuetzen-ein-herz-fuer-unicef",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/europaeische-jujitsu-union-waehlt-neuen-praesidenten-im-rathaus",
       "glossary": [
         {
-          "form": "Anlass",
-          "lemma": "Anlass",
+          "form": "Vertreter",
+          "lemma": "Vertreter",
           "article": "der",
-          "tr": "vesile, sebep"
+          "tr": "temsilci"
         },
         {
-          "form": "Bestehen",
-          "lemma": "Bestehen",
-          "article": "das",
-          "tr": "varlık süresi, kuruluş yıldönümü"
-        },
-        {
-          "form": "Kinderhilfswerks",
-          "lemma": "Kinderhilfswerk",
-          "article": "das",
-          "tr": "çocuk yardım kuruluşu"
-        },
-        {
-          "form": "gestaltet",
-          "lemma": "gestalten",
-          "article": null,
-          "tr": "tasarlamak, biçimlendirmek"
-        },
-        {
-          "form": "Empfang",
-          "lemma": "Empfang",
+          "form": "Verbände",
+          "lemma": "Verband",
           "article": "der",
-          "tr": "resepsiyon"
+          "tr": "federasyon, birlik"
         },
         {
-          "form": "übergeben",
-          "lemma": "übergeben",
+          "form": "Delegiertenversammlung",
+          "lemma": "Delegiertenversammlung",
+          "article": "die",
+          "tr": "delegeler toplantısı"
+        },
+        {
+          "form": "geleitet",
+          "lemma": "leiten",
           "article": null,
-          "tr": "teslim etmek"
+          "tr": "yönetmek"
         },
         {
-          "form": "Galerist",
-          "lemma": "Galerist",
+          "form": "Generalsekretär",
+          "lemma": "Generalsekretär",
           "article": "der",
-          "tr": "galeri sahibi"
+          "tr": "genel sekreter"
         },
         {
-          "form": "ins Leben gerufen",
-          "lemma": "ins Leben rufen",
+          "form": "Wahl",
+          "lemma": "Wahl",
+          "article": "die",
+          "tr": "seçim"
+        },
+        {
+          "form": "Gewählt",
+          "lemma": "wählen",
           "article": null,
-          "tr": "hayata geçirmek"
+          "tr": "seçmek"
         },
         {
-          "form": "versteigert",
-          "lemma": "versteigern",
-          "article": null,
-          "tr": "açık artırmayla satmak"
+          "form": "Leitung",
+          "lemma": "Leitung",
+          "article": "die",
+          "tr": "yönetim"
         },
         {
-          "form": "Erlös",
-          "lemma": "Erlös",
+          "form": "Gastgeber",
+          "lemma": "Gastgeber",
           "article": "der",
-          "tr": "gelir"
+          "tr": "ev sahibi"
         },
         {
-          "form": "bestimmt",
-          "lemma": "bestimmen",
-          "article": null,
-          "tr": "amaçlanmak, ayrılmak"
-        },
-        {
-          "form": "Kreative",
-          "lemma": "Kreative",
+          "form": "Beschäftigten",
+          "lemma": "Beschäftigte",
           "article": "der",
-          "tr": "yaratıcı insanlar"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "Aktion",
-          "article": "die",
-          "tr": "kampanya",
-          "example_de": "Die Aktion läuft bis Ende des Monats."
+          "tr": "çalışanlar"
         },
         {
-          "de": "etwas versteigern",
+          "form": "richtete",
+          "lemma": "ausrichten",
           "article": null,
-          "tr": "açık artırmayla satmak",
-          "example_de": "Das Bild wird morgen versteigert."
+          "tr": "düzenlemek"
         },
         {
-          "de": "Erlös",
+          "form": "Lehrgang",
+          "lemma": "Lehrgang",
           "article": "der",
-          "tr": "gelir",
-          "example_de": "Der Erlös geht an eine Schule."
+          "tr": "eğitim kampı"
         },
         {
-          "de": "Kinder in Not",
-          "article": null,
-          "tr": "zor durumdaki çocuklar",
-          "example_de": "Die Spenden helfen Kindern in Not."
-        },
-        {
-          "de": "ins Leben rufen",
-          "article": null,
-          "tr": "hayata geçirmek",
-          "example_de": "Sie haben einen Verein ins Leben gerufen."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wofür wird der Erlös der Versteigerung verwendet?",
-          "options": [
-            "Für den Umbau des Rathauses",
-            "Für Kinder in Not",
-            "Für Künstler in Düsseldorf"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Wie viele Städte machen bei der Aktion mit?",
-          "options": [
-            "8",
-            "80",
-            "800"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-napoleon-brief-ki",
-      "category": "de",
-      "title_de": "KI entschlüsselt geheimen Brief von Napoleon",
-      "summary_de": "Mehr als 200 Jahre lang blieb ein verschlüsselter Brief Napoleons ungelesen. Er stammt vom März 1809 und war über Napoleons Stiefsohn Eugène an General Auguste de Marmont in Dalmatien geschickt worden. Weil ein Krieg gegen die Habsburger bevorstand, sollte der Inhalt nicht in feindliche Hände geraten. Der Schlüssel ging verloren, daher blieb der Text 217 Jahre lang ein Rätsel. Nun hat der KI-Ingenieur Carter Church das Schriftstück laut t3n mit einem OpenAI-Modell entschlüsselt. Das Modell lief rund sechs Stunden und probierte systematisch Lösungen aus, die es mit der Häufigkeit französischer Buchstaben verglich. Der Brief enthält etwa 1.300 Zeichen aus 155 verschiedenen Symbolen, manche stehen für ganze Wörter. Dem Ergebnis zufolge nennt er Positionen von Truppen, darunter 40.000 bayerische Soldaten. Der Artikel berichtet das ungeprüft, und in den Kommentaren äußern Leser Zweifel.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/napoleon-brief-ki-entschluesselt-geheimcode-astra-1766406/",
-      "glossary": [
-        {
-          "form": "verschlüsselter",
-          "lemma": "verschlüsselt",
-          "article": null,
-          "tr": "şifreli"
-        },
-        {
-          "form": "Stiefsohn",
-          "lemma": "Stiefsohn",
-          "article": "der",
-          "tr": "üvey oğul"
-        },
-        {
-          "form": "bevorstand",
-          "lemma": "bevorstehen",
-          "article": null,
-          "tr": "yaklaşmak, eşiğinde olmak"
-        },
-        {
-          "form": "feindliche",
-          "lemma": "feindlich",
-          "article": null,
-          "tr": "düşman"
-        },
-        {
-          "form": "Schlüssel",
-          "lemma": "Schlüssel",
-          "article": "der",
-          "tr": "anahtar, şifre anahtarı"
-        },
-        {
-          "form": "Rätsel",
-          "lemma": "Rätsel",
-          "article": "das",
-          "tr": "bilmece, gizem"
-        },
-        {
-          "form": "Schriftstück",
-          "lemma": "Schriftstück",
-          "article": "das",
-          "tr": "yazılı belge"
-        },
-        {
-          "form": "entschlüsselt",
-          "lemma": "entschlüsseln",
-          "article": null,
-          "tr": "şifresini çözmek"
-        },
-        {
-          "form": "systematisch",
-          "lemma": "systematisch",
-          "article": null,
-          "tr": "sistematik"
-        },
-        {
-          "form": "Häufigkeit",
-          "lemma": "Häufigkeit",
+          "form": "Sportlerinnen",
+          "lemma": "Sportlerin",
           "article": "die",
-          "tr": "sıklık"
+          "tr": "kadın sporcu"
         },
         {
-          "form": "Symbolen",
-          "lemma": "Symbol",
-          "article": "das",
-          "tr": "sembol"
-        },
-        {
-          "form": "Truppen",
-          "lemma": "Truppe",
+          "form": "Turnhalle",
+          "lemma": "Turnhalle",
           "article": "die",
-          "tr": "birlikler"
+          "tr": "spor salonu"
         },
         {
-          "form": "ungeprüft",
-          "lemma": "ungeprüft",
-          "article": null,
-          "tr": "doğrulanmamış"
-        },
-        {
-          "form": "Zweifel",
-          "lemma": "Zweifel",
-          "article": "der",
-          "tr": "şüphe"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "verschlüsselt",
-          "article": null,
-          "tr": "şifreli",
-          "example_de": "Die Nachricht war verschlüsselt."
-        },
-        {
-          "de": "einen Code knacken",
-          "article": null,
-          "tr": "bir şifreyi kırmak",
-          "example_de": "Er hat den Code in wenigen Stunden geknackt."
-        },
-        {
-          "de": "Rätsel",
-          "article": "das",
-          "tr": "bilmece, gizem",
-          "example_de": "Das Rätsel bleibt bis heute ungelöst."
-        },
-        {
-          "de": "Zweifel äußern",
-          "article": null,
-          "tr": "şüphe dile getirmek",
-          "example_de": "Viele äußern Zweifel an der Studie."
-        },
-        {
-          "de": "in feindliche Hände geraten",
-          "article": null,
-          "tr": "düşman eline geçmek",
-          "example_de": "Die Pläne durften nicht in feindliche Hände geraten."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wie lange blieb der Brief ungelesen?",
-          "options": [
-            "17 Jahre",
-            "217 Jahre",
-            "1809 Tage"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Warum wurde der Brief verschlüsselt?",
-          "options": [
-            "Weil er nicht in feindliche Hände geraten sollte",
-            "Weil Napoleon Geheimschrift mochte",
-            "Weil das Papier knapp war"
-          ],
-          "answer_index": 0
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-ki-agenten-minecraft",
-      "category": "de",
-      "title_de": "KI-Agenten bauen in Minecraft eine Zivilisation – und scheitern an der Bürokratie",
-      "summary_de": "In einem Experiment sollten 50 KI-Agenten in Minecraft drei Stunden lang eine blühende Zivilisation aufbauen. Durchgeführt haben es Y Combinator und Olam Labs, die Agenten basierten auf einem Modell von OpenAI. Das Vorhaben scheiterte: Die Agenten gaben viele ehrgeizige Ziele auf, drängten sich in überfüllten Unterkünften und rationierten das knappe Essen. Stattdessen entstand eine Verwaltung mit schriftlichen Regeln und Genehmigungen. Eine Gruppe soll elf Minuten gebraucht haben, um einen Verantwortlichen für Dünger zu bestimmen. In einem Vergleich traten außerdem zehn OpenAI-Agenten gegen zehn Claude-Agenten an. Die einen griffen aggressiver an, die anderen verteidigten sich eher. Bei einem Werkzeugfehler fanden die GPT-Agenten Umgehungslösungen, während einige Claude-Agenten das Problem für unlösbar hielten. Der Artikel beschreibt die Studie als begrenzt.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/ki-agenten-minecraft-experiment-buerokratie-1771070/",
-      "glossary": [
-        {
-          "form": "Zivilisation",
-          "lemma": "Zivilisation",
+          "form": "Reden",
+          "lemma": "Rede",
           "article": "die",
-          "tr": "medeniyet"
+          "tr": "konuşma"
         },
         {
-          "form": "blühende",
-          "lemma": "blühend",
-          "article": null,
-          "tr": "gelişen, parlayan"
-        },
-        {
-          "form": "scheiterte",
-          "lemma": "scheitern",
-          "article": null,
-          "tr": "başarısız olmak"
-        },
-        {
-          "form": "ehrgeizige",
-          "lemma": "ehrgeizig",
-          "article": null,
-          "tr": "hırslı"
-        },
-        {
-          "form": "überfüllten",
-          "lemma": "überfüllt",
-          "article": null,
-          "tr": "aşırı kalabalık"
-        },
-        {
-          "form": "Unterkünften",
-          "lemma": "Unterkunft",
-          "article": "die",
-          "tr": "barınak"
-        },
-        {
-          "form": "rationierten",
-          "lemma": "rationieren",
-          "article": null,
-          "tr": "karneye bağlamak"
-        },
-        {
-          "form": "knappe",
-          "lemma": "knapp",
-          "article": null,
-          "tr": "kıt"
-        },
-        {
-          "form": "Verwaltung",
-          "lemma": "Verwaltung",
-          "article": "die",
-          "tr": "yönetim, idare"
-        },
-        {
-          "form": "Genehmigungen",
-          "lemma": "Genehmigung",
-          "article": "die",
-          "tr": "izinler"
-        },
-        {
-          "form": "Dünger",
-          "lemma": "Dünger",
-          "article": "der",
-          "tr": "gübre"
-        },
-        {
-          "form": "Umgehungslösungen",
-          "lemma": "Umgehungslösung",
-          "article": "die",
-          "tr": "geçici/dolambaçlı çözümler"
-        },
-        {
-          "form": "unlösbar",
-          "lemma": "unlösbar",
-          "article": null,
-          "tr": "çözülemez"
-        },
-        {
-          "form": "begrenzt",
-          "lemma": "begrenzt",
-          "article": null,
-          "tr": "sınırlı"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "Experiment",
-          "article": "das",
-          "tr": "deney",
-          "example_de": "Das Experiment dauert nur eine Stunde."
-        },
-        {
-          "de": "an etwas scheitern",
-          "article": null,
-          "tr": "bir şeyde başarısız olmak",
-          "example_de": "Das Projekt scheitert an der Bürokratie."
-        },
-        {
-          "de": "ein Ziel aufgeben",
-          "article": null,
-          "tr": "bir hedeften vazgeçmek",
-          "example_de": "Er gibt sein Ziel nicht auf."
-        },
-        {
-          "de": "Genehmigung",
-          "article": "die",
-          "tr": "izin",
-          "example_de": "Für den Umbau brauchen wir eine Genehmigung."
-        },
-        {
-          "de": "einen Vergleich anstellen",
-          "article": null,
-          "tr": "karşılaştırma yapmak",
-          "example_de": "Wir stellen einen Vergleich zwischen beiden Modellen an."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Woran scheiterten die Agenten laut Text?",
-          "options": [
-            "An fehlenden Ressourcen im Spiel allein",
-            "Unter anderem an überfüllten Unterkünften und knappem Essen",
-            "An einem Stromausfall"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „unlösbar“?",
-          "options": [
-            "nicht zu lösen",
-            "sehr einfach",
-            "bereits gelöst"
-          ],
-          "answer_index": 0
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-tu-dresden-recycling-reaktor",
-      "category": "de",
-      "title_de": "TU Dresden plant Forschungsreaktor für Atommüll",
-      "summary_de": "Die TU Dresden will einen Reaktor entwickeln, der abgebrannte Brennelemente zur Stromerzeugung nutzt. Nach Ansicht der Hochschule könnte dadurch ein Endlager überflüssig werden. Grundlage ist eine Machbarkeitsstudie, die der Freistaat Sachsen finanziert hat. Geplant ist ein Salzschmelzreaktor, bei dem der Brennstoff als geschmolzenes Salz vorliegt. Eine gesonderte Wiederaufarbeitung wäre nicht nötig. Neben Strom sollen auch Spaltprodukte entstehen, die sich medizinisch und technisch nutzen lassen. Entwicklung und Bau würden mindestens fünf Jahre dauern, danach soll die Anlage 20 Jahre laufen. Die Leistung läge bei höchstens 50 Megawatt thermisch, die Kosten schätzt die Uni auf etwa 1,95 Milliarden Euro. Für einen kommerziellen Betrieb müsste das Atomgesetz geändert werden, möglicherweise ab 2045.",
-      "source_name": "heise online",
-      "source_url": "https://www.heise.de/news/Strom-aus-Atommuell-TU-Dresden-plant-Forschungsreaktor-11516673.html",
-      "glossary": [
-        {
-          "form": "abgebrannte",
-          "lemma": "abgebrannt",
-          "article": null,
-          "tr": "kullanılmış (yakıt)"
-        },
-        {
-          "form": "Brennelemente",
-          "lemma": "Brennelement",
-          "article": "das",
-          "tr": "yakıt çubukları"
-        },
-        {
-          "form": "Stromerzeugung",
-          "lemma": "Stromerzeugung",
-          "article": "die",
-          "tr": "elektrik üretimi"
-        },
-        {
-          "form": "Endlager",
-          "lemma": "Endlager",
-          "article": "das",
-          "tr": "nihai depolama alanı"
-        },
-        {
-          "form": "überflüssig",
-          "lemma": "überflüssig",
-          "article": null,
-          "tr": "gereksiz"
-        },
-        {
-          "form": "Machbarkeitsstudie",
-          "lemma": "Machbarkeitsstudie",
-          "article": "die",
-          "tr": "fizibilite çalışması"
-        },
-        {
-          "form": "finanziert",
-          "lemma": "finanzieren",
-          "article": null,
-          "tr": "finanse etmek"
-        },
-        {
-          "form": "Salzschmelzreaktor",
-          "lemma": "Salzschmelzreaktor",
-          "article": "der",
-          "tr": "erimiş tuz reaktörü"
-        },
-        {
-          "form": "geschmolzenes",
-          "lemma": "geschmolzen",
-          "article": null,
-          "tr": "erimiş"
-        },
-        {
-          "form": "Wiederaufarbeitung",
-          "lemma": "Wiederaufarbeitung",
-          "article": "die",
-          "tr": "yeniden işleme"
-        },
-        {
-          "form": "Spaltprodukte",
-          "lemma": "Spaltprodukt",
-          "article": "das",
-          "tr": "fisyon ürünleri"
-        },
-        {
-          "form": "Leistung",
-          "lemma": "Leistung",
-          "article": "die",
-          "tr": "güç, performans"
-        },
-        {
-          "form": "kommerziellen",
-          "lemma": "kommerziell",
-          "article": null,
-          "tr": "ticari"
-        },
-        {
-          "form": "Atomgesetz",
-          "lemma": "Atomgesetz",
-          "article": "das",
-          "tr": "atom yasası"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "Strom erzeugen",
-          "article": null,
-          "tr": "elektrik üretmek",
-          "example_de": "Windräder erzeugen sauberen Strom."
-        },
-        {
-          "de": "Forschungsreaktor",
-          "article": "der",
-          "tr": "araştırma reaktörü",
-          "example_de": "Der Forschungsreaktor steht auf dem Campus."
-        },
-        {
-          "de": "eine Studie finanzieren",
-          "article": null,
-          "tr": "bir çalışmayı finanse etmek",
-          "example_de": "Das Land finanziert die Studie."
-        },
-        {
-          "de": "überflüssig werden",
-          "article": null,
-          "tr": "gereksiz hale gelmek",
-          "example_de": "Mit der App wird der Papierausweis überflüssig."
-        },
-        {
-          "de": "Kosten schätzen",
-          "article": null,
-          "tr": "maliyeti tahmin etmek",
-          "example_de": "Die Firma schätzt die Kosten auf eine Million."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Welchen Reaktortyp plant die TU Dresden?",
-          "options": [
-            "Einen Salzschmelzreaktor",
-            "Einen Windreaktor",
-            "Einen Fusionsreaktor"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Wie lange soll die Anlage nach dem Bau laufen?",
-          "options": [
-            "5 Jahre",
-            "20 Jahre",
-            "45 Jahre"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-apple-tastatur-wortliste",
-      "category": "tech",
-      "title_de": "Apple filtert bei der iPhone-Tastatur über 100.000 Wörter",
-      "summary_de": "Apple schränkt bei der iPhone-Tastatur offenbar die Vorschläge für mehr als 100.000 Wörter und Wendungen ein. Entdeckt hat das der KI-Forscher Derik Kauffman, dem aufgefallen war, dass manche Wörter nie automatisch ergänzt werden. Betroffen sind sowohl die Texteingabe als auch Wischgesten. Auf der Liste stehen vor allem Beleidigungen, Begriffe rund um Drogen oder Sexualität und politisch aufgeladene Formulierungen. Verboten sind die Wörter nicht: Man kann sie weiterhin eintippen, bekommt aber keine Korrektur oder Ergänzung. Viele deutsche Einträge wirken fehlerhaft, unter anderem fehlen Umlaute. Apple bestätigte die Liste auf Anfrage nicht und erklärte, Vorschläge ließen sich jederzeit überschreiben. Kauffman spricht von einer milden Form der Zensur. Die Bürgerrechtsorganisation EFF fordert, Apple solle die Liste öffentlich und bearbeitbar machen.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/apple-textvorschlaege-iphone-1772247/",
-      "glossary": [
-        {
-          "form": "schränkt",
-          "lemma": "einschränken",
-          "article": null,
-          "tr": "kısıtlamak"
-        },
-        {
-          "form": "Wendungen",
-          "lemma": "Wendung",
-          "article": "die",
-          "tr": "deyimler, ifadeler"
-        },
-        {
-          "form": "Entdeckt",
-          "lemma": "entdecken",
-          "article": null,
-          "tr": "keşfetmek"
-        },
-        {
-          "form": "ergänzt",
-          "lemma": "ergänzen",
-          "article": null,
-          "tr": "tamamlamak"
-        },
-        {
-          "form": "Wischgesten",
-          "lemma": "Wischgeste",
-          "article": "die",
-          "tr": "kaydırma hareketleri"
-        },
-        {
-          "form": "Beleidigungen",
-          "lemma": "Beleidigung",
-          "article": "die",
-          "tr": "hakaretler"
-        },
-        {
-          "form": "aufgeladene",
-          "lemma": "aufgeladen",
-          "article": null,
-          "tr": "yüklü, gergin"
-        },
-        {
-          "form": "Formulierungen",
-          "lemma": "Formulierung",
-          "article": "die",
-          "tr": "ifadeler"
-        },
-        {
-          "form": "Korrektur",
-          "lemma": "Korrektur",
-          "article": "die",
-          "tr": "düzeltme"
-        },
-        {
-          "form": "fehlerhaft",
-          "lemma": "fehlerhaft",
-          "article": null,
-          "tr": "hatalı"
-        },
-        {
-          "form": "Umlaute",
-          "lemma": "Umlaut",
-          "article": "der",
-          "tr": "Almanca ünlü noktaları (ä, ö, ü)"
-        },
-        {
-          "form": "bestätigte",
-          "lemma": "bestätigen",
-          "article": null,
-          "tr": "doğrulamak"
-        },
-        {
-          "form": "überschreiben",
-          "lemma": "überschreiben",
-          "article": null,
-          "tr": "geçersiz kılmak, üzerine yazmak"
-        },
-        {
-          "form": "Zensur",
-          "lemma": "Zensur",
-          "article": "die",
-          "tr": "sansür"
-        },
-        {
-          "form": "Bürgerrechtsorganisation",
-          "lemma": "Bürgerrechtsorganisation",
-          "article": "die",
-          "tr": "sivil haklar örgütü"
-        },
-        {
-          "form": "bearbeitbar",
-          "lemma": "bearbeitbar",
-          "article": null,
-          "tr": "düzenlenebilir"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "Vorschlag",
-          "article": "der",
-          "tr": "öneri",
-          "example_de": "Die Tastatur macht dir Vorschläge."
-        },
-        {
-          "de": "etwas einschränken",
-          "article": null,
-          "tr": "bir şeyi kısıtlamak",
-          "example_de": "Die Firma schränkt den Zugriff ein."
-        },
-        {
-          "de": "auf Anfrage",
-          "article": null,
-          "tr": "talep üzerine",
-          "example_de": "Die Liste ist nur auf Anfrage erhältlich."
-        },
-        {
-          "de": "Zensur",
-          "article": "die",
-          "tr": "sansür",
-          "example_de": "Viele sprechen von Zensur im Netz."
-        },
-        {
-          "de": "eine Liste veröffentlichen",
-          "article": null,
-          "tr": "bir liste yayımlamak",
-          "example_de": "Die Stadt veröffentlicht die Liste online."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Was passiert mit den betroffenen Wörtern?",
-          "options": [
-            "Sie lassen sich nicht mehr eintippen",
-            "Sie werden nicht automatisch vorgeschlagen oder ergänzt",
-            "Sie werden automatisch gelöscht"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Wer hat die Liste entdeckt?",
-          "options": [
-            "Derik Kauffman",
-            "Apple selbst",
-            "Die EFF"
-          ],
-          "answer_index": 0
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-lucid-air-grand-touring-test",
-      "category": "tech",
-      "title_de": "Lucid Air Grand Touring im Test: Langstreckenkönig mit 611 kW",
-      "summary_de": "Das Portal electrive hat den Lucid Air Grand Touring zwei Wochen lang im Alltag getestet und kommt zu einem überwiegend positiven Urteil. Die Limousine leistet 611 kW (831 PS), beschleunigt in 3,2 Sekunden auf 100 km/h und schafft nach WLTP bis zu 960 Kilometer. Gelobt werden das ruhige Fahrwerk, die leise Kabine und die übersichtliche Software. Im Alltag lag der Verbrauch je nach Strecke zwischen 14 und 25 kWh pro 100 Kilometer. Geladen wird mit bis zu 300 kW, in der Spitze maß der Tester sogar 305 kW. Kritik gibt es für das fehlende Head-up-Display, den knappen Platz für Smartphone-Projektionen und die geringe Agilität. Zudem ist keine Anhängerkupplung erhältlich. Mit 130.900 Euro Grundpreis liegt das Auto auf dem Niveau von Mercedes EQS und BMW i7, der Volvo ES90 ist deutlich günstiger. Ein Risiko sieht der Autor in der Umstrukturierung des Herstellers und im dünnen Servicenetz.",
-      "source_name": "electrive.net",
-      "source_url": "https://www.electrive.net/2026/11/08/lucid-air-grand-touring-im-test-langstreckenkoenig-mit-611-kw-831-ps/",
-      "glossary": [
-        {
-          "form": "überwiegend",
-          "lemma": "überwiegend",
-          "article": null,
-          "tr": "çoğunlukla"
-        },
-        {
-          "form": "Urteil",
-          "lemma": "Urteil",
-          "article": "das",
-          "tr": "yargı, değerlendirme"
-        },
-        {
-          "form": "Limousine",
-          "lemma": "Limousine",
-          "article": "die",
-          "tr": "sedan, limuzin"
-        },
-        {
-          "form": "beschleunigt",
-          "lemma": "beschleunigen",
-          "article": null,
-          "tr": "hızlanmak"
-        },
-        {
-          "form": "Gelobt",
+          "form": "lobten",
           "lemma": "loben",
           "article": null,
           "tr": "övmek"
         },
         {
-          "form": "Fahrwerk",
-          "lemma": "Fahrwerk",
-          "article": "das",
-          "tr": "süspansiyon/şasi"
-        },
-        {
-          "form": "Kabine",
-          "lemma": "Kabine",
-          "article": "die",
-          "tr": "kabin"
-        },
-        {
-          "form": "übersichtliche",
-          "lemma": "übersichtlich",
-          "article": null,
-          "tr": "anlaşılır, düzenli"
-        },
-        {
-          "form": "Verbrauch",
-          "lemma": "Verbrauch",
+          "form": "Werte",
+          "lemma": "Wert",
           "article": "der",
-          "tr": "tüketim"
+          "tr": "değer"
         },
         {
-          "form": "Kritik",
-          "lemma": "Kritik",
+          "form": "Kampfkunst",
+          "lemma": "Kampfkunst",
           "article": "die",
-          "tr": "eleştiri"
-        },
-        {
-          "form": "Agilität",
-          "lemma": "Agilität",
-          "article": "die",
-          "tr": "çeviklik"
-        },
-        {
-          "form": "Anhängerkupplung",
-          "lemma": "Anhängerkupplung",
-          "article": "die",
-          "tr": "çeki demiri"
-        },
-        {
-          "form": "Grundpreis",
-          "lemma": "Grundpreis",
-          "article": "der",
-          "tr": "baz fiyat"
-        },
-        {
-          "form": "Niveau",
-          "lemma": "Niveau",
-          "article": "das",
-          "tr": "seviye"
-        },
-        {
-          "form": "Umstrukturierung",
-          "lemma": "Umstrukturierung",
-          "article": "die",
-          "tr": "yeniden yapılanma"
-        },
-        {
-          "form": "Servicenetz",
-          "lemma": "Servicenetz",
-          "article": "das",
-          "tr": "servis ağı"
+          "tr": "dövüş sanatı"
         }
       ],
       "vocabulary": [
         {
-          "de": "Reichweite",
-          "article": "die",
-          "tr": "menzil",
-          "example_de": "Die Reichweite reicht locker bis München."
-        },
-        {
-          "de": "im Alltag testen",
+          "de": "eine Sitzung leiten",
           "article": null,
-          "tr": "günlük hayatta test etmek",
-          "example_de": "Wir haben das Auto im Alltag getestet."
+          "tr": "toplantıyı yönetmek",
+          "example_de": "Unsere Dozentin leitet die Sitzung des Fachschaftsrats."
         },
         {
-          "de": "ein positives Urteil fällen",
+          "de": "zum ersten Mal",
           "article": null,
-          "tr": "olumlu bir değerlendirme yapmak",
-          "example_de": "Die Tester fällen ein positives Urteil."
+          "tr": "ilk kez",
+          "example_de": "Ich war zum ersten Mal in der Düsseldorfer Altstadt."
         },
         {
-          "de": "Verbrauch",
+          "de": "im Mittelpunkt stehen",
+          "article": null,
+          "tr": "odak noktasında olmak",
+          "example_de": "Beim Turnier stand der faire Wettkampf im Mittelpunkt."
+        },
+        {
+          "de": "Gastgeber",
           "article": "der",
-          "tr": "tüketim",
-          "example_de": "Der Verbrauch liegt bei 18 kWh."
+          "tr": "ev sahibi",
+          "example_de": "Der Gastgeber begrüßte alle persönlich."
         },
         {
-          "de": "auf dem Niveau von etwas liegen",
+          "de": "einen Lehrgang ausrichten",
           "article": null,
-          "tr": "bir şeyle aynı seviyede olmak",
-          "example_de": "Der Preis liegt auf dem Niveau eines Kleinwagens."
+          "tr": "eğitim kampı düzenlemek",
+          "example_de": "Der Verein richtet jedes Jahr einen Lehrgang aus."
         }
       ],
       "exercises": [
         {
-          "question_de": "Welche Schwäche nennt der Test?",
+          "question_de": "Wo fand die Sitzung der Länderdelegierten statt?",
           "options": [
-            "Eine zu geringe Reichweite",
-            "Ein fehlendes Head-up-Display",
-            "Eine zu laute Kabine"
+            "In einer Turnhalle",
+            "Im Rathaus",
+            "Im Bürgerhaus Bilk",
+            "Im Konsulat"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „Grundpreis“?",
+          "question_de": "Was bedeutet „ausrichten“ im Satz „Er richtete den Lehrgang aus“?",
           "options": [
-            "Preis ohne Extras",
-            "Preis nach Rabatt",
-            "Preis mit allen Extras"
+            "Er besuchte ihn",
+            "Er organisierte ihn",
+            "Er bezahlte ihn",
+            "Er verbot ihn"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-doom-satellit-sprachbefehl",
+      "category": "de",
+      "title_de": "Satellit spielt Doom per Sprachbefehl",
+      "summary_de": "Ein Satellit der Europäischen Raumfahrtagentur ESA hat per Sprachbefehl das Spiel Doom gestartet. Es handelt sich um den Satelliten OPS-SAT „Pretty“, der seit 2023 im Orbit ist. Funkamateure in mehreren Ländern sollten dafür Nachrichten zum Satelliten schicken. Teams in Polen und Norwegen scheiterten zwischen April und Juli mehrfach, weil der Empfangskanal zu breit eingestellt war. Nachdem die ESA die Spracherkennung korrigiert hatte, klappte es. Erfolgreich war schließlich ein norwegischer Amateurfunkverein, der vorher nie mit Satelliten gearbeitet hatte. Er investierte 59 Tage und rund 700 Euro, darunter Pizzabestellungen. Der entscheidende Funkspruch kam von einem Hausdach in Oslo. Das Experiment soll zeigen, dass Satelliten künftig per Sprache gesteuert werden könnten, etwa um in abgelegenen Regionen einen Notruf auszulösen.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/doom-satellit-amateurfunker-1772441/",
+      "glossary": [
+        {
+          "form": "Raumfahrtagentur",
+          "lemma": "Raumfahrtagentur",
+          "article": "die",
+          "tr": "uzay ajansı"
+        },
+        {
+          "form": "Sprachbefehl",
+          "lemma": "Sprachbefehl",
+          "article": "der",
+          "tr": "sesli komut"
+        },
+        {
+          "form": "Orbit",
+          "lemma": "Orbit",
+          "article": "der",
+          "tr": "yörünge"
+        },
+        {
+          "form": "Funkamateure",
+          "lemma": "Funkamateur",
+          "article": "der",
+          "tr": "amatör telsizci"
+        },
+        {
+          "form": "scheiterten",
+          "lemma": "scheitern",
+          "article": null,
+          "tr": "başarısız olmak"
+        },
+        {
+          "form": "Empfangskanal",
+          "lemma": "Empfangskanal",
+          "article": "der",
+          "tr": "alım kanalı"
+        },
+        {
+          "form": "eingestellt",
+          "lemma": "einstellen",
+          "article": null,
+          "tr": "ayarlamak"
+        },
+        {
+          "form": "Spracherkennung",
+          "lemma": "Spracherkennung",
+          "article": "die",
+          "tr": "konuşma tanıma"
+        },
+        {
+          "form": "korrigiert",
+          "lemma": "korrigieren",
+          "article": null,
+          "tr": "düzeltmek"
+        },
+        {
+          "form": "Amateurfunkverein",
+          "lemma": "Amateurfunkverein",
+          "article": "der",
+          "tr": "amatör telsiz derneği"
+        },
+        {
+          "form": "investierte",
+          "lemma": "investieren",
+          "article": null,
+          "tr": "yatırım yapmak, harcamak"
+        },
+        {
+          "form": "Funkspruch",
+          "lemma": "Funkspruch",
+          "article": "der",
+          "tr": "telsiz mesajı"
+        },
+        {
+          "form": "Hausdach",
+          "lemma": "Hausdach",
+          "article": "das",
+          "tr": "ev çatısı"
+        },
+        {
+          "form": "gesteuert",
+          "lemma": "steuern",
+          "article": null,
+          "tr": "kontrol etmek"
+        },
+        {
+          "form": "abgelegenen",
+          "lemma": "abgelegen",
+          "article": null,
+          "tr": "ücra, uzak"
+        },
+        {
+          "form": "Notruf",
+          "lemma": "Notruf",
+          "article": "der",
+          "tr": "acil çağrı"
+        },
+        {
+          "form": "auszulösen",
+          "lemma": "auslösen",
+          "article": null,
+          "tr": "tetiklemek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "an einer Aufgabe scheitern",
+          "article": null,
+          "tr": "bir görevde başarısız olmak",
+          "example_de": "Ich bin gestern an der Matheaufgabe gescheitert."
+        },
+        {
+          "de": "Zeit in etwas investieren",
+          "article": null,
+          "tr": "bir şeye zaman ayırmak",
+          "example_de": "Er investiert viel Zeit in sein Hobby."
+        },
+        {
+          "de": "einen Notruf absetzen",
+          "article": null,
+          "tr": "acil çağrı yapmak",
+          "example_de": "Sie setzte sofort einen Notruf ab."
+        },
+        {
+          "de": "Funkamateur",
+          "article": "der",
+          "tr": "amatör telsizci",
+          "example_de": "Mein Onkel ist seit Jahren Funkamateur."
+        },
+        {
+          "de": "etwas auslösen",
+          "article": null,
+          "tr": "bir şeyi tetiklemek",
+          "example_de": "Der Rauch löste den Feueralarm aus."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Warum scheiterten die ersten Teams?",
+          "options": [
+            "Der Satellit war defekt",
+            "Der Empfangskanal war zu breit eingestellt",
+            "Sie hatten kein Geld",
+            "Doom war nicht installiert"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wie viel investierte der norwegische Verein?",
+          "options": [
+            "59 Tage und rund 700 Euro",
+            "7 Tage und 59 Euro",
+            "700 Tage und 59 Euro",
+            "Nur eine Woche"
           ],
           "answer_index": 0
         }
       ]
     },
     {
-      "id": "2026-11-09-lorenz-snacks-autonome-evehikel",
-      "category": "tech",
-      "title_de": "Ohne Kabine: Lorenz Snacks setzt autonome E-Fahrzeuge im Werk ein",
-      "summary_de": "Der Snackhersteller Lorenz setzt in seinem Werk in Neunburg vorm Wald in der Oberpfalz künftig autonome Elektrofahrzeuge ein. Gemeinsam mit dem schwedischen Logistikunternehmen Einride läuft dort ein auf fünf Jahre angelegtes Pilotprojekt auf dem privaten Werksgelände. Vier Fahrzeuge ohne Fahrerkabine bringen Fertigwaren, Rohstoffe und leere Paletten zwischen Produktion und Zentrallager. Jedes Fahrzeug transportiert 15 Europaletten, im Schnitt sollen es bis zu 1.200 Paletten pro Tag sein. Geladen wird mit Strom aus der werkseigenen Photovoltaikanlage. Überwacht werden die Fahrzeuge von Mitarbeitenden vor Ort und aus der Ferne, die bei Bedarf eingreifen können. Zwei herkömmliche E-Lkw dienen als Reserve. Einride besitzt und betreibt die Fahrzeuge selbst. Für das Logistikkonzept erhielt Lorenz im Oktober den Deutschen Logistik-Preis.",
-      "source_name": "electrive.net",
-      "source_url": "https://www.electrive.net/2026/11/07/ohne-kabine-lorenz-snacks-fuehrt-autonome-e-fahrzeuge-im-werksbetrieb-ein/",
+      "id": "2026-11-10-sternhimmel-november",
+      "category": "de",
+      "title_de": "Sternschnuppen und Bibermond: Der Himmel im November",
+      "summary_de": "Im November lohnt sich ein Blick nach oben. Schon in dieser Woche erreichen die Nördlichen Tauriden ihren Höhepunkt, und zwar am 11. und 12. November. Am 15. November stehen Mars und Jupiter am Himmel auffallend dicht beieinander. Zwei Tage später folgen die Leoniden, deren Sternschnuppen am 17. November am zahlreichsten zu sehen sind. Der Vollmond erreicht am 24. November um 15:53 Uhr seinen Höhepunkt. Weil er der Erde dann besonders nah ist, wirkt er etwas größer und heller als gewöhnlich. Der traditionelle Name Bibermond erinnert an die Tiere, die vor dem Winter ihre Dämme reparieren, und an Fallensteller. Am schönsten ist der Anblick laut dem Artikel beim Mondaufgang, wenn der Mond tief am Horizont steht. Ob der Vollmond den Schlaf stört, ist wissenschaftlich umstritten, denn Studien kamen zu unterschiedlichen Ergebnissen.",
+      "source_name": "watson",
+      "source_url": "https://www.watson.de/leben/alltagsfrage/623761000-vollmond-november-2026-wann-ihr-den-bibermond-und-sternschnuppen-sehen-koennt",
       "glossary": [
         {
-          "form": "Snackhersteller",
-          "lemma": "Snackhersteller",
+          "form": "lohnt",
+          "lemma": "lohnen",
+          "article": null,
+          "tr": "değmek"
+        },
+        {
+          "form": "Höhepunkt",
+          "lemma": "Höhepunkt",
           "article": "der",
-          "tr": "atıştırmalık üreticisi"
+          "tr": "zirve"
         },
         {
-          "form": "autonome",
-          "lemma": "autonom",
+          "form": "auffallend",
+          "lemma": "auffallend",
           "article": null,
-          "tr": "otonom"
+          "tr": "dikkat çekici şekilde"
         },
         {
-          "form": "Pilotprojekt",
-          "lemma": "Pilotprojekt",
-          "article": "das",
-          "tr": "pilot proje"
+          "form": "beieinander",
+          "lemma": "beieinander",
+          "article": null,
+          "tr": "yan yana, birbirine yakın"
         },
         {
-          "form": "Werksgelände",
-          "lemma": "Werksgelände",
-          "article": "das",
-          "tr": "fabrika sahası"
-        },
-        {
-          "form": "Fertigwaren",
-          "lemma": "Fertigware",
+          "form": "Sternschnuppen",
+          "lemma": "Sternschnuppe",
           "article": "die",
-          "tr": "hazır ürünler"
+          "tr": "kayan yıldız"
         },
         {
-          "form": "Rohstoffe",
-          "lemma": "Rohstoff",
+          "form": "zahlreichsten",
+          "lemma": "zahlreich",
+          "article": null,
+          "tr": "en çok sayıda"
+        },
+        {
+          "form": "Vollmond",
+          "lemma": "Vollmond",
           "article": "der",
-          "tr": "hammaddeler"
+          "tr": "dolunay"
         },
         {
-          "form": "Paletten",
-          "lemma": "Palette",
-          "article": "die",
-          "tr": "paletler"
-        },
-        {
-          "form": "Zentrallager",
-          "lemma": "Zentrallager",
-          "article": "das",
-          "tr": "merkez depo"
-        },
-        {
-          "form": "werkseigenen",
-          "lemma": "werkseigen",
+          "form": "gewöhnlich",
+          "lemma": "gewöhnlich",
           "article": null,
-          "tr": "fabrikaya ait"
+          "tr": "olağan"
         },
         {
-          "form": "Photovoltaikanlage",
-          "lemma": "Photovoltaikanlage",
-          "article": "die",
-          "tr": "güneş enerjisi sistemi"
-        },
-        {
-          "form": "Überwacht",
-          "lemma": "überwachen",
-          "article": null,
-          "tr": "izlemek, denetlemek"
-        },
-        {
-          "form": "eingreifen",
-          "lemma": "eingreifen",
-          "article": null,
-          "tr": "müdahale etmek"
-        },
-        {
-          "form": "herkömmliche",
-          "lemma": "herkömmlich",
+          "form": "traditionelle",
+          "lemma": "traditionell",
           "article": null,
           "tr": "geleneksel"
         },
         {
-          "form": "Reserve",
-          "lemma": "Reserve",
-          "article": "die",
-          "tr": "yedek"
+          "form": "Dämme",
+          "lemma": "Damm",
+          "article": "der",
+          "tr": "baraj, set"
         },
         {
-          "form": "betreibt",
-          "lemma": "betreiben",
+          "form": "reparieren",
+          "lemma": "reparieren",
           "article": null,
-          "tr": "işletmek"
+          "tr": "onarmak"
         },
         {
-          "form": "Logistikkonzept",
-          "lemma": "Logistikkonzept",
+          "form": "Fallensteller",
+          "lemma": "Fallensteller",
+          "article": "der",
+          "tr": "tuzakçı"
+        },
+        {
+          "form": "Anblick",
+          "lemma": "Anblick",
+          "article": "der",
+          "tr": "manzara, görüntü"
+        },
+        {
+          "form": "Mondaufgang",
+          "lemma": "Mondaufgang",
+          "article": "der",
+          "tr": "ayın doğuşu"
+        },
+        {
+          "form": "Horizont",
+          "lemma": "Horizont",
+          "article": "der",
+          "tr": "ufuk"
+        },
+        {
+          "form": "umstritten",
+          "lemma": "umstritten",
+          "article": null,
+          "tr": "tartışmalı"
+        },
+        {
+          "form": "Studien",
+          "lemma": "Studie",
+          "article": "die",
+          "tr": "çalışma, araştırma"
+        },
+        {
+          "form": "Ergebnissen",
+          "lemma": "Ergebnis",
           "article": "das",
-          "tr": "lojistik konsepti"
+          "tr": "sonuç"
         }
       ],
       "vocabulary": [
         {
-          "de": "autonom fahren",
+          "de": "sich lohnen",
           "article": null,
-          "tr": "otonom sürmek",
-          "example_de": "Der Lkw fährt autonom über das Gelände."
+          "tr": "değmek",
+          "example_de": "Der Ausflug hat sich wirklich gelohnt."
         },
         {
-          "de": "bei Bedarf",
+          "de": "seinen Höhepunkt erreichen",
           "article": null,
-          "tr": "gerektiğinde",
-          "example_de": "Wir können bei Bedarf eingreifen."
+          "tr": "zirveye ulaşmak",
+          "example_de": "Die Party erreichte gegen Mitternacht ihren Höhepunkt."
         },
         {
-          "de": "Pilotprojekt",
-          "article": "das",
-          "tr": "pilot proje",
-          "example_de": "Das Pilotprojekt startet im Frühjahr."
+          "de": "Sternschnuppe",
+          "article": "die",
+          "tr": "kayan yıldız",
+          "example_de": "Ich habe gestern eine Sternschnuppe gesehen und mir etwas gewünscht."
         },
         {
-          "de": "Strom aus Sonnenenergie",
+          "de": "zu unterschiedlichen Ergebnissen kommen",
           "article": null,
-          "tr": "güneş enerjisinden elektrik",
-          "example_de": "Das Werk nutzt Strom aus Sonnenenergie."
+          "tr": "farklı sonuçlara varmak",
+          "example_de": "Die beiden Tests kamen zu unterschiedlichen Ergebnissen."
         },
         {
-          "de": "Waren transportieren",
+          "de": "umstritten sein",
           "article": null,
-          "tr": "mal taşımak",
-          "example_de": "Die Fahrzeuge transportieren Waren zum Lager."
+          "tr": "tartışmalı olmak",
+          "example_de": "Das neue Gesetz ist in der Stadt umstritten."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wie lange läuft das Pilotprojekt?",
+          "question_de": "Wann erreichen die Leoniden laut Artikel ihren Höhepunkt?",
           "options": [
-            "Ein Jahr",
-            "Fünf Jahre",
-            "Zwanzig Jahre"
+            "Am 11. November",
+            "Am 15. November",
+            "Am 17. November",
+            "Am 24. November"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Warum wirkt der Vollmond am 24. November etwas größer?",
+          "options": [
+            "Weil er der Erde besonders nah ist",
+            "Weil die Luft besonders klar ist",
+            "Weil Jupiter daneben steht",
+            "Weil Neumond war"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-weihnachtstal-eisenberg",
+      "category": "de",
+      "title_de": "Weihnachtstal in Thüringen: Sieben Kilometer Weihnachtsmarkt",
+      "summary_de": "Im ostthüringischen Mühltal bei Eisenberg findet am dritten Adventswochenende der wohl längste Weihnachtsmarkt Deutschlands statt. Am 12. und 13. Dezember kann man dort rund sieben Kilometer weit durch ein beleuchtetes Tal wandern. Es ist bereits die 20. Auflage des Weihnachtstals. Neun historische Mühlen sind geschmückt, und jede hat ein eigenes Programm mit Märchen, Musik, Handwerk und regionalen Spezialitäten. Zwischen den Mühlen sorgen Lichtinstallationen und eine Waldkulisse für Stimmung. Wer mit dem Auto kommt, parkt auf ausgewiesenen Plätzen und fährt mit kostenlosen Shuttlebussen weiter, denn das Tal ist für den Verkehr gesperrt. Im Tal selbst gibt es keinen Shuttle, man geht die gesamte Strecke zu Fuß. Der Eintritt läuft über ein Bändchen, das an beiden Tagen gilt. Kinder bis 1,20 Meter Körpergröße zahlen nichts. Festes Schuhwerk ist daher empfehlenswert.",
+      "source_name": "watson",
+      "source_url": "https://www.watson.de/leben/urlaub-freizeit/358421059-sieben-kilometer-weihnachtszauber-diesen-besonderen-markt-gibt-es-nur-an-einem-wochenende",
+      "glossary": [
+        {
+          "form": "Adventswochenende",
+          "lemma": "Adventswochenende",
+          "article": "das",
+          "tr": "Advent hafta sonu"
+        },
+        {
+          "form": "beleuchtetes",
+          "lemma": "beleuchtet",
+          "article": null,
+          "tr": "aydınlatılmış"
+        },
+        {
+          "form": "wandern",
+          "lemma": "wandern",
+          "article": null,
+          "tr": "yürüyüş yapmak"
+        },
+        {
+          "form": "Auflage",
+          "lemma": "Auflage",
+          "article": "die",
+          "tr": "edisyon, düzenleme"
+        },
+        {
+          "form": "Mühlen",
+          "lemma": "Mühle",
+          "article": "die",
+          "tr": "değirmen"
+        },
+        {
+          "form": "geschmückt",
+          "lemma": "schmücken",
+          "article": null,
+          "tr": "süslemek"
+        },
+        {
+          "form": "Märchen",
+          "lemma": "Märchen",
+          "article": "das",
+          "tr": "masal"
+        },
+        {
+          "form": "Handwerk",
+          "lemma": "Handwerk",
+          "article": "das",
+          "tr": "el sanatı"
+        },
+        {
+          "form": "Spezialitäten",
+          "lemma": "Spezialität",
+          "article": "die",
+          "tr": "yöresel lezzet"
+        },
+        {
+          "form": "Lichtinstallationen",
+          "lemma": "Lichtinstallation",
+          "article": "die",
+          "tr": "ışık yerleştirmesi"
+        },
+        {
+          "form": "Waldkulisse",
+          "lemma": "Waldkulisse",
+          "article": "die",
+          "tr": "orman manzarası"
+        },
+        {
+          "form": "ausgewiesenen",
+          "lemma": "ausweisen",
+          "article": null,
+          "tr": "belirlenmiş"
+        },
+        {
+          "form": "gesperrt",
+          "lemma": "sperren",
+          "article": null,
+          "tr": "kapatmak"
+        },
+        {
+          "form": "Strecke",
+          "lemma": "Strecke",
+          "article": "die",
+          "tr": "yol, rota"
+        },
+        {
+          "form": "Eintritt",
+          "lemma": "Eintritt",
+          "article": "der",
+          "tr": "giriş"
+        },
+        {
+          "form": "Bändchen",
+          "lemma": "Bändchen",
+          "article": "das",
+          "tr": "bileklik"
+        },
+        {
+          "form": "Körpergröße",
+          "lemma": "Körpergröße",
+          "article": "die",
+          "tr": "boy"
+        },
+        {
+          "form": "Schuhwerk",
+          "lemma": "Schuhwerk",
+          "article": "das",
+          "tr": "ayakkabı"
+        },
+        {
+          "form": "empfehlenswert",
+          "lemma": "empfehlenswert",
+          "article": null,
+          "tr": "tavsiye edilir"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "für den Verkehr gesperrt sein",
+          "article": null,
+          "tr": "trafiğe kapalı olmak",
+          "example_de": "Die Straße ist wegen des Marktes für den Verkehr gesperrt."
+        },
+        {
+          "de": "zu Fuß gehen",
+          "article": null,
+          "tr": "yürümek",
+          "example_de": "Bei schönem Wetter gehe ich gern zu Fuß zur Uni."
+        },
+        {
+          "de": "für Stimmung sorgen",
+          "article": null,
+          "tr": "ortamı canlandırmak",
+          "example_de": "Die Band sorgte für gute Stimmung."
+        },
+        {
+          "de": "Eintritt",
+          "article": "der",
+          "tr": "giriş (ücreti)",
+          "example_de": "Der Eintritt ins Museum ist für Studierende frei."
+        },
+        {
+          "de": "die gesamte Strecke",
+          "article": null,
+          "tr": "tüm rota",
+          "example_de": "Wir sind die gesamte Strecke ohne Pause gelaufen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie lang ist die Strecke des Weihnachtstals ungefähr?",
+          "options": [
+            "Zwei Kilometer",
+            "Sieben Kilometer",
+            "Zwanzig Kilometer",
+            "Siebzig Kilometer"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Woher kommt der Strom zum Laden?",
+          "question_de": "Wie kommt man laut Artikel vom Parkplatz ins Tal?",
           "options": [
-            "Aus einem Kohlekraftwerk",
-            "Aus der werkseigenen Photovoltaikanlage",
-            "Aus dem öffentlichen Netz allein"
+            "Mit kostenlosen Shuttlebussen",
+            "Mit dem Taxi",
+            "Mit einer Seilbahn",
+            "Gar nicht, das Tal ist immer gesperrt"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-kabel-kopfhoerer-comeback",
+      "category": "de",
+      "title_de": "Das Comeback der Kabel-Kopfhörer",
+      "summary_de": "Kabelgebundene Kopfhörer kommen laut einem Meinungsbeitrag bei watson wieder in Mode. Der Text nennt Zahlen des US-Marktforschers Circana: Im zweiten Halbjahr 2025 stiegen die Verkäufe von Modellen ohne Bluetooth um zehn Prozent, in den ersten sechs Wochen des Jahres 2026 sogar um zwanzig Prozent. Als Gründe werden der Preis und der Retro-Trend angeführt, der auf Instagram gefeiert wird. Außerdem klingen günstige Kabelmodelle nach einer zitierten BBC-Einschätzung oft besser als Bluetooth-Geräte im gleichen Preisbereich. Ein leerer Akku in der vollen U-Bahn wird als besonders nervig beschrieben. Dem stehen Vorteile gegenüber, denn ohne Kabel haben Joggende die Arme frei. Dass Apple 2016 die Klinkenbuchse abschaffen wollte, wird als geschickter Schachzug gewertet, um mehr AirPods zu verkaufen. Das stärkste Argument für das Kabel bleibt am Ende die Nostalgie.",
+      "source_name": "watson",
+      "source_url": "https://www.watson.de/leben/meinung/909071212-das-comeback-der-kabel-kopfhoerer-warum-der-klassiker-wieder-gefragt-ist",
+      "glossary": [
+        {
+          "form": "Kabelgebundene",
+          "lemma": "kabelgebunden",
+          "article": null,
+          "tr": "kablolu"
+        },
+        {
+          "form": "Meinungsbeitrag",
+          "lemma": "Meinungsbeitrag",
+          "article": "der",
+          "tr": "görüş yazısı"
+        },
+        {
+          "form": "Marktforschers",
+          "lemma": "Marktforscher",
+          "article": "der",
+          "tr": "pazar araştırmacısı"
+        },
+        {
+          "form": "Halbjahr",
+          "lemma": "Halbjahr",
+          "article": "das",
+          "tr": "yarıyıl"
+        },
+        {
+          "form": "Verkäufe",
+          "lemma": "Verkauf",
+          "article": "der",
+          "tr": "satış"
+        },
+        {
+          "form": "angeführt",
+          "lemma": "anführen",
+          "article": null,
+          "tr": "gerekçe olarak sunmak"
+        },
+        {
+          "form": "gefeiert",
+          "lemma": "feiern",
+          "article": null,
+          "tr": "kutlamak, öne çıkarmak"
+        },
+        {
+          "form": "Einschätzung",
+          "lemma": "Einschätzung",
+          "article": "die",
+          "tr": "değerlendirme"
+        },
+        {
+          "form": "Preisbereich",
+          "lemma": "Preisbereich",
+          "article": "der",
+          "tr": "fiyat aralığı"
+        },
+        {
+          "form": "Akku",
+          "lemma": "Akku",
+          "article": "der",
+          "tr": "batarya"
+        },
+        {
+          "form": "nervig",
+          "lemma": "nervig",
+          "article": null,
+          "tr": "can sıkıcı"
+        },
+        {
+          "form": "beschrieben",
+          "lemma": "beschreiben",
+          "article": null,
+          "tr": "tarif etmek"
+        },
+        {
+          "form": "Joggende",
+          "lemma": "Joggende",
+          "article": "der",
+          "tr": "koşu yapanlar"
+        },
+        {
+          "form": "Klinkenbuchse",
+          "lemma": "Klinkenbuchse",
+          "article": "die",
+          "tr": "kulaklık jakı"
+        },
+        {
+          "form": "abschaffen",
+          "lemma": "abschaffen",
+          "article": null,
+          "tr": "kaldırmak"
+        },
+        {
+          "form": "Schachzug",
+          "lemma": "Schachzug",
+          "article": "der",
+          "tr": "hamle"
+        },
+        {
+          "form": "gewertet",
+          "lemma": "werten",
+          "article": null,
+          "tr": "değerlendirmek"
+        },
+        {
+          "form": "Nostalgie",
+          "lemma": "Nostalgie",
+          "article": "die",
+          "tr": "nostalji"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "in Mode kommen",
+          "article": null,
+          "tr": "moda olmak",
+          "example_de": "Alte Turnschuhe kommen gerade wieder in Mode."
+        },
+        {
+          "de": "einen Schachzug machen",
+          "article": null,
+          "tr": "akıllıca bir hamle yapmak",
+          "example_de": "Mit dem Preisnachlass hat die Firma einen geschickten Schachzug gemacht."
+        },
+        {
+          "de": "Akku",
+          "article": "der",
+          "tr": "batarya",
+          "example_de": "Mein Akku ist schon wieder fast leer."
+        },
+        {
+          "de": "jemandem gegenüberstehen",
+          "article": null,
+          "tr": "karşısında durmak (dezavantaj vs. avantaj)",
+          "example_de": "Den Vorteilen stehen auch Nachteile gegenüber."
+        },
+        {
+          "de": "abschaffen",
+          "article": null,
+          "tr": "kaldırmak",
+          "example_de": "Die Stadt will die Gebühr abschaffen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Um wie viel stiegen die Verkäufe kabelgebundener Modelle in den ersten sechs Wochen 2026?",
+          "options": [
+            "Um zehn Prozent",
+            "Um zwanzig Prozent",
+            "Um fünfzig Prozent",
+            "Sie sanken"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „Schachzug“ hier?",
+          "options": [
+            "Ein Brettspiel",
+            "Eine geschickte Entscheidung",
+            "Ein Fehler",
+            "Eine Kritik"
           ],
           "answer_index": 1
         }
       ]
     },
     {
-      "id": "2026-11-09-manuka-honig-faktencheck",
-      "category": "health",
-      "title_de": "Manuka-Honig: Immunbooster oder einfach nur teuer?",
-      "summary_de": "Manuka-Honig wird oft als Immunbooster beworben, der Erkältungen lindern oder ihnen vorbeugen soll. Das Wissenschaftsmagazin Quarks hat diese Versprechen überprüft. Der Honig stammt aus Neuseeland und Teilen Australiens und enthält viel Methylglyoxal, kurz MGO. Ein Glas mit 500 Gramm kostet oft 100 Euro oder mehr. Laut den befragten Fachleuten ist im Labor eine antibakterielle Wirkung belegt, vor allem bei Wunden. Dass der Verzehr Menschen vor Infekten schützt, zeigen die zitierten Studien jedoch nicht, denn sie stammen meist aus dem Labor oder von Tieren. Auch die Behauptung einer jahrtausendealten Honigtradition der Māori ist nicht belegt. Die Verbraucherzentrale NRW sieht in der Werbung eine unzulässige Gesundheitsaussage. Quarks hält die Werbung für irreführend, ein besonderer Nutzen für das Immunsystem ist bisher nicht bewiesen.",
-      "source_name": "Quarks",
-      "source_url": "https://www.quarks.de/gesundheit/ernaehrung/manuka-honig-erkaeltung-immunsystem/",
+      "id": "2026-11-10-kia-pv5-crew",
+      "category": "tech",
+      "title_de": "Kia PV5 Crew: Elektro-Transporter wird per Hebel zum Zweisitzer",
+      "summary_de": "Kia nimmt Bestellungen für den PV5 Crew entgegen, eine Variante des elektrischen Transporters mit Platz für fünf Personen. Er basiert auf dem Cargo mit langem Radstand und startet bei 42.090 Euro brutto. Die Auslieferung soll im Dezember beginnen. Der Clou ist die Umbaumöglichkeit: Mit einem Hebel lässt sich die Rückbank in Sekunden hochklappen, und die zweite Sitzreihe samt Trennwand rutscht nach vorn. So wird aus dem Fünfsitzer ein Zweisitzer mit einem Laderaum von knapp 3,7 Kubikmetern. Der Frontantrieb leistet 89 Kilowatt, und die Batterie fasst 51,5 Kilowattstunden. Nach WLTP reicht das für bis zu 283 Kilometer, an der Schnellladesäule dauert es rund 30 Minuten von 10 auf 80 Prozent. Kia gibt sieben Jahre Garantie auf das Fahrzeug und acht Jahre auf den Akku. Zielgruppe sind vor allem Kommunen und kleine Handwerksbetriebe, die Personen und Material gleichzeitig transportieren wollen.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/09/kia-pv5-crew-startet-bei-42-090-euro/",
       "glossary": [
         {
-          "form": "Immunbooster",
-          "lemma": "Immunbooster",
+          "form": "Bestellungen",
+          "lemma": "Bestellung",
+          "article": "die",
+          "tr": "sipariş"
+        },
+        {
+          "form": "Variante",
+          "lemma": "Variante",
+          "article": "die",
+          "tr": "versiyon"
+        },
+        {
+          "form": "Radstand",
+          "lemma": "Radstand",
           "article": "der",
-          "tr": "bağışıklık güçlendirici"
+          "tr": "aks mesafesi"
         },
         {
-          "form": "beworben",
-          "lemma": "bewerben",
+          "form": "brutto",
+          "lemma": "brutto",
           "article": null,
-          "tr": "reklamını yapmak"
+          "tr": "KDV dahil / brüt"
         },
         {
-          "form": "lindern",
-          "lemma": "lindern",
-          "article": null,
-          "tr": "hafifletmek"
+          "form": "Auslieferung",
+          "lemma": "Auslieferung",
+          "article": "die",
+          "tr": "teslimat"
         },
         {
-          "form": "vorbeugen",
-          "lemma": "vorbeugen",
-          "article": null,
-          "tr": "önlemek"
+          "form": "Umbaumöglichkeit",
+          "lemma": "Umbaumöglichkeit",
+          "article": "die",
+          "tr": "dönüştürme imkânı"
         },
         {
-          "form": "überprüft",
-          "lemma": "überprüfen",
-          "article": null,
-          "tr": "kontrol etmek"
+          "form": "Hebel",
+          "lemma": "Hebel",
+          "article": "der",
+          "tr": "kol"
         },
         {
-          "form": "antibakterielle",
-          "lemma": "antibakteriell",
+          "form": "hochklappen",
+          "lemma": "hochklappen",
           "article": null,
-          "tr": "antibakteriyel"
+          "tr": "yukarı katlamak"
+        },
+        {
+          "form": "Trennwand",
+          "lemma": "Trennwand",
+          "article": "die",
+          "tr": "ara bölme"
+        },
+        {
+          "form": "Laderaum",
+          "lemma": "Laderaum",
+          "article": "der",
+          "tr": "yük alanı"
+        },
+        {
+          "form": "Frontantrieb",
+          "lemma": "Frontantrieb",
+          "article": "der",
+          "tr": "önden çekiş"
+        },
+        {
+          "form": "leistet",
+          "lemma": "leisten",
+          "article": null,
+          "tr": "güç üretmek"
+        },
+        {
+          "form": "fasst",
+          "lemma": "fassen",
+          "article": null,
+          "tr": "almak, kapasitesi olmak"
+        },
+        {
+          "form": "Schnellladesäule",
+          "lemma": "Schnellladesäule",
+          "article": "die",
+          "tr": "hızlı şarj istasyonu"
+        },
+        {
+          "form": "Garantie",
+          "lemma": "Garantie",
+          "article": "die",
+          "tr": "garanti"
+        },
+        {
+          "form": "Kommunen",
+          "lemma": "Kommune",
+          "article": "die",
+          "tr": "belediye"
+        },
+        {
+          "form": "Handwerksbetriebe",
+          "lemma": "Handwerksbetrieb",
+          "article": "der",
+          "tr": "zanaat işletmesi"
+        },
+        {
+          "form": "Zielgruppe",
+          "lemma": "Zielgruppe",
+          "article": "die",
+          "tr": "hedef kitle"
+        },
+        {
+          "form": "transportieren",
+          "lemma": "transportieren",
+          "article": null,
+          "tr": "taşımak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Bestellungen entgegennehmen",
+          "article": null,
+          "tr": "sipariş almak",
+          "example_de": "Der Händler nimmt ab sofort Bestellungen entgegen."
+        },
+        {
+          "de": "auf etwas basieren",
+          "article": null,
+          "tr": "bir şeye dayanmak",
+          "example_de": "Das Modell basiert auf einer neuen Plattform."
+        },
+        {
+          "de": "Reichweite",
+          "article": "die",
+          "tr": "menzil",
+          "example_de": "Die Reichweite des Autos reicht für meinen Arbeitsweg."
+        },
+        {
+          "de": "Garantie auf etwas geben",
+          "article": null,
+          "tr": "bir şeye garanti vermek",
+          "example_de": "Der Hersteller gibt fünf Jahre Garantie auf den Akku."
+        },
+        {
+          "de": "Zielgruppe",
+          "article": "die",
+          "tr": "hedef kitle",
+          "example_de": "Die Zielgruppe der Werbung sind junge Fahrer."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Sitzplätze hat der PV5 Crew in der Grundausstattung?",
+          "options": [
+            "Zwei",
+            "Drei",
+            "Fünf",
+            "Neun"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Wann beginnt laut Artikel die Auslieferung?",
+          "options": [
+            "Im Januar",
+            "Im Dezember",
+            "Im Frühling",
+            "Sie hat schon begonnen"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-autonome-muldenkipper-tibet",
+      "category": "tech",
+      "title_de": "60 E-Muldenkipper fahren in Tibet vollautonom",
+      "summary_de": "In einer Kupfermine in Tibet fahren inzwischen alle 60 elektrischen Muldenkipper vollständig autonom. Die Mine Zhibula liegt auf über 5.000 Metern Höhe, laut Überschrift sogar auf rund 5.400 Metern. Hersteller der Lkw ist Sany, die Fahrtechnik stammt vom Unternehmen Eacon Mining. Im September 2025 starteten die Fahrzeuge noch mit Fahrern, die zunächst die Technik vor Ort prüften. Im März 2026 fuhren bereits 52 Lkw ohne Menschen am Steuer, Ende September erreichte die gesamte Flotte den autonomen Regelbetrieb. Eacon behauptet, der Bedarf an Fahrern sei um etwa 80 Prozent gesunken und die tägliche Einsatzzeit um 16 Prozent gestiegen. Hinzu kommen geschätzte 12.000 Tonnen CO₂-Einsparung pro Jahr. Die Höhe macht es schwierig, denn dünne Luft, starke UV-Strahlung, Schnee und Frost belasten Technik und Sensoren. Detaillierte Betriebsdaten hat das Unternehmen bisher nicht veröffentlicht, die Zahlen stammen also von Eacon selbst.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/09/eacon-60-e-muldenkipper-kupfermine/",
+      "glossary": [
+        {
+          "form": "Kupfermine",
+          "lemma": "Kupfermine",
+          "article": "die",
+          "tr": "bakır madeni"
+        },
+        {
+          "form": "Muldenkipper",
+          "lemma": "Muldenkipper",
+          "article": "der",
+          "tr": "damperli kamyon"
+        },
+        {
+          "form": "vollständig",
+          "lemma": "vollständig",
+          "article": null,
+          "tr": "tamamen"
+        },
+        {
+          "form": "autonom",
+          "lemma": "autonom",
+          "article": null,
+          "tr": "otonom"
+        },
+        {
+          "form": "Fahrtechnik",
+          "lemma": "Fahrtechnik",
+          "article": "die",
+          "tr": "sürüş teknolojisi"
+        },
+        {
+          "form": "prüften",
+          "lemma": "prüfen",
+          "article": null,
+          "tr": "test etmek"
+        },
+        {
+          "form": "Steuer",
+          "lemma": "Steuer",
+          "article": "das",
+          "tr": "direksiyon"
+        },
+        {
+          "form": "Flotte",
+          "lemma": "Flotte",
+          "article": "die",
+          "tr": "filo"
+        },
+        {
+          "form": "Regelbetrieb",
+          "lemma": "Regelbetrieb",
+          "article": "der",
+          "tr": "normal işletme"
+        },
+        {
+          "form": "behauptet",
+          "lemma": "behaupten",
+          "article": null,
+          "tr": "iddia etmek"
+        },
+        {
+          "form": "Bedarf",
+          "lemma": "Bedarf",
+          "article": "der",
+          "tr": "ihtiyaç"
+        },
+        {
+          "form": "Einsatzzeit",
+          "lemma": "Einsatzzeit",
+          "article": "die",
+          "tr": "çalışma süresi"
+        },
+        {
+          "form": "geschätzte",
+          "lemma": "schätzen",
+          "article": null,
+          "tr": "tahmin edilen"
+        },
+        {
+          "form": "Einsparung",
+          "lemma": "Einsparung",
+          "article": "die",
+          "tr": "tasarruf"
+        },
+        {
+          "form": "dünne",
+          "lemma": "dünn",
+          "article": null,
+          "tr": "seyrek, ince"
+        },
+        {
+          "form": "belasten",
+          "lemma": "belasten",
+          "article": null,
+          "tr": "zorlamak, yük bindirmek"
+        },
+        {
+          "form": "Sensoren",
+          "lemma": "Sensor",
+          "article": "der",
+          "tr": "sensör"
+        },
+        {
+          "form": "Betriebsdaten",
+          "lemma": "Betriebsdaten",
+          "article": "die",
+          "tr": "işletme verileri"
+        },
+        {
+          "form": "veröffentlicht",
+          "lemma": "veröffentlichen",
+          "article": null,
+          "tr": "yayımlamak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "am Steuer sitzen",
+          "article": null,
+          "tr": "direksiyonda olmak",
+          "example_de": "Mein Vater sitzt am Steuer, ich navigiere."
+        },
+        {
+          "de": "den Regelbetrieb erreichen",
+          "article": null,
+          "tr": "normal işletmeye geçmek",
+          "example_de": "Die neue Bahnlinie hat den Regelbetrieb erreicht."
+        },
+        {
+          "de": "etwas behaupten",
+          "article": null,
+          "tr": "bir şeyi iddia etmek",
+          "example_de": "Die Firma behauptet, der Akku halte zehn Jahre."
+        },
+        {
+          "de": "Daten veröffentlichen",
+          "article": null,
+          "tr": "veri yayımlamak",
+          "example_de": "Das Institut veröffentlicht die Daten jeden Monat."
+        },
+        {
+          "de": "Einsparung",
+          "article": "die",
+          "tr": "tasarruf",
+          "example_de": "Die Einsparung bei den Stromkosten ist deutlich."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Fahrzeuge fahren inzwischen autonom?",
+          "options": [
+            "18",
+            "52",
+            "60",
+            "80"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Warum sind die Zahlen mit Vorsicht zu betrachten?",
+          "options": [
+            "Sie stammen von Eacon selbst; detaillierte Betriebsdaten fehlen",
+            "Sie sind veraltet",
+            "Sie wurden von der Regierung geschätzt",
+            "Sie betreffen nur zwei Lkw"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-zuckersucht-apotheken-umschau",
+      "category": "health",
+      "title_de": "Zuckersucht: Macht Zucker wirklich abhängig?",
+      "summary_de": "Die Apotheken Umschau fragt, ob Zucker tatsächlich süchtig machen kann. Der Kölner Forscher Marc Tittgemeyer vom Max-Planck-Institut für Stoffwechselforschung sagt, dass einige der psychiatrischen Kriterien für Sucht auch auf den Zuckerkonsum zutreffen. Als Beispiel nennt er die Toleranzentwicklung: Wer sich daran gewöhnt, braucht für denselben Effekt mehr. Diese Gewöhnung sei bei Zucker gut belegt. Besonders verlockend wirken Lebensmittel, die viel Zucker mit Fett kombinieren, etwa Süßigkeiten oder Fertigpizza. Solche Produkte werden als „hyperpalatabel“ bezeichnet, weil sie den Gaumen regelrecht überwältigen. Der Artikel verweist auf eine Studie im Fachblatt Cell Metabolism aus dem Jahr 2019, in der es um Schaltkreise im Gehirn geht, die das Verlangen beim Essen beeinflussen. Wie stark die Abhängigkeit im Vergleich zu Nikotin oder Alkohol ist, bleibt dabei eine offene Frage. Der Beitrag beschreibt das Thema eher als eine Frage des Grades und nicht als ein klares Entweder-oder.",
+      "source_name": "Apotheken Umschau",
+      "source_url": "https://www.apotheken-umschau.de/gesund-bleiben/ernaehrung/zuckersucht-macht-zucker-wirklich-abhaengig-1615727.html",
+      "glossary": [
+        {
+          "form": "süchtig",
+          "lemma": "süchtig",
+          "article": null,
+          "tr": "bağımlı"
+        },
+        {
+          "form": "Stoffwechselforschung",
+          "lemma": "Stoffwechselforschung",
+          "article": "die",
+          "tr": "metabolizma araştırması"
+        },
+        {
+          "form": "Kriterien",
+          "lemma": "Kriterium",
+          "article": "das",
+          "tr": "kriter"
+        },
+        {
+          "form": "Zuckerkonsum",
+          "lemma": "Zuckerkonsum",
+          "article": "der",
+          "tr": "şeker tüketimi"
+        },
+        {
+          "form": "zutreffen",
+          "lemma": "zutreffen",
+          "article": null,
+          "tr": "geçerli olmak"
+        },
+        {
+          "form": "Toleranzentwicklung",
+          "lemma": "Toleranzentwicklung",
+          "article": "die",
+          "tr": "tolerans gelişimi"
+        },
+        {
+          "form": "gewöhnt",
+          "lemma": "gewöhnen",
+          "article": null,
+          "tr": "alışmak"
+        },
+        {
+          "form": "Effekt",
+          "lemma": "Effekt",
+          "article": "der",
+          "tr": "etki"
         },
         {
           "form": "belegt",
@@ -1349,320 +1545,360 @@
           "tr": "kanıtlamak"
         },
         {
-          "form": "Verzehr",
-          "lemma": "Verzehr",
+          "form": "verlockend",
+          "lemma": "verlockend",
+          "article": null,
+          "tr": "cazip"
+        },
+        {
+          "form": "kombinieren",
+          "lemma": "kombinieren",
+          "article": null,
+          "tr": "birleştirmek"
+        },
+        {
+          "form": "Süßigkeiten",
+          "lemma": "Süßigkeit",
+          "article": "die",
+          "tr": "tatlı, şekerleme"
+        },
+        {
+          "form": "Fertigpizza",
+          "lemma": "Fertigpizza",
+          "article": "die",
+          "tr": "hazır pizza"
+        },
+        {
+          "form": "hyperpalatabel",
+          "lemma": "hyperpalatabel",
+          "article": null,
+          "tr": "aşırı lezzetli"
+        },
+        {
+          "form": "Gaumen",
+          "lemma": "Gaumen",
           "article": "der",
-          "tr": "tüketim (yeme)"
+          "tr": "damak"
         },
         {
-          "form": "Infekten",
-          "lemma": "Infekt",
-          "article": "der",
-          "tr": "enfeksiyonlar"
-        },
-        {
-          "form": "zitierten",
-          "lemma": "zitieren",
+          "form": "überwältigen",
+          "lemma": "überwältigen",
           "article": null,
-          "tr": "alıntılamak"
+          "tr": "bunaltmak, bastırmak"
         },
         {
-          "form": "Behauptung",
-          "lemma": "Behauptung",
-          "article": "die",
-          "tr": "iddia"
-        },
-        {
-          "form": "jahrtausendealten",
-          "lemma": "jahrtausendealt",
-          "article": null,
-          "tr": "bin yıllık"
-        },
-        {
-          "form": "unzulässige",
-          "lemma": "unzulässig",
-          "article": null,
-          "tr": "izin verilmeyen"
-        },
-        {
-          "form": "Gesundheitsaussage",
-          "lemma": "Gesundheitsaussage",
-          "article": "die",
-          "tr": "sağlık beyanı"
-        },
-        {
-          "form": "irreführend",
-          "lemma": "irreführend",
-          "article": null,
-          "tr": "yanıltıcı"
-        },
-        {
-          "form": "bewiesen",
-          "lemma": "beweisen",
-          "article": null,
-          "tr": "kanıtlamak"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "Erkältung",
-          "article": "die",
-          "tr": "soğuk algınlığı",
-          "example_de": "Bei einer Erkältung trinke ich viel Tee."
-        },
-        {
-          "de": "einer Krankheit vorbeugen",
-          "article": null,
-          "tr": "bir hastalığı önlemek",
-          "example_de": "Viel Bewegung kann Krankheiten vorbeugen."
-        },
-        {
-          "de": "eine Behauptung belegen",
-          "article": null,
-          "tr": "bir iddiayı kanıtlamak",
-          "example_de": "Er kann seine Behauptung nicht belegen."
-        },
-        {
-          "de": "Werbung",
-          "article": "die",
-          "tr": "reklam",
-          "example_de": "Die Werbung verspricht zu viel."
-        },
-        {
-          "de": "in der Studie nachweisen",
-          "article": null,
-          "tr": "çalışmada kanıtlamak",
-          "example_de": "Der Effekt ließ sich im Labor nachweisen."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Was zeigen die zitierten Studien laut Text?",
-          "options": [
-            "Honig schützt Menschen sicher vor Infekten",
-            "Keinen Beleg, dass Manuka-Honig beim Menschen vor Infekten schützt",
-            "Dass Manuka-Honig gefährlich ist"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „irreführend“?",
-          "options": [
-            "klar und ehrlich",
-            "falsche Vorstellungen weckend",
-            "besonders teuer"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-gta-6-box-poster-karte",
-      "category": "gaming",
-      "title_de": "GTA 6: Poster in der Box-Version und Gratis-Karte von Rockstar",
-      "summary_de": "Rund um den Verkaufsstart von GTA 6 sorgt die Box-Version für Diskussionen. Statt einer Disc enthält sie nur einen Download-Code. Bei MediaMarkt und Saturn liegt der Verpackung offenbar ein doppelseitiges Poster bei. Die Händler zeigten es auf Instagram, bestätigt ist aber nicht, dass die Bilder den echten Inhalt zeigen. Eine Seite des Posters bildet das Cover ab, die andere eine bekannte Figur mit dem Schriftzug „Willkommen in Vice City“. Eine Karte fehlt darauf. Unklar bleibt, ob andere Händler dasselbe Extra bekommen. Einige Fans wollten ihre Vorbestellung deshalb stornieren. Rockstar kündigte parallel an, dass man ab dem 19. November eine kostenlose Karte von Leonida und ein Cover-Poster zum Ausdrucken herunterladen kann.",
-      "source_name": "PC Games",
-      "source_url": "https://www.pcgames.de/GTA-6-Spiel-55239/News/Box-Version-Mediamarkt-Saturn-Karte-Poster-1559274/",
-      "glossary": [
-        {
-          "form": "Verpackung",
-          "lemma": "Verpackung",
-          "article": "die",
-          "tr": "ambalaj"
-        },
-        {
-          "form": "doppelseitiges",
-          "lemma": "doppelseitig",
-          "article": null,
-          "tr": "çift taraflı"
-        },
-        {
-          "form": "Händler",
-          "lemma": "Händler",
-          "article": "der",
-          "tr": "satıcılar"
-        },
-        {
-          "form": "bestätigt",
-          "lemma": "bestätigen",
-          "article": null,
-          "tr": "doğrulanmış"
-        },
-        {
-          "form": "Schriftzug",
-          "lemma": "Schriftzug",
-          "article": "der",
-          "tr": "yazı, logo yazısı"
-        },
-        {
-          "form": "Extra",
-          "lemma": "Extra",
+          "form": "Fachblatt",
+          "lemma": "Fachblatt",
           "article": "das",
-          "tr": "ek (hediye)"
+          "tr": "bilimsel dergi"
         },
         {
-          "form": "Vorbestellung",
-          "lemma": "Vorbestellung",
-          "article": "die",
-          "tr": "ön sipariş"
-        },
-        {
-          "form": "stornieren",
-          "lemma": "stornieren",
-          "article": null,
-          "tr": "iptal etmek"
-        },
-        {
-          "form": "parallel",
-          "lemma": "parallel",
-          "article": null,
-          "tr": "eş zamanlı"
-        },
-        {
-          "form": "kostenlose",
-          "lemma": "kostenlos",
-          "article": null,
-          "tr": "ücretsiz"
-        },
-        {
-          "form": "Ausdrucken",
-          "lemma": "ausdrucken",
-          "article": null,
-          "tr": "yazdırmak"
-        },
-        {
-          "form": "Verkaufsstart",
-          "lemma": "Verkaufsstart",
+          "form": "Schaltkreise",
+          "lemma": "Schaltkreis",
           "article": "der",
-          "tr": "satış başlangıcı"
+          "tr": "devre"
+        },
+        {
+          "form": "Verlangen",
+          "lemma": "Verlangen",
+          "article": "das",
+          "tr": "istek, arzu"
+        },
+        {
+          "form": "beeinflussen",
+          "lemma": "beeinflussen",
+          "article": null,
+          "tr": "etkilemek"
+        },
+        {
+          "form": "Abhängigkeit",
+          "lemma": "Abhängigkeit",
+          "article": "die",
+          "tr": "bağımlılık"
         }
       ],
       "vocabulary": [
         {
-          "de": "etwas vorbestellen",
+          "de": "süchtig machen",
           "article": null,
-          "tr": "ön sipariş vermek",
-          "example_de": "Ich habe das Spiel schon vorbestellt."
+          "tr": "bağımlı yapmak",
+          "example_de": "Manche Spiele können süchtig machen."
         },
         {
-          "de": "eine Bestellung stornieren",
+          "de": "auf etwas zutreffen",
           "article": null,
-          "tr": "siparişi iptal etmek",
-          "example_de": "Sie storniert ihre Bestellung."
+          "tr": "bir şey için geçerli olmak",
+          "example_de": "Diese Beschreibung trifft auf viele Studierende zu."
         },
         {
-          "de": "Händler",
-          "article": "der",
-          "tr": "satıcı",
-          "example_de": "Der Händler bietet ein Extra an."
+          "de": "sich an etwas gewöhnen",
+          "article": null,
+          "tr": "bir şeye alışmak",
+          "example_de": "Ich habe mich schnell an den Düsseldorfer Winter gewöhnt."
         },
         {
-          "de": "Diskussionen auslösen",
+          "de": "eine offene Frage bleiben",
           "article": null,
-          "tr": "tartışma yaratmak",
-          "example_de": "Das Poster löst Diskussionen aus."
+          "tr": "açık bir soru olarak kalmak",
+          "example_de": "Die Ursache bleibt vorerst eine offene Frage."
         },
         {
-          "de": "zum Ausdrucken",
-          "article": null,
-          "tr": "yazdırmak için",
-          "example_de": "Die Datei gibt es zum Ausdrucken."
+          "de": "Verlangen",
+          "article": "das",
+          "tr": "istek",
+          "example_de": "Er spürte ein starkes Verlangen nach Schokolade."
         }
       ],
       "exercises": [
         {
-          "question_de": "Was liegt der Box-Version laut Text bei MediaMarkt und Saturn offenbar bei?",
+          "question_de": "Welches Beispiel für ein Suchtkriterium nennt der Forscher?",
           "options": [
-            "Eine Disc",
-            "Ein doppelseitiges Poster",
-            "Ein Kartenspiel"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bietet Rockstar ab dem 19. November an?",
-          "options": [
-            "Eine kostenlose Karte zum Ausdrucken",
-            "Ein kostenloses Spiel",
-            "Einen Rabatt von 50 Prozent"
+            "Toleranzentwicklung",
+            "Schlafmangel",
+            "Fieber",
+            "Kopfschmerzen"
           ],
           "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „hyperpalatabel“ laut Artikel?",
+          "options": [
+            "Besonders gesund",
+            "Sehr lecker, sodass es den Gaumen überwältigt",
+            "Sehr teuer",
+            "Völlig geschmacklos"
+          ],
+          "answer_index": 1
         }
       ]
     },
     {
-      "id": "2026-11-09-rob-run-steam-early-access",
+      "id": "2026-11-10-dark-heresy-release",
       "category": "gaming",
-      "title_de": "ROB RUN: Fast 100.000 Spieler zeitgleich als Polizisten oder Gangster",
-      "summary_de": "Das Free-to-play-Spiel ROB RUN ist am 4. November im Early Access auf Steam gestartet. Es ist eine große Multiplayer-Sandbox, in der Tausende Spielende gleichzeitig als Polizisten oder Gangster gegeneinander antreten. Man kann Überfälle planen oder verhindern, Gebiete kontrollieren, anderen Spielern Beute abnehmen und Bandenkriege führen. Das Diebesgut landet in einem Unterschlupf, der sich ausbauen lässt und umso mehr Rivalen anlockt, je größer er wird. Laut SteamDB waren zeitweise 95.342 Menschen gleichzeitig online, am Sonntagmorgen immer noch über 67.000. Die Bewertungen fallen dagegen durchwachsen aus: Nur 46 Prozent der bisher 250 Reviews sind positiv. Kritisiert werden schwache Server mit gemeldeten DDoS-Angriffen, Bugs und ein Vorteil für die Polizei. Manche Tester loben dennoch das solide Spielprinzip, falls die Entwickler die Probleme beheben.",
-      "source_name": "MeinMMO",
-      "source_url": "https://mein-mmo.de/rob-run-steam-early-access-start/",
+      "title_de": "Warhammer 40.000: Dark Heresy erscheint am 28. Januar 2027",
+      "summary_de": "Das Rollenspiel Warhammer 40.000: Dark Heresy hat ein Erscheinungsdatum bekommen. Es erscheint am 28. Januar 2027 für PC, PlayStation 5 und Xbox. Das Studio Owlcat setzt dabei auf eine isometrische Perspektive und rundenbasierte Kämpfe und Dialoge. Man erstellt einen Inquisitor und reist mit einer Gruppe von Begleitern, zu der unter anderem ein Arzt und ein riesiger Ogryn-Leibwächter gehören. Neu ist die Figur Touma. Besonderes Merkmal ist ein eigenes Ermittlungssystem, bei dem man an einer Pinnwand Hinweise, Zeugenaussagen und Widersprüche verknüpft wie ein Detektiv. Man entscheidet selbst, wie glaubwürdig ein Zeuge wirkt, und die Entscheidungen haben Folgen, etwa wenn man einen Verdächtigen hinrichten lässt. Die Handlung spielt im Calixis-Sektor, in dem Ketzerei weit verbreitet ist und kaum jemand der ist, der er vorgibt zu sein. Eine Beta zu den ersten Spielstunden läuft seit Dezember 2025 auf Steam.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/warhammer-40000-dark-heresy-release-datum/",
       "glossary": [
         {
-          "form": "antreten",
-          "lemma": "antreten",
-          "article": null,
-          "tr": "karşı karşıya gelmek"
-        },
-        {
-          "form": "Überfälle",
-          "lemma": "Überfall",
-          "article": "der",
-          "tr": "soygunlar, saldırılar"
-        },
-        {
-          "form": "verhindern",
-          "lemma": "verhindern",
-          "article": null,
-          "tr": "engellemek"
-        },
-        {
-          "form": "Gebiete",
-          "lemma": "Gebiet",
+          "form": "Rollenspiel",
+          "lemma": "Rollenspiel",
           "article": "das",
-          "tr": "bölgeler"
+          "tr": "rol yapma oyunu"
         },
         {
-          "form": "Beute",
-          "lemma": "Beute",
+          "form": "Erscheinungsdatum",
+          "lemma": "Erscheinungsdatum",
+          "article": "das",
+          "tr": "çıkış tarihi"
+        },
+        {
+          "form": "isometrische",
+          "lemma": "isometrisch",
+          "article": null,
+          "tr": "izometrik"
+        },
+        {
+          "form": "rundenbasierte",
+          "lemma": "rundenbasiert",
+          "article": null,
+          "tr": "sıra tabanlı"
+        },
+        {
+          "form": "Begleitern",
+          "lemma": "Begleiter",
+          "article": "der",
+          "tr": "yoldaş, eşlikçi"
+        },
+        {
+          "form": "Leibwächter",
+          "lemma": "Leibwächter",
+          "article": "der",
+          "tr": "koruma"
+        },
+        {
+          "form": "Merkmal",
+          "lemma": "Merkmal",
+          "article": "das",
+          "tr": "özellik"
+        },
+        {
+          "form": "Ermittlungssystem",
+          "lemma": "Ermittlungssystem",
+          "article": "das",
+          "tr": "soruşturma sistemi"
+        },
+        {
+          "form": "Pinnwand",
+          "lemma": "Pinnwand",
           "article": "die",
-          "tr": "ganimet"
+          "tr": "pano"
         },
         {
-          "form": "Bandenkriege",
-          "lemma": "Bandenkrieg",
+          "form": "Hinweise",
+          "lemma": "Hinweis",
           "article": "der",
-          "tr": "çete savaşları"
+          "tr": "ipucu"
         },
         {
-          "form": "Diebesgut",
-          "lemma": "Diebesgut",
+          "form": "Zeugenaussagen",
+          "lemma": "Zeugenaussage",
+          "article": "die",
+          "tr": "tanık ifadesi"
+        },
+        {
+          "form": "Widersprüche",
+          "lemma": "Widerspruch",
+          "article": "der",
+          "tr": "çelişki"
+        },
+        {
+          "form": "verknüpft",
+          "lemma": "verknüpfen",
+          "article": null,
+          "tr": "bağlamak"
+        },
+        {
+          "form": "glaubwürdig",
+          "lemma": "glaubwürdig",
+          "article": null,
+          "tr": "inandırıcı"
+        },
+        {
+          "form": "Verdächtigen",
+          "lemma": "Verdächtige",
+          "article": "der",
+          "tr": "şüpheli"
+        },
+        {
+          "form": "hinrichten",
+          "lemma": "hinrichten",
+          "article": null,
+          "tr": "idam etmek"
+        },
+        {
+          "form": "Ketzerei",
+          "lemma": "Ketzerei",
+          "article": "die",
+          "tr": "sapkınlık"
+        },
+        {
+          "form": "verbreitet",
+          "lemma": "verbreitet",
+          "article": null,
+          "tr": "yaygın"
+        },
+        {
+          "form": "vorgibt",
+          "lemma": "vorgeben",
+          "article": null,
+          "tr": "öyleymiş gibi yapmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "ein Erscheinungsdatum bekommen",
+          "article": null,
+          "tr": "çıkış tarihi almak",
+          "example_de": "Das Spiel hat endlich ein Erscheinungsdatum bekommen."
+        },
+        {
+          "de": "auf etwas setzen",
+          "article": null,
+          "tr": "bir şeye güvenmek, bahse girmek",
+          "example_de": "Das Studio setzt auf eine starke Story."
+        },
+        {
+          "de": "Folgen haben",
+          "article": null,
+          "tr": "sonuçları olmak",
+          "example_de": "Jede Entscheidung hat Folgen."
+        },
+        {
+          "de": "Hinweise verknüpfen",
+          "article": null,
+          "tr": "ipuçlarını birleştirmek",
+          "example_de": "Im Spiel muss man alle Hinweise verknüpfen."
+        },
+        {
+          "de": "glaubwürdig wirken",
+          "article": null,
+          "tr": "inandırıcı görünmek",
+          "example_de": "Seine Ausrede wirkte nicht glaubwürdig."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist das besondere Merkmal des Spiels?",
+          "options": [
+            "Ein Ermittlungssystem mit Pinnwand",
+            "Ein Rennmodus",
+            "Ein Bausystem",
+            "Ein Mehrspieler-Shooter"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Wann erscheint das Spiel?",
+          "options": [
+            "Im Dezember 2025",
+            "Am 28. Januar 2027",
+            "Im Sommer 2026",
+            "Noch ohne Datum"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-wow-forever-twitch",
+      "category": "gaming",
+      "title_de": "WoW: Forever verdrängt „Just Chatting“ von Twitch-Platz eins",
+      "summary_de": "Der Start von WoW: Forever hat auf Twitch für enorme Zuschauerzahlen gesorgt. Zum Launch schauten über eine Million Menschen gleichzeitig zu, die Zahl sank aber schnell, sobald man sich tatsächlich einloggen konnte. In den vergangenen drei Tagen war World of Warcraft die meistgesehene Kategorie auf Twitch und verdrängte damit „Just Chatting“, das seit Jahren vorne liegt. Just Chatting hatte zwar mehr als doppelt so viele aktive Streamer, doch die WoW-Streamer waren deutlich länger live, und ihr Publikum blieb dabei. Auf Platz eins der Streamer liegt JokerdTV, dessen Rennen um den ersten Charakter auf Level 60 zeitweise über 70.000 Zuschauende anzog. Dahinter folgen Asmongold, sodapoppin, der deutsche Streamer metashi12 und Xaryu. Metashi12 ist Mitorganisator von Sauercrowd und streamte nach einem großen LAN-Event fast ununterbrochen. Frühere große Zuschauerspitzen von WoW gingen vor allem auf Gilden-Projekte wie OnlyFangs zurück, diesmal gab es dagegen keine einzelne Mega-Gilde.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/wow-forever-twitch-start/",
+      "glossary": [
+        {
+          "form": "Zuschauerzahlen",
+          "lemma": "Zuschauerzahl",
+          "article": "die",
+          "tr": "izleyici sayısı"
+        },
+        {
+          "form": "gesorgt",
+          "lemma": "sorgen",
+          "article": null,
+          "tr": "yol açmak"
+        },
+        {
+          "form": "einloggen",
+          "lemma": "einloggen",
+          "article": null,
+          "tr": "giriş yapmak"
+        },
+        {
+          "form": "meistgesehene",
+          "lemma": "meistgesehen",
+          "article": null,
+          "tr": "en çok izlenen"
+        },
+        {
+          "form": "Kategorie",
+          "lemma": "Kategorie",
+          "article": "die",
+          "tr": "kategori"
+        },
+        {
+          "form": "verdrängte",
+          "lemma": "verdrängen",
+          "article": null,
+          "tr": "yerinden etmek"
+        },
+        {
+          "form": "Publikum",
+          "lemma": "Publikum",
           "article": "das",
-          "tr": "çalıntı mal"
-        },
-        {
-          "form": "Unterschlupf",
-          "lemma": "Unterschlupf",
-          "article": "der",
-          "tr": "sığınak"
-        },
-        {
-          "form": "ausbauen",
-          "lemma": "ausbauen",
-          "article": null,
-          "tr": "genişletmek"
-        },
-        {
-          "form": "anlockt",
-          "lemma": "anlocken",
-          "article": null,
-          "tr": "çekmek"
-        },
-        {
-          "form": "Rivalen",
-          "lemma": "Rivale",
-          "article": "der",
-          "tr": "rakipler"
+          "tr": "izleyici kitlesi"
         },
         {
           "form": "zeitweise",
@@ -1671,236 +1907,98 @@
           "tr": "zaman zaman"
         },
         {
-          "form": "durchwachsen",
-          "lemma": "durchwachsen",
-          "article": null,
-          "tr": "karışık (vasat)"
+          "form": "Zuschauende",
+          "lemma": "Zuschauende",
+          "article": "der",
+          "tr": "izleyenler"
         },
         {
-          "form": "Kritisiert",
-          "lemma": "kritisieren",
+          "form": "anzog",
+          "lemma": "anziehen",
           "article": null,
-          "tr": "eleştirmek"
+          "tr": "çekmek"
         },
         {
-          "form": "gemeldeten",
-          "lemma": "gemeldet",
-          "article": null,
-          "tr": "bildirilen"
+          "form": "Mitorganisator",
+          "lemma": "Mitorganisator",
+          "article": "der",
+          "tr": "eş organizatör"
         },
         {
-          "form": "beheben",
-          "lemma": "beheben",
+          "form": "ununterbrochen",
+          "lemma": "ununterbrochen",
           "article": null,
-          "tr": "gidermek"
+          "tr": "kesintisiz"
+        },
+        {
+          "form": "Zuschauerspitzen",
+          "lemma": "Zuschauerspitze",
+          "article": "die",
+          "tr": "izleyici zirvesi"
+        },
+        {
+          "form": "Gilden-Projekte",
+          "lemma": "Gilden-Projekt",
+          "article": "das",
+          "tr": "lonca projesi"
+        },
+        {
+          "form": "einzelne",
+          "lemma": "einzeln",
+          "article": null,
+          "tr": "tek, münferit"
         }
       ],
       "vocabulary": [
         {
-          "de": "gegeneinander antreten",
+          "de": "für etwas sorgen",
           "article": null,
-          "tr": "birbirine karşı yarışmak",
-          "example_de": "Die Teams treten heute gegeneinander an."
+          "tr": "bir şeye yol açmak",
+          "example_de": "Das Update sorgt für viel Diskussion."
         },
         {
-          "de": "eine Basis ausbauen",
+          "de": "auf Platz eins liegen",
           "article": null,
-          "tr": "bir üssü genişletmek",
-          "example_de": "Wir wollen unsere Basis ausbauen."
+          "tr": "birinci sırada olmak",
+          "example_de": "Unser Team liegt in der Tabelle auf Platz eins."
         },
         {
-          "de": "durchwachsene Bewertungen",
+          "de": "zeitweise",
           "article": null,
-          "tr": "karışık yorumlar",
-          "example_de": "Das Spiel hat durchwachsene Bewertungen."
+          "tr": "zaman zaman",
+          "example_de": "Der Server war zeitweise nicht erreichbar."
         },
         {
-          "de": "ein Problem beheben",
+          "de": "fast ununterbrochen",
           "article": null,
-          "tr": "bir sorunu gidermek",
-          "example_de": "Der Entwickler behebt den Fehler."
+          "tr": "neredeyse kesintisiz",
+          "example_de": "Er hat das Wochenende fast ununterbrochen gespielt."
         },
         {
-          "de": "Beute",
-          "article": "die",
-          "tr": "ganimet",
-          "example_de": "Die Beute wird im Versteck gelagert."
+          "de": "auf etwas zurückgehen",
+          "article": null,
+          "tr": "bir şeyden kaynaklanmak",
+          "example_de": "Der Erfolg geht auf gute Planung zurück."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wie fallen die Steam-Bewertungen laut Text aus?",
+          "question_de": "Welche Kategorie verdrängte WoW von Platz eins?",
           "options": [
-            "Durchwachsen",
-            "Überwältigend positiv",
-            "Ausschließlich negativ"
+            "Just Chatting",
+            "Counter-Strike 2",
+            "Musik",
+            "Sport"
           ],
           "answer_index": 0
         },
         {
-          "question_de": "Was bedeutet „zeitweise“?",
+          "question_de": "Was hatte Just Chatting laut Artikel mehr?",
           "options": [
-            "immer",
-            "manchmal, für eine Zeit",
-            "nie"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-lords-of-the-fallen-2-kampfsystem",
-      "category": "gaming",
-      "title_de": "Lords of the Fallen 2: Neues Gameplay zeigt das überarbeitete Kampfsystem",
-      "summary_de": "Das Entwicklerstudio CI Games hat einen neuen Trailer und eine Folge seiner Videoserie zu Lords of the Fallen 2 veröffentlicht. Im Mittelpunkt steht das überarbeitete Kampfsystem. Für Nahkämpfer gibt es fast 30 Bewegungsabläufe mit Waffen, doppelt so viele wie im ersten Teil. Mitten in einer Kombination darf man zwischen zwei Nahkampfwaffen wechseln, etwa von zwei Dolchen zu einer Sense. Magier haben sieben Schulen zur Auswahl, und jeder Katalysator speichert bis zu vier Zauber. Ein zweiter Katalysator lässt sich per Tastendruck austauschen. Bögen und Armbrüste haben unbegrenzt einfache Munition, stärkere Sorten sind begrenzt und an Stationen nachfüllbar. Fernkämpfer und Magier bekommen eigene Haltungen, die sie beweglich halten. Erscheinen soll das Spiel im ersten Quartal 2027, womit CI Games laut eigener Aussage die starke Konkurrenz im Weihnachtsgeschäft vermeidet.",
-      "source_name": "PC Games",
-      "source_url": "https://www.pcgames.de/Lords-of-the-Fallen-2-Spiel-55606/News/Gameplay-Kampfsystem-Waffen-Magie-1559255/",
-      "glossary": [
-        {
-          "form": "Entwicklerstudio",
-          "lemma": "Entwicklerstudio",
-          "article": "das",
-          "tr": "geliştirici stüdyo"
-        },
-        {
-          "form": "überarbeitete",
-          "lemma": "überarbeitet",
-          "article": null,
-          "tr": "elden geçirilmiş"
-        },
-        {
-          "form": "Kampfsystem",
-          "lemma": "Kampfsystem",
-          "article": "das",
-          "tr": "dövüş sistemi"
-        },
-        {
-          "form": "Nahkämpfer",
-          "lemma": "Nahkämpfer",
-          "article": "der",
-          "tr": "yakın dövüşçüler"
-        },
-        {
-          "form": "Bewegungsabläufe",
-          "lemma": "Bewegungsablauf",
-          "article": "der",
-          "tr": "hareket dizileri"
-        },
-        {
-          "form": "Kombination",
-          "lemma": "Kombination",
-          "article": "die",
-          "tr": "kombo"
-        },
-        {
-          "form": "Dolchen",
-          "lemma": "Dolch",
-          "article": "der",
-          "tr": "hançerler"
-        },
-        {
-          "form": "Sense",
-          "lemma": "Sense",
-          "article": "die",
-          "tr": "tırpan"
-        },
-        {
-          "form": "Zauber",
-          "lemma": "Zauber",
-          "article": "der",
-          "tr": "büyüler"
-        },
-        {
-          "form": "Katalysator",
-          "lemma": "Katalysator",
-          "article": "der",
-          "tr": "katalizör (büyü aracı)"
-        },
-        {
-          "form": "austauschen",
-          "lemma": "austauschen",
-          "article": null,
-          "tr": "değiştirmek"
-        },
-        {
-          "form": "unbegrenzt",
-          "lemma": "unbegrenzt",
-          "article": null,
-          "tr": "sınırsız"
-        },
-        {
-          "form": "Munition",
-          "lemma": "Munition",
-          "article": "die",
-          "tr": "mühimmat"
-        },
-        {
-          "form": "nachfüllbar",
-          "lemma": "nachfüllbar",
-          "article": null,
-          "tr": "yeniden doldurulabilir"
-        },
-        {
-          "form": "Haltungen",
-          "lemma": "Haltung",
-          "article": "die",
-          "tr": "duruşlar"
-        },
-        {
-          "form": "Konkurrenz",
-          "lemma": "Konkurrenz",
-          "article": "die",
-          "tr": "rekabet"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "Kampfsystem",
-          "article": "das",
-          "tr": "dövüş sistemi",
-          "example_de": "Das Kampfsystem ist anspruchsvoll."
-        },
-        {
-          "de": "zwischen Waffen wechseln",
-          "article": null,
-          "tr": "silahlar arasında geçiş yapmak",
-          "example_de": "Im Kampf kannst du schnell zwischen Waffen wechseln."
-        },
-        {
-          "de": "im Mittelpunkt stehen",
-          "article": null,
-          "tr": "odak noktasında olmak",
-          "example_de": "Im Mittelpunkt steht die Story."
-        },
-        {
-          "de": "Konkurrenz",
-          "article": "die",
-          "tr": "rekabet",
-          "example_de": "Die Konkurrenz im Dezember ist groß."
-        },
-        {
-          "de": "einen Termin vermeiden",
-          "article": null,
-          "tr": "bir tarihten kaçınmak",
-          "example_de": "Sie vermeiden den Termin wegen der Konkurrenz."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wann soll das Spiel erscheinen?",
-          "options": [
-            "Im ersten Quartal 2027",
-            "Im Dezember 2026",
-            "Im Sommer 2028"
-          ],
-          "answer_index": 0
-        },
-        {
-          "question_de": "Was gilt für einfache Munition bei Bögen und Armbrüsten?",
-          "options": [
-            "Sie ist knapp",
-            "Sie ist unbegrenzt",
-            "Sie kostet Geld"
+            "Längere Streams",
+            "Mehr aktive Streamer",
+            "Mehr Fans in Deutschland",
+            "Mehr Level"
           ],
           "answer_index": 1
         }

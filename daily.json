@@ -1,1149 +1,265 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "level": "original",
   "facts": [
     {
-      "de": "Der Mount Everest ist nach einer gemeinsamen Neuvermessung von China und Nepal im Jahr 2020 genau 8.848,86 Meter hoch.",
-      "tr": "Everest Dağı, Çin ve Nepal'in 2020'de birlikte yaptığı yeni ölçüme göre tam 8.848,86 metre yüksekliğindedir.",
-      "source_url": "https://de.wikipedia.org/wiki/Mount_Everest"
+      "de": "Das Brandenburger Tor in Berlin wurde zwischen 1789 und 1793 nach Plänen von Carl Gotthard Langhans gebaut und orientiert sich an den Propyläen in Athen.",
+      "tr": "Berlin'deki Brandenburg Kapısı, Carl Gotthard Langhans'ın planlarına göre 1789 ile 1793 arasında inşa edildi ve Atina'daki Propylaia'yı örnek alır.",
+      "source_url": "https://de.wikipedia.org/wiki/Brandenburger_Tor"
     },
     {
-      "de": "Johannes Gutenberg begann um 1450 in Mainz mit dem Buchdruck mit beweglichen Metalllettern.",
-      "tr": "Johannes Gutenberg, 1450 civarında Mainz'da hareketli metal harflerle matbaa baskısına başladı.",
-      "source_url": "https://de.wikipedia.org/wiki/Johannes_Gutenberg"
+      "de": "Die Hagia Sophia in Istanbul wurde innerhalb von fast sechs Jahren errichtet und am 27. Dezember 537 eingeweiht. Rund tausend Jahre lang war sie die größte Kirche der Christenheit.",
+      "tr": "İstanbul'daki Ayasofya yaklaşık altı yılda inşa edildi ve 27 Aralık 537'de açıldı. Yaklaşık bin yıl boyunca Hristiyan dünyasının en büyük kilisesiydi.",
+      "source_url": "https://de.wikipedia.org/wiki/Hagia_Sophia"
     },
     {
-      "de": "Bei minus 40 Grad zeigen das Celsius- und das Fahrenheit-Thermometer denselben Wert.",
-      "tr": "Eksi 40 derecede Celsius ve Fahrenheit termometreleri aynı değeri gösterir.",
-      "source_url": "https://de.wikipedia.org/wiki/Grad_Fahrenheit"
+      "de": "Die Körperoberfläche eines Erwachsenen beträgt im Durchschnitt etwa 1,7 Quadratmeter. Damit ist die Haut flächenmäßig das größte Sinnesorgan des Menschen.",
+      "tr": "Yetişkin bir insanın vücut yüzeyi ortalama yaklaşık 1,7 metrekaredir. Böylece cilt, yüzey olarak insanın en büyük duyu organıdır.",
+      "source_url": "https://de.wikipedia.org/wiki/Haut"
     }
   ],
   "idiom": {
-    "de": "Das ist ein Tropfen auf den heißen Stein.",
-    "meaning_tr": "Yapılan şey sorunu çözmek için çok yetersizdir.",
-    "literal_tr": "Bu, sıcak taşın üzerine bir damladır.",
-    "equivalent_tr": "Devede kulak.",
-    "example_de": "Zehn Euro für die Spendenaktion sind nur ein Tropfen auf den heißen Stein, aber besser als nichts.",
-    "example_tr": "Bağış kampanyası için on avro sadece devede kulak, ama hiç yoktan iyidir."
+    "de": "Etwas auf die lange Bank schieben.",
+    "meaning_tr": "Bir işi sürekli ertelemek, yapmayı geciktirmek.",
+    "literal_tr": "Bir şeyi uzun sıraya itmek.",
+    "equivalent_tr": "Bir işi sürüncemede bırakmak / ertelemek.",
+    "example_de": "Ich habe die Steuererklärung schon wieder auf die lange Bank geschoben.",
+    "example_tr": "Vergi beyannamesini yine ertelemişim."
   },
   "reading": [
     {
       "type": "ana",
-      "text_de": "Viele Menschen glauben, dass Multitasking sie produktiver macht. Wer jedoch ständig zwischen E-Mails, Chat und Dokument wechselt, braucht nach jeder Unterbrechung Zeit, um sich wieder zu konzentrieren. Zwar fühlt sich das schnelle Hin und Her anstrengend und deshalb wichtig an, doch am Ende bleiben oft mehr Fehler und weniger fertige Aufgaben. Daher empfehlen Fachleute, Aufgaben nacheinander zu erledigen.",
+      "text_de": "Viele Studierende glauben, sie lernten am besten in der Nacht, weil dann das Handy ruhig bleibt und niemand sie stört. Tatsächlich zeigen Schlafstudien jedoch, dass das Gehirn neue Inhalte während des Schlafs festigt. Wer die Nacht durchlernt, gewinnt also zwar Zeit zum Üben, verliert aber genau die Phase, in der sich das Gelernte setzt. Ein kürzerer Lernabend mit anschließendem Schlaf kann deshalb effektiver sein als eine lange Nachtschicht.",
       "question_de": "Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?",
       "options": [
-        "Wer mehrere Dinge gleichzeitig macht, lernt dadurch automatisch, sich besser zu konzentrieren.",
-        "Anstrengende Arbeit führt immer zu einem guten Ergebnis, auch bei ständigen Unterbrechungen.",
-        "Das Gefühl von Produktivität beim Multitasking täuscht, weil Wechsel Zeit kosten und Fehler fördern.",
-        "E-Mails und Chats sollten grundsätzlich nicht mehr für die Arbeit genutzt werden."
+        "Nächtliches Lernen ist grundsätzlich nutzlos, weil das Gehirn nachts nicht arbeitet.",
+        "Ruhe in der Nacht ist der wichtigste Faktor für erfolgreiches Lernen.",
+        "Zusätzliche Lernzeit auf Kosten des Schlafs kann den Lernerfolg eher mindern als steigern.",
+        "Studierende sollten abends das Handy ausschalten, um besser einzuschlafen."
       ],
       "answer_index": 2,
-      "explanation_tr": "Metin, çoklu görevin verimli hissettirdiğini ama aslında zaman kaybı ve hata getirdiğini anlatır; doğru cevap C. B şıkkı 'immer' ile aşırı genelleme yapar ve metne ters düşer; D metinde söylenmeyen aşırı bir sonuçtur."
+      "explanation_tr": "Der Text sagt, dass Durchlernen zwar Zeit bringt, aber die Festigungsphase im Schlaf kostet (C). A ist übertrieben („grundsätzlich nutzlos“), denn Lernen in der Nacht wird nicht als wertlos bezeichnet; der Schlaf arbeitet ja gerade."
     },
     {
       "type": "cikarilamaz",
-      "text_de": "In vielen Städten werden Parkplätze am Straßenrand zu kleinen Grünflächen umgebaut. Befürworter sagen, dass dadurch die Luft besser und die Straße im Sommer kühler wird. Gegner halten dagegen, dass Anwohner mit Auto nun länger nach einem Platz suchen müssen. Die Stadt will die Wirkung ein Jahr lang untersuchen, bevor sie weitere Parkplätze umwandelt.",
+      "text_de": "Die Stadt will im Zentrum eine autofreie Zone einrichten. Befürworter argumentieren, dass Lärm und Abgase sinken und die Aufenthaltsqualität steigt. Händler befürchten dagegen, dass Kunden ausbleiben, wenn sie nicht mehr direkt vor dem Geschäft parken können. Erfahrungen aus anderen Städten zeigen zwar, dass der Umsatz oft stabil bleibt, doch gelten sie nicht automatisch für jede Stadt. Bevor entschieden wird, soll deshalb ein einjähriger Testlauf stattfinden.",
       "question_de": "Welche Aussage lässt sich aus dem Text NICHT ableiten?",
       "options": [
-        "Die Stadt entscheidet über weitere Umbauten erst nach einer Untersuchung.",
-        "Für manche Anwohner wird die Parkplatzsuche voraussichtlich schwieriger.",
-        "Grünflächen können nach Ansicht der Befürworter die Hitze im Sommer mindern.",
-        "Alle Anwohner der betroffenen Straßen haben dem Umbau ausdrücklich zugestimmt."
+        "Die Erfahrungen anderer Städte beweisen, dass autofreie Zonen dem Handel nie schaden.",
+        "Die Entscheidung über die Zone ist noch nicht endgültig gefallen.",
+        "Befürworter erwarten weniger Lärm und bessere Luft.",
+        "Manche Händler sehen ihre Kundschaft durch fehlende Parkplätze bedroht."
       ],
-      "answer_index": 3,
-      "explanation_tr": "Metinde Anwohner'ların hepsinin onayladığına dair bir şey yok; hatta karşı çıkanlar var, bu yüzden D çıkarılamaz. A şıkkı son cümleden, C şıkkı Befürworter görüşünden çıkarılabilir."
+      "answer_index": 0,
+      "explanation_tr": "A lässt sich nicht ableiten: Der Text sagt, dass die Erfahrungen nur „oft“ stabile Umsätze zeigen und nicht automatisch übertragbar sind. B, C und D stehen sinngemäß im Text; B folgt aus dem geplanten Testlauf."
     },
     {
       "type": "bosluk",
-      "text_de": "Die Stadtbibliothek hat ihre Öffnungszeiten verlängert. Früher war sie nur bis 18 Uhr geöffnet, jetzt können Studierende bis 22 Uhr lernen. ___ Deshalb haben sich viele Prüfungsgruppen dort feste Plätze reserviert.",
+      "text_de": "Viele Spieler ärgern sich nach einer Niederlage zuerst über ihr Team. Sportpsychologen raten jedoch, die Ursache zunächst bei sich selbst zu suchen. ___ Wer dagegen die eigenen Fehler analysiert, kann sich beim nächsten Mal konkret verbessern. So wird aus dem Frust ein Lernmoment.",
       "question_de": "Welcher Satz passt am besten in die Lücke (___)?",
       "options": [
-        "Die Bücher sind dadurch leider teurer geworden.",
-        "Gerade in der Klausurphase war der Andrang am Abend schnell groß.",
-        "Viele Menschen lesen heute lieber auf dem Handy.",
-        "Die Bibliothek wurde vor hundert Jahren gegründet."
+        "Wer sich selbst die Schuld gibt, fühlt sich zwar schlechter, spielt aber sofort besser.",
+        "Wer die Schuld bei anderen sucht, verliert dadurch auch die Freundschaft zu ihnen.",
+        "Wer gar nicht über Niederlagen nachdenkt, hat nach Ansicht der Psychologen den meisten Spaß.",
+        "Wer die Schuld bei anderen sucht, fühlt sich zwar entlastet, ändert aber nichts an seinem eigenen Spiel."
       ],
-      "answer_index": 1,
-      "explanation_tr": "Boşluktan sonraki 'Deshalb ... Plätze reserviert' cümlesi, akşamları yoğun talep olduğunu gerektirir; B uyar. D tarihî bir bilgidir ama bağlantı kurmaz, C konuyla ilişkili gibi görünse de 'Deshalb'a neden olmaz."
+      "answer_index": 3,
+      "explanation_tr": "Das „dagegen“ verlangt einen Gegensatz zur Selbstanalyse: Schuldzuweisung bringt keine Verbesserung (D). A beschreibt Selbstvorwürfe statt Selbstanalyse, B nennt eine Nebenfolge, die nichts mit Verbessern zu tun hat."
     },
     {
       "type": "anlam",
-      "text_de": "Der Trainer lobte nach dem Spiel vor allem die Abwehr. Der Stürmer, der zwei Tore geschossen hatte, bekam dagegen nur einen kurzen Applaus. Als ein Reporter nachfragte, sagte der Trainer, ein Team sei eben „nur so stark wie sein schwächstes Glied“. Er meinte damit, dass auch die unauffälligen Spieler wichtig sind.",
-      "question_de": "Was ist mit „nur so stark wie sein schwächstes Glied“ gemeint?",
+      "text_de": "Der Verein sucht seit Monaten einen neuen Trainer, doch viele Kandidaten winken ab. Der Grund liegt weniger im Gehalt als in der Lage des Klubs, der finanziell kaum Spielraum hat. Manche Experten sagen deshalb, wer dort anfange, müsse „mit angezogener Handbremse“ arbeiten. Der Sportdirektor widerspricht und verweist auf den Nachwuchs des Vereins.",
+      "question_de": "Was ist mit „mit angezogener Handbremse“ gemeint?",
       "options": [
-        "Der Erfolg einer Gruppe hängt auch von ihren schwächeren Mitgliedern ab.",
-        "Ein Spieler mit einer Verletzung darf nicht mehr mitspielen.",
-        "Ein Team gewinnt nur, wenn alle Spieler gleich viele Tore schießen.",
-        "Die Abwehr ist immer wichtiger als der Angriff."
-      ],
-      "answer_index": 0,
-      "explanation_tr": "Deyim, bir grubun başarısının zayıf halkasına da bağlı olduğunu söyler; A doğru. C 'gleich viele Tore' diyerek abartır, D ise 'immer' ile aşırı genelleme yapar."
-    },
-    {
-      "type": "celiski",
-      "text_de": "Obwohl Kaffee oft einen schlechten Ruf hat, zeigen mehrere Untersuchungen, dass drei bis vier Tassen am Tag für die meisten gesunden Erwachsenen unbedenklich sind. Allerdings reagieren Menschen unterschiedlich: Manche schlafen nach einem Espresso am Nachmittag schlecht, andere merken davon nichts. Schwangere sollten ihren Konsum dagegen einschränken. Wer Herzprobleme hat, sollte vorher mit einer Ärztin sprechen.",
-      "question_de": "Welche Aussage widerspricht dem Text?",
-      "options": [
-        "Die Wirkung von Kaffee auf den Schlaf ist nicht bei jedem gleich.",
-        "Jeder Mensch verträgt unabhängig von Alter und Gesundheit beliebig viel Kaffee.",
-        "Für Schwangere gilt eine Empfehlung zur Einschränkung des Konsums.",
-        "Mehrere Studien halten moderaten Kaffeekonsum bei Gesunden für unbedenklich."
+        "Der Trainer müsste besonders vorsichtig und langsam fahren.",
+        "Der Trainer könnte wegen der Umstände sein Können nicht voll entfalten.",
+        "Der Trainer würde ständig von der Vereinsführung kontrolliert.",
+        "Der Trainer müsste mit einer sehr jungen Mannschaft arbeiten."
       ],
       "answer_index": 1,
-      "explanation_tr": "Metin, Schwangere ve kalp sorunu olanlar için kısıtlama önerir; bu yüzden herkesin 'beliebig viel' tüketebileceği ifadesi (B) metinle çelişir. A, C ve D metinde doğrudan geçer."
+      "explanation_tr": "Gemeint ist ein Arbeiten unter einschränkenden Bedingungen, hier dem fehlenden Geld (B). A nimmt den Ausdruck wörtlich; C und D sind plausibel, stehen aber nicht im Text."
+    },
+    {
+      "type": "tutum",
+      "text_de": "Seit Jahren kündigen Hersteller an, dass Smartphones bald unzerbrechlich und eine Woche lang ohne Ladegerät nutzbar seien. Wer sich die Datenblätter der vergangenen Modelle ansieht, entdeckt allerdings vor allem kleinere Kameramodule und dünnere Ränder. Natürlich ist das ein Fortschritt, doch wer auf den großen Sprung wartet, wartet vermutlich noch lange. Vielleicht sollten wir uns einfach damit abfinden, dass Technik meist in kleinen Schritten besser wird.",
+      "question_de": "Welche Haltung vertritt der Autor gegenüber den Ankündigungen der Hersteller?",
+      "options": [
+        "Er bewertet die Fortschritte als wertlos, weil sie zu klein ausfallen.",
+        "Er glaubt, dass die Hersteller ihre Versprechen mit etwas Geduld bald einlösen.",
+        "Er bleibt skeptisch, erkennt aber kleine Verbesserungen an.",
+        "Er hält die Ankündigungen für eine bewusste Täuschung der Kundschaft."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "Der Autor erkennt den Fortschritt an („Natürlich ist das ein Fortschritt“), zweifelt aber am großen Sprung (C). A ist zu negativ, D unterstellt Absicht, die der Text nicht nennt."
     }
   ],
   "items": [
     {
-      "id": "2026-11-11-martinslaternen",
+      "id": "2026-11-12-hoppeditz-erwacht",
       "category": "nrw",
-      "title_de": "Düsseldorf zeichnet die schönsten Martinslaternen aus",
-      "summary_de": "Die Stadt Düsseldorf hat die schönsten Martinslaternen des Jahres ausgezeichnet. Oberbürgermeister Stephan Keller überreichte die Preise im Jan-Wellem-Saal des Rathauses. Der Wettbewerb wird von der Vereinigung der Freunde des Martinsfestes organisiert, eine Jury wählte die Gewinner aus einer großen Ausstellung aus. Prämiert wurden Schülerinnen und Schüler des St.-Ursula-Gymnasiums, einer Kita und der Japanischen Internationalen Schule. Jeder Gewinner bekam eine Urkunde, einen Gutschein für Martinstüten und ein gefülltes Sparschwein. Der Martinszug startet um 17 Uhr am Stiftsplatz und führt durch die Altstadt zum Marktplatz. Dort findet gegen 17.30 Uhr die erste Mantelteilung statt, die zweite folgt gegen 18 Uhr am Burgplatz. Der Verein feierte im vergangenen Jahr sein hundertjähriges Bestehen. Der Martinszug steht inzwischen im NRW-Verzeichnis des immateriellen Kulturerbes, was als erster Schritt in Richtung UNESCO gilt.",
+      "title_de": "Der Hoppeditz ist in Düsseldorf erwacht",
+      "summary_de": "Am 11.11. um 11.11 Uhr ist in Düsseldorf der Hoppeditz aus seinem Senftopf gestiegen und hat damit die Karnevalssession 2026/27 eröffnet. In diesem Jahr stand Jan Philip Hilger zum ersten Mal allein auf dem Platz, denn er hat die Rolle von Tom Bauer übernommen. Auf dem Marktplatz und in der Altstadt versammelten sich zahlreiche Jecken, um die närrische Rede an die Stadtspitze zu hören. Oberbürgermeister Stephan Keller antwortete anschließend vom Balkon des Rathauses. Das Motto der Session lautet „Karneval – Grenzenlos vereint“. Auf der Bühne sorgten unter anderem die Band Brings und mehrere Karnevalsgesellschaften für Stimmung. Das Prinzenpaar Jens II. und Venetia Valerie wird am Freitag in der Rheinterrasse offiziell gekürt. Die heiße Phase beginnt mit dem Rathaussturm am 4. Februar 2027, der Rosenmontagszug folgt am 8. Februar.",
       "source_name": "Landeshauptstadt Düsseldorf",
-      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/martinszug-und-auszeichnung-der-schoensten-martinslaternen-3",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/karneval-in-duesseldorf-der-hoppeditz-ist-erwacht-5",
       "glossary": [
         {
-          "form": "ausgezeichnet",
-          "lemma": "auszeichnen",
-          "article": null,
-          "tr": "ödüllendirmek"
-        },
-        {
-          "form": "überreichte",
-          "lemma": "überreichen",
-          "article": null,
-          "tr": "takdim etti"
-        },
-        {
-          "form": "Wettbewerb",
-          "lemma": "Wettbewerb",
+          "form": "Senftopf",
+          "lemma": "Senftopf",
           "article": "der",
-          "tr": "yarışma"
+          "tr": "hardal kavanozu"
         },
         {
-          "form": "organisiert",
-          "lemma": "organisieren",
+          "form": "Karnevalssession",
+          "lemma": "Karnevalssession",
+          "article": "die",
+          "tr": "karnaval sezonu"
+        },
+        {
+          "form": "eröffnet",
+          "lemma": "eröffnen",
           "article": null,
-          "tr": "düzenlemek"
+          "tr": "açmak"
         },
         {
-          "form": "Jury",
-          "lemma": "Jury",
-          "article": "die",
-          "tr": "jüri"
-        },
-        {
-          "form": "Ausstellung",
-          "lemma": "Ausstellung",
-          "article": "die",
-          "tr": "sergi"
-        },
-        {
-          "form": "Prämiert",
-          "lemma": "prämieren",
+          "form": "übernommen",
+          "lemma": "übernehmen",
           "article": null,
-          "tr": "ödüllendirmek"
+          "tr": "devralmak"
         },
         {
-          "form": "Urkunde",
-          "lemma": "Urkunde",
-          "article": "die",
-          "tr": "belge, sertifika"
+          "form": "versammelten",
+          "lemma": "versammeln",
+          "article": null,
+          "tr": "toplanmak"
         },
         {
-          "form": "Gutschein",
-          "lemma": "Gutschein",
+          "form": "Jecken",
+          "lemma": "Jeck",
           "article": "der",
-          "tr": "hediye çeki"
+          "tr": "karnaval meraklısı"
         },
         {
-          "form": "Sparschwein",
-          "lemma": "Sparschwein",
-          "article": "das",
-          "tr": "kumbara"
-        },
-        {
-          "form": "Mantelteilung",
-          "lemma": "Mantelteilung",
-          "article": "die",
-          "tr": "mantonun paylaşılması (Aziz Martin sahnesi)"
-        },
-        {
-          "form": "Bestehen",
-          "lemma": "Bestehen",
-          "article": "das",
-          "tr": "varlık, kuruluş süresi"
-        },
-        {
-          "form": "Verzeichnis",
-          "lemma": "Verzeichnis",
-          "article": "das",
-          "tr": "liste, envanter"
-        },
-        {
-          "form": "immateriellen",
-          "lemma": "immateriell",
+          "form": "närrische",
+          "lemma": "närrisch",
           "article": null,
-          "tr": "somut olmayan"
+          "tr": "komik-çılgın (karnaval)"
         },
         {
-          "form": "Kulturerbes",
-          "lemma": "Kulturerbe",
+          "form": "Stadtspitze",
+          "lemma": "Stadtspitze",
+          "article": "die",
+          "tr": "şehir yönetimi"
+        },
+        {
+          "form": "Oberbürgermeister",
+          "lemma": "Oberbürgermeister",
+          "article": "der",
+          "tr": "büyükşehir belediye başkanı"
+        },
+        {
+          "form": "Rathauses",
+          "lemma": "Rathaus",
           "article": "das",
-          "tr": "kültürel miras"
+          "tr": "belediye binası"
+        },
+        {
+          "form": "Motto",
+          "lemma": "Motto",
+          "article": "das",
+          "tr": "slogan"
+        },
+        {
+          "form": "Stimmung",
+          "lemma": "Stimmung",
+          "article": "die",
+          "tr": "ortam, hava"
+        },
+        {
+          "form": "Prinzenpaar",
+          "lemma": "Prinzenpaar",
+          "article": "das",
+          "tr": "karnaval prens çifti"
+        },
+        {
+          "form": "gekürt",
+          "lemma": "küren",
+          "article": null,
+          "tr": "seçmek, taç giydirmek"
+        },
+        {
+          "form": "Rathaussturm",
+          "lemma": "Rathaussturm",
+          "article": "der",
+          "tr": "belediye baskını (karnaval töreni)"
+        },
+        {
+          "form": "Rosenmontagszug",
+          "lemma": "Rosenmontagszug",
+          "article": "der",
+          "tr": "Gül Pazartesi alayı"
         }
       ],
       "vocabulary": [
         {
-          "de": "eine Jury wählt aus",
+          "de": "Stimmung machen",
           "article": null,
-          "tr": "bir jüri seçer",
-          "example_de": "Eine Jury wählt aus hundert Fotos die besten aus."
+          "tr": "ortamı canlandırmak",
+          "example_de": "Die Band hat auf dem Fest richtig Stimmung gemacht."
         },
         {
-          "de": "einen Preis überreichen",
+          "de": "die Rolle übernehmen",
           "article": null,
-          "tr": "ödül takdim etmek",
-          "example_de": "Die Direktorin überreichte dem Gewinner den Preis."
+          "tr": "rolü devralmak",
+          "example_de": "Im nächsten Jahr übernimmt sie die Rolle der Vorsitzenden."
         },
         {
-          "de": "Wettbewerb",
-          "article": "der",
-          "tr": "yarışma",
-          "example_de": "Mein Bruder hat bei einem Wettbewerb ein Buch gewonnen."
-        },
-        {
-          "de": "Veranstaltung",
+          "de": "Session",
           "article": "die",
-          "tr": "etkinlik",
-          "example_de": "Die Veranstaltung beginnt um sieben Uhr abends."
+          "tr": "sezon (karnaval)",
+          "example_de": "Die Session dauert bis in den Februar."
+        },
+        {
+          "de": "sich versammeln",
+          "article": null,
+          "tr": "toplanmak",
+          "example_de": "Am Abend versammeln sich alle vor dem Rathaus."
+        },
+        {
+          "de": "Altstadt",
+          "article": "die",
+          "tr": "eski şehir",
+          "example_de": "Samstags ist die Altstadt oft sehr voll."
         }
       ],
       "exercises": [
         {
-          "question_de": "Wer überreichte die Preise?",
+          "question_de": "Wann begann die Session in Düsseldorf?",
           "options": [
-            "Ein Schulleiter",
-            "Der Oberbürgermeister",
-            "Die Jury",
-            "Der Verein"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „Sparschwein“?",
-          "options": [
-            "Ein Tier aus Marzipan",
-            "Eine Laterne",
-            "Eine Spardose in Schweineform",
-            "Ein Gutschein"
-          ],
-          "answer_index": 2
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-erwin-wurm-gate",
-      "category": "nrw",
-      "title_de": "Erwin Wurm schenkt Düsseldorf die Skulptur „Gate“",
-      "summary_de": "Der österreichische Künstler Erwin Wurm hat der Stadt Düsseldorf eine seiner großen Skulpturen geschenkt. Das Werk heißt „Gate“ und wurde auf dem Gustaf-Gründgens-Platz enthüllt. Oberbürgermeister Stephan Keller nahm das Geschenk gemeinsam mit dem Künstler entgegen. Die Figur ist rund vier Meter hoch und besteht aus lackiertem Aluminium. Wurm schuf sie 2021 als Teil seiner Serie „In the Skin“, der ein Abguss eines menschlichen Körpers zugrunde liegt. Die Skulptur bleibt dauerhaft im öffentlichen Raum der Stadt. Die Stadt bedankte sich bei der Kunstkommission, die den Standort ermöglicht hatte. Wurm wurde 1954 geboren und ist besonders für seine „One Minute Sculptures“ bekannt. Seine Arbeiten waren bereits im MoMA und in der Tate Modern zu sehen. Für 2027 ist außerdem eine große Ausstellung im Kunstpalast geplant.",
-      "source_name": "Landeshauptstadt Düsseldorf",
-      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/erwin-wurm-schenkt-duesseldorf-seine-monumentale-skulptur-gate",
-      "glossary": [
-        {
-          "form": "Skulpturen",
-          "lemma": "Skulptur",
-          "article": "die",
-          "tr": "heykel"
-        },
-        {
-          "form": "enthüllt",
-          "lemma": "enthüllen",
-          "article": null,
-          "tr": "açılışını yapmak, perdesini kaldırmak"
-        },
-        {
-          "form": "entgegen",
-          "lemma": "entgegennehmen",
-          "article": null,
-          "tr": "kabul etmek"
-        },
-        {
-          "form": "lackiertem",
-          "lemma": "lackiert",
-          "article": null,
-          "tr": "cilalı, boyalı"
-        },
-        {
-          "form": "schuf",
-          "lemma": "schaffen",
-          "article": null,
-          "tr": "yarattı"
-        },
-        {
-          "form": "Serie",
-          "lemma": "Serie",
-          "article": "die",
-          "tr": "seri"
-        },
-        {
-          "form": "Abguss",
-          "lemma": "Abguss",
-          "article": "der",
-          "tr": "kalıp, döküm"
-        },
-        {
-          "form": "zugrunde",
-          "lemma": "zugrunde liegen",
-          "article": null,
-          "tr": "temelinde yatmak"
-        },
-        {
-          "form": "dauerhaft",
-          "lemma": "dauerhaft",
-          "article": null,
-          "tr": "kalıcı"
-        },
-        {
-          "form": "öffentlichen",
-          "lemma": "öffentlich",
-          "article": null,
-          "tr": "kamusal, halka açık"
-        },
-        {
-          "form": "bedankte",
-          "lemma": "sich bedanken",
-          "article": null,
-          "tr": "teşekkür etti"
-        },
-        {
-          "form": "Kunstkommission",
-          "lemma": "Kunstkommission",
-          "article": "die",
-          "tr": "sanat komisyonu"
-        },
-        {
-          "form": "Standort",
-          "lemma": "Standort",
-          "article": "der",
-          "tr": "konum, yer"
-        },
-        {
-          "form": "ermöglicht",
-          "lemma": "ermöglichen",
-          "article": null,
-          "tr": "mümkün kılmak"
-        },
-        {
-          "form": "geplant",
-          "lemma": "planen",
-          "article": null,
-          "tr": "planlamak"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "ein Geschenk entgegennehmen",
-          "article": null,
-          "tr": "hediyeyi kabul etmek",
-          "example_de": "Sie nahm das Geschenk mit einem Lächeln entgegen."
-        },
-        {
-          "de": "im öffentlichen Raum",
-          "article": null,
-          "tr": "kamusal alanda",
-          "example_de": "Kunst im öffentlichen Raum ist für alle kostenlos."
-        },
-        {
-          "de": "Skulptur",
-          "article": "die",
-          "tr": "heykel",
-          "example_de": "Vor dem Museum steht eine riesige Skulptur."
-        },
-        {
-          "de": "Standort",
-          "article": "der",
-          "tr": "konum",
-          "example_de": "Der Standort der Haltestelle ist praktisch."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Woraus besteht „Gate“?",
-          "options": [
-            "Aus Stein",
-            "Aus lackiertem Aluminium",
-            "Aus Holz",
-            "Aus Glas"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „dauerhaft“?",
-          "options": [
-            "für kurze Zeit",
-            "nur nachts",
-            "sehr teuer",
-            "für lange Zeit, ohne Ende"
-          ],
-          "answer_index": 3
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-exoplanet-verschwunden",
-      "category": "de",
-      "title_de": "Rätsel gelöst: Exoplanet ist nur für uns „verschwunden“",
-      "summary_de": "Ein internationales Forschungsteam hat erklärt, warum der Exoplanet TOI-2535 b über Jahre aus den Daten zu verschwinden schien. Der Planet wurde mit der Transitmethode entdeckt, bei der er vor seinem Stern vorbeizieht und dessen Licht minimal abschwächt. Er ist ein „heißer Jupiter“ und umkreist seinen Stern in etwas mehr als acht Tagen. Die Durchgänge verschoben sich jedoch um bis zu sechs Stunden und wurden immer kürzer und schwächer. Als Ursache vermuten die Forschenden einen zweiten, bisher unentdeckten Planeten im selben System. Dessen Schwerkraft kippt die Bahn von TOI-2535 b so stark, dass der Planet von der Erde aus lange nicht mehr vor dem Stern vorbeizieht. Als Vergleich dient der Mond, dessen geneigte Bahn dafür sorgt, dass Sonnenfinsternisse selten sind. Im Jahr 2025 beobachtete der Satellit TESS den vorerst letzten Durchgang. Es könnte 30 bis 50 Jahre dauern, bis der Planet wieder sichtbar vor seinem Stern vorbeizieht. Eine genauere Vorhersage ist noch nicht möglich, weil viele Unsicherheiten bleiben.",
-      "source_name": "heise online",
-      "source_url": "https://www.heise.de/news/Astronomie-Versteckter-Begleiter-laesst-Exoplaneten-fuer-Jahre-verschwinden-11518282.html",
-      "glossary": [
-        {
-          "form": "Forschungsteam",
-          "lemma": "Forschungsteam",
-          "article": "das",
-          "tr": "araştırma ekibi"
-        },
-        {
-          "form": "Transitmethode",
-          "lemma": "Transitmethode",
-          "article": "die",
-          "tr": "geçiş yöntemi"
-        },
-        {
-          "form": "abschwächt",
-          "lemma": "abschwächen",
-          "article": null,
-          "tr": "zayıflatmak"
-        },
-        {
-          "form": "umkreist",
-          "lemma": "umkreisen",
-          "article": null,
-          "tr": "çevresinde dönmek"
-        },
-        {
-          "form": "Durchgänge",
-          "lemma": "Durchgang",
-          "article": "der",
-          "tr": "geçiş"
-        },
-        {
-          "form": "verschoben",
-          "lemma": "sich verschieben",
-          "article": null,
-          "tr": "kaymak"
-        },
-        {
-          "form": "Ursache",
-          "lemma": "Ursache",
-          "article": "die",
-          "tr": "neden"
-        },
-        {
-          "form": "vermuten",
-          "lemma": "vermuten",
-          "article": null,
-          "tr": "tahmin etmek"
-        },
-        {
-          "form": "unentdeckten",
-          "lemma": "unentdeckt",
-          "article": null,
-          "tr": "keşfedilmemiş"
-        },
-        {
-          "form": "Schwerkraft",
-          "lemma": "Schwerkraft",
-          "article": "die",
-          "tr": "yerçekimi"
-        },
-        {
-          "form": "kippt",
-          "lemma": "kippen",
-          "article": null,
-          "tr": "yatırmak, eğmek"
-        },
-        {
-          "form": "Bahn",
-          "lemma": "Bahn",
-          "article": "die",
-          "tr": "yörünge"
-        },
-        {
-          "form": "geneigte",
-          "lemma": "geneigt",
-          "article": null,
-          "tr": "eğik"
-        },
-        {
-          "form": "Sonnenfinsternisse",
-          "lemma": "Sonnenfinsternis",
-          "article": "die",
-          "tr": "güneş tutulması"
-        },
-        {
-          "form": "Vorhersage",
-          "lemma": "Vorhersage",
-          "article": "die",
-          "tr": "tahmin"
-        },
-        {
-          "form": "Unsicherheiten",
-          "lemma": "Unsicherheit",
-          "article": "die",
-          "tr": "belirsizlik"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "die Ursache vermuten",
-          "article": null,
-          "tr": "nedenini tahmin etmek",
-          "example_de": "Die Ärztin vermutet eine Allergie als Ursache."
-        },
-        {
-          "de": "eine Vorhersage treffen",
-          "article": null,
-          "tr": "tahmin yapmak",
-          "example_de": "Niemand kann eine sichere Vorhersage zum Wetter treffen."
-        },
-        {
-          "de": "Schwerkraft",
-          "article": "die",
-          "tr": "yerçekimi",
-          "example_de": "Auf dem Mond ist die Schwerkraft viel geringer."
-        },
-        {
-          "de": "Umlaufbahn",
-          "article": "die",
-          "tr": "yörünge",
-          "example_de": "Die Satelliten bleiben auf ihrer Umlaufbahn."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Warum ist der Planet von der Erde aus kaum noch zu sehen?",
-          "options": [
-            "Er ist explodiert",
-            "Ein zweiter Planet verändert seine Bahn",
-            "Sein Stern ist erloschen",
-            "Er ist zu klein geworden"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „Ursache“?",
-          "options": [
-            "Grund für etwas",
-            "Folge von etwas",
-            "Ergebnis einer Messung",
-            "ein Ort"
+            "Am 11.11. um 11.11 Uhr",
+            "Am 4. Februar",
+            "Am Rosenmontag"
           ],
           "answer_index": 0
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-escapade-mars",
-      "category": "de",
-      "title_de": "ESCAPADE: Zwei Marssonden sind auf dem Weg zum Roten Planeten",
-      "summary_de": "Die beiden baugleichen ESCAPADE-Sonden der NASA haben ihre Vorbeiflüge an der Erde erfolgreich abgeschlossen. Die erste Sonde flog am 7. November in etwa 1.600 Kilometern Höhe vorbei und zündete danach neun Minuten lang ihr Triebwerk. Die zweite folgte zwei Tage später und kam der Erde bis auf rund 1.050 Kilometer nahe. Beide nutzen die Schwerkraft der Erde, um Schwung für den Flug zum Mars zu holen. Die Reise dauert noch etwa zehn Monate, die Ankunft ist für den 7. und 9. September 2027 geplant. Dann bremsen die Sonden mit einem elfminütigen Triebwerksstart und schwenken in eine weite Umlaufbahn ein. Wissenschaftliche Beobachtungen sollen im Juni 2028 beginnen. Später wird eine Sonde den ankommenden Sonnenwind messen, während die andere nah am Mars untersucht, wie dieser auf die Atmosphäre trifft. Erstmals wird damit ein Verbund aus zwei Raumfahrzeugen gleichzeitig von zwei Positionen aus um den Mars forschen.",
-      "source_name": "Spektrum der Wissenschaft",
-      "source_url": "https://www.spektrum.de/news/escapade-marssonden-sind-auf-dem-weg-zum-roten-planeten/2353480",
-      "glossary": [
-        {
-          "form": "baugleichen",
-          "lemma": "baugleich",
-          "article": null,
-          "tr": "aynı yapıda"
         },
         {
-          "form": "Vorbeiflüge",
-          "lemma": "Vorbeiflug",
-          "article": "der",
-          "tr": "yakın geçiş"
-        },
-        {
-          "form": "abgeschlossen",
-          "lemma": "abschließen",
-          "article": null,
-          "tr": "tamamlamak"
-        },
-        {
-          "form": "zündete",
-          "lemma": "zünden",
-          "article": null,
-          "tr": "ateşlemek"
-        },
-        {
-          "form": "Triebwerk",
-          "lemma": "Triebwerk",
-          "article": "das",
-          "tr": "motor (itki)"
-        },
-        {
-          "form": "Schwerkraft",
-          "lemma": "Schwerkraft",
-          "article": "die",
-          "tr": "yerçekimi"
-        },
-        {
-          "form": "Schwung",
-          "lemma": "Schwung",
-          "article": "der",
-          "tr": "ivme, hız"
-        },
-        {
-          "form": "Ankunft",
-          "lemma": "Ankunft",
-          "article": "die",
-          "tr": "varış"
-        },
-        {
-          "form": "bremsen",
-          "lemma": "bremsen",
-          "article": null,
-          "tr": "frenlemek"
-        },
-        {
-          "form": "schwenken",
-          "lemma": "einschwenken",
-          "article": null,
-          "tr": "yörüngeye girmek"
-        },
-        {
-          "form": "Umlaufbahn",
-          "lemma": "Umlaufbahn",
-          "article": "die",
-          "tr": "yörünge"
-        },
-        {
-          "form": "Beobachtungen",
-          "lemma": "Beobachtung",
-          "article": "die",
-          "tr": "gözlem"
-        },
-        {
-          "form": "Sonnenwind",
-          "lemma": "Sonnenwind",
-          "article": "der",
-          "tr": "güneş rüzgârı"
-        },
-        {
-          "form": "Atmosphäre",
-          "lemma": "Atmosphäre",
-          "article": "die",
-          "tr": "atmosfer"
-        },
-        {
-          "form": "Verbund",
-          "lemma": "Verbund",
-          "article": "der",
-          "tr": "ortak yapı, topluluk"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "Schwung holen",
-          "article": null,
-          "tr": "ivme kazanmak",
-          "example_de": "Der Springer holt kurz Schwung und springt über die Latte."
-        },
-        {
-          "de": "eine Mission abschließen",
-          "article": null,
-          "tr": "bir görevi tamamlamak",
-          "example_de": "Das Team schloss die Mission erfolgreich ab."
-        },
-        {
-          "de": "Ankunft",
-          "article": "die",
-          "tr": "varış",
-          "example_de": "Die Ankunft des Zuges verzögert sich."
-        },
-        {
-          "de": "Umlaufbahn",
-          "article": "die",
-          "tr": "yörünge",
-          "example_de": "Die Raumstation kreist auf einer niedrigen Umlaufbahn."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Wann soll die erste Sonde am Mars ankommen?",
+          "question_de": "Was bedeutet „gekürt“ im Text?",
           "options": [
-            "Im Juni 2028",
-            "Am 7. November 2026",
-            "Am 7. September 2027",
-            "In zehn Tagen"
-          ],
-          "answer_index": 2
-        },
-        {
-          "question_de": "Wozu nutzen die Sonden die Erde?",
-          "options": [
-            "Sie tanken dort Treibstoff",
-            "Sie holen mit der Schwerkraft Schwung",
-            "Sie senden Fotos",
-            "Sie landen kurz"
+            "verkürzt",
+            "offiziell gewählt",
+            "verboten"
           ],
           "answer_index": 1
         }
       ]
     },
     {
-      "id": "2026-11-11-post-brief-fuenf-jahre",
-      "category": "de",
-      "title_de": "Fünf Jahre zu spät: Brief mit abgelaufenem Gutschein",
-      "summary_de": "Ein Reddit-Nutzer hat einen Brief erhalten, der fast fünf Jahre unterwegs war. Er hatte 2021 einen Kollegen beim Großhändler Metro empfohlen und dafür einen Gutschein über 50 Euro versprochen bekommen. Im Umschlag lagen ein Dankesschreiben vom Dezember 2021 und der Gutschein selbst. Der Brief kam jedoch erst Anfang November 2026 an, und der Gutschein war schon im März 2022 abgelaufen. Der Umschlag war wellig, vermutlich wegen Feuchtigkeit, eine Erklärung der Post lag nicht bei. Andere Nutzer berichteten von ähnlichen Fällen, in denen Postkarten oder Briefe Jahre später zugestellt wurden. Ein Mann bekam sogar eine Geburtstagskarte seiner Großmutter, die er eigentlich zum vierten Geburtstag erhalten sollte. Die Erklärung lautet, dass in den Sortierzentren täglich Millionen Briefe laufen und einzelne in Ecken oder Schächten hängen bleiben. Bei Umbauten oder Wartungen tauchen sie dann wieder auf und werden meist trotzdem zugestellt. Der Betroffene soll sich nun direkt an Metro wenden, vielleicht gibt es als Geste einen neuen Gutschein.",
-      "source_name": "watson.de",
-      "source_url": "https://www.watson.de/leben/152896024-deutsche-post-liefert-5-jahre-alten-brief-aus-wo-zur-hoelle-war-er",
+      "id": "2026-11-12-fahrradkonferenz",
+      "category": "nrw",
+      "title_de": "Düsseldorf Gastgeber der Fahrradkommunalkonferenz",
+      "summary_de": "Am 3. und 4. November trafen sich in Düsseldorf mehr als 400 Fachleute zur 20. Fahrradkommunalkonferenz an der Rheinterrasse. Veranstaltet wurde sie vom Bundesamt für Logistik und Mobilität gemeinsam mit der Stadt. Das Leitthema lautete, den Radverkehr moderner, vernetzter und digitaler zu machen. Weil die Haushalte der Kommunen knapper werden, ging es vor allem um schnelle und praktische Lösungen vor Ort. In acht Fachforen und zwei Exkursionen diskutierten die Teilnehmenden etwa über sichere Schulwege, digitale Planungswerkzeuge und weniger Bürokratie. In Düsseldorf selbst fördert der Bund die Nord-Süd-Radleitroute 1, die rund zehn Kilometer lang ist und den Norden mit dem Süden der Stadt verbinden soll. Zum Abschluss ging die Gastgeberrolle an Heilbronn, wo die Konferenz 2027 stattfinden wird.",
+      "source_name": "Landeshauptstadt Düsseldorf",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/modern-vernetzt-digital-erfolgreiche-fahrradkommunalkonferenz",
       "glossary": [
-        {
-          "form": "Großhändler",
-          "lemma": "Großhändler",
-          "article": "der",
-          "tr": "toptancı"
-        },
-        {
-          "form": "empfohlen",
-          "lemma": "empfehlen",
-          "article": null,
-          "tr": "tavsiye etmek"
-        },
-        {
-          "form": "Umschlag",
-          "lemma": "Umschlag",
-          "article": "der",
-          "tr": "zarf"
-        },
-        {
-          "form": "Dankesschreiben",
-          "lemma": "Dankesschreiben",
-          "article": "das",
-          "tr": "teşekkür mektubu"
-        },
-        {
-          "form": "abgelaufen",
-          "lemma": "ablaufen",
-          "article": null,
-          "tr": "süresi dolmak"
-        },
-        {
-          "form": "wellig",
-          "lemma": "wellig",
-          "article": null,
-          "tr": "dalgalı, kıvrık"
-        },
-        {
-          "form": "Feuchtigkeit",
-          "lemma": "Feuchtigkeit",
-          "article": "die",
-          "tr": "nem"
-        },
-        {
-          "form": "Erklärung",
-          "lemma": "Erklärung",
-          "article": "die",
-          "tr": "açıklama"
-        },
-        {
-          "form": "zugestellt",
-          "lemma": "zustellen",
-          "article": null,
-          "tr": "teslim etmek"
-        },
-        {
-          "form": "Sortierzentren",
-          "lemma": "Sortierzentrum",
-          "article": "das",
-          "tr": "ayıklama merkezi"
-        },
-        {
-          "form": "Schächten",
-          "lemma": "Schacht",
-          "article": "der",
-          "tr": "boru, kuyu"
-        },
-        {
-          "form": "Umbauten",
-          "lemma": "Umbau",
-          "article": "der",
-          "tr": "tadilat"
-        },
-        {
-          "form": "Wartungen",
-          "lemma": "Wartung",
-          "article": "die",
-          "tr": "bakım"
-        },
-        {
-          "form": "tauchen",
-          "lemma": "auftauchen",
-          "article": null,
-          "tr": "ortaya çıkmak"
-        },
-        {
-          "form": "Geste",
-          "lemma": "Geste",
-          "article": "die",
-          "tr": "jest"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "etwas empfehlen",
-          "article": null,
-          "tr": "bir şeyi tavsiye etmek",
-          "example_de": "Ich kann dir dieses Café wirklich empfehlen."
-        },
-        {
-          "de": "abgelaufen sein",
-          "article": null,
-          "tr": "süresi dolmuş olmak",
-          "example_de": "Mein Ausweis ist leider abgelaufen."
-        },
-        {
-          "de": "einen Brief zustellen",
-          "article": null,
-          "tr": "mektup teslim etmek",
-          "example_de": "Der Postbote stellt die Briefe vormittags zu."
-        },
-        {
-          "de": "Gutschein",
-          "article": "der",
-          "tr": "hediye çeki",
-          "example_de": "Zum Geburtstag bekam ich einen Gutschein fürs Kino."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Warum war der Gutschein wertlos?",
-          "options": [
-            "Er war zu klein",
-            "Er war schon abgelaufen",
-            "Er war gefälscht",
-            "Er gehörte jemand anderem"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „zugestellt“?",
-          "options": [
-            "geliefert",
-            "verbrannt",
-            "geöffnet",
-            "zurückgeschickt"
-          ],
-          "answer_index": 0
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-polestar-formula-2030",
-      "category": "tech",
-      "title_de": "Polestar Formula 2030: Ausblick auf die nächsten Elektroautos",
-      "summary_de": "Polestar hat die Designstudie Formula 2030 vorgestellt, die die künftige Formensprache der Marke zeigen soll. Die Studie deutet auf zwei kommende Modelle hin: den Nachfolger des Polestar 2, der 2027 erwartet wird, und das kompakte SUV Polestar 7 für 2028. Designchef Philipp Römers spricht von einer mutigen Evolution statt einer Revolution. Am konkretesten ist die Front mit den bekannten Dual-Blade-Scheinwerfern. Die Studie ist 4,68 Meter lang, sehr flach und rollt auf 22-Zoll-Rädern. Innen gibt es ein 20 Zoll großes Fahrerdisplay und acht physische Bedienelemente unter den Bildschirmen. Gelenkt wird per Steer-by-Wire, es gibt also keine mechanische Lenksäule. Viele Details wie die hinten angeschlagenen Türen oder die Einzelsitze sind jedoch noch nicht für die Serie bestätigt. Der Polestar 7 soll im Volvo-Werk in Košice in der Slowakei gebaut werden, Preise und Starttermine nennt die Marke noch nicht.",
-      "source_name": "heise online",
-      "source_url": "https://www.heise.de/news/Polestar-Formula-2030-Designstudie-als-Vorschau-auf-Polestar-2-und-Polestar-7-11519208.html",
-      "glossary": [
-        {
-          "form": "Designstudie",
-          "lemma": "Designstudie",
-          "article": "die",
-          "tr": "tasarım çalışması (konsept)"
-        },
-        {
-          "form": "vorgestellt",
-          "lemma": "vorstellen",
-          "article": null,
-          "tr": "tanıtmak"
-        },
-        {
-          "form": "Formensprache",
-          "lemma": "Formensprache",
-          "article": "die",
-          "tr": "tasarım dili"
-        },
-        {
-          "form": "deutet",
-          "lemma": "hindeuten",
-          "article": null,
-          "tr": "işaret etmek"
-        },
-        {
-          "form": "Nachfolger",
-          "lemma": "Nachfolger",
-          "article": "der",
-          "tr": "halef, yeni nesil"
-        },
-        {
-          "form": "kompakte",
-          "lemma": "kompakt",
-          "article": null,
-          "tr": "kompakt"
-        },
-        {
-          "form": "Scheinwerfern",
-          "lemma": "Scheinwerfer",
-          "article": "der",
-          "tr": "far"
-        },
-        {
-          "form": "Bedienelemente",
-          "lemma": "Bedienelement",
-          "article": "das",
-          "tr": "kumanda elemanı"
-        },
-        {
-          "form": "Gelenkt",
-          "lemma": "lenken",
-          "article": null,
-          "tr": "yönlendirmek, sürmek"
-        },
-        {
-          "form": "Lenksäule",
-          "lemma": "Lenksäule",
-          "article": "die",
-          "tr": "direksiyon mili"
-        },
-        {
-          "form": "angeschlagenen",
-          "lemma": "anschlagen",
-          "article": null,
-          "tr": "menteşelenmiş (kapı)"
-        },
-        {
-          "form": "Serie",
-          "lemma": "Serie",
-          "article": "die",
-          "tr": "seri üretim"
-        },
-        {
-          "form": "bestätigt",
-          "lemma": "bestätigen",
-          "article": null,
-          "tr": "doğrulamak"
-        },
-        {
-          "form": "Werk",
-          "lemma": "Werk",
-          "article": "das",
-          "tr": "fabrika"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "ein Modell vorstellen",
-          "article": null,
-          "tr": "bir model tanıtmak",
-          "example_de": "Der Hersteller stellt im Frühjahr ein neues Modell vor."
-        },
-        {
-          "de": "in Serie gehen",
-          "article": null,
-          "tr": "seri üretime geçmek",
-          "example_de": "Das Fahrzeug soll 2028 in Serie gehen."
-        },
-        {
-          "de": "Nachfolger",
-          "article": "der",
-          "tr": "halef",
-          "example_de": "Der Nachfolger des alten Handys ist deutlich schneller."
-        },
-        {
-          "de": "Scheinwerfer",
-          "article": "der",
-          "tr": "far",
-          "example_de": "Bei Nebel schalte ich die Scheinwerfer ein."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Was ist die Formula 2030?",
-          "options": [
-            "Ein Rennen",
-            "Ein Akku",
-            "Eine Designstudie",
-            "Eine App"
-          ],
-          "answer_index": 2
-        },
-        {
-          "question_de": "Was bedeutet „Nachfolger“?",
-          "options": [
-            "der Vorgänger",
-            "das nachfolgende, neuere Modell",
-            "ein Ersatzteil",
-            "ein Händler"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-garmin-waze-radfahrer",
-      "category": "tech",
-      "title_de": "Garmin und Waze warnen Autofahrer vor Radfahrern",
-      "summary_de": "Garmin und die Navigations-App Waze führen Warnungen vor Radfahrern in Echtzeit ein. Die Funktion heißt „Live Cycling Alerts“ und nutzt die LiveTrack-Funktion von Garmin. Radfahrende brauchen dafür einen passenden Garmin-Edge-Fahrradcomputer oder eine Garmin-Smartwatch sowie ein gekoppeltes Smartphone. Wer LiveTrack in Garmin Connect aktiviert und die Anzeige in Waze erlaubt, erscheint dort als bewegliches Symbol. Autofahrer bekommen eine Benachrichtigung, sobald sich ein Radfahrer in der Nähe befindet. Sie sehen allerdings nur den Hinweis, aber keine Details zu einer bestimmten Person oder Strecke. Die Funktion ist freiwillig und schaltet sich automatisch ab, sobald die Fahrt beendet wird. Unterstützt werden Premiumgeräte wie die Fenix 9, aber auch günstigere Modelle wie die Forerunner 70. Laut Google soll die Funktion nach und nach weltweit für Android und iOS ausgerollt werden. Es ist nicht die erste Zusammenarbeit der Firmen, denn Google Maps gibt es bereits auf ausgewählten Garmin-Uhren.",
-      "source_name": "heise online",
-      "source_url": "https://www.heise.de/news/LiveTrack-Garmin-und-Waze-warnen-Autofahrer-vor-Radfahrern-11519554.html",
-      "glossary": [
-        {
-          "form": "Echtzeit",
-          "lemma": "Echtzeit",
-          "article": "die",
-          "tr": "gerçek zamanlı"
-        },
-        {
-          "form": "Warnungen",
-          "lemma": "Warnung",
-          "article": "die",
-          "tr": "uyarı"
-        },
-        {
-          "form": "gekoppeltes",
-          "lemma": "koppeln",
-          "article": null,
-          "tr": "eşleştirilmiş"
-        },
-        {
-          "form": "aktiviert",
-          "lemma": "aktivieren",
-          "article": null,
-          "tr": "etkinleştirmek"
-        },
-        {
-          "form": "bewegliches",
-          "lemma": "beweglich",
-          "article": null,
-          "tr": "hareketli"
-        },
-        {
-          "form": "Symbol",
-          "lemma": "Symbol",
-          "article": "das",
-          "tr": "simge"
-        },
-        {
-          "form": "Benachrichtigung",
-          "lemma": "Benachrichtigung",
-          "article": "die",
-          "tr": "bildirim"
-        },
-        {
-          "form": "befindet",
-          "lemma": "sich befinden",
-          "article": null,
-          "tr": "bulunmak"
-        },
-        {
-          "form": "Strecke",
-          "lemma": "Strecke",
-          "article": "die",
-          "tr": "güzergâh, mesafe"
-        },
-        {
-          "form": "freiwillig",
-          "lemma": "freiwillig",
-          "article": null,
-          "tr": "gönüllü, isteğe bağlı"
-        },
-        {
-          "form": "beendet",
-          "lemma": "beenden",
-          "article": null,
-          "tr": "bitirmek"
-        },
-        {
-          "form": "Unterstützt",
-          "lemma": "unterstützen",
-          "article": null,
-          "tr": "desteklemek"
-        },
-        {
-          "form": "ausgerollt",
-          "lemma": "ausrollen",
-          "article": null,
-          "tr": "kademeli olarak sunmak"
-        },
-        {
-          "form": "Zusammenarbeit",
-          "lemma": "Zusammenarbeit",
-          "article": "die",
-          "tr": "iş birliği"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "eine Funktion aktivieren",
-          "article": null,
-          "tr": "bir özelliği etkinleştirmek",
-          "example_de": "Ich habe die Standortfreigabe aktiviert."
-        },
-        {
-          "de": "in der Nähe sein",
-          "article": null,
-          "tr": "yakında olmak",
-          "example_de": "Zum Glück ist eine Apotheke in der Nähe."
-        },
-        {
-          "de": "Benachrichtigung",
-          "article": "die",
-          "tr": "bildirim",
-          "example_de": "Ich bekomme zu viele Benachrichtigungen aufs Handy."
-        },
-        {
-          "de": "freiwillig",
-          "article": null,
-          "tr": "isteğe bağlı",
-          "example_de": "Die Teilnahme ist völlig freiwillig."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Was sehen Autofahrer in Waze?",
-          "options": [
-            "Den Namen des Radfahrers",
-            "Die genaue Route",
-            "Nur einen Hinweis auf einen Radfahrer in der Nähe",
-            "Ein Foto"
-          ],
-          "answer_index": 2
-        },
-        {
-          "question_de": "Was bedeutet „freiwillig“?",
-          "options": [
-            "verboten",
-            "ohne Zwang, man kann selbst entscheiden",
-            "sehr teuer",
-            "automatisch"
-          ],
-          "answer_index": 1
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-asteroid-1998-ky26",
-      "category": "tech",
-      "title_de": "Asteroid 1998 KY26: Ist er wirklich ein „dunkler Komet“?",
-      "summary_de": "Der erdnahe Asteroid 1998 KY26 beschleunigt leicht, und die Schwerkraft allein kann das nicht erklären. Manche Fachleute vermuteten deshalb einen „dunklen Kometen“, den austretendes Gas aus Wassereis antreibt. Eine neue Studie aus Georgia Tech bezweifelt das nun. Das Team berechnete mit einem Wärmemodell, dass der nur etwa elf Meter große Körper im Mittel mindestens 212 Kelvin warm wird. Wassereis hält sich im Vakuum aber nur unterhalb von rund 145 Kelvin langfristig. Bei der vermuteten Gasabgabe wäre das Eis zudem schon nach etwa 62 Jahren aufgebraucht. Ein anderes Team des NASA-Labors JPL hält eine gewöhnliche Erklärung für ausreichend: Sonnenlicht und der Yarkovsky-Effekt könnten den leichten, hellen Körper schieben. Die Autoren betonen, dass ihr Modell auf Annahmen beruht und viele Fragen offen sind. Endgültige Antworten soll die japanische Sonde Hayabusa 2 liefern, die um das Jahr 2031 ankommen soll.",
-      "source_name": "t3n",
-      "source_url": "https://t3n.de/news/asteroid-1998-ky26-beschleunigung-dunkler-komet-1772816/",
-      "glossary": [
-        {
-          "form": "erdnahe",
-          "lemma": "erdnah",
-          "article": null,
-          "tr": "dünyaya yakın"
-        },
-        {
-          "form": "beschleunigt",
-          "lemma": "beschleunigen",
-          "article": null,
-          "tr": "hızlanmak"
-        },
         {
           "form": "Fachleute",
           "lemma": "Fachmann",
@@ -1151,614 +267,550 @@
           "tr": "uzmanlar"
         },
         {
-          "form": "vermuteten",
-          "lemma": "vermuten",
+          "form": "Veranstaltet",
+          "lemma": "veranstalten",
           "article": null,
-          "tr": "varsaymak"
+          "tr": "düzenlemek"
         },
         {
-          "form": "austretendes",
-          "lemma": "austreten",
-          "article": null,
-          "tr": "dışarı çıkan"
-        },
-        {
-          "form": "antreibt",
-          "lemma": "antreiben",
-          "article": null,
-          "tr": "itmek, sürmek"
-        },
-        {
-          "form": "bezweifelt",
-          "lemma": "bezweifeln",
-          "article": null,
-          "tr": "şüphe etmek"
-        },
-        {
-          "form": "Wärmemodell",
-          "lemma": "Wärmemodell",
+          "form": "Leitthema",
+          "lemma": "Leitthema",
           "article": "das",
-          "tr": "ısı modeli"
+          "tr": "ana tema"
         },
         {
-          "form": "langfristig",
-          "lemma": "langfristig",
+          "form": "Radverkehr",
+          "lemma": "Radverkehr",
+          "article": "der",
+          "tr": "bisiklet trafiği"
+        },
+        {
+          "form": "vernetzter",
+          "lemma": "vernetzt",
           "article": null,
-          "tr": "uzun vadede"
+          "tr": "ağ kurmuş, bağlantılı"
         },
         {
-          "form": "aufgebraucht",
-          "lemma": "aufbrauchen",
-          "article": null,
-          "tr": "tükenmek"
+          "form": "Haushalte",
+          "lemma": "Haushalt",
+          "article": "der",
+          "tr": "bütçe"
         },
         {
-          "form": "gewöhnliche",
-          "lemma": "gewöhnlich",
-          "article": null,
-          "tr": "sıradan"
-        },
-        {
-          "form": "Erklärung",
-          "lemma": "Erklärung",
+          "form": "Kommunen",
+          "lemma": "Kommune",
           "article": "die",
-          "tr": "açıklama"
+          "tr": "belediyeler"
         },
         {
-          "form": "betonen",
-          "lemma": "betonen",
-          "article": null,
-          "tr": "vurgulamak"
-        },
-        {
-          "form": "Annahmen",
-          "lemma": "Annahme",
+          "form": "Lösungen",
+          "lemma": "Lösung",
           "article": "die",
-          "tr": "varsayım"
+          "tr": "çözümler"
         },
         {
-          "form": "Endgültige",
-          "lemma": "endgültig",
+          "form": "Fachforen",
+          "lemma": "Fachforum",
+          "article": "das",
+          "tr": "uzman forumları"
+        },
+        {
+          "form": "Exkursionen",
+          "lemma": "Exkursion",
+          "article": "die",
+          "tr": "gezi, saha ziyareti"
+        },
+        {
+          "form": "Planungswerkzeuge",
+          "lemma": "Planungswerkzeug",
+          "article": "das",
+          "tr": "planlama araçları"
+        },
+        {
+          "form": "Bürokratie",
+          "lemma": "Bürokratie",
+          "article": "die",
+          "tr": "bürokrasi"
+        },
+        {
+          "form": "fördert",
+          "lemma": "fördern",
           "article": null,
-          "tr": "kesin, nihai"
+          "tr": "desteklemek"
+        },
+        {
+          "form": "Gastgeberrolle",
+          "lemma": "Gastgeberrolle",
+          "article": "die",
+          "tr": "ev sahipliği rolü"
+        },
+        {
+          "form": "stattfinden",
+          "lemma": "stattfinden",
+          "article": null,
+          "tr": "gerçekleşmek"
         }
       ],
       "vocabulary": [
         {
-          "de": "etwas bezweifeln",
+          "de": "Wert legen auf",
           "article": null,
-          "tr": "bir şeyden şüphe etmek",
-          "example_de": "Ich bezweifle, dass der Zug pünktlich kommt."
+          "tr": "önem vermek",
+          "example_de": "Ich lege Wert auf sichere Radwege."
         },
         {
-          "de": "auf Annahmen beruhen",
+          "de": "Lösungen vor Ort",
           "article": null,
-          "tr": "varsayımlara dayanmak",
-          "example_de": "Seine Rechnung beruht auf falschen Annahmen."
+          "tr": "yerinde çözümler",
+          "example_de": "Die Stadt sucht Lösungen vor Ort."
         },
         {
-          "de": "Erklärung",
+          "de": "Verkehrswende",
           "article": "die",
-          "tr": "açıklama",
-          "example_de": "Für das Problem gibt es eine einfache Erklärung."
+          "tr": "ulaşım dönüşümü",
+          "example_de": "Die Verkehrswende braucht mehr Radwege."
         },
         {
-          "de": "betonen",
+          "de": "etwas fördern",
           "article": null,
-          "tr": "vurgulamak",
-          "example_de": "Die Lehrerin betonte, wie wichtig Pünktlichkeit ist."
+          "tr": "bir şeyi desteklemek",
+          "example_de": "Der Bund fördert neue Radrouten."
+        },
+        {
+          "de": "Schulweg",
+          "article": "der",
+          "tr": "okul yolu",
+          "example_de": "Ein sicherer Schulweg ist wichtig."
         }
       ],
       "exercises": [
         {
-          "question_de": "Was bezweifelt die neue Studie?",
+          "question_de": "Wo findet die Konferenz 2027 statt?",
           "options": [
-            "Dass der Asteroid existiert",
-            "Dass Eis die Beschleunigung antreibt",
-            "Dass der Asteroid elf Meter groß ist",
-            "Dass Hayabusa 2 startet"
+            "In Düsseldorf",
+            "In Heilbronn",
+            "In Berlin"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „endgültig“?",
+          "question_de": "Was ist mit „Haushalte der Kommunen“ gemeint?",
           "options": [
-            "vorläufig",
-            "unklar",
-            "so, dass es nicht mehr geändert wird",
-            "sehr langsam"
+            "Wohnungen der Bürger",
+            "Müllabfuhr",
+            "Budgets der Städte"
           ],
           "answer_index": 2
         }
       ]
     },
     {
-      "id": "2026-11-11-zink-erkaeltung",
-      "category": "health",
-      "title_de": "Hilft Zink bei einer Erkältung?",
-      "summary_de": "Zink ist für das Immunsystem wichtig, doch über den Nutzen von Extra-Zink bei Erkältungen streiten Fachleute. Der Körper kann den Stoff nicht speichern und muss ihn regelmäßig über Fleisch, Käse, Eier, Vollkorn oder Nüsse aufnehmen. Ein echter Mangel ist in Deutschland selten, auch wenn viele Menschen die Referenzwerte knapp verfehlen. Ein Cochrane-Review von 2024 wertete 34 Studien mit mehr als 8.000 Teilnehmenden aus. Demnach verhindert Zink Erkältungen wahrscheinlich kaum. Bei einer bestehenden Erkältung könnte es die Dauer im Schnitt um etwa zwei Tage verkürzen. Die Studien unterscheiden sich allerdings stark bei Dosis und Darreichungsform, weshalb die Autoren vorsichtig bleiben. Ein Kritiker verweist auf kleinere Untersuchungen, in denen hoch dosierte Lutschtabletten besser wirkten. Das Bundesinstitut für Risikobewertung rät bei Nahrungsergänzung zu höchstens 6,5 Milligramm pro Tag, die Studiendosen lagen deutlich darüber. Insgesamt ist die Beweislage also uneinheitlich.",
-      "source_name": "Quarks",
-      "source_url": "https://www.quarks.de/gesundheit/zink-erkaeltung-hilfe/",
+      "id": "2026-11-12-ki-agenten-insel",
+      "category": "de",
+      "title_de": "Was machen KI-Agenten allein auf einer Insel?",
+      "summary_de": "Forschende des MIT haben 13 KI-Agenten für 30 Stunden auf einer simulierten, einsamen Insel allein gelassen. Alle Agenten basierten auf demselben Sprachmodell und trugen den Namen Eko. Niemand hatte ihnen vorgegeben, Spiele zu erfinden, doch sie dachten sich eigene Herausforderungen aus, was das Team als Spiel deutete. Ein Agent scheiterte zunächst am höchsten Turm der Insel, kehrte eine Stunde später mit einem Plan zurück und schrieb stolz, er sei oben angekommen. Ein anderer baute aus Steinen ein Herz als Denkmal für einen verlorenen goldenen Ring und nutzte ihn später als Basketballkorb. Sechs der 13 Agenten lernten außerdem, einen Block mitten im Sprung loszulassen und so weiter zu werfen. Bekamen die Agenten später konkrete Aufgaben, schnitten diejenigen besser ab, die zuvor gespielt hatten. Die Forschenden vermuten, dass freies Erkunden ohne Ziel gerade für die Robotik nützlich sein könnte.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/ki-agenten-insel-experiment-30-stunden-1769624/",
       "glossary": [
         {
-          "form": "Immunsystem",
-          "lemma": "Immunsystem",
+          "form": "Forschende",
+          "lemma": "Forschende",
+          "article": "der",
+          "tr": "araştırmacılar"
+        },
+        {
+          "form": "simulierten",
+          "lemma": "simuliert",
+          "article": null,
+          "tr": "simüle edilmiş"
+        },
+        {
+          "form": "einsamen",
+          "lemma": "einsam",
+          "article": null,
+          "tr": "issız"
+        },
+        {
+          "form": "basierten",
+          "lemma": "basieren",
+          "article": null,
+          "tr": "dayanmak"
+        },
+        {
+          "form": "Sprachmodell",
+          "lemma": "Sprachmodell",
           "article": "das",
-          "tr": "bağışıklık sistemi"
+          "tr": "dil modeli"
         },
         {
-          "form": "Nutzen",
-          "lemma": "Nutzen",
-          "article": "der",
-          "tr": "fayda"
-        },
-        {
-          "form": "speichern",
-          "lemma": "speichern",
+          "form": "vorgegeben",
+          "lemma": "vorgeben",
           "article": null,
-          "tr": "depolamak"
+          "tr": "önceden belirlemek"
         },
         {
-          "form": "Vollkorn",
-          "lemma": "Vollkorn",
+          "form": "Herausforderungen",
+          "lemma": "Herausforderung",
+          "article": "die",
+          "tr": "zorluklar"
+        },
+        {
+          "form": "deutete",
+          "lemma": "deuten",
+          "article": null,
+          "tr": "yorumlamak"
+        },
+        {
+          "form": "scheiterte",
+          "lemma": "scheitern",
+          "article": null,
+          "tr": "başarısız olmak"
+        },
+        {
+          "form": "Denkmal",
+          "lemma": "Denkmal",
           "article": "das",
-          "tr": "tam tahıl"
+          "tr": "anıt"
         },
         {
-          "form": "Mangel",
-          "lemma": "Mangel",
-          "article": "der",
-          "tr": "eksiklik"
-        },
-        {
-          "form": "Referenzwerte",
-          "lemma": "Referenzwert",
-          "article": "der",
-          "tr": "referans değer"
-        },
-        {
-          "form": "verfehlen",
-          "lemma": "verfehlen",
+          "form": "verlorenen",
+          "lemma": "verlieren",
           "article": null,
-          "tr": "ıskalamak, tutturamamak"
+          "tr": "kaybedilmiş"
         },
         {
-          "form": "wertete",
-          "lemma": "auswerten",
+          "form": "loszulassen",
+          "lemma": "loslassen",
           "article": null,
-          "tr": "değerlendirmek"
+          "tr": "bırakmak"
         },
         {
-          "form": "Teilnehmenden",
-          "lemma": "Teilnehmende",
-          "article": "die",
-          "tr": "katılımcılar"
-        },
-        {
-          "form": "verhindert",
-          "lemma": "verhindern",
+          "form": "konkrete",
+          "lemma": "konkret",
           "article": null,
-          "tr": "önlemek"
+          "tr": "somut"
         },
         {
-          "form": "verkürzen",
-          "lemma": "verkürzen",
+          "form": "schnitten",
+          "lemma": "abschneiden",
           "article": null,
-          "tr": "kısaltmak"
+          "tr": "(sonuç) almak"
         },
         {
-          "form": "Dosis",
-          "lemma": "Dosis",
-          "article": "die",
-          "tr": "doz"
+          "form": "Erkunden",
+          "lemma": "Erkunden",
+          "article": "das",
+          "tr": "keşfetme"
         },
         {
-          "form": "Darreichungsform",
-          "lemma": "Darreichungsform",
-          "article": "die",
-          "tr": "ilaç şekli"
-        },
-        {
-          "form": "Lutschtabletten",
-          "lemma": "Lutschtablette",
-          "article": "die",
-          "tr": "emilen tablet"
-        },
-        {
-          "form": "Nahrungsergänzung",
-          "lemma": "Nahrungsergänzung",
-          "article": "die",
-          "tr": "gıda takviyesi"
-        },
-        {
-          "form": "Beweislage",
-          "lemma": "Beweislage",
-          "article": "die",
-          "tr": "kanıt durumu"
-        },
-        {
-          "form": "uneinheitlich",
-          "lemma": "uneinheitlich",
+          "form": "nützlich",
+          "lemma": "nützlich",
           "article": null,
-          "tr": "tutarsız, farklı yönlerde"
+          "tr": "faydalı"
         }
       ],
       "vocabulary": [
         {
-          "de": "einen Mangel haben",
+          "de": "zu etwas gelangen",
           "article": null,
-          "tr": "eksiklik yaşamak",
-          "example_de": "Viele Menschen haben im Winter einen Vitamin-D-Mangel."
+          "tr": "bir sonuca varmak",
+          "example_de": "Das Team gelangte zu einem überraschenden Ergebnis."
         },
         {
-          "de": "ein Risiko verringern",
+          "de": "gut abschneiden",
           "article": null,
-          "tr": "riski azaltmak",
-          "example_de": "Bewegung verringert das Risiko vieler Krankheiten."
+          "tr": "iyi sonuç almak",
+          "example_de": "Sie hat bei der Prüfung gut abgeschnitten."
         },
         {
-          "de": "Nutzen",
-          "article": "der",
-          "tr": "fayda",
-          "example_de": "Der Nutzen dieser Tabletten ist wissenschaftlich unklar."
-        },
-        {
-          "de": "Studie",
+          "de": "Herausforderung",
           "article": "die",
-          "tr": "araştırma",
-          "example_de": "Eine neue Studie untersucht den Schlaf von Jugendlichen."
+          "tr": "zorluk, meydan okuma",
+          "example_de": "Das neue Spiel ist eine echte Herausforderung."
+        },
+        {
+          "de": "etwas vermuten",
+          "article": null,
+          "tr": "tahmin etmek",
+          "example_de": "Ich vermute, dass der Zug Verspätung hat."
+        },
+        {
+          "de": "Aufgabe",
+          "article": "die",
+          "tr": "görev",
+          "example_de": "Jeder bekommt eine konkrete Aufgabe."
         }
       ],
       "exercises": [
         {
-          "question_de": "Was sagt der Cochrane-Review zur Vorbeugung?",
+          "question_de": "Wie lange waren die Agenten auf der Insel?",
           "options": [
-            "Zink verhindert Erkältungen sicher",
-            "Zink macht wahrscheinlich kaum einen Unterschied",
-            "Zink schadet immer",
-            "Es gab keine Studien"
-          ],
-          "answer_index": 1
-        },
-        {
-          "question_de": "Was bedeutet „Mangel“?",
-          "options": [
-            "Überschuss",
-            "Geschmack",
-            "zu wenig von etwas",
-            "Vorrat"
-          ],
-          "answer_index": 2
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-gta6-30-fps",
-      "category": "gaming",
-      "title_de": "„GTA 6“: Rockstar peilt auf allen Konsolen 30 fps an",
-      "summary_de": "Rockstar Games hat bestätigt, dass „GTA 6“ auf allen Konsolen mit 30 Bildern pro Sekunde laufen soll. Die Angabe stammt aus einer Mitteilung zum Start des Preloads vor dem Release am 19. November. Ein Modus mit höherer Bildrate wird für keine Konsole genannt, auch nicht für die PS5 Pro. Die PS5 Pro bekommt dank der KI-Hochskalierung PSSR ein schärferes Bild, und raytracing-basierte Schatten gibt es laut Rockstar nur dort. Die normale PS5 profitiert unter anderem von der adaptiven Rückmeldung des DualSense-Controllers. Auf Xbox erscheint das Spiel für die Series X und S, Besitzer der Xbox One können es nur über den Cloud-Dienst spielen. Dabei kommen die Grafikeinstellungen der schwächeren Series S zum Einsatz. Eine native PC-Version hat Rockstar bisher nicht angekündigt. Außerdem begrenzt Microsoft das Cloud-Gaming seit November auf monatliche Stunden, und das Spiel muss separat gekauft werden.",
-      "source_name": "heise online",
-      "source_url": "https://www.heise.de/news/GTA-6-Rockstar-peilt-auf-allen-Konsolen-30-fps-an-11519672.html",
-      "glossary": [
-        {
-          "form": "bestätigt",
-          "lemma": "bestätigen",
-          "article": null,
-          "tr": "doğrulamak"
-        },
-        {
-          "form": "Bildern",
-          "lemma": "Bild",
-          "article": "das",
-          "tr": "kare, görüntü"
-        },
-        {
-          "form": "Mitteilung",
-          "lemma": "Mitteilung",
-          "article": "die",
-          "tr": "duyuru, bildirim"
-        },
-        {
-          "form": "Bildrate",
-          "lemma": "Bildrate",
-          "article": "die",
-          "tr": "kare hızı"
-        },
-        {
-          "form": "Hochskalierung",
-          "lemma": "Hochskalierung",
-          "article": "die",
-          "tr": "yükseltilmiş ölçekleme"
-        },
-        {
-          "form": "schärferes",
-          "lemma": "scharf",
-          "article": null,
-          "tr": "daha keskin"
-        },
-        {
-          "form": "Schatten",
-          "lemma": "Schatten",
-          "article": "der",
-          "tr": "gölge"
-        },
-        {
-          "form": "profitiert",
-          "lemma": "profitieren",
-          "article": null,
-          "tr": "yararlanmak"
-        },
-        {
-          "form": "Rückmeldung",
-          "lemma": "Rückmeldung",
-          "article": "die",
-          "tr": "geri bildirim"
-        },
-        {
-          "form": "Besitzer",
-          "lemma": "Besitzer",
-          "article": "der",
-          "tr": "sahip"
-        },
-        {
-          "form": "Grafikeinstellungen",
-          "lemma": "Grafikeinstellung",
-          "article": "die",
-          "tr": "grafik ayarı"
-        },
-        {
-          "form": "Einsatz",
-          "lemma": "Einsatz",
-          "article": "der",
-          "tr": "kullanım"
-        },
-        {
-          "form": "angekündigt",
-          "lemma": "ankündigen",
-          "article": null,
-          "tr": "duyurmak"
-        },
-        {
-          "form": "begrenzt",
-          "lemma": "begrenzen",
-          "article": null,
-          "tr": "sınırlamak"
-        },
-        {
-          "form": "separat",
-          "lemma": "separat",
-          "article": null,
-          "tr": "ayrı olarak"
-        }
-      ],
-      "vocabulary": [
-        {
-          "de": "etwas bestätigen",
-          "article": null,
-          "tr": "bir şeyi doğrulamak",
-          "example_de": "Der Hersteller bestätigte den Termin."
-        },
-        {
-          "de": "von etwas profitieren",
-          "article": null,
-          "tr": "bir şeyden yararlanmak",
-          "example_de": "Spieler profitieren von schnelleren Ladezeiten."
-        },
-        {
-          "de": "Bildrate",
-          "article": "die",
-          "tr": "kare hızı",
-          "example_de": "Eine hohe Bildrate sorgt für flüssige Bewegungen."
-        },
-        {
-          "de": "Besitzer",
-          "article": "der",
-          "tr": "sahip",
-          "example_de": "Der Besitzer des Ladens kennt alle Stammkunden."
-        }
-      ],
-      "exercises": [
-        {
-          "question_de": "Mit wie vielen Bildern pro Sekunde soll das Spiel laufen?",
-          "options": [
-            "60",
-            "120",
-            "30",
-            "144"
+            "13 Stunden",
+            "Eine Woche",
+            "30 Stunden"
           ],
           "answer_index": 2
         },
         {
-          "question_de": "Wie können Xbox-One-Besitzer spielen?",
+          "question_de": "Was bedeutet „scheiterte“?",
           "options": [
-            "Nur per Cloud-Dienst",
-            "Mit einer nativen Version",
-            "Gar nicht",
-            "Nur am PC"
+            "Er hatte keinen Erfolg",
+            "Er gewann",
+            "Er schlief"
           ],
           "answer_index": 0
         }
       ]
     },
     {
-      "id": "2026-11-11-lol-worlds-t1-ausgeschieden",
-      "category": "gaming",
-      "title_de": "LoL-Worlds: T1 scheidet im Halbfinale gegen BLG aus",
-      "summary_de": "Bei der League-of-Legends-Weltmeisterschaft 2026 ist T1 mit Faker im Halbfinale ausgeschieden. Das Team verlor am 9. November mit 1:3 gegen Bilibili Gaming aus China. T1 hatte die letzten drei Weltmeisterschaften gewonnen, nun fehlt die Mannschaft erstmals seit 2021 im Finale. BLG hatte schon 2023 und 2024 gegen T1 verloren, die Niederlage im Jahr 2024 kam sogar im Finale. Im Endspiel am 14. November trifft BLG auf das koreanische Team Gen.G. Chinesische Mannschaften haben den Titel bisher dreimal geholt, zuletzt 2021, während zuletzt vor allem Korea dominierte. Chinesische Kommentatoren waren nach dem Sieg zu Tränen gerührt, und der Moment verbreitete sich auf Reddit. Unter den T1-Fans gab es viel Frust, einige kritisierten einzelne Spieler. Faker sagte, BLG sei besser vorbereitet gewesen, und räumte ein, dass er in diesem Jahr hinter seinen Ansprüchen geblieben sei. Er wolle daraus lernen und stärker zurückkommen.",
-      "source_name": "Mein-MMO",
-      "source_url": "https://mein-mmo.de/lol-t1-verliert-worlds-2026-vor-dem-finale/",
+      "id": "2026-11-12-workerbot-charite",
+      "category": "de",
+      "title_de": "Roboter soll Pflegekräfte an der Charité entlasten",
+      "summary_de": "In Berlin entwickelt ein Verbundprojekt einen Assistenzroboter, der Pflegekräfte an der Charité entlasten soll. Beteiligt sind das Fraunhofer-Institut IPA, der Roboterhersteller Pi4_robotics und die Klinik selbst. Die Basis bildet der Workerbot9, ein selbstfahrender Roboter, der 1,60 Meter groß ist und auf seiner Ladefläche Essen, Getränke oder Gepäck transportiert. Das Team rüstet ihn mit einem Greifarm, zusätzlichen Sensoren und neuer Software aus. Eine Befragung von Pflegekräften ergab, dass sie sich vor allem Hilfe bei der Materiallogistik und beim Kontakt mit Patienten wünschen. Der Roboter soll deshalb in Zimmern Handschuhe oder Verbandsmaterial prüfen, nachfüllen und bei Bedarf zur Pflegekraft bringen. Hat er gerade keine Logistikaufgabe, könnte er Patienten unterhalten, etwa durch Informationen auf dem Display oder durch Vorlesen. Nebenbei könnte er sogar Herz- und Atemfrequenz erfassen.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Serviceroboter-Workerbot9-soll-kuenftig-Pflegepersonal-in-der-Charite-entlasten-11521531.html",
       "glossary": [
         {
-          "form": "Weltmeisterschaft",
-          "lemma": "Weltmeisterschaft",
-          "article": "die",
-          "tr": "dünya şampiyonası"
-        },
-        {
-          "form": "ausgeschieden",
-          "lemma": "ausscheiden",
-          "article": null,
-          "tr": "elenmek"
-        },
-        {
-          "form": "Halbfinale",
-          "lemma": "Halbfinale",
+          "form": "Verbundprojekt",
+          "lemma": "Verbundprojekt",
           "article": "das",
-          "tr": "yarı final"
+          "tr": "ortak proje"
         },
         {
-          "form": "Mannschaft",
-          "lemma": "Mannschaft",
+          "form": "Assistenzroboter",
+          "lemma": "Assistenzroboter",
+          "article": "der",
+          "tr": "asistan robot"
+        },
+        {
+          "form": "Pflegekräfte",
+          "lemma": "Pflegekraft",
           "article": "die",
-          "tr": "takım"
+          "tr": "bakım personeli"
         },
         {
-          "form": "Niederlage",
-          "lemma": "Niederlage",
+          "form": "entlasten",
+          "lemma": "entlasten",
+          "article": null,
+          "tr": "yükünü hafifletmek"
+        },
+        {
+          "form": "selbstfahrender",
+          "lemma": "selbstfahrend",
+          "article": null,
+          "tr": "kendi kendine giden"
+        },
+        {
+          "form": "Ladefläche",
+          "lemma": "Ladefläche",
           "article": "die",
-          "tr": "mağlubiyet"
+          "tr": "yük platformu"
         },
         {
-          "form": "Endspiel",
-          "lemma": "Endspiel",
+          "form": "Gepäck",
+          "lemma": "Gepäck",
           "article": "das",
-          "tr": "final maçı"
+          "tr": "bagaj"
         },
         {
-          "form": "dominierte",
-          "lemma": "dominieren",
+          "form": "rüstet",
+          "lemma": "ausrüsten",
           "article": null,
-          "tr": "hâkim olmak"
+          "tr": "donatmak"
         },
         {
-          "form": "Kommentatoren",
-          "lemma": "Kommentator",
+          "form": "Greifarm",
+          "lemma": "Greifarm",
           "article": "der",
-          "tr": "yorumcular"
+          "tr": "tutma kolu"
         },
         {
-          "form": "Tränen",
-          "lemma": "Träne",
+          "form": "Befragung",
+          "lemma": "Befragung",
           "article": "die",
-          "tr": "gözyaşı"
+          "tr": "anket"
         },
         {
-          "form": "gerührt",
-          "lemma": "rühren",
+          "form": "Materiallogistik",
+          "lemma": "Materiallogistik",
+          "article": "die",
+          "tr": "malzeme lojistiği"
+        },
+        {
+          "form": "Verbandsmaterial",
+          "lemma": "Verbandsmaterial",
+          "article": "das",
+          "tr": "sargı malzemesi"
+        },
+        {
+          "form": "nachfüllen",
+          "lemma": "nachfüllen",
           "article": null,
-          "tr": "duygulanmak"
+          "tr": "yeniden doldurmak"
         },
         {
-          "form": "verbreitete",
-          "lemma": "sich verbreiten",
+          "form": "unterhalten",
+          "lemma": "unterhalten",
           "article": null,
-          "tr": "yayılmak"
+          "tr": "eğlendirmek"
         },
         {
-          "form": "Frust",
-          "lemma": "Frust",
-          "article": "der",
-          "tr": "hayal kırıklığı"
+          "form": "Vorlesen",
+          "lemma": "Vorlesen",
+          "article": "das",
+          "tr": "sesli okuma"
         },
         {
-          "form": "kritisierten",
-          "lemma": "kritisieren",
+          "form": "erfassen",
+          "lemma": "erfassen",
           "article": null,
-          "tr": "eleştirmek"
+          "tr": "ölçmek, kaydetmek"
         },
         {
-          "form": "räumte",
-          "lemma": "einräumen",
-          "article": null,
-          "tr": "itiraf etmek, kabul etmek"
-        },
-        {
-          "form": "Ansprüchen",
-          "lemma": "Anspruch",
-          "article": "der",
-          "tr": "beklenti, talep"
+          "form": "Atemfrequenz",
+          "lemma": "Atemfrequenz",
+          "article": "die",
+          "tr": "solunum sıklığı"
         }
       ],
       "vocabulary": [
         {
-          "de": "aus dem Turnier ausscheiden",
+          "de": "jemanden entlasten",
           "article": null,
-          "tr": "turnuvadan elenmek",
-          "example_de": "Unser Team schied im Viertelfinale aus."
+          "tr": "birinin yükünü almak",
+          "example_de": "Neue Technik soll das Personal entlasten."
         },
         {
-          "de": "eine Niederlage einstecken",
+          "de": "bei Bedarf",
           "article": null,
-          "tr": "yenilgi yaşamak",
-          "example_de": "Nach der Niederlage war die Stimmung schlecht."
+          "tr": "gerektiğinde",
+          "example_de": "Bei Bedarf rufe ich dich an."
         },
         {
-          "de": "Halbfinale",
-          "article": "das",
-          "tr": "yarı final",
-          "example_de": "Im Halbfinale trifft sie auf die Titelverteidigerin."
-        },
-        {
-          "de": "Mannschaft",
+          "de": "Pflegekraft",
           "article": "die",
-          "tr": "takım",
-          "example_de": "Die Mannschaft trainiert dreimal pro Woche."
+          "tr": "bakım elemanı",
+          "example_de": "Die Pflegekraft kommt gleich vorbei."
+        },
+        {
+          "de": "etwas ausrüsten mit",
+          "article": null,
+          "tr": "bir şeyle donatmak",
+          "example_de": "Das Auto ist mit neuen Sensoren ausgerüstet."
+        },
+        {
+          "de": "Kontakt zu Patienten",
+          "article": "der",
+          "tr": "hastalarla temas",
+          "example_de": "Mehr Zeit für den Kontakt zu Patienten wäre schön."
         }
       ],
       "exercises": [
         {
-          "question_de": "Gegen wen verlor T1 im Halbfinale?",
+          "question_de": "Wofür ist der Greifarm wichtig?",
           "options": [
-            "Gen.G",
-            "Bilibili Gaming",
-            "Hanwha",
-            "G2"
+            "Zum Öffnen von Türen und Schränken",
+            "Zum Kochen",
+            "Zum Laden des Akkus"
           ],
-          "answer_index": 1
+          "answer_index": 0
         },
         {
-          "question_de": "Was bedeutet „ausscheiden“?",
+          "question_de": "Was soll der Roboter prüfen?",
           "options": [
-            "gewinnen",
-            "anfangen",
-            "aus dem Wettbewerb draußen sein",
-            "pausieren"
+            "Den Blutdruck von Ärzten",
+            "Material wie Handschuhe",
+            "Die Raumtemperatur"
           ],
-          "answer_index": 2
+          "answer_index": 1
         }
       ]
     },
     {
-      "id": "2026-11-11-eve-vanguard-playtest",
-      "category": "gaming",
-      "title_de": "EVE Vanguard startet dauerhaften Playtest",
-      "summary_de": "Das Studio Fenris Creations, früher CCP Games, hat einen dauerhaften Alpha-Test seines Shooters EVE Vanguard gestartet. Das Spiel spielt im Universum von EVE Online und ist im Kern ein Extraction-Shooter in der Ego-Perspektive. Die Spielenden landen auf einer offenen Karte, kämpfen gegen KI-Gegner oder andere Menschen, sammeln Beute und verlassen das Gebiet mit ihrer Ausrüstung. Langfristig soll daraus ein umfangreiches Mehrspieler-Onlinespiel werden, dessen Ereignisse auch EVE Online beeinflussen. Für den Zugang muss man ein Founder-Paket ab 15 Euro kaufen. Es gibt drei Modi, darunter einen reinen PvE-Bereich und einen Dreiergruppen-Modus mit drei Fraktionen. Spieldirektor Scott Davis erzählte, dass viele Menschen im Juli aufgehört hätten, weil Neulinge überfordert waren. Komplizierte Regeln für Waffen und Heilung hätten das Spiel unabsichtlich zu einem besonders harten Extraction-Titel gemacht. Die neue Version soll mit besserer KI und klarerer Einführung gegensteuern. Das Studio hatte sich im Mai 2026 für 120 Millionen Dollar von Pearl Abyss freigekauft.",
-      "source_name": "Mein-MMO",
-      "source_url": "https://mein-mmo.de/eve-vanguard-dauerhafter-playtest/",
+      "id": "2026-11-12-astra-weltraumroboter",
+      "category": "de",
+      "title_de": "Roboter baut erstmals selbstständig im Weltraum",
+      "summary_de": "Ein Roboter namens Astra hat erstmals selbstständig eine Struktur im Weltraum gebaut. Er wurde im März 2026 gestartet und stammt von einem Team des Caltech, das vom US-Forschungsprogramm DARPA finanziert wird. Seine Aufgabe war es, aus Röhren aus Faserverbundstoff und Aluminium-Verbindern eine Reflektorantenne von 1,4 Metern zusammenzusetzen. Anschließend sollte er sie mit reflektierender Folie überziehen. Die Zeit reichte allerdings nur für den ersten Abschnitt der Antenne, und weil die Mission im Dezember endet, wird sie wohl nicht mehr fertig. Trotzdem zeigte der Test, dass das Bauprinzip funktioniert, und die Forschenden wollen den Entwurf nun vereinfachen. Langfristig könnten solche Roboter riesige Teleskopspiegel oder Solaranlagen im Orbit errichten, die hunderte Meter oder sogar Kilometer groß sind.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/roboter-baut-strukturen-all-1772859/",
       "glossary": [
         {
-          "form": "dauerhaften",
-          "lemma": "dauerhaft",
+          "form": "selbstständig",
+          "lemma": "selbstständig",
           "article": null,
-          "tr": "kalıcı, sürekli"
+          "tr": "bağımsız, kendi başına"
         },
         {
-          "form": "Ego-Perspektive",
-          "lemma": "Ego-Perspektive",
+          "form": "Struktur",
+          "lemma": "Struktur",
           "article": "die",
-          "tr": "birinci şahıs bakış"
+          "tr": "yapı"
         },
         {
-          "form": "Beute",
-          "lemma": "Beute",
-          "article": "die",
-          "tr": "ganimet"
+          "form": "finanziert",
+          "lemma": "finanzieren",
+          "article": null,
+          "tr": "finanse etmek"
         },
         {
-          "form": "Ausrüstung",
-          "lemma": "Ausrüstung",
+          "form": "Röhren",
+          "lemma": "Röhre",
           "article": "die",
-          "tr": "teçhizat"
+          "tr": "tüpler, borular"
+        },
+        {
+          "form": "Faserverbundstoff",
+          "lemma": "Faserverbundstoff",
+          "article": "der",
+          "tr": "fiber kompozit malzeme"
+        },
+        {
+          "form": "Reflektorantenne",
+          "lemma": "Reflektorantenne",
+          "article": "die",
+          "tr": "reflektör anten"
+        },
+        {
+          "form": "zusammenzusetzen",
+          "lemma": "zusammensetzen",
+          "article": null,
+          "tr": "birleştirmek"
+        },
+        {
+          "form": "reflektierender",
+          "lemma": "reflektierend",
+          "article": null,
+          "tr": "yansıtıcı"
+        },
+        {
+          "form": "überziehen",
+          "lemma": "überziehen",
+          "article": null,
+          "tr": "kaplamak"
+        },
+        {
+          "form": "Abschnitt",
+          "lemma": "Abschnitt",
+          "article": "der",
+          "tr": "bölüm"
+        },
+        {
+          "form": "Bauprinzip",
+          "lemma": "Bauprinzip",
+          "article": "das",
+          "tr": "inşa prensibi"
+        },
+        {
+          "form": "Entwurf",
+          "lemma": "Entwurf",
+          "article": "der",
+          "tr": "tasarım taslağı"
+        },
+        {
+          "form": "vereinfachen",
+          "lemma": "vereinfachen",
+          "article": null,
+          "tr": "basitleştirmek"
         },
         {
           "form": "Langfristig",
@@ -1767,40 +819,242 @@
           "tr": "uzun vadede"
         },
         {
-          "form": "umfangreiches",
-          "lemma": "umfangreich",
-          "article": null,
-          "tr": "kapsamlı"
-        },
-        {
-          "form": "beeinflussen",
-          "lemma": "beeinflussen",
-          "article": null,
-          "tr": "etkilemek"
-        },
-        {
-          "form": "Zugang",
-          "lemma": "Zugang",
+          "form": "Teleskopspiegel",
+          "lemma": "Teleskopspiegel",
           "article": "der",
-          "tr": "erişim"
+          "tr": "teleskop aynası"
         },
         {
-          "form": "Fraktionen",
-          "lemma": "Fraktion",
+          "form": "errichten",
+          "lemma": "errichten",
+          "article": null,
+          "tr": "inşa etmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "zum ersten Mal",
+          "article": null,
+          "tr": "ilk kez",
+          "example_de": "Zum ersten Mal habe ich einen Roboter im Einsatz gesehen."
+        },
+        {
+          "de": "Zeit reichen",
+          "article": null,
+          "tr": "zaman yetmek",
+          "example_de": "Die Zeit reichte nicht für den zweiten Teil."
+        },
+        {
+          "de": "Entwurf",
+          "article": "der",
+          "tr": "taslak",
+          "example_de": "Der Entwurf muss noch überarbeitet werden."
+        },
+        {
+          "de": "etwas vereinfachen",
+          "article": null,
+          "tr": "basitleştirmek",
+          "example_de": "Wir vereinfachen den Ablauf."
+        },
+        {
+          "de": "Weltraum",
+          "article": "der",
+          "tr": "uzay",
+          "example_de": "Der Weltraum fasziniert viele Menschen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie groß ist die geplante Antenne?",
+          "options": [
+            "14 Meter",
+            "1,4 Meter",
+            "140 Meter"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Warum wird die Antenne wohl nicht fertig?",
+          "options": [
+            "Sie ist zu schwer",
+            "Es fehlt Folie",
+            "Die Mission endet im Dezember"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-firefox-160",
+      "category": "tech",
+      "title_de": "Firefox 160 bringt Mini-Fenster und lokale Spracherkennung",
+      "summary_de": "Mozilla hat Firefox 160 veröffentlicht, und die auffälligste Neuerung sind sogenannte Mini-Fenster. Damit lassen sich ganze Tabs oder Teile einer Seite in ein eigenes Fenster auslagern, das über anderen Programmen sichtbar bleibt. Der Bild-in-Bild-Modus bietet nun Wiedergabegeschwindigkeiten zwischen einem Viertel und dem Doppelten. Außerdem unterstützt der Browser die Spracherkennung der Web Speech API direkt auf dem Gerät, und zwar in 40 Sprachen. Dafür müssen Nutzer einmalig ein KI-Modell herunterladen, danach funktioniert die Erkennung auch offline. Wer genervt ist, wenn Webseiten ständig fragen, ob sie Links wie mailto öffnen dürfen, kann sie jetzt mit „Nie erlauben“ dauerhaft sperren. Zudem behebt die Version Fehler, etwa verschluckte Buchstaben beim schnellen Tippen in der Adressleiste.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Firefox-160-Mini-Fenster-und-lokale-Spracherkennung-11521349.html",
+      "glossary": [
+        {
+          "form": "veröffentlicht",
+          "lemma": "veröffentlichen",
+          "article": null,
+          "tr": "yayımlamak"
+        },
+        {
+          "form": "auffälligste",
+          "lemma": "auffällig",
+          "article": null,
+          "tr": "en dikkat çekici"
+        },
+        {
+          "form": "Neuerung",
+          "lemma": "Neuerung",
           "article": "die",
-          "tr": "hizip, grup"
+          "tr": "yenilik"
         },
         {
-          "form": "Neulinge",
-          "lemma": "Neuling",
-          "article": "der",
-          "tr": "yeni başlayanlar"
-        },
-        {
-          "form": "überfordert",
-          "lemma": "überfordern",
+          "form": "auslagern",
+          "lemma": "auslagern",
           "article": null,
-          "tr": "bunaltmak"
+          "tr": "ayrı bir yere taşımak"
+        },
+        {
+          "form": "sichtbar",
+          "lemma": "sichtbar",
+          "article": null,
+          "tr": "görünür"
+        },
+        {
+          "form": "Wiedergabegeschwindigkeiten",
+          "lemma": "Wiedergabegeschwindigkeit",
+          "article": "die",
+          "tr": "oynatma hızları"
+        },
+        {
+          "form": "unterstützt",
+          "lemma": "unterstützen",
+          "article": null,
+          "tr": "desteklemek"
+        },
+        {
+          "form": "Spracherkennung",
+          "lemma": "Spracherkennung",
+          "article": "die",
+          "tr": "ses tanıma"
+        },
+        {
+          "form": "herunterladen",
+          "lemma": "herunterladen",
+          "article": null,
+          "tr": "indirmek"
+        },
+        {
+          "form": "genervt",
+          "lemma": "genervt",
+          "article": null,
+          "tr": "rahatsız, bıkmış"
+        },
+        {
+          "form": "dauerhaft",
+          "lemma": "dauerhaft",
+          "article": null,
+          "tr": "kalıcı olarak"
+        },
+        {
+          "form": "sperren",
+          "lemma": "sperren",
+          "article": null,
+          "tr": "engellemek"
+        },
+        {
+          "form": "behebt",
+          "lemma": "beheben",
+          "article": null,
+          "tr": "gidermek"
+        },
+        {
+          "form": "verschluckte",
+          "lemma": "verschlucken",
+          "article": null,
+          "tr": "yutulmuş, kaybolan"
+        },
+        {
+          "form": "Adressleiste",
+          "lemma": "Adressleiste",
+          "article": "die",
+          "tr": "adres çubuğu"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "genervt sein",
+          "article": null,
+          "tr": "bıkmış olmak",
+          "example_de": "Ich bin genervt von den vielen Pop-ups."
+        },
+        {
+          "de": "einen Fehler beheben",
+          "article": null,
+          "tr": "hatayı gidermek",
+          "example_de": "Das Update behebt mehrere Fehler."
+        },
+        {
+          "de": "Neuerung",
+          "article": "die",
+          "tr": "yenilik",
+          "example_de": "Die wichtigste Neuerung ist das Mini-Fenster."
+        },
+        {
+          "de": "offline funktionieren",
+          "article": null,
+          "tr": "çevrimdışı çalışmak",
+          "example_de": "Die App funktioniert auch offline."
+        },
+        {
+          "de": "dauerhaft sperren",
+          "article": null,
+          "tr": "kalıcı engellemek",
+          "example_de": "Du kannst Werbung dauerhaft sperren."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist die auffälligste Neuerung?",
+          "options": [
+            "Ein neues Logo",
+            "Ein Spiel",
+            "Mini-Fenster"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Wie viele Sprachen unterstützt die lokale Spracherkennung?",
+          "options": [
+            "40",
+            "4",
+            "14"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-apple-brille-leak",
+      "category": "tech",
+      "title_de": "Zulieferer verrät versehentlich Apples KI-Brille",
+      "summary_de": "Eine Managerin eines chinesischen Maschinenbauers hat auf einer Investorenkonferenz unabsichtlich ein Apple-Geheimnis verraten. Jin Chun, Vorsitzende von Quick Intelligent Equipment, sollte eigentlich erklären, ob das Jubiläums-iPhone 2027 die Nachfrage ihrer Firma steigert. Stattdessen sprach sie über eine „KI-Brille“ von Apple und neue Kopfhörer, an denen ihr Unternehmen beteiligt sei. Heise vermutet, dass es um die lange erwartete Apple-Brille und um AirPods mit eingebauten Kameras geht. Die Brille soll laut Gerüchten keine Augmented-Reality-Funktionen haben, sondern Mikrofone, Lautsprecher für Siri und zwei Kameras. Beide Produkte sollen Ende 2027 erscheinen. Apple hat sich dazu nicht geäußert, und Beobachter halten es für möglich, dass die Plauderei dem Zulieferer schaden könnte.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Apple-Zulieferer-plaudert-versehentlich-ueber-KI-Brille-aus-11521407.html",
+      "glossary": [
+        {
+          "form": "Maschinenbauers",
+          "lemma": "Maschinenbauer",
+          "article": "der",
+          "tr": "makine üreticisi"
+        },
+        {
+          "form": "Investorenkonferenz",
+          "lemma": "Investorenkonferenz",
+          "article": "die",
+          "tr": "yatırımcı konferansı"
         },
         {
           "form": "unabsichtlich",
@@ -1809,68 +1063,1092 @@
           "tr": "istemeden"
         },
         {
-          "form": "Einführung",
-          "lemma": "Einführung",
+          "form": "verraten",
+          "lemma": "verraten",
+          "article": null,
+          "tr": "ifşa etmek"
+        },
+        {
+          "form": "Vorsitzende",
+          "lemma": "Vorsitzende",
           "article": "die",
-          "tr": "giriş, tanıtım"
+          "tr": "başkan"
         },
         {
-          "form": "gegensteuern",
-          "lemma": "gegensteuern",
-          "article": null,
-          "tr": "önlem almak"
+          "form": "Nachfrage",
+          "lemma": "Nachfrage",
+          "article": "die",
+          "tr": "talep"
         },
         {
-          "form": "freigekauft",
-          "lemma": "sich freikaufen",
+          "form": "steigert",
+          "lemma": "steigern",
           "article": null,
-          "tr": "satın alarak bağımsızlaşmak"
+          "tr": "artırmak"
+        },
+        {
+          "form": "beteiligt",
+          "lemma": "beteiligt",
+          "article": null,
+          "tr": "dahil, ortak"
+        },
+        {
+          "form": "vermutet",
+          "lemma": "vermuten",
+          "article": null,
+          "tr": "tahmin etmek"
+        },
+        {
+          "form": "Gerüchten",
+          "lemma": "Gerücht",
+          "article": "das",
+          "tr": "söylentiler"
+        },
+        {
+          "form": "Lautsprecher",
+          "lemma": "Lautsprecher",
+          "article": "der",
+          "tr": "hoparlör"
+        },
+        {
+          "form": "erscheinen",
+          "lemma": "erscheinen",
+          "article": null,
+          "tr": "piyasaya çıkmak"
+        },
+        {
+          "form": "geäußert",
+          "lemma": "äußern",
+          "article": null,
+          "tr": "açıklamak"
+        },
+        {
+          "form": "Beobachter",
+          "lemma": "Beobachter",
+          "article": "der",
+          "tr": "gözlemciler"
+        },
+        {
+          "form": "Zulieferer",
+          "lemma": "Zulieferer",
+          "article": "der",
+          "tr": "tedarikçi"
+        },
+        {
+          "form": "schaden",
+          "lemma": "schaden",
+          "article": null,
+          "tr": "zarar vermek"
         }
       ],
       "vocabulary": [
         {
-          "de": "Zugang erhalten",
+          "de": "ein Geheimnis verraten",
           "article": null,
-          "tr": "erişim sağlamak",
-          "example_de": "Nur Mitglieder erhalten Zugang zum Archiv."
+          "tr": "sır vermek",
+          "example_de": "Er hat versehentlich ein Geheimnis verraten."
         },
         {
-          "de": "überfordert sein",
+          "de": "die Nachfrage steigern",
           "article": null,
-          "tr": "altından kalkamamak",
-          "example_de": "Am ersten Tag war ich vom Spiel überfordert."
+          "tr": "talebi artırmak",
+          "example_de": "Neue Funktionen steigern die Nachfrage."
         },
         {
-          "de": "Ausrüstung",
-          "article": "die",
-          "tr": "teçhizat",
-          "example_de": "Vor der Wanderung prüfe ich meine Ausrüstung."
+          "de": "Gerücht",
+          "article": "das",
+          "tr": "söylenti",
+          "example_de": "Das ist nur ein Gerücht."
         },
         {
-          "de": "Neuling",
+          "de": "sich äußern zu",
+          "article": null,
+          "tr": "hakkında açıklama yapmak",
+          "example_de": "Die Firma äußert sich nicht dazu."
+        },
+        {
+          "de": "Zulieferer",
           "article": "der",
-          "tr": "acemi",
-          "example_de": "Als Neuling im Verein brauchte er Hilfe."
+          "tr": "tedarikçi",
+          "example_de": "Der Zulieferer liefert Teile für Autos."
         }
       ],
       "exercises": [
         {
-          "question_de": "Was für ein Spiel ist EVE Vanguard im Kern?",
+          "question_de": "Wann sollen die Produkte erscheinen?",
           "options": [
-            "Ein Rennspiel",
-            "Ein Extraction-Shooter",
-            "Ein Puzzle",
-            "Ein Sportspiel"
+            "Ende 2027",
+            "Anfang 2026",
+            "Nächste Woche"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was ist ein „Zulieferer“?",
+          "options": [
+            "Ein Kunde",
+            "Eine Firma, die Teile liefert",
+            "Ein Verkäufer im Laden"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-fritzos-851",
+      "category": "tech",
+      "title_de": "FritzOS 8.51: Werbeblocker, aber weniger Speicher",
+      "summary_de": "Für die Fritzbox 5690 Pro ist das Update FritzOS 8.51 erschienen. Neu ist ein Werbeblocker, der über DNS-Filterlisten Server von Werbe- und Trackingfirmen sperrt und im Heim- wie im Gastnetz funktioniert. Seit FritzOS 8.50 priorisiert die Box außerdem zeitkritischen Datenverkehr wie Livestreams und Online-Spiele automatisch. Die MyFritz-App bekommt eine Übersichtsseite mit Hinweisen und Warnungen. Weniger erfreulich ist, dass neuere Geräte-Revisionen offenbar nur noch ein Gigabyte Arbeitsspeicher statt zwei und zwei statt vier Gigabyte Flash haben. Käufer erfahren das vorab nicht, weil die Datenblätter diese Werte gar nicht nennen. Der Hersteller betont, dass die Leistung gleich bleibe, die Redaktion vermutet jedoch gestiegene Preise für Speicherchips als Grund.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Fritzbox-5690-Pro-bekommt-FritzOS-8-51-und-weniger-Speicher-11521196.html",
+      "glossary": [
+        {
+          "form": "Werbeblocker",
+          "lemma": "Werbeblocker",
+          "article": "der",
+          "tr": "reklam engelleyici"
+        },
+        {
+          "form": "Filterlisten",
+          "lemma": "Filterliste",
+          "article": "die",
+          "tr": "filtre listeleri"
+        },
+        {
+          "form": "sperrt",
+          "lemma": "sperren",
+          "article": null,
+          "tr": "engellemek"
+        },
+        {
+          "form": "Gastnetz",
+          "lemma": "Gastnetz",
+          "article": "das",
+          "tr": "misafir ağı"
+        },
+        {
+          "form": "priorisiert",
+          "lemma": "priorisieren",
+          "article": null,
+          "tr": "önceliklendirmek"
+        },
+        {
+          "form": "zeitkritischen",
+          "lemma": "zeitkritisch",
+          "article": null,
+          "tr": "zaman açısından kritik"
+        },
+        {
+          "form": "Datenverkehr",
+          "lemma": "Datenverkehr",
+          "article": "der",
+          "tr": "veri trafiği"
+        },
+        {
+          "form": "Übersichtsseite",
+          "lemma": "Übersichtsseite",
+          "article": "die",
+          "tr": "özet sayfası"
+        },
+        {
+          "form": "erfreulich",
+          "lemma": "erfreulich",
+          "article": null,
+          "tr": "sevindirici"
+        },
+        {
+          "form": "Arbeitsspeicher",
+          "lemma": "Arbeitsspeicher",
+          "article": "der",
+          "tr": "RAM"
+        },
+        {
+          "form": "Datenblätter",
+          "lemma": "Datenblatt",
+          "article": "das",
+          "tr": "veri sayfaları"
+        },
+        {
+          "form": "betont",
+          "lemma": "betonen",
+          "article": null,
+          "tr": "vurgulamak"
+        },
+        {
+          "form": "Leistung",
+          "lemma": "Leistung",
+          "article": "die",
+          "tr": "performans"
+        },
+        {
+          "form": "Redaktion",
+          "lemma": "Redaktion",
+          "article": "die",
+          "tr": "yazı işleri"
+        },
+        {
+          "form": "Speicherchips",
+          "lemma": "Speicherchip",
+          "article": "der",
+          "tr": "bellek çipleri"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "weniger erfreulich",
+          "article": null,
+          "tr": "pek sevindirici değil",
+          "example_de": "Das ist weniger erfreulich für die Kunden."
+        },
+        {
+          "de": "etwas betonen",
+          "article": null,
+          "tr": "vurgulamak",
+          "example_de": "Er betont, dass alles sicher ist."
+        },
+        {
+          "de": "Datenblatt",
+          "article": "das",
+          "tr": "teknik veri sayfası",
+          "example_de": "Im Datenblatt steht nichts über den Speicher."
+        },
+        {
+          "de": "automatisch priorisieren",
+          "article": null,
+          "tr": "otomatik önceliklendirmek",
+          "example_de": "Der Router priorisiert Spiele automatisch."
+        },
+        {
+          "de": "Leistung",
+          "article": "die",
+          "tr": "performans",
+          "example_de": "Die Leistung bleibt gleich."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was blockiert der neue Werbeblocker?",
+          "options": [
+            "Alle Spiele",
+            "Server von Werbe- und Trackingfirmen",
+            "Das Gastnetz"
           ],
           "answer_index": 1
         },
         {
-          "question_de": "Was bedeutet „Neuling“?",
+          "question_de": "Was ist bei neueren Revisionen anders?",
           "options": [
-            "Experte",
-            "Person, die neu anfängt",
-            "Gegner",
-            "Chef"
+            "Mehr Speicher",
+            "Ein anderer Preis im Laden",
+            "Weniger Speicher"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-anysleep-schlaf-ki",
+      "category": "health",
+      "title_de": "KI-Modell AnySleep wertet Schlaf sekundengenau aus",
+      "summary_de": "Forschende der FH Aachen haben ein KI-Modell namens AnySleep veröffentlicht, das den Schlaf genauer auswertet als bisherige Verfahren. Üblicherweise ordnet man die per EEG gemessene Hirnaktivität in Abschnitten von 30 Sekunden einer Schlafphase zu. Dabei können kurze Wachphasen von nur wenigen Sekunden untergehen, obwohl sie klinisch wichtig sein könnten. AnySleep wurde mit Daten von rund 20.000 Teilnehmenden trainiert und analysiert den Schlaf in kürzeren Abständen. Laut dem Team zeigen sich bereits Unterschiede zwischen gesunden Menschen und solchen mit bestimmten Erkrankungen. Studienleiter Stephan Bialonski betont allerdings, dass sich die Methode noch nicht für Diagnosen eigne. Der Quellcode ist öffentlich, und wer nicht programmieren kann, darf eine Weboberfläche namens SomnoBot nutzen. Sensible Daten sollen den eigenen Rechner dabei nie verlassen.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/schlafanalyse-wie-eine-open-source-ki-deinen-schlaf-auf-die-sekunde-genau-auswertet-1773027/",
+      "glossary": [
+        {
+          "form": "auswertet",
+          "lemma": "auswerten",
+          "article": null,
+          "tr": "değerlendirmek, analiz etmek"
+        },
+        {
+          "form": "Verfahren",
+          "lemma": "Verfahren",
+          "article": "das",
+          "tr": "yöntem"
+        },
+        {
+          "form": "Üblicherweise",
+          "lemma": "üblicherweise",
+          "article": null,
+          "tr": "genellikle"
+        },
+        {
+          "form": "Hirnaktivität",
+          "lemma": "Hirnaktivität",
+          "article": "die",
+          "tr": "beyin aktivitesi"
+        },
+        {
+          "form": "Schlafphase",
+          "lemma": "Schlafphase",
+          "article": "die",
+          "tr": "uyku evresi"
+        },
+        {
+          "form": "Wachphasen",
+          "lemma": "Wachphase",
+          "article": "die",
+          "tr": "uyanıklık evreleri"
+        },
+        {
+          "form": "untergehen",
+          "lemma": "untergehen",
+          "article": null,
+          "tr": "gözden kaçmak, kaybolmak"
+        },
+        {
+          "form": "klinisch",
+          "lemma": "klinisch",
+          "article": null,
+          "tr": "klinik açıdan"
+        },
+        {
+          "form": "trainiert",
+          "lemma": "trainieren",
+          "article": null,
+          "tr": "eğitmek"
+        },
+        {
+          "form": "Teilnehmenden",
+          "lemma": "Teilnehmende",
+          "article": "der",
+          "tr": "katılımcılar"
+        },
+        {
+          "form": "Erkrankungen",
+          "lemma": "Erkrankung",
+          "article": "die",
+          "tr": "hastalıklar"
+        },
+        {
+          "form": "Studienleiter",
+          "lemma": "Studienleiter",
+          "article": "der",
+          "tr": "çalışma yöneticisi"
+        },
+        {
+          "form": "Diagnosen",
+          "lemma": "Diagnose",
+          "article": "die",
+          "tr": "tanılar"
+        },
+        {
+          "form": "Quellcode",
+          "lemma": "Quellcode",
+          "article": "der",
+          "tr": "kaynak kod"
+        },
+        {
+          "form": "Weboberfläche",
+          "lemma": "Weboberfläche",
+          "article": "die",
+          "tr": "web arayüzü"
+        },
+        {
+          "form": "Sensible",
+          "lemma": "sensibel",
+          "article": null,
+          "tr": "hassas"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich für etwas eignen",
+          "article": null,
+          "tr": "bir şeye uygun olmak",
+          "example_de": "Die Methode eignet sich noch nicht für Diagnosen."
+        },
+        {
+          "de": "Daten auswerten",
+          "article": null,
+          "tr": "verileri analiz etmek",
+          "example_de": "Wir werten die Messwerte am Abend aus."
+        },
+        {
+          "de": "Schlafphase",
+          "article": "die",
+          "tr": "uyku evresi",
+          "example_de": "Die Tiefschlafphase ist besonders wichtig."
+        },
+        {
+          "de": "Quellcode",
+          "article": "der",
+          "tr": "kaynak kod",
+          "example_de": "Der Quellcode ist frei verfügbar."
+        },
+        {
+          "de": "sensible Daten",
+          "article": null,
+          "tr": "hassas veriler",
+          "example_de": "Sensible Daten bleiben auf dem Rechner."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie lang ist ein Standard-Abschnitt bei der Schlafanalyse?",
+          "options": [
+            "30 Minuten",
+            "3 Stunden",
+            "30 Sekunden"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was sagt der Studienleiter?",
+          "options": [
+            "Die Methode ist noch nicht für Diagnosen geeignet",
+            "Sie ersetzt Ärzte",
+            "Sie ist nur für Tiere"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-galaxy-watch-bauchfett",
+      "category": "health",
+      "title_de": "Smartwatch soll künftig Bauchfett messen können",
+      "summary_de": "Samsung hat ein Patent für eine Methode angemeldet, mit der künftige Galaxy-Watch-Modelle das gefährliche Bauchfett messen könnten. Gemeint ist das viszerale Fett, das die inneren Organe umgibt und mit einem höheren Risiko für Herzinfarkt und Typ-2-Diabetes in Verbindung gebracht wird. Heutige Uhren schätzen den Körperfettanteil nur über eine elektrische Widerstandsmessung, die dieses Fett nicht erfassen kann. Das neue Verfahren würde stattdessen einen Ultrabreitband-Radar nutzen und die Ergebnisse mit Größe, Gewicht, Alter und Geschlecht kombinieren. Bislang ist das aber nur ein Patent und kein bestätigtes Produkt, und Genauigkeitsdaten gibt es nicht. Spekuliert wird, dass die Funktion frühestens mit der Galaxy Watch 10 im Juli 2027 erscheint. Laut dem Robert Koch-Institut hat etwa jeder dritte Erwachsene in Deutschland einen deutlich erhöhten Taillenumfang.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/galaxy-watch-bauchfett-messen-1773105/",
+      "glossary": [
+        {
+          "form": "Patent",
+          "lemma": "Patent",
+          "article": "das",
+          "tr": "patent"
+        },
+        {
+          "form": "angemeldet",
+          "lemma": "anmelden",
+          "article": null,
+          "tr": "başvurmak, kaydettirmek"
+        },
+        {
+          "form": "Methode",
+          "lemma": "Methode",
+          "article": "die",
+          "tr": "yöntem"
+        },
+        {
+          "form": "Gemeint",
+          "lemma": "meinen",
+          "article": null,
+          "tr": "kastedilmek"
+        },
+        {
+          "form": "viszerale",
+          "lemma": "viszeral",
+          "article": null,
+          "tr": "iç organlara ait (visseral)"
+        },
+        {
+          "form": "umgibt",
+          "lemma": "umgeben",
+          "article": null,
+          "tr": "çevrelemek"
+        },
+        {
+          "form": "Organe",
+          "lemma": "Organ",
+          "article": "das",
+          "tr": "organlar"
+        },
+        {
+          "form": "Risiko",
+          "lemma": "Risiko",
+          "article": "das",
+          "tr": "risk"
+        },
+        {
+          "form": "Herzinfarkt",
+          "lemma": "Herzinfarkt",
+          "article": "der",
+          "tr": "kalp krizi"
+        },
+        {
+          "form": "Verbindung",
+          "lemma": "Verbindung",
+          "article": "die",
+          "tr": "bağlantı"
+        },
+        {
+          "form": "schätzen",
+          "lemma": "schätzen",
+          "article": null,
+          "tr": "tahmin etmek"
+        },
+        {
+          "form": "Körperfettanteil",
+          "lemma": "Körperfettanteil",
+          "article": "der",
+          "tr": "vücut yağ oranı"
+        },
+        {
+          "form": "Widerstandsmessung",
+          "lemma": "Widerstandsmessung",
+          "article": "die",
+          "tr": "direnç ölçümü"
+        },
+        {
+          "form": "erfassen",
+          "lemma": "erfassen",
+          "article": null,
+          "tr": "algılamak"
+        },
+        {
+          "form": "kombinieren",
+          "lemma": "kombinieren",
+          "article": null,
+          "tr": "birleştirmek"
+        },
+        {
+          "form": "bestätigtes",
+          "lemma": "bestätigen",
+          "article": null,
+          "tr": "onaylanmış"
+        },
+        {
+          "form": "Genauigkeitsdaten",
+          "lemma": "Genauigkeitsdaten",
+          "article": "die",
+          "tr": "doğruluk verileri"
+        },
+        {
+          "form": "Taillenumfang",
+          "lemma": "Taillenumfang",
+          "article": "der",
+          "tr": "bel çevresi"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "in Verbindung bringen mit",
+          "article": null,
+          "tr": "ile ilişkilendirmek",
+          "example_de": "Man bringt Stress mit Schlafproblemen in Verbindung."
+        },
+        {
+          "de": "ein Patent anmelden",
+          "article": null,
+          "tr": "patent başvurusu yapmak",
+          "example_de": "Die Firma hat ein neues Patent angemeldet."
+        },
+        {
+          "de": "Risiko",
+          "article": "das",
+          "tr": "risk",
+          "example_de": "Das Risiko ist gering."
+        },
+        {
+          "de": "frühestens",
+          "article": null,
+          "tr": "en erken",
+          "example_de": "Das Produkt kommt frühestens nächstes Jahr."
+        },
+        {
+          "de": "Körperfettanteil",
+          "article": "der",
+          "tr": "vücut yağ oranı",
+          "example_de": "Mein Körperfettanteil wird gemessen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist bisher nur vorhanden?",
+          "options": [
+            "Ein Patent",
+            "Ein fertiges Produkt",
+            "Eine App im Store"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was soll die neue Methode nutzen?",
+          "options": [
+            "Eine Kamera",
+            "Ultrabreitband-Radar",
+            "Blutproben"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-worlds-finale-geng-blg",
+      "category": "gaming",
+      "title_de": "Worlds-Finale: Gen.G fordert Bilibili Gaming",
+      "summary_de": "Das Finale der League-of-Legends-Weltmeisterschaft 2026 steht fest: Gen.G trifft am 14. November im Barclays Center in Brooklyn auf Bilibili Gaming. Gen.G hat das Halbfinale gegen Invictus Gaming mit 3:0 gewonnen und im gesamten Turnier noch keine Serie verloren. Für die Mannschaft aus Südkorea ist es das erste Worlds-Finale seit 2017, als sie noch als Samsung Galaxy antrat. BLG setzte sich im zweiten Halbfinale mit 3:1 gegen T1 durch und beendete damit deren dreijährige Titelserie. Es war außerdem der erste Sieg eines chinesischen Teams gegen T1 in einer Worlds-Ausscheidungsserie. Damit revanchierte sich BLG für das Finale von 2024, das T1 knapp mit 3:2 gewonnen hatte. Mehrere Profis wie Chovy und Knight jagen noch ihren ersten Weltmeistertitel. Earlygame sieht Gen.G wegen der starken Form leicht vorn, betont aber, dass BLG schon mehrere Favoriten gestürzt hat.",
+      "source_name": "earlygame.com",
+      "source_url": "https://earlygame.com/de/news/lol/worlds-2026-gen-g-und-blg-stehen-im-grand-final-wer-uebernimmt-t1s-thron",
+      "glossary": [
+        {
+          "form": "Weltmeisterschaft",
+          "lemma": "Weltmeisterschaft",
+          "article": "die",
+          "tr": "dünya şampiyonası"
+        },
+        {
+          "form": "Halbfinale",
+          "lemma": "Halbfinale",
+          "article": "das",
+          "tr": "yarı final"
+        },
+        {
+          "form": "Turnier",
+          "lemma": "Turnier",
+          "article": "das",
+          "tr": "turnuva"
+        },
+        {
+          "form": "Serie",
+          "lemma": "Serie",
+          "article": "die",
+          "tr": "seri"
+        },
+        {
+          "form": "Mannschaft",
+          "lemma": "Mannschaft",
+          "article": "die",
+          "tr": "takım"
+        },
+        {
+          "form": "antrat",
+          "lemma": "antreten",
+          "article": null,
+          "tr": "yarışmaya çıkmak"
+        },
+        {
+          "form": "setzte",
+          "lemma": "sich durchsetzen",
+          "article": null,
+          "tr": "üstün gelmek, kazanmak"
+        },
+        {
+          "form": "beendete",
+          "lemma": "beenden",
+          "article": null,
+          "tr": "sona erdirmek"
+        },
+        {
+          "form": "Titelserie",
+          "lemma": "Titelserie",
+          "article": "die",
+          "tr": "şampiyonluk serisi"
+        },
+        {
+          "form": "Ausscheidungsserie",
+          "lemma": "Ausscheidungsserie",
+          "article": "die",
+          "tr": "eleme serisi"
+        },
+        {
+          "form": "revanchierte",
+          "lemma": "revanchieren",
+          "article": null,
+          "tr": "rövanş almak"
+        },
+        {
+          "form": "knapp",
+          "lemma": "knapp",
+          "article": null,
+          "tr": "zar zor"
+        },
+        {
+          "form": "Profis",
+          "lemma": "Profi",
+          "article": "der",
+          "tr": "profesyoneller"
+        },
+        {
+          "form": "jagen",
+          "lemma": "jagen",
+          "article": null,
+          "tr": "peşinde koşmak"
+        },
+        {
+          "form": "Favoriten",
+          "lemma": "Favorit",
+          "article": "der",
+          "tr": "favoriler"
+        },
+        {
+          "form": "gestürzt",
+          "lemma": "stürzen",
+          "article": null,
+          "tr": "devirmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich durchsetzen gegen",
+          "article": null,
+          "tr": "üstün gelmek",
+          "example_de": "Das Team setzte sich gegen den Favoriten durch."
+        },
+        {
+          "de": "sich revanchieren",
+          "article": null,
+          "tr": "rövanş almak",
+          "example_de": "Sie revanchierten sich für die Niederlage."
+        },
+        {
+          "de": "Halbfinale",
+          "article": "das",
+          "tr": "yarı final",
+          "example_de": "Das Halbfinale beginnt um acht."
+        },
+        {
+          "de": "knapp gewinnen",
+          "article": null,
+          "tr": "az farkla kazanmak",
+          "example_de": "Wir haben knapp gewonnen."
+        },
+        {
+          "de": "Favorit",
+          "article": "der",
+          "tr": "favori",
+          "example_de": "Er ist der Favorit auf den Titel."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wo findet das Worlds-Finale statt?",
+          "options": [
+            "In Seoul",
+            "In Brooklyn",
+            "In Berlin"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Gegen wen gewann Gen.G das Halbfinale?",
+          "options": [
+            "T1",
+            "BLG",
+            "Invictus Gaming"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-diablo4-season15-raetsel",
+      "category": "gaming",
+      "title_de": "Diablo 4: Season 15 endet, die Rätsel bleiben",
+      "summary_de": "In Diablo 4 geht die Season 15 in etwa einem Monat zu Ende, doch Spieler rätseln weiter über ungelöste Geheimnisse. Die Season feiert das 30-jährige Jubiläum der Reihe und bringt Inhalte aus den ersten drei Teilen zurück, was vor allem Veteranen als nostalgisch loben. Rätselhaft bleiben etwa der Standard of Heroes, ein Edelstein, der im Chat Sätze und Zahlenfolgen ausspuckt, ein Schwarzer Pilz, der die Figur erbrechen lässt, und eine Sternenkarte mit kryptischer Fehlermeldung. Niemand weiß, ob es echte Rätsel oder nur Scherze sind, und auf Reddit wird eifrig spekuliert. Viele Fans nennen die Season „Peak Diablo“ und wünschen sich, dass künftige Seasons diesen Weg weitergehen. Season 16 soll laut einer PTR-Übersicht ein neues System namens War Plans mitbringen, mit dem man die Chancen auf bevorzugte Inhalte beeinflusst. Offizielle Details hat Blizzard dazu noch nicht veröffentlicht.",
+      "source_name": "MeinMMO",
+      "source_url": "https://mein-mmo.de/diablo-4-season-15-bald-zu-ende-viele-raetsel/",
+      "glossary": [
+        {
+          "form": "rätseln",
+          "lemma": "rätseln",
+          "article": null,
+          "tr": "kafa yormak, merak etmek"
+        },
+        {
+          "form": "ungelöste",
+          "lemma": "ungelöst",
+          "article": null,
+          "tr": "çözülmemiş"
+        },
+        {
+          "form": "Geheimnisse",
+          "lemma": "Geheimnis",
+          "article": "das",
+          "tr": "sırlar"
+        },
+        {
+          "form": "Jubiläum",
+          "lemma": "Jubiläum",
+          "article": "das",
+          "tr": "yıldönümü"
+        },
+        {
+          "form": "Veteranen",
+          "lemma": "Veteran",
+          "article": "der",
+          "tr": "eski kullanıcılar"
+        },
+        {
+          "form": "nostalgisch",
+          "lemma": "nostalgisch",
+          "article": null,
+          "tr": "nostaljik"
+        },
+        {
+          "form": "loben",
+          "lemma": "loben",
+          "article": null,
+          "tr": "övmek"
+        },
+        {
+          "form": "Rätselhaft",
+          "lemma": "rätselhaft",
+          "article": null,
+          "tr": "gizemli"
+        },
+        {
+          "form": "Edelstein",
+          "lemma": "Edelstein",
+          "article": "der",
+          "tr": "değerli taş"
+        },
+        {
+          "form": "ausspuckt",
+          "lemma": "ausspucken",
+          "article": null,
+          "tr": "püskürtmek"
+        },
+        {
+          "form": "erbrechen",
+          "lemma": "erbrechen",
+          "article": null,
+          "tr": "kusmak"
+        },
+        {
+          "form": "kryptischer",
+          "lemma": "kryptisch",
+          "article": null,
+          "tr": "şifreli, anlaşılmaz"
+        },
+        {
+          "form": "Fehlermeldung",
+          "lemma": "Fehlermeldung",
+          "article": "die",
+          "tr": "hata mesajı"
+        },
+        {
+          "form": "Scherze",
+          "lemma": "Scherz",
+          "article": "der",
+          "tr": "şakalar"
+        },
+        {
+          "form": "spekuliert",
+          "lemma": "spekulieren",
+          "article": null,
+          "tr": "spekülasyon yapmak"
+        },
+        {
+          "form": "beeinflusst",
+          "lemma": "beeinflussen",
+          "article": null,
+          "tr": "etkilemek"
+        },
+        {
+          "form": "bevorzugte",
+          "lemma": "bevorzugt",
+          "article": null,
+          "tr": "tercih edilen"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "zu Ende gehen",
+          "article": null,
+          "tr": "sona ermek",
+          "example_de": "Die Season geht bald zu Ende."
+        },
+        {
+          "de": "rätseln über",
+          "article": null,
+          "tr": "hakkında kafa yormak",
+          "example_de": "Alle rätseln über das Ergebnis."
+        },
+        {
+          "de": "Geheimnis",
+          "article": "das",
+          "tr": "sır",
+          "example_de": "Das Spiel hat viele Geheimnisse."
+        },
+        {
+          "de": "etwas beeinflussen",
+          "article": null,
+          "tr": "etkilemek",
+          "example_de": "Das Wetter beeinflusst meine Laune."
+        },
+        {
+          "de": "Jubiläum",
+          "article": "das",
+          "tr": "yıldönümü",
+          "example_de": "Zum Jubiläum gibt es ein Event."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie lange läuft Season 15 noch?",
+          "options": [
+            "Ein Jahr",
+            "Eine Woche",
+            "Etwa einen Monat"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was ist „War Plans“?",
+          "options": [
+            "Ein neues System in Season 16",
+            "Ein Boss",
+            "Eine Karte"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-wow-forever-eisenstiefel",
+      "category": "gaming",
+      "title_de": "WoW Forever: Stiefel machen langsam, aber witzig",
+      "summary_de": "In World of Warcraft Forever gibt es einen Gegenstand, der den Charakter schwächer, aber das Spiel lustiger macht. Ab etwa Stufe 35 findet man im Schlingendorntal eine Instanz namens „Die Versunkene Stadt“, in der mehrere Gegner die Linkens Eisenstiefel fallen lassen können. Die Kettenstiefel geben Beweglichkeit und Ausdauer, haben aber einen großen Nachteil: Wer sie trägt, kann nur noch gehen und nicht mehr rennen. Dafür kann man mit ihnen am Meeresboden entlanglaufen, was bei manchen Quests und beim Erkunden der Ozeane helfen kann. Der Name und der Effekt sind eine Anspielung auf die Eisenstiefel aus „The Legend of Zelda: Ocarina of Time“. Der Autor vermutet, dass unter Wasser noch unentdeckte Geheimnisse warten. Zum Schluss bittet er die Leser, ihre eigenen witzigen Beutefunde zu teilen.",
+      "source_name": "MeinMMO",
+      "source_url": "https://mein-mmo.de/wow-forever-loot-macht-euch-schlechter/",
+      "glossary": [
+        {
+          "form": "Gegenstand",
+          "lemma": "Gegenstand",
+          "article": "der",
+          "tr": "eşya, nesne"
+        },
+        {
+          "form": "schwächer",
+          "lemma": "schwach",
+          "article": null,
+          "tr": "daha zayıf"
+        },
+        {
+          "form": "Instanz",
+          "lemma": "Instanz",
+          "article": "die",
+          "tr": "zindan (oyun)"
+        },
+        {
+          "form": "Gegner",
+          "lemma": "Gegner",
+          "article": "der",
+          "tr": "düşmanlar"
+        },
+        {
+          "form": "Kettenstiefel",
+          "lemma": "Kettenstiefel",
+          "article": "der",
+          "tr": "zincir botlar"
+        },
+        {
+          "form": "Beweglichkeit",
+          "lemma": "Beweglichkeit",
+          "article": "die",
+          "tr": "çeviklik"
+        },
+        {
+          "form": "Ausdauer",
+          "lemma": "Ausdauer",
+          "article": "die",
+          "tr": "dayanıklılık"
+        },
+        {
+          "form": "Nachteil",
+          "lemma": "Nachteil",
+          "article": "der",
+          "tr": "dezavantaj"
+        },
+        {
+          "form": "rennen",
+          "lemma": "rennen",
+          "article": null,
+          "tr": "koşmak"
+        },
+        {
+          "form": "Meeresboden",
+          "lemma": "Meeresboden",
+          "article": "der",
+          "tr": "deniz tabanı"
+        },
+        {
+          "form": "entlanglaufen",
+          "lemma": "entlanglaufen",
+          "article": null,
+          "tr": "boyunca yürümek"
+        },
+        {
+          "form": "Erkunden",
+          "lemma": "Erkunden",
+          "article": "das",
+          "tr": "keşfetme"
+        },
+        {
+          "form": "Anspielung",
+          "lemma": "Anspielung",
+          "article": "die",
+          "tr": "gönderme"
+        },
+        {
+          "form": "unentdeckte",
+          "lemma": "unentdeckt",
+          "article": null,
+          "tr": "keşfedilmemiş"
+        },
+        {
+          "form": "Beutefunde",
+          "lemma": "Beutefund",
+          "article": "der",
+          "tr": "ganimet buluntuları"
+        },
+        {
+          "form": "teilen",
+          "lemma": "teilen",
+          "article": null,
+          "tr": "paylaşmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "eine Anspielung auf",
+          "article": null,
+          "tr": "bir şeye gönderme",
+          "example_de": "Der Name ist eine Anspielung auf ein altes Spiel."
+        },
+        {
+          "de": "Vor- und Nachteile",
+          "article": "der",
+          "tr": "avantaj ve dezavantajlar",
+          "example_de": "Jede Rüstung hat Vor- und Nachteile."
+        },
+        {
+          "de": "Gegenstand",
+          "article": "der",
+          "tr": "eşya",
+          "example_de": "Dieser Gegenstand ist selten."
+        },
+        {
+          "de": "Beute machen",
+          "article": null,
+          "tr": "ganimet toplamak",
+          "example_de": "Im Dungeon haben wir viel Beute gemacht."
+        },
+        {
+          "de": "Geheimnis entdecken",
+          "article": null,
+          "tr": "sır keşfetmek",
+          "example_de": "Wir wollen ein neues Geheimnis entdecken."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Welchen Nachteil haben die Stiefel?",
+          "options": [
+            "Man kann nur gehen, nicht rennen",
+            "Man kann nicht springen",
+            "Man wird unsichtbar"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Welches Spiel wird referenziert?",
+          "options": [
+            "Fortnite",
+            "Zelda: Ocarina of Time",
+            "Minecraft"
           ],
           "answer_index": 1
         }

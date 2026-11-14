@@ -1,0 +1,1752 @@
+{
+  "date": "2026-11-14",
+  "level": "original",
+  "facts": [
+    {
+      "de": "Schall breitet sich in trockener Luft bei 20 °C mit etwa 343 Metern pro Sekunde aus, das sind rund 1.236 Kilometer pro Stunde.",
+      "tr": "Ses, 20 °C'deki kuru havada saniyede yaklaşık 343 metre yol alır; bu saatte yaklaşık 1.236 kilometre eder.",
+      "source_url": "https://de.wikipedia.org/wiki/Schallgeschwindigkeit"
+    },
+    {
+      "de": "Carl Benz erhielt 1886 ein Patent auf seinen Motorwagen, der als erstes Automobil der Welt gilt.",
+      "tr": "Carl Benz 1886'da, dünyanın ilk otomobili sayılan motorlu arabası için patent aldı.",
+      "source_url": "https://de.wikipedia.org/wiki/Benz_Patent-Motorwagen"
+    },
+    {
+      "de": "Ankara wurde 1923 zur Hauptstadt der Türkei erklärt und löste damit Istanbul ab, die Hauptstadt des Osmanischen Reiches.",
+      "tr": "Ankara 1923'te Türkiye'nin başkenti ilan edildi ve Osmanlı İmparatorluğu'nun başkenti olan İstanbul'un yerini aldı.",
+      "source_url": "https://de.wikipedia.org/wiki/Ankara"
+    }
+  ],
+  "idiom": {
+    "de": "Das Eis brechen.",
+    "meaning_tr": "Gergin ya da yabancı bir ortamda ilk adımı atarak havayı yumuşatmak, sohbeti başlatmak.",
+    "literal_tr": "Buzu kırmak.",
+    "equivalent_tr": "Buzları eritmek.",
+    "example_de": "Mit einem Witz hat sie das Eis gebrochen, und danach unterhielt sich die ganze Gruppe locker.",
+    "example_tr": "Bir şakayla buzları eritti ve ardından bütün grup rahatça sohbet etti."
+  },
+  "reading": [
+    {
+      "type": "ana",
+      "text_de": "Viele Menschen halten Notizen am Laptop für effizienter als Handschrift, weil man schneller tippt. Allerdings deuten mehrere Studien darauf hin, dass handschriftliche Notizen zu einem besseren Verständnis führen. Wer nämlich nicht jedes Wort mitschreiben kann, muss auswählen und zusammenfassen und verarbeitet den Stoff dadurch tiefer. Geschwindigkeit ist beim Lernen also nicht immer ein Vorteil.",
+      "question_de": "Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?",
+      "options": [
+        "Handschriftliche Notizen sind grundsätzlich schneller und deshalb dem Laptop beim Lernen überlegen.",
+        "Das langsamere Mitschreiben von Hand kann das Verständnis fördern, weil es zum Auswählen und Zusammenfassen zwingt.",
+        "Laptops sollten im Unterricht verboten werden, da sie die Konzentration der Studierenden stören.",
+        "Wer jedes Wort mitschreibt, lernt den Stoff am gründlichsten, weil er nichts verpasst."
+      ],
+      "answer_index": 1,
+      "explanation_tr": "Metin, elle not almanın yavaşlığı sayesinde seçme ve özetlemeyi zorunlu kıldığını, bunun da anlamayı derinleştirdiğini savunuyor; doğru cevap B. A şıkkı elle yazmanın daha hızlı olduğunu söyleyerek metne ters düşüyor, D ise tam tersini iddia ediyor (en çekici çeldirici). C'deki laptop yasağı önerisi metinde hiç geçmiyor."
+    },
+    {
+      "type": "cikarilamaz",
+      "text_de": "In vielen Städten werden Straßen zu Fahrradstraßen erklärt, auf denen Autos nur als Gäste geduldet sind. Befürworter betonen, dass dadurch der Radverkehr sicherer wird. Kritiker hingegen befürchten, dass der Autoverkehr lediglich in Nebenstraßen ausweicht und dort neue Probleme verursacht. Messungen in einer Mittelstadt zeigten, dass die Zahl der Radfahrenden nach der Umstellung um ein Fünftel stieg, während der Autoverkehr in der Nachbarschaft nur leicht zunahm.",
+      "question_de": "Welche Aussage lässt sich aus dem Text NICHT ableiten?",
+      "options": [
+        "Befürworter versprechen sich von Fahrradstraßen mehr Sicherheit für Radfahrende.",
+        "Kritiker rechnen damit, dass sich Autoverkehr in Nebenstraßen verlagern könnte.",
+        "In der untersuchten Mittelstadt fuhren nach der Umstellung mehr Menschen Rad.",
+        "In der untersuchten Mittelstadt ist der Autoverkehr in der Nachbarschaft deutlich zurückgegangen."
+      ],
+      "answer_index": 3,
+      "explanation_tr": "Metne göre komşu sokaklardaki araç trafiği 'hafif arttı'; D ise belirgin azaldığını söylüyor, bu yüzden çıkarılamaz. A ve B savunucuların ve eleştirenlerin görüşlerini doğru aktarıyor, C ise bisiklet kullananların beşte bir oranında arttığıyla uyumlu."
+    },
+    {
+      "type": "bosluk",
+      "text_de": "Spieler, die nach einer Niederlage sofort die nächste Partie starten, verbessern sich oft nicht. ___ Wer dagegen kurz innehält und überlegt, welche Entscheidung zum Verlust geführt hat, lernt aus demselben Spiel deutlich mehr. Training bedeutet also nicht nur Wiederholung, sondern auch Auswertung.",
+      "question_de": "Welcher Satz passt am besten in die Lücke (___)?",
+      "options": [
+        "Denn ohne Nachdenken wiederholen sie meist dieselben Fehler, nur eben schneller.",
+        "Deshalb sollten sie nach jeder Niederlage mindestens eine Stunde pausieren.",
+        "Das liegt daran, dass sie dann gegen immer stärkere Gegner antreten müssen.",
+        "Daher gewinnen sie dank der vielen Übung am Ende trotzdem häufiger."
+      ],
+      "answer_index": 0,
+      "explanation_tr": "Boşluktan sonraki 'dagegen' cümlesi, düşünmeden oynamanın sonuçsuz kaldığıyla zıtlık kuruyor; A bu gerekçeyi veriyor. D, 'verbessern sich oft nicht' ifadesiyle çelişiyor; B'deki bir saatlik mola ise metinde hiç söylenmiyor (kısa durup düşünmekten söz ediliyor)."
+    },
+    {
+      "type": "anlam",
+      "text_de": "Die Gemeinde hat beschlossen, den Marktplatz für Autos zu sperren. Viele Händler fürchteten daraufhin sinkende Umsätze. Nach einem halben Jahr zeigte sich jedoch, dass mehr Menschen auf dem Platz verweilten und auch mehr einkauften. Der Wirt, der anfangs am lautesten protestiert hatte, räumte ein, er habe damals „den Mund zu voll genommen“.",
+      "question_de": "Was ist mit „den Mund zu voll genommen“ gemeint?",
+      "options": [
+        "Er hat zu viel gegessen und musste sich deshalb entschuldigen.",
+        "Er hat bewusst so leise gesprochen, dass niemand ihn hörte.",
+        "Er hat sich anfangs zu stark festgelegt und Behauptungen aufgestellt, die sich nicht bewahrheiteten.",
+        "Er hat die Befürworter der Entscheidung öffentlich beleidigt."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "'Den Mund zu voll nehmen', büyük laflar etmek, sonradan doğru çıkmayan iddialarda bulunmak demektir; metinde de umutsuz tahminler gerçekleşmemiştir, doğru cevap C. A kelimenin düz anlamına takılan tuzaktır, D ise en çekici çeldiricidir ama metinde hakaretten söz edilmez."
+    },
+    {
+      "type": "tutum",
+      "text_de": "Immer wieder wird behauptet, junge Menschen läsen heute kaum noch. Die Zahlen der Stadtbibliothek erzählen jedoch eine andere Geschichte: Die Ausleihen von Jugendbüchern sind im vergangenen Jahr um acht Prozent gestiegen. Wer also pauschal vom Ende des Lesens spricht, sollte vielleicht zuerst nachzählen, bevor er Urteile fällt.",
+      "question_de": "Welche Haltung vertritt der Autor?",
+      "options": [
+        "Er bedauert resigniert, dass Jugendliche weniger lesen als früher.",
+        "Er hinterfragt die verbreitete Behauptung kritisch und stützt sich dabei auf Zahlen.",
+        "Er lobt begeistert die Leseförderung der Stadtbibliothek.",
+        "Er bleibt neutral und bewertet die Zahlen bewusst nicht."
+      ],
+      "answer_index": 1,
+      "explanation_tr": "Yazar yaygın iddiayı sorguluyor ve 'önce sayın' diyerek sayılara dayanıyor; doğru cevap B. A şıkkı yazarın iddiaya katıldığını varsayıyor, D ise tarafsız değil, açıkça eleştirel bir ton var. C'de kütüphane övülmüyor, sadece rakamlar kullanılıyor."
+    }
+  ],
+  "items": [
+    {
+      "id": "2026-11-14-weihnachtsmarkt-anreise",
+      "category": "nrw",
+      "title_de": "Weihnachtsmarkt Düsseldorf: So klappt die Anreise",
+      "summary_de": "Der Düsseldorfer Weihnachtsmarkt in der Innenstadt öffnet am Donnerstag, dem 19. November, und läuft bis zum 30. Dezember. Die Stadt empfiehlt dringend, mit Bus und Bahn anzureisen, weil es an den Wochenenden sehr voll wird. An sieben besonders stark besuchten Tagen gilt ein Verkehrskonzept, das schon im vergangenen Jahr eingesetzt wurde. Dann werden unter anderem die Königsallee und die Blumenstraße ab etwa elf Uhr für Autos gesperrt, meist bis in den frühen Abend. Mehr als 40 junge Verkehrskadetten lenken an wichtigen Kreuzungen die Fußgänger. Wer trotzdem mit dem Auto kommt, kann auf rund 2.200 Park-and-Ride-Plätze im Stadtgebiet ausweichen und von dort mit der Bahn zur Heinrich-Heine-Allee fahren. Außerdem gibt es kombinierte Tickets, die das Parken an der Merkur Spiel-Arena oder am Flughafen mit der Fahrt in die City verbinden. Am 29. November ist zudem verkaufsoffener Sonntag.",
+      "source_name": "Landeshauptstadt Düsseldorf",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/anreisetipps-zu-den-duesseldorfer-weihnachtsmaerkten-2",
+      "glossary": [
+        {
+          "form": "Innenstadt",
+          "lemma": "Innenstadt",
+          "article": "die",
+          "tr": "şehir merkezi"
+        },
+        {
+          "form": "empfiehlt",
+          "lemma": "empfehlen",
+          "article": null,
+          "tr": "tavsiye etmek"
+        },
+        {
+          "form": "dringend",
+          "lemma": "dringend",
+          "article": null,
+          "tr": "ısrarla, acilen"
+        },
+        {
+          "form": "anzureisen",
+          "lemma": "anreisen",
+          "article": null,
+          "tr": "(bir yere) yolculukla varmak"
+        },
+        {
+          "form": "besuchten",
+          "lemma": "besucht",
+          "article": null,
+          "tr": "çok ziyaret edilen"
+        },
+        {
+          "form": "Verkehrskonzept",
+          "lemma": "Verkehrskonzept",
+          "article": "das",
+          "tr": "trafik planı"
+        },
+        {
+          "form": "eingesetzt",
+          "lemma": "einsetzen",
+          "article": null,
+          "tr": "uygulamaya koymak"
+        },
+        {
+          "form": "gesperrt",
+          "lemma": "sperren",
+          "article": null,
+          "tr": "kapatmak"
+        },
+        {
+          "form": "Verkehrskadetten",
+          "lemma": "Verkehrskadett",
+          "article": "der",
+          "tr": "trafik gönüllüsü genç"
+        },
+        {
+          "form": "Kreuzungen",
+          "lemma": "Kreuzung",
+          "article": "die",
+          "tr": "kavşak"
+        },
+        {
+          "form": "ausweichen",
+          "lemma": "ausweichen",
+          "article": null,
+          "tr": "alternatife yönelmek"
+        },
+        {
+          "form": "kombinierte",
+          "lemma": "kombiniert",
+          "article": null,
+          "tr": "birleşik"
+        },
+        {
+          "form": "verbinden",
+          "lemma": "verbinden",
+          "article": null,
+          "tr": "birleştirmek"
+        },
+        {
+          "form": "verkaufsoffener",
+          "lemma": "verkaufsoffen",
+          "article": null,
+          "tr": "mağazaların açık olduğu"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "anreisen",
+          "article": null,
+          "tr": "yolculukla varmak",
+          "example_de": "Wir reisen am Samstag mit dem Zug an."
+        },
+        {
+          "de": "eine Straße sperren",
+          "article": null,
+          "tr": "bir yolu kapatmak",
+          "example_de": "Die Polizei muss die Straße wegen des Umzugs sperren."
+        },
+        {
+          "de": "auf etwas ausweichen",
+          "article": null,
+          "tr": "bir şeye yönelmek, alternatif seçmek",
+          "example_de": "Wegen des Staus weichen viele auf die Bahn aus."
+        },
+        {
+          "de": "Verkehrskonzept",
+          "article": "das",
+          "tr": "trafik planı",
+          "example_de": "Das neue Verkehrskonzept entlastet die Altstadt."
+        },
+        {
+          "de": "Park-and-Ride-Platz",
+          "article": "der",
+          "tr": "aktarmalı park yeri",
+          "example_de": "Ich lasse das Auto am Park-and-Ride-Platz stehen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Bis wann läuft der Weihnachtsmarkt in der Düsseldorfer Innenstadt?",
+          "options": [
+            "Bis zum 19. November",
+            "Bis zum 30. Dezember",
+            "Bis zum 29. November"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „ausweichen“ im Text?",
+          "options": [
+            "Eine Alternative wählen, um ein Problem zu umgehen",
+            "Besonders schnell fahren",
+            "Ein Ticket kaufen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-rheinkniebruecke-sperrung",
+      "category": "nrw",
+      "title_de": "Rheinkniebrücke: Wochenende voll gesperrt",
+      "summary_de": "Wer in Düsseldorf mit dem Auto zwischen Altstadt und Oberkassel unterwegs ist, braucht in den nächsten Tagen Geduld. Die Rheinkniebrücke und der Rheinalleetunnel werden von Samstagabend, 21 Uhr, bis Montagmorgen, 5 Uhr, für den gesamten Autoverkehr gesperrt. Danach folgen Sperrungen in den Nächten von Montag bis Freitag, jeweils zwischen 21 und 5 Uhr. Hintergrund sind routinemäßige Bauwerksprüfungen, bei denen unter anderem die Tragseile der Brücke untersucht werden. Dafür kommen Prüfplattformen zum Einsatz, die etwa 100 Meter weit reichen. Damit die Brücke dabei nicht ins Schwingen gerät, darf kein motorisierter Verkehr darüber rollen. Autofahrer werden in Richtung Oberkassel über den Rheinufertunnel umgeleitet, auf der linken Rheinseite über die Theodor-Heuss-Brücke oder die Oberkasseler Brücke. Fußgänger und Radfahrer sind von den Arbeiten nicht betroffen.",
+      "source_name": "ddorf-aktuell.de",
+      "source_url": "https://www.ddorf-aktuell.de/2026/11/13/duesseldorf-sperrungen-der-rheinkniebruecke-und-des-rheinalleetunnels-an-diesem-wochenende/",
+      "glossary": [
+        {
+          "form": "Geduld",
+          "lemma": "Geduld",
+          "article": "die",
+          "tr": "sabır"
+        },
+        {
+          "form": "gesperrt",
+          "lemma": "sperren",
+          "article": null,
+          "tr": "kapatmak"
+        },
+        {
+          "form": "Sperrungen",
+          "lemma": "Sperrung",
+          "article": "die",
+          "tr": "kapatma"
+        },
+        {
+          "form": "Hintergrund",
+          "lemma": "Hintergrund",
+          "article": "der",
+          "tr": "arka plan, neden"
+        },
+        {
+          "form": "routinemäßige",
+          "lemma": "routinemäßig",
+          "article": null,
+          "tr": "rutin"
+        },
+        {
+          "form": "Bauwerksprüfungen",
+          "lemma": "Bauwerksprüfung",
+          "article": "die",
+          "tr": "yapı muayenesi"
+        },
+        {
+          "form": "Tragseile",
+          "lemma": "Tragseil",
+          "article": "das",
+          "tr": "taşıyıcı halat"
+        },
+        {
+          "form": "untersucht",
+          "lemma": "untersuchen",
+          "article": null,
+          "tr": "incelemek"
+        },
+        {
+          "form": "Prüfplattformen",
+          "lemma": "Prüfplattform",
+          "article": "die",
+          "tr": "kontrol platformu"
+        },
+        {
+          "form": "Einsatz",
+          "lemma": "Einsatz",
+          "article": "der",
+          "tr": "kullanım"
+        },
+        {
+          "form": "Schwingen",
+          "lemma": "Schwingen",
+          "article": "das",
+          "tr": "salınım"
+        },
+        {
+          "form": "gerät",
+          "lemma": "geraten",
+          "article": null,
+          "tr": "(bir duruma) girmek"
+        },
+        {
+          "form": "umgeleitet",
+          "lemma": "umleiten",
+          "article": null,
+          "tr": "yönlendirmek"
+        },
+        {
+          "form": "betroffen",
+          "lemma": "betroffen",
+          "article": null,
+          "tr": "etkilenmiş"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Geduld haben",
+          "article": null,
+          "tr": "sabırlı olmak",
+          "example_de": "Beim Umbau müssen wir alle Geduld haben."
+        },
+        {
+          "de": "zum Einsatz kommen",
+          "article": null,
+          "tr": "kullanılmak",
+          "example_de": "Bei der Prüfung kommen spezielle Plattformen zum Einsatz."
+        },
+        {
+          "de": "umleiten",
+          "article": null,
+          "tr": "yönlendirmek",
+          "example_de": "Die Polizei leitet den Verkehr über die Nebenstraße um."
+        },
+        {
+          "de": "von etwas betroffen sein",
+          "article": null,
+          "tr": "bir şeyden etkilenmek",
+          "example_de": "Von der Sperrung sind viele Pendler betroffen."
+        },
+        {
+          "de": "Sperrung",
+          "article": "die",
+          "tr": "kapatma",
+          "example_de": "Die Sperrung dauert nur eine Nacht."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Warum darf kein Autoverkehr über die Brücke rollen?",
+          "options": [
+            "Die Brücke ist einsturzgefährdet.",
+            "Sie soll bei den Prüfarbeiten nicht ins Schwingen geraten.",
+            "Die Fahrbahn wird neu asphaltiert."
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wer ist von den Arbeiten nicht betroffen?",
+          "options": [
+            "Autofahrer",
+            "Busfahrer",
+            "Fußgänger und Radfahrer"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-weihnachtstal-eisenberg",
+      "category": "de",
+      "title_de": "Weihnachtstal: Ein Markt, sieben Kilometer lang",
+      "summary_de": "Ein Weihnachtsmarkt ohne Marktplatz: Im Eisenberger Mühltal in Ostthüringen wird am dritten Adventswochenende das Weihnachtstal gefeiert. Die Veranstalter bezeichnen es als Deutschlands längsten Weihnachtsmarkt, denn die Strecke zieht sich über etwa sieben Kilometer durch das Tal. Statt Buden auf einem Platz besuchen die Gäste neun historische Mühlen, die geschmückt und beleuchtet sind. Jede Mühle hat ihr eigenes Programm mit Märchen, Musik, Handwerk und regionalen Spezialitäten. Dazwischen führen Waldwege mit Lichtinstallationen, und abends kann man sich eine Fackel kaufen. Autos dürfen nicht ins Tal fahren, stattdessen pendeln kostenlose Busse zwischen den Parkplätzen und den Eingängen. Wer das Tal erkunden möchte, braucht feste Schuhe, denn die Wege müssen zu Fuß zurückgelegt werden, und mit der Anreise können es bis zu neun Kilometer werden. Der Markt findet am 12. und 13. Dezember statt, und ein Armband gilt für beide Tage.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/urlaub-freizeit/358421059-sieben-kilometer-weihnachtszauber-diesen-besonderen-markt-gibt-es-nur-an-einem-wochenende",
+      "glossary": [
+        {
+          "form": "Veranstalter",
+          "lemma": "Veranstalter",
+          "article": "der",
+          "tr": "organizatör"
+        },
+        {
+          "form": "bezeichnen",
+          "lemma": "bezeichnen",
+          "article": null,
+          "tr": "nitelendirmek"
+        },
+        {
+          "form": "Strecke",
+          "lemma": "Strecke",
+          "article": "die",
+          "tr": "güzergâh, mesafe"
+        },
+        {
+          "form": "Buden",
+          "lemma": "Bude",
+          "article": "die",
+          "tr": "tezgâh, kulübe"
+        },
+        {
+          "form": "geschmückt",
+          "lemma": "schmücken",
+          "article": null,
+          "tr": "süslemek"
+        },
+        {
+          "form": "beleuchtet",
+          "lemma": "beleuchten",
+          "article": null,
+          "tr": "aydınlatmak"
+        },
+        {
+          "form": "Märchen",
+          "lemma": "Märchen",
+          "article": "das",
+          "tr": "masal"
+        },
+        {
+          "form": "Handwerk",
+          "lemma": "Handwerk",
+          "article": "das",
+          "tr": "el sanatı, zanaat"
+        },
+        {
+          "form": "regionalen",
+          "lemma": "regional",
+          "article": null,
+          "tr": "bölgesel"
+        },
+        {
+          "form": "Spezialitäten",
+          "lemma": "Spezialität",
+          "article": "die",
+          "tr": "yöresel lezzet"
+        },
+        {
+          "form": "Lichtinstallationen",
+          "lemma": "Lichtinstallation",
+          "article": "die",
+          "tr": "ışık düzenlemesi"
+        },
+        {
+          "form": "Fackel",
+          "lemma": "Fackel",
+          "article": "die",
+          "tr": "meşale"
+        },
+        {
+          "form": "pendeln",
+          "lemma": "pendeln",
+          "article": null,
+          "tr": "gidip gelmek (servis)"
+        },
+        {
+          "form": "erkunden",
+          "lemma": "erkunden",
+          "article": null,
+          "tr": "keşfetmek"
+        },
+        {
+          "form": "zurückgelegt",
+          "lemma": "zurücklegen",
+          "article": null,
+          "tr": "(mesafe) katetmek"
+        },
+        {
+          "form": "Anreise",
+          "lemma": "Anreise",
+          "article": "die",
+          "tr": "varış yolculuğu"
+        },
+        {
+          "form": "Armband",
+          "lemma": "Armband",
+          "article": "das",
+          "tr": "bileklik"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "eine Strecke zurücklegen",
+          "article": null,
+          "tr": "bir mesafeyi katetmek",
+          "example_de": "Wir legen die Strecke in zwei Stunden zurück."
+        },
+        {
+          "de": "etwas erkunden",
+          "article": null,
+          "tr": "bir yeri keşfetmek",
+          "example_de": "Am Wochenende erkunden wir die Altstadt."
+        },
+        {
+          "de": "Anreise",
+          "article": "die",
+          "tr": "varış yolculuğu",
+          "example_de": "Die Anreise mit dem Zug dauert drei Stunden."
+        },
+        {
+          "de": "stattdessen",
+          "article": null,
+          "tr": "bunun yerine",
+          "example_de": "Ich nehme stattdessen die Bahn."
+        },
+        {
+          "de": "zu Fuß",
+          "article": null,
+          "tr": "yürüyerek",
+          "example_de": "Zur Uni gehe ich meistens zu Fuß."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie lang ist der Weihnachtsmarkt im Mühltal ungefähr?",
+          "options": [
+            "Etwa sieben Kilometer",
+            "Etwa neun Mühlen",
+            "Etwa zwölf Kilometer"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was passiert mit den Autos während des Marktes?",
+          "options": [
+            "Sie parken direkt vor den Mühlen.",
+            "Sie dürfen nicht ins Tal; Busse pendeln von den Parkplätzen.",
+            "Sie fahren als Weihnachtstal-Express durch das Tal."
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-novemberhimmel-supermond",
+      "category": "de",
+      "title_de": "Leoniden, Mars-Jupiter und ein Supermond",
+      "summary_de": "Der November hat am Himmel einiges zu bieten. Am 17. November erreicht der Meteorstrom der Leoniden sein Maximum, davor sind schon vereinzelt Sternschnuppen der Tauriden zu sehen. Am 15. November stehen die Planeten Mars und Jupiter ungewöhnlich dicht beieinander am Himmel. Das Highlight des Monats ist der Vollmond am 24. November um 15:53 Uhr, der zugleich ein sogenannter Supermond ist und deshalb etwas größer und heller wirkt als üblich. Schon am Abend davor und danach lohnt sich ein Blick nach oben, besonders wenn der Mond nahe am Horizont aufgeht. Der Name Bibermond geht auf alte Traditionen zurück, denn früher war dies die letzte Gelegenheit für Fallensteller vor dem Frost. Viele Menschen glauben, dass der Vollmond den Schlaf stört. Eine Basler Studie von 2013 deutete darauf hin, doch wegen der kleinen Stichprobe wurde sie kritisiert, und andere Untersuchungen fanden keinen Effekt.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/alltagsfrage/623761000-vollmond-november-2026-wann-der-bibermond-und-sternschnuppen-zu-sehen-sind",
+      "glossary": [
+        {
+          "form": "Meteorstrom",
+          "lemma": "Meteorstrom",
+          "article": "der",
+          "tr": "meteor yağmuru"
+        },
+        {
+          "form": "Maximum",
+          "lemma": "Maximum",
+          "article": "das",
+          "tr": "zirve"
+        },
+        {
+          "form": "vereinzelt",
+          "lemma": "vereinzelt",
+          "article": null,
+          "tr": "tek tük"
+        },
+        {
+          "form": "Sternschnuppen",
+          "lemma": "Sternschnuppe",
+          "article": "die",
+          "tr": "kayan yıldız"
+        },
+        {
+          "form": "ungewöhnlich",
+          "lemma": "ungewöhnlich",
+          "article": null,
+          "tr": "alışılmadık"
+        },
+        {
+          "form": "Supermond",
+          "lemma": "Supermond",
+          "article": "der",
+          "tr": "süper ay"
+        },
+        {
+          "form": "wirkt",
+          "lemma": "wirken",
+          "article": null,
+          "tr": "izlenim vermek"
+        },
+        {
+          "form": "lohnt",
+          "lemma": "lohnen",
+          "article": null,
+          "tr": "değmek"
+        },
+        {
+          "form": "Horizont",
+          "lemma": "Horizont",
+          "article": "der",
+          "tr": "ufuk"
+        },
+        {
+          "form": "aufgeht",
+          "lemma": "aufgehen",
+          "article": null,
+          "tr": "(ay/güneş) doğmak"
+        },
+        {
+          "form": "Fallensteller",
+          "lemma": "Fallensteller",
+          "article": "der",
+          "tr": "tuzakçı"
+        },
+        {
+          "form": "Gelegenheit",
+          "lemma": "Gelegenheit",
+          "article": "die",
+          "tr": "fırsat"
+        },
+        {
+          "form": "Frost",
+          "lemma": "Frost",
+          "article": "der",
+          "tr": "don"
+        },
+        {
+          "form": "deutete",
+          "lemma": "hindeuten",
+          "article": null,
+          "tr": "işaret etmek"
+        },
+        {
+          "form": "Stichprobe",
+          "lemma": "Stichprobe",
+          "article": "die",
+          "tr": "örneklem"
+        },
+        {
+          "form": "kritisiert",
+          "lemma": "kritisieren",
+          "article": null,
+          "tr": "eleştirmek"
+        },
+        {
+          "form": "Untersuchungen",
+          "lemma": "Untersuchung",
+          "article": "die",
+          "tr": "araştırma"
+        },
+        {
+          "form": "Effekt",
+          "lemma": "Effekt",
+          "article": "der",
+          "tr": "etki"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich lohnen",
+          "article": null,
+          "tr": "değmek",
+          "example_de": "Der Ausflug lohnt sich bei klarem Wetter."
+        },
+        {
+          "de": "auf etwas hindeuten",
+          "article": null,
+          "tr": "bir şeye işaret etmek",
+          "example_de": "Die Daten deuten auf einen Zusammenhang hin."
+        },
+        {
+          "de": "einen Blick nach oben werfen",
+          "article": null,
+          "tr": "yukarı bakmak",
+          "example_de": "Heute Abend werfe ich einen Blick nach oben."
+        },
+        {
+          "de": "Stichprobe",
+          "article": "die",
+          "tr": "örneklem",
+          "example_de": "Die Stichprobe war leider viel zu klein."
+        },
+        {
+          "de": "ungewöhnlich",
+          "article": null,
+          "tr": "alışılmadık",
+          "example_de": "Es ist ungewöhnlich warm für November."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wann ist der Supermond im November?",
+          "options": [
+            "Am 17. November",
+            "Am 15. November",
+            "Am 24. November"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Warum wurde die Basler Schlafstudie kritisiert?",
+          "options": [
+            "Wegen der kleinen Stichprobe",
+            "Weil sie zu teuer war",
+            "Weil sie nur Kinder untersuchte"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-erde-ohne-leben",
+      "category": "de",
+      "title_de": "Eine Computer-Erde ohne Leben als Alien-Detektor",
+      "summary_de": "Wie erkennt man aus Lichtjahren Entfernung, ob ein Planet tatsächlich Leben trägt? Ein Team der University of Washington hat dafür eine Computersimulation einer Erde ohne jegliches Leben gebaut. Das Modell berücksichtigt neben Kern, Mantel und Kruste auch Atmosphäre und Ozeane und läuft über rund fünf Milliarden Jahre. Von 19 verglichenen Größen stimmten 17 mit der vorindustriellen Erde ziemlich gut überein. Die simulierte Lufthülle enthielt Stickstoff, Kohlendioxid und Wasserstoff, aber weder Sauerstoff noch Methan oder Ozon. Genau diese Gase würden bei einem bewohnten Planeten im Licht sichtbare Spuren hinterlassen. Künftige Weltraumteleskope könnten ihre Messungen mit dem Modell vergleichen und so unterscheiden, ob ein Planet nur bewohnbar oder wirklich bewohnt ist. Die Studie deutet außerdem an, dass ein Planet auch ohne Leben bewohnbar bleiben kann, was in der Forschung allerdings umstritten ist.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/simulieren-erde-ohne-leben-aliens-1773522/",
+      "glossary": [
+        {
+          "form": "Computersimulation",
+          "lemma": "Computersimulation",
+          "article": "die",
+          "tr": "bilgisayar simülasyonu"
+        },
+        {
+          "form": "jegliches",
+          "lemma": "jeglich",
+          "article": null,
+          "tr": "herhangi bir"
+        },
+        {
+          "form": "berücksichtigt",
+          "lemma": "berücksichtigen",
+          "article": null,
+          "tr": "dikkate almak"
+        },
+        {
+          "form": "Kruste",
+          "lemma": "Kruste",
+          "article": "die",
+          "tr": "kabuk"
+        },
+        {
+          "form": "verglichenen",
+          "lemma": "verglichen",
+          "article": null,
+          "tr": "karşılaştırılan"
+        },
+        {
+          "form": "überein",
+          "lemma": "übereinstimmen",
+          "article": null,
+          "tr": "uyuşmak"
+        },
+        {
+          "form": "Lufthülle",
+          "lemma": "Lufthülle",
+          "article": "die",
+          "tr": "atmosfer tabakası"
+        },
+        {
+          "form": "Wasserstoff",
+          "lemma": "Wasserstoff",
+          "article": "der",
+          "tr": "hidrojen"
+        },
+        {
+          "form": "Spuren",
+          "lemma": "Spur",
+          "article": "die",
+          "tr": "iz"
+        },
+        {
+          "form": "hinterlassen",
+          "lemma": "hinterlassen",
+          "article": null,
+          "tr": "geride bırakmak"
+        },
+        {
+          "form": "Weltraumteleskope",
+          "lemma": "Weltraumteleskop",
+          "article": "das",
+          "tr": "uzay teleskobu"
+        },
+        {
+          "form": "unterscheiden",
+          "lemma": "unterscheiden",
+          "article": null,
+          "tr": "ayırt etmek"
+        },
+        {
+          "form": "bewohnbar",
+          "lemma": "bewohnbar",
+          "article": null,
+          "tr": "yaşanabilir"
+        },
+        {
+          "form": "bewohnt",
+          "lemma": "bewohnt",
+          "article": null,
+          "tr": "yaşayan olan"
+        },
+        {
+          "form": "deutet",
+          "lemma": "andeuten",
+          "article": null,
+          "tr": "ima etmek"
+        },
+        {
+          "form": "umstritten",
+          "lemma": "umstritten",
+          "article": null,
+          "tr": "tartışmalı"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas berücksichtigen",
+          "article": null,
+          "tr": "bir şeyi dikkate almak",
+          "example_de": "Der Plan berücksichtigt alle Wünsche."
+        },
+        {
+          "de": "mit etwas übereinstimmen",
+          "article": null,
+          "tr": "bir şeyle örtüşmek",
+          "example_de": "Die Messwerte stimmen mit der Theorie überein."
+        },
+        {
+          "de": "Spuren hinterlassen",
+          "article": null,
+          "tr": "iz bırakmak",
+          "example_de": "Der Sturm hat Spuren hinterlassen."
+        },
+        {
+          "de": "zwischen A und B unterscheiden",
+          "article": null,
+          "tr": "A ile B arasında ayırt etmek",
+          "example_de": "Ich kann Zwillinge kaum unterscheiden."
+        },
+        {
+          "de": "umstritten sein",
+          "article": null,
+          "tr": "tartışmalı olmak",
+          "example_de": "Das Ergebnis ist unter Fachleuten umstritten."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wofür bauten die Forschenden die Simulation?",
+          "options": [
+            "Um das Klima der Zukunft vorherzusagen",
+            "Um bewohnte von nur bewohnbaren Planeten unterscheiden zu können",
+            "Um das Alter der Erde zu bestimmen"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Welche Gase fehlten in der simulierten Lufthülle?",
+          "options": [
+            "Stickstoff und Kohlendioxid",
+            "Wasserstoff und Stickstoff",
+            "Sauerstoff, Methan und Ozon"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-ev-akku-haltbarkeit",
+      "category": "tech",
+      "title_de": "Wie lange hält ein E-Auto-Akku wirklich?",
+      "summary_de": "Viele Käufer fürchten, dass der Akku eines Elektroautos nach wenigen Jahren schlappmacht. Quarks erklärt, warum die Sorge meist übertrieben ist. Ein Auto mit 60-kWh-Batterie, das 10.000 Kilometer im Jahr fährt, braucht nur etwa 25 bis 40 volle Ladezyklen, während ein täglich entladenes Smartphone auf rund 365 kommt. Altern lässt den Akku vor allem Hitze, Kälte, extreme Ladestände und häufiges Schnellladen. In einer Auswertung von rund 22.000 Fahrzeugen büßten die Batterien im Schnitt 2,3 Prozent Kapazität pro Jahr ein, bei Ladung zu Hause nur etwa 1,5 Prozent. Ein Test der TU München zeigte, dass ein VW ID.3 nach mehr als 160.000 Kilometern noch über 90 Prozent Kapazität hatte. Labortests unterschätzen die Haltbarkeit oft, weil sie die Zellen voll laden und entladen, während reale Fahrten viel schonender sind. Allerdings variiert der Zustand selbst innerhalb eines Modells stark.",
+      "source_name": "Quarks",
+      "source_url": "https://www.quarks.de/technik/mobilitaet/e-auto-batterie-akku-lebensdauer/",
+      "glossary": [
+        {
+          "form": "fürchten",
+          "lemma": "fürchten",
+          "article": null,
+          "tr": "korkmak"
+        },
+        {
+          "form": "Akku",
+          "lemma": "Akku",
+          "article": "der",
+          "tr": "akü, batarya"
+        },
+        {
+          "form": "schlappmacht",
+          "lemma": "schlappmachen",
+          "article": null,
+          "tr": "pes etmek, çökmek"
+        },
+        {
+          "form": "übertrieben",
+          "lemma": "übertrieben",
+          "article": null,
+          "tr": "abartılı"
+        },
+        {
+          "form": "Ladezyklen",
+          "lemma": "Ladezyklus",
+          "article": "der",
+          "tr": "şarj döngüsü"
+        },
+        {
+          "form": "entladenes",
+          "lemma": "entladen",
+          "article": null,
+          "tr": "boşaltılmış"
+        },
+        {
+          "form": "Hitze",
+          "lemma": "Hitze",
+          "article": "die",
+          "tr": "sıcak"
+        },
+        {
+          "form": "Schnellladen",
+          "lemma": "Schnellladen",
+          "article": "das",
+          "tr": "hızlı şarj"
+        },
+        {
+          "form": "Auswertung",
+          "lemma": "Auswertung",
+          "article": "die",
+          "tr": "değerlendirme"
+        },
+        {
+          "form": "büßten",
+          "lemma": "einbüßen",
+          "article": null,
+          "tr": "kaybetmek"
+        },
+        {
+          "form": "Kapazität",
+          "lemma": "Kapazität",
+          "article": "die",
+          "tr": "kapasite"
+        },
+        {
+          "form": "Haltbarkeit",
+          "lemma": "Haltbarkeit",
+          "article": "die",
+          "tr": "dayanıklılık"
+        },
+        {
+          "form": "unterschätzen",
+          "lemma": "unterschätzen",
+          "article": null,
+          "tr": "hafife almak"
+        },
+        {
+          "form": "schonender",
+          "lemma": "schonend",
+          "article": null,
+          "tr": "daha koruyucu"
+        },
+        {
+          "form": "variiert",
+          "lemma": "variieren",
+          "article": null,
+          "tr": "değişmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Kapazität einbüßen",
+          "article": null,
+          "tr": "kapasite kaybetmek",
+          "example_de": "Mit den Jahren büßt jeder Akku Kapazität ein."
+        },
+        {
+          "de": "Akku",
+          "article": "der",
+          "tr": "akü",
+          "example_de": "Mein Akku ist schon wieder leer."
+        },
+        {
+          "de": "im Schnitt",
+          "article": null,
+          "tr": "ortalama olarak",
+          "example_de": "Im Schnitt fahre ich 30 Kilometer am Tag."
+        },
+        {
+          "de": "etwas unterschätzen",
+          "article": null,
+          "tr": "bir şeyi hafife almak",
+          "example_de": "Viele unterschätzen den Aufwand."
+        },
+        {
+          "de": "Haltbarkeit",
+          "article": "die",
+          "tr": "dayanıklılık, raf ömrü",
+          "example_de": "Die Haltbarkeit des Geräts ist beeindruckend."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Warum altern Akkus im E-Auto langsamer als im Smartphone?",
+          "options": [
+            "Sie werden seltener voll geladen und entladen.",
+            "Sie sind immer wärmer.",
+            "Sie werden nur nachts geladen."
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „einbüßen“?",
+          "options": [
+            "Reparieren",
+            "Verlieren",
+            "Verkaufen"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-sony-uwb-ticketschranken",
+      "category": "tech",
+      "title_de": "Bahnschranke ohne Handy zücken: Sony und JR East setzen auf UWB",
+      "summary_de": "Die japanische Bahngesellschaft JR East und Sony wollen Bahnhofsschranken bauen, die Fahrgäste durchlassen, ohne dass sie das Handy überhaupt zücken müssen. Möglich machen soll das Ultrabreitband, kurz UWB, eine Funktechnik, mit der ein Chip im Smartphone mit der Schranke spricht. Bisher muss man Telefon oder Karte per NFC an das Lesegerät halten. Sonys Plattform prüft im Hintergrund, ob ein gültiges Ticket oder genug Guthaben vorhanden ist, und das offenbar in unter 200 Millisekunden. Das Handy kann dabei in der Hosentasche oder im Rucksack bleiben. Nach einem Test in einem neuen Bahnhof sollen 2027 zunächst 14 Stationen der Tokioter Yamanote-Linie folgen. Bis Frühjahr 2028 sind insgesamt 40 Bahnhöfe geplant, Shinkansen-Bahnhöfe sollen bis Ende 2031 nachziehen. Ein landesweiter Einsatz gilt vorerst als unwahrscheinlich, weil das Suica-System auf dem Land schwer nutzbar ist.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Japan-Sony-und-JR-East-wollen-40-Bahnhoefe-mit-UWB-Ticketgates-ausstatten-11524971.html",
+      "glossary": [
+        {
+          "form": "Bahngesellschaft",
+          "lemma": "Bahngesellschaft",
+          "article": "die",
+          "tr": "demiryolu şirketi"
+        },
+        {
+          "form": "Bahnhofsschranken",
+          "lemma": "Bahnhofsschranke",
+          "article": "die",
+          "tr": "turnike"
+        },
+        {
+          "form": "Fahrgäste",
+          "lemma": "Fahrgast",
+          "article": "der",
+          "tr": "yolcu"
+        },
+        {
+          "form": "durchlassen",
+          "lemma": "durchlassen",
+          "article": null,
+          "tr": "geçirmek"
+        },
+        {
+          "form": "zücken",
+          "lemma": "zücken",
+          "article": null,
+          "tr": "hızla çıkarmak"
+        },
+        {
+          "form": "Ultrabreitband",
+          "lemma": "Ultrabreitband",
+          "article": "das",
+          "tr": "ultra geniş bant"
+        },
+        {
+          "form": "Funktechnik",
+          "lemma": "Funktechnik",
+          "article": "die",
+          "tr": "telsiz teknolojisi"
+        },
+        {
+          "form": "Lesegerät",
+          "lemma": "Lesegerät",
+          "article": "das",
+          "tr": "okuyucu cihaz"
+        },
+        {
+          "form": "Plattform",
+          "lemma": "Plattform",
+          "article": "die",
+          "tr": "platform"
+        },
+        {
+          "form": "gültiges",
+          "lemma": "gültig",
+          "article": null,
+          "tr": "geçerli"
+        },
+        {
+          "form": "Guthaben",
+          "lemma": "Guthaben",
+          "article": "das",
+          "tr": "bakiye"
+        },
+        {
+          "form": "Millisekunden",
+          "lemma": "Millisekunde",
+          "article": "die",
+          "tr": "milisaniye"
+        },
+        {
+          "form": "Hosentasche",
+          "lemma": "Hosentasche",
+          "article": "die",
+          "tr": "pantolon cebi"
+        },
+        {
+          "form": "nachziehen",
+          "lemma": "nachziehen",
+          "article": null,
+          "tr": "ardından gelmek"
+        },
+        {
+          "form": "landesweiter",
+          "lemma": "landesweit",
+          "article": null,
+          "tr": "ülke çapında"
+        },
+        {
+          "form": "unwahrscheinlich",
+          "lemma": "unwahrscheinlich",
+          "article": null,
+          "tr": "olası değil"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "das Handy zücken",
+          "article": null,
+          "tr": "telefonu çıkarmak",
+          "example_de": "Er zückte das Handy und machte ein Foto."
+        },
+        {
+          "de": "Guthaben",
+          "article": "das",
+          "tr": "bakiye",
+          "example_de": "Mein Guthaben reicht noch für eine Fahrt."
+        },
+        {
+          "de": "etwas durchlassen",
+          "article": null,
+          "tr": "geçirmek",
+          "example_de": "Die Schranke lässt nur gültige Tickets durch."
+        },
+        {
+          "de": "landesweit",
+          "article": null,
+          "tr": "ülke çapında",
+          "example_de": "Das Angebot gilt landesweit."
+        },
+        {
+          "de": "vorerst",
+          "article": null,
+          "tr": "şimdilik",
+          "example_de": "Das Projekt bleibt vorerst auf Eis."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was soll UWB an den Schranken ermöglichen?",
+          "options": [
+            "Dass man bezahlt, ohne das Telefon an das Gerät zu halten",
+            "Dass man das Ticket am Automaten kauft",
+            "Dass die Bahnen schneller fahren"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Bis wann sollen laut Plan alle 40 Bahnhöfe ausgestattet sein?",
+          "options": [
+            "Bis Ende 2031",
+            "Bis Frühjahr 2028",
+            "Bis Anfang 2027"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-dacia-sandero-elektro",
+      "category": "tech",
+      "title_de": "Kommt der Dacia Sandero bald als Elektroauto?",
+      "summary_de": "Dacia arbeitet offenbar an einer Elektroversion seines Bestsellers Sandero. Das berichtet das britische Magazin Autocar unter Berufung auf Insider, electrive betont, dass bisher nichts davon offiziell bestätigt ist. Demnach soll die vierte Generation auf der Plattform RGMP Small stehen, die bislang nur Verbrenner und Hybride trägt und deshalb angepasst werden müsste. Der Wagen bliebe mit 4,10 Metern so lang wie das aktuelle Modell, wäre aber etwa 100 Kilogramm leichter. Angeblich sorgt ein 78 kW starker Motor für den Antrieb, die Energie liefert ein 44-kWh-LFP-Akku, der aus dem günstigen Renault 5 stammen könnte. Daraus ergeben sich rund 400 Kilometer Reichweite. Vorgestellt werden soll der Elektro-Sandero im Frühjahr 2028, produziert wird er demnach in Marokko, und der Verkaufsstart ist für den Sommer 2028 vorgesehen. Einen Preis nennt der Bericht nicht.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/13/dacia-sandero-soll-als-elektroauto-rund-400-km-weit-kommen/",
+      "glossary": [
+        {
+          "form": "Bestsellers",
+          "lemma": "Bestseller",
+          "article": "der",
+          "tr": "çok satan ürün"
+        },
+        {
+          "form": "Berufung",
+          "lemma": "Berufung",
+          "article": "die",
+          "tr": "atıf (unter Berufung auf: …'a dayanarak)"
+        },
+        {
+          "form": "Insider",
+          "lemma": "Insider",
+          "article": "der",
+          "tr": "içeriden kaynak"
+        },
+        {
+          "form": "bestätigt",
+          "lemma": "bestätigen",
+          "article": null,
+          "tr": "doğrulamak"
+        },
+        {
+          "form": "Verbrenner",
+          "lemma": "Verbrenner",
+          "article": "der",
+          "tr": "yanmalı motorlu araç"
+        },
+        {
+          "form": "angepasst",
+          "lemma": "anpassen",
+          "article": null,
+          "tr": "uyarlamak"
+        },
+        {
+          "form": "Antrieb",
+          "lemma": "Antrieb",
+          "article": "der",
+          "tr": "tahrik"
+        },
+        {
+          "form": "liefert",
+          "lemma": "liefern",
+          "article": null,
+          "tr": "sağlamak, vermek"
+        },
+        {
+          "form": "stammen",
+          "lemma": "stammen",
+          "article": null,
+          "tr": "kaynaklanmak, gelmek"
+        },
+        {
+          "form": "Reichweite",
+          "lemma": "Reichweite",
+          "article": "die",
+          "tr": "menzil"
+        },
+        {
+          "form": "Vorgestellt",
+          "lemma": "vorstellen",
+          "article": null,
+          "tr": "tanıtmak"
+        },
+        {
+          "form": "Verkaufsstart",
+          "lemma": "Verkaufsstart",
+          "article": "der",
+          "tr": "satış başlangıcı"
+        },
+        {
+          "form": "vorgesehen",
+          "lemma": "vorsehen",
+          "article": null,
+          "tr": "öngörmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "unter Berufung auf",
+          "article": null,
+          "tr": "…'a dayanarak",
+          "example_de": "Die Zeitung berichtet unter Berufung auf Insider."
+        },
+        {
+          "de": "Reichweite",
+          "article": "die",
+          "tr": "menzil",
+          "example_de": "Die Reichweite im Winter ist deutlich kürzer."
+        },
+        {
+          "de": "etwas anpassen",
+          "article": null,
+          "tr": "bir şeyi uyarlamak",
+          "example_de": "Die Firma muss die Plattform anpassen."
+        },
+        {
+          "de": "offiziell bestätigt sein",
+          "article": null,
+          "tr": "resmen doğrulanmış olmak",
+          "example_de": "Der Termin ist noch nicht offiziell bestätigt."
+        },
+        {
+          "de": "Verkaufsstart",
+          "article": "der",
+          "tr": "satış başlangıcı",
+          "example_de": "Der Verkaufsstart ist im Sommer."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Woher stammt die Information über den Elektro-Sandero?",
+          "options": [
+            "Aus einer offiziellen Dacia-Pressemitteilung",
+            "Von Autocar, die sich auf Insider beziehen",
+            "Aus einem Test des ADAC"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was ist laut Bericht noch unbekannt?",
+          "options": [
+            "Die Reichweite",
+            "Der Produktionsort",
+            "Der Preis"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-id-software-neues-spiel",
+      "category": "gaming",
+      "title_de": "id Software arbeitet an einem neuen Spiel",
+      "summary_de": "Beim 25-jährigen Jubiläum der Xbox hat Xbox-Chefin Asha Sharma offiziell bestätigt, dass id Software, das Studio hinter Doom und Quake, an einem neuen Spiel arbeitet. Regie führt erneut Hugo Martin, der bereits bei Doom (2016), Doom Eternal und Doom: The Dark Ages Game Director war. Entwickelt wird in den Teams in Texas und in Frankfurt am Main. Ob es sich um ein neues Doom, ein neues Quake oder eine ganz neue Marke handelt, ist völlig offen, denn weder Termin noch Bilder wurden gezeigt. Bei derselben Gelegenheit bestätigte Microsoft außerdem, dass MachineGames an Wolfenstein 3 arbeitet. Die Doom-Erweiterung Revelations wurde bei den Golden Joystick Awards am 11. November als beste Erweiterung des Jahres ausgezeichnet. Am 16. November erscheint dazu der kostenlose Slaughter-Modus für alle Besitzer der Erweiterung. Nach den Entlassungswellen bei Microsoft im Sommer verloren etwa 136 Beschäftigte von id ihren Job, nach Angaben von Produzent Marty Stratton rund die Hälfte der Belegschaft.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/id-Software-Firma-15486/News/Doom-Quake-Xbox-1559983/",
+      "glossary": [
+        {
+          "form": "Jubiläum",
+          "lemma": "Jubiläum",
+          "article": "das",
+          "tr": "yıldönümü"
+        },
+        {
+          "form": "bestätigt",
+          "lemma": "bestätigen",
+          "article": null,
+          "tr": "doğrulamak"
+        },
+        {
+          "form": "Regie",
+          "lemma": "Regie",
+          "article": "die",
+          "tr": "yönetmenlik"
+        },
+        {
+          "form": "Entwickelt",
+          "lemma": "entwickeln",
+          "article": null,
+          "tr": "geliştirmek"
+        },
+        {
+          "form": "Marke",
+          "lemma": "Marke",
+          "article": "die",
+          "tr": "marka, seri"
+        },
+        {
+          "form": "Termin",
+          "lemma": "Termin",
+          "article": "der",
+          "tr": "tarih"
+        },
+        {
+          "form": "Erweiterung",
+          "lemma": "Erweiterung",
+          "article": "die",
+          "tr": "genişleme paketi (DLC)"
+        },
+        {
+          "form": "ausgezeichnet",
+          "lemma": "auszeichnen",
+          "article": null,
+          "tr": "ödüllendirmek"
+        },
+        {
+          "form": "Besitzer",
+          "lemma": "Besitzer",
+          "article": "der",
+          "tr": "sahip"
+        },
+        {
+          "form": "Entlassungswellen",
+          "lemma": "Entlassungswelle",
+          "article": "die",
+          "tr": "işten çıkarma dalgası"
+        },
+        {
+          "form": "Beschäftigte",
+          "lemma": "Beschäftigte",
+          "article": "der",
+          "tr": "çalışan"
+        },
+        {
+          "form": "Belegschaft",
+          "lemma": "Belegschaft",
+          "article": "die",
+          "tr": "personel"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Regie führen",
+          "article": null,
+          "tr": "yönetmek",
+          "example_de": "Bei dem Film führt eine junge Regisseurin Regie."
+        },
+        {
+          "de": "eine Marke",
+          "article": "die",
+          "tr": "marka, seri",
+          "example_de": "Die Marke gibt es seit über 30 Jahren."
+        },
+        {
+          "de": "ausgezeichnet werden",
+          "article": null,
+          "tr": "ödül almak",
+          "example_de": "Das Spiel wurde als bestes des Jahres ausgezeichnet."
+        },
+        {
+          "de": "Erweiterung",
+          "article": "die",
+          "tr": "genişleme paketi",
+          "example_de": "Die Erweiterung kostet zwanzig Euro."
+        },
+        {
+          "de": "völlig offen sein",
+          "article": null,
+          "tr": "tamamen belirsiz olmak",
+          "example_de": "Wann das Spiel erscheint, ist völlig offen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist über das neue id-Spiel bekannt?",
+          "options": [
+            "Es ist ein neues Quake für 2027.",
+            "Es wird entwickelt, aber Genre, Termin und Bilder sind unbekannt.",
+            "Es ist die nächste Doom-Erweiterung."
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „Belegschaft“?",
+          "options": [
+            "Alle Mitarbeitenden eines Unternehmens",
+            "Die Kunden eines Unternehmens",
+            "Die Chefetage"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-xbox-cloud-werbung",
+      "category": "gaming",
+      "title_de": "Xbox Cloud Gaming: Drei Minuten Werbung für 30 Minuten Spiel",
+      "summary_de": "Microsoft will Xbox Cloud Gaming künftig auch für Spieler ohne Abo mit Werbung finanzieren. Wer eine halbe Stunde spielen möchte, muss sich vorher drei Minuten Werbung ansehen. Die Spots laufen im Vollbild, lassen sich nicht überspringen und erscheinen laut Microsoft nur vor dem Spielstart, nicht mitten in einer laufenden Sitzung. Zur Verfügung stehen allerdings nur ausgewählte Gratisspiele und Titel, die man bereits besitzt, nicht die gesamte Bibliothek. Im Test seit Juli konnten Mitglieder des Insider-Programms nach einer Werbepause noch bis zu 60 Minuten am Stück spielen, die Grenze wurde also halbiert. Unklar ist, ob nach den 30 Minuten für jede neue Sitzung erneut Werbung nötig wird. Auch ob die Regel schon für alle Spieler in Deutschland gilt, geht aus dem Bericht nicht hervor. Wer seine Spiele normal auf der Konsole startet, ist von dem Modell nicht betroffen.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/Xbox-Series-X-Konsolen-268616/News/xbox-microsoft-cloud-gaming-spielzeit-werbung-1559876/",
+      "glossary": [
+        {
+          "form": "Abo",
+          "lemma": "Abo",
+          "article": "das",
+          "tr": "abonelik"
+        },
+        {
+          "form": "finanzieren",
+          "lemma": "finanzieren",
+          "article": null,
+          "tr": "finanse etmek"
+        },
+        {
+          "form": "Spots",
+          "lemma": "Spot",
+          "article": "der",
+          "tr": "reklam filmi"
+        },
+        {
+          "form": "Vollbild",
+          "lemma": "Vollbild",
+          "article": "das",
+          "tr": "tam ekran"
+        },
+        {
+          "form": "überspringen",
+          "lemma": "überspringen",
+          "article": null,
+          "tr": "atlamak"
+        },
+        {
+          "form": "Sitzung",
+          "lemma": "Sitzung",
+          "article": "die",
+          "tr": "oturum"
+        },
+        {
+          "form": "Gratisspiele",
+          "lemma": "Gratisspiel",
+          "article": "das",
+          "tr": "ücretsiz oyun"
+        },
+        {
+          "form": "besitzt",
+          "lemma": "besitzen",
+          "article": null,
+          "tr": "sahip olmak"
+        },
+        {
+          "form": "Bibliothek",
+          "lemma": "Bibliothek",
+          "article": "die",
+          "tr": "kütüphane"
+        },
+        {
+          "form": "Werbepause",
+          "lemma": "Werbepause",
+          "article": "die",
+          "tr": "reklam arası"
+        },
+        {
+          "form": "halbiert",
+          "lemma": "halbieren",
+          "article": null,
+          "tr": "yarıya indirmek"
+        },
+        {
+          "form": "erneut",
+          "lemma": "erneut",
+          "article": null,
+          "tr": "yeniden"
+        },
+        {
+          "form": "betroffen",
+          "lemma": "betroffen",
+          "article": null,
+          "tr": "etkilenmiş"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas finanzieren",
+          "article": null,
+          "tr": "bir şeyi finanse etmek",
+          "example_de": "Der Dienst wird durch Werbung finanziert."
+        },
+        {
+          "de": "am Stück",
+          "article": null,
+          "tr": "kesintisiz",
+          "example_de": "Ich kann nicht acht Stunden am Stück spielen."
+        },
+        {
+          "de": "zur Verfügung stehen",
+          "article": null,
+          "tr": "mevcut olmak",
+          "example_de": "Nicht alle Spiele stehen kostenlos zur Verfügung."
+        },
+        {
+          "de": "Abo",
+          "article": "das",
+          "tr": "abonelik",
+          "example_de": "Ich habe das Abo gestern gekündigt."
+        },
+        {
+          "de": "von etwas betroffen sein",
+          "article": null,
+          "tr": "bir şeyden etkilenmek",
+          "example_de": "Konsolenspieler sind davon nicht betroffen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viel Werbung gibt es laut Bericht für eine Spielsitzung?",
+          "options": [
+            "Drei Minuten für 30 Minuten Spielzeit",
+            "Dreißig Minuten für drei Minuten Spielzeit",
+            "Eine Minute für eine Stunde Spielzeit"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „am Stück“?",
+          "options": [
+            "Mit Pausen",
+            "Ohne Unterbrechung",
+            "Nur am Wochenende"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-gta6-urlaub",
+      "category": "gaming",
+      "title_de": "GTA 6: Wer sich für den Release freinimmt",
+      "summary_de": "Der Release von GTA 6 am 19. November lässt offenbar viele Beschäftigte nicht kalt. Zwei Personalplattformen haben ausgewertet, wie sich Urlaubsanträge rund um den Starttermin entwickeln. Bei Personio lagen die Anträge ab dem Veröffentlichungstag im Schnitt etwa 38 Prozent über dem Vergleichszeitraum, der Abbau von Überstunden stieg sogar um 58 Prozent. Remote registrierte rund 32 Prozent mehr Urlaub. Besonders auffällig waren junge Männer der Generation Z, die gut doppelt so viele freie Tage einreichten wie im Vorjahr. Nach Abteilungen betrachtet verdoppelten sich die Anträge in der Finanzabteilung etwa. Im Ländervergleich liegt Italien vorn, Deutschland taucht in der Rangliste nicht auf, was laut Bericht an der geringen Zahl deutscher Kunden liegen könnte. Als Grund nannte allerdings nur einer von 170 Anträgen ein Spiel oder Rockstar, weil viele Firmen keine Begründung verlangen.",
+      "source_name": "t3n",
+      "source_url": "https://t3n.de/news/urlaub-gta-6-relase-1773398/",
+      "glossary": [
+        {
+          "form": "Beschäftigte",
+          "lemma": "Beschäftigte",
+          "article": "der",
+          "tr": "çalışan"
+        },
+        {
+          "form": "ausgewertet",
+          "lemma": "auswerten",
+          "article": null,
+          "tr": "değerlendirmek"
+        },
+        {
+          "form": "Urlaubsanträge",
+          "lemma": "Urlaubsantrag",
+          "article": "der",
+          "tr": "izin talebi"
+        },
+        {
+          "form": "Veröffentlichungstag",
+          "lemma": "Veröffentlichungstag",
+          "article": "der",
+          "tr": "çıkış günü"
+        },
+        {
+          "form": "Vergleichszeitraum",
+          "lemma": "Vergleichszeitraum",
+          "article": "der",
+          "tr": "karşılaştırma dönemi"
+        },
+        {
+          "form": "Abbau",
+          "lemma": "Abbau",
+          "article": "der",
+          "tr": "azaltma, eritme"
+        },
+        {
+          "form": "Überstunden",
+          "lemma": "Überstunde",
+          "article": "die",
+          "tr": "fazla mesai"
+        },
+        {
+          "form": "auffällig",
+          "lemma": "auffällig",
+          "article": null,
+          "tr": "dikkat çekici"
+        },
+        {
+          "form": "einreichten",
+          "lemma": "einreichen",
+          "article": null,
+          "tr": "sunmak, vermek"
+        },
+        {
+          "form": "Abteilungen",
+          "lemma": "Abteilung",
+          "article": "die",
+          "tr": "departman"
+        },
+        {
+          "form": "verdoppelten",
+          "lemma": "verdoppeln",
+          "article": null,
+          "tr": "ikiye katlamak"
+        },
+        {
+          "form": "Rangliste",
+          "lemma": "Rangliste",
+          "article": "die",
+          "tr": "sıralama"
+        },
+        {
+          "form": "Begründung",
+          "lemma": "Begründung",
+          "article": "die",
+          "tr": "gerekçe"
+        },
+        {
+          "form": "verlangen",
+          "lemma": "verlangen",
+          "article": null,
+          "tr": "talep etmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "sich freinehmen",
+          "article": null,
+          "tr": "izin almak",
+          "example_de": "Für das Konzert nehme ich mir einen Tag frei."
+        },
+        {
+          "de": "Überstunden abbauen",
+          "article": null,
+          "tr": "fazla mesaiyi izinle kapatmak",
+          "example_de": "Ich baue im Dezember meine Überstunden ab."
+        },
+        {
+          "de": "einen Antrag einreichen",
+          "article": null,
+          "tr": "başvuru yapmak",
+          "example_de": "Bis Freitag muss ich den Antrag einreichen."
+        },
+        {
+          "de": "im Schnitt",
+          "article": null,
+          "tr": "ortalama olarak",
+          "example_de": "Im Schnitt schlafe ich sieben Stunden."
+        },
+        {
+          "de": "Begründung",
+          "article": "die",
+          "tr": "gerekçe",
+          "example_de": "Eine Begründung ist nicht nötig."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Welche Gruppe fiel bei Remote besonders auf?",
+          "options": [
+            "Ältere Frauen",
+            "Junge Männer der Generation Z",
+            "Alle Abteilungsleiter"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Warum nannten nur wenige Anträge GTA als Grund?",
+          "options": [
+            "Weil GTA verboten ist",
+            "Weil Urlaub nur im Sommer möglich ist",
+            "Weil viele Firmen keine Begründung verlangen"
+          ],
+          "answer_index": 2
+        }
+      ]
+    }
+  ]
+}

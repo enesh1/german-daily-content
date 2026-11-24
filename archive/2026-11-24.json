@@ -1,0 +1,2026 @@
+{
+  "date": "2026-11-24",
+  "level": "original",
+  "facts": [
+    {
+      "de": "Das Matterhorn an der Grenze zwischen der Schweiz und Italien ist 4.478 Meter hoch und gehört zu den bekanntesten Bergen der Alpen.",
+      "tr": "İsviçre ile İtalya sınırındaki Matterhorn 4.478 metre yüksekliğindedir ve Alplerin en ünlü dağlarından biridir.",
+      "source_url": "https://de.wikipedia.org/wiki/Matterhorn"
+    },
+    {
+      "de": "Die Antarktis ist mit rund 14 Millionen Quadratkilometern die größte Wüste der Erde, weil dort kaum Niederschlag fällt.",
+      "tr": "Antarktika, yaklaşık 14 milyon kilometrekarelik alanıyla dünyanın en büyük çölüdür, çünkü orada neredeyse hiç yağış düşmez.",
+      "source_url": "https://de.wikipedia.org/wiki/Antarktis"
+    },
+    {
+      "de": "Der Mount Everest ist mit rund 8.849 Metern über dem Meeresspiegel der höchste Berg der Erde.",
+      "tr": "Everest Dağı, deniz seviyesinden yaklaşık 8.849 metre yüksekliğiyle dünyanın en yüksek dağıdır.",
+      "source_url": "https://de.wikipedia.org/wiki/Mount_Everest"
+    }
+  ],
+  "idiom": {
+    "de": "Die Nase voll haben.",
+    "meaning_tr": "Bir şeyden bıkmak, canına tak etmek.",
+    "literal_tr": "Burnu dolu olmak.",
+    "equivalent_tr": "Burnundan getirmek / Bıkmak, usanmak.",
+    "example_de": "Ich habe die Nase voll vom ständigen Regen und fahre nächste Woche in den Süden.",
+    "example_tr": "Sürekli yağmurdan bıktım ve haftaya güneye gidiyorum."
+  },
+  "reading": [
+    {
+      "type": "ana",
+      "text_de": "Viele Unternehmen setzen auf Großraumbüros, weil sie die Zusammenarbeit fördern und Mieten sparen sollen. Eine interne Befragung in einer Kölner Versicherung zeigte jedoch, dass die Mitarbeitenden dort häufiger Kopfhörer tragen als früher und sich für konzentrierte Aufgaben in Besprechungsräume zurückziehen. Der Austausch im Team hat also nicht zugenommen, sondern wurde teilweise durch Rückzugsstrategien ersetzt. Das Beispiel legt nahe, dass offene Flächen allein noch keine Kommunikation schaffen.",
+      "question_de": "Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?",
+      "options": [
+        "Großraumbüros sind für Unternehmen grundsätzlich teurer als klassische Einzelbüros.",
+        "Kopfhörer sind in modernen Büros ein wichtiges Mittel, um die Teamarbeit zu verbessern.",
+        "Offene Büros führen nicht automatisch zu mehr Austausch, weil sich Beschäftigte bei Bedarf zurückziehen.",
+        "Die Mitarbeitenden der Versicherung lehnen jede Form der Zusammenarbeit im Team ab."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "Doğru cevap C: Metin, açık ofislerin tek başına iletişimi artırmadığını, çalışanların geri çekildiğini anlatıyor. B şıkkı kulaklıkları metindeki gibi geri çekilme aracı olarak değil, ekip çalışmasını geliştiren araç olarak sunduğu için yanlış; D ise 'her türlü işbirliğini reddediyor' diye aşırı genelleme yapıyor."
+    },
+    {
+      "type": "cikarilamaz",
+      "text_de": "Wer nachts schlecht schläft, greift tagsüber oft zu Kaffee, doch das Koffein bleibt mehrere Stunden im Körper. Schlafforscher warnen deshalb, dass ein Espresso am späten Nachmittag das Einschlafen noch am Abend erschweren kann. Allerdings reagieren Menschen unterschiedlich stark auf Koffein, sodass eine feste Uhrzeit für alle kaum sinnvoll wäre. Wer seinen Schlaf verbessern will, sollte daher eher beobachten, wie er selbst auf Kaffee reagiert, als sich auf Pauschalregeln zu verlassen.",
+      "question_de": "Welche Aussage lässt sich aus dem Text NICHT ableiten?",
+      "options": [
+        "Kaffee sollte nach dem Mittagessen grundsätzlich vollständig gemieden werden.",
+        "Koffein kann noch am Abend das Einschlafen beeinflussen.",
+        "Die Empfindlichkeit gegenüber Koffein ist nicht bei allen Menschen gleich.",
+        "Wer seine eigene Reaktion auf Kaffee kennt, kann seinen Konsum besser anpassen."
+      ],
+      "answer_index": 0,
+      "explanation_tr": "Doğru cevap A: Metin tam tersine herkes için sabit bir saat önermenin anlamsız olduğunu söylüyor, 'öğleden sonra kesinlikle içilmemeli' demiyor. B, C ve D doğrudan metinden çıkarılabilir; D en çekici çeldirici ama son cümleyle uyumludur."
+    },
+    {
+      "type": "bosluk",
+      "text_de": "Im Fußball gilt der Heimvorteil als Selbstverständlichkeit: Die Fans sind laut, der Rasen ist vertraut, die Anreise entfällt. ___ Während der Pandemie spielten viele Mannschaften vor leeren Rängen, und der Vorteil schrumpfte messbar. Offenbar hängt er also stärker vom Publikum ab, als man lange dachte.",
+      "question_de": "Welcher Satz passt am besten in die Lücke (___)?",
+      "options": [
+        "Deshalb verlieren Heimmannschaften auch dann, wenn sie sehr gut vorbereitet sind.",
+        "Der Rasen spielt für den Erfolg der Heimmannschaft letztlich die wichtigste Rolle.",
+        "Dass die Fans entscheidend sind, galt unter Fachleuten schon immer als bewiesen.",
+        "Wie groß der Einfluss des Publikums tatsächlich ist, ließ sich lange kaum überprüfen."
+      ],
+      "answer_index": 3,
+      "explanation_tr": "Doğru cevap D: Boşluktan sonra pandemi, seyircinin etkisini ölçmeyi mümkün kılan bir deney gibi gelir ve son cümledeki 'daha önce düşünülenden fazla' ile uyuşur. C şıkkı 'her zaman kanıtlanmıştı' diyerek son cümledeki şaşkınlığı çelişkiye düşürür."
+    },
+    {
+      "type": "anlam",
+      "text_de": "Die Stadtbibliothek plant, sonntags zu öffnen, doch der Personalrat hat Bedenken. Die Beschäftigten arbeiteten schon jetzt „am Limit“, sagt eine Sprecherin, und zusätzliche Dienste ließen sich ohne neue Stellen nicht abdecken. Die Leitung hält dagegen, dass vor allem Familien und Studierende den Sonntag nutzen würden. Eine Einigung steht noch aus.",
+      "question_de": "Was ist mit „am Limit“ gemeint?",
+      "options": [
+        "Die Bibliothek hat ihre maximale Besucherzahl erreicht.",
+        "Die Beschäftigten sind bereits an der Grenze ihrer Belastbarkeit.",
+        "Die Öffnungszeiten sind gesetzlich schon vollständig ausgeschöpft.",
+        "Das Budget der Bibliothek wird in diesem Jahr gekürzt."
+      ],
+      "answer_index": 1,
+      "explanation_tr": "Doğru cevap B: 'am Limit arbeiten' mecazen güç sınırına gelmiş olmak demektir; sonraki 'ek vardiyalar yeni kadro olmadan karşılanamaz' ifadesi bunu destekler. A şıkkı ifadenin düz anlamına takılan çeldiricidir."
+    },
+    {
+      "type": "tutum",
+      "text_de": "Immer mehr Städte verbieten Elektroroller auf Gehwegen, und das ist kein Zufall. Wer einmal einem Roller im letzten Moment ausweichen musste, weiß, wie schnell ein harmloser Spaziergang gefährlich wird. Natürlich haben die Roller auch Vorteile, etwa für kurze Wege ohne Auto. Doch solange manche Fahrer Rücksicht für Zeitverschwendung halten, sind klare Regeln unvermeidlich.",
+      "question_de": "Welche Haltung vertritt der Autor?",
+      "options": [
+        "Er hält die Verbote für übertrieben und plädiert für mehr Eigenverantwortung.",
+        "Er lehnt Elektroroller als Verkehrsmittel grundsätzlich ab.",
+        "Er befürwortet klare Regeln, erkennt aber den Nutzen der Roller an.",
+        "Er bleibt neutral und stellt lediglich Vor- und Nachteile gegenüber."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "Doğru cevap C: Yazar kuralları açıkça destekliyor ('unvermeidlich') ama 'Natürlich haben die Roller auch Vorteile' ile faydayı kabul ediyor. B 'grundsätzlich' ile aşırı genelleme yapar; D ise yazarın net tavrını görmezden gelir."
+    }
+  ],
+  "items": [
+    {
+      "id": "2026-11-24-standesamt-wunschtermin",
+      "category": "nrw",
+      "title_de": "Düsseldorf: Heiratstermin künftig ein Jahr im Voraus buchbar",
+      "summary_de": "Wer in Düsseldorf heiraten möchte, kann sich ab dem 11. Januar 2027 den Wunschtermin bis zu ein Jahr im Voraus sichern. Die Stadt führt dafür im Online-Traukalender eine neue Reservierungsfunktion ein, die für das Standesamt und für die weiteren Trauorte gilt. Oberbürgermeister Stephan Keller spricht von mehr Planungsspielraum für Paare, die ihre Feier oft lange vorbereiten. Die Leiterin des Standesamts, Annika Wiezorek, betont, dass gerade beliebte Daten und ungewöhnliche Orte früh gebucht werden sollten. Wichtig ist allerdings eine Einschränkung: Die förmliche Anmeldung der Eheschließung bleibt frühestens sechs Monate vor dem Termin möglich, weil sie gesetzlich nur begrenzt gültig ist. Die Terminreservierung ersetzt also nicht die Prüfung der Voraussetzungen. Die Anmeldung läuft in Düsseldorf seit Mai 2025 bereits digital. Dafür brauchen Paare einen Personalausweis mit aktivierter Online-Funktion samt PIN und ein BundID-Konto.",
+      "source_name": "Stadt Düsseldorf",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/standesamt-duesseldorf-wunschtermin-kuenftig-ein-jahr-im-voraus-reservierbar-1",
+      "glossary": [
+        {
+          "form": "Wunschtermin",
+          "lemma": "Wunschtermin",
+          "article": "der",
+          "tr": "istenen tarih"
+        },
+        {
+          "form": "im Voraus",
+          "lemma": "im Voraus",
+          "article": null,
+          "tr": "önceden"
+        },
+        {
+          "form": "sichern",
+          "lemma": "sichern",
+          "article": null,
+          "tr": "güvence altına almak"
+        },
+        {
+          "form": "Reservierungsfunktion",
+          "lemma": "Reservierungsfunktion",
+          "article": "die",
+          "tr": "rezervasyon özelliği"
+        },
+        {
+          "form": "Trauorte",
+          "lemma": "Trauort",
+          "article": "der",
+          "tr": "nikâh yeri"
+        },
+        {
+          "form": "Oberbürgermeister",
+          "lemma": "Oberbürgermeister",
+          "article": "der",
+          "tr": "büyükşehir belediye başkanı"
+        },
+        {
+          "form": "Planungsspielraum",
+          "lemma": "Planungsspielraum",
+          "article": "der",
+          "tr": "planlama esnekliği"
+        },
+        {
+          "form": "Einschränkung",
+          "lemma": "Einschränkung",
+          "article": "die",
+          "tr": "kısıtlama"
+        },
+        {
+          "form": "förmliche",
+          "lemma": "förmlich",
+          "article": null,
+          "tr": "resmî"
+        },
+        {
+          "form": "Anmeldung",
+          "lemma": "Anmeldung",
+          "article": "die",
+          "tr": "başvuru, kayıt"
+        },
+        {
+          "form": "Eheschließung",
+          "lemma": "Eheschließung",
+          "article": "die",
+          "tr": "evlenme"
+        },
+        {
+          "form": "gesetzlich",
+          "lemma": "gesetzlich",
+          "article": null,
+          "tr": "yasal olarak"
+        },
+        {
+          "form": "begrenzt",
+          "lemma": "begrenzt",
+          "article": null,
+          "tr": "sınırlı"
+        },
+        {
+          "form": "Voraussetzungen",
+          "lemma": "Voraussetzung",
+          "article": "die",
+          "tr": "koşul, ön şart"
+        },
+        {
+          "form": "Personalausweis",
+          "lemma": "Personalausweis",
+          "article": "der",
+          "tr": "kimlik kartı"
+        },
+        {
+          "form": "aktivierter",
+          "lemma": "aktiviert",
+          "article": null,
+          "tr": "etkinleştirilmiş"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen Termin sichern",
+          "article": null,
+          "tr": "randevu almak",
+          "example_de": "Ich habe mir schon einen Termin beim Zahnarzt gesichert."
+        },
+        {
+          "de": "im Voraus buchen",
+          "article": null,
+          "tr": "önceden rezerve etmek",
+          "example_de": "Die Zugtickets kann man ein paar Monate im Voraus buchen."
+        },
+        {
+          "de": "Planungsspielraum",
+          "article": "der",
+          "tr": "planlama esnekliği",
+          "example_de": "Wir haben bei der Reise noch etwas Planungsspielraum."
+        },
+        {
+          "de": "einer Sache gelten",
+          "article": null,
+          "tr": "geçerli olmak",
+          "example_de": "Die Regel gilt für alle Studierenden."
+        },
+        {
+          "de": "etwas ersetzen",
+          "article": null,
+          "tr": "yerini tutmak",
+          "example_de": "Ein Telefonat kann das persönliche Gespräch nicht ersetzen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie weit im Voraus kann man ab Januar 2027 einen Heiratstermin reservieren?",
+          "options": [
+            "bis zu sechs Monate",
+            "bis zu ein Jahr",
+            "bis zu zwei Jahre"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bleibt trotz der Neuerung weiterhin frühestens sechs Monate vor dem Termin möglich?",
+          "options": [
+            "die Wahl des Trauortes",
+            "die Bezahlung der Gebühren",
+            "die förmliche Anmeldung der Eheschließung"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-baeume-pflanzsaison",
+      "category": "nrw",
+      "title_de": "1.500 neue Bäume für Düsseldorf",
+      "summary_de": "In Düsseldorf hat die Pflanzsaison begonnen: Bis zum Frühjahr 2027 sollen rund 1.500 neue Bäume in der Stadt wachsen. Sie kommen an Straßen, in Grünanlagen, auf Spielplätzen, auf Friedhöfen und auch auf privaten Grundstücken. Die Zahl liegt über den 1.364 Bäumen, die in der Saison 2025/26 gefällt wurden, die Bilanz wäre also positiv. In der vergangenen Saison wurden zwar 1.670 Bäume gepflanzt, doch das reichte nicht, um die Fällungen des Vorjahres auszugleichen. Als Beispiel nennt die Stadt den Josef-Kürten-Platz, wo drei Ungarische Silber-Linden Schatten spenden sollen. Diese Art kommt mit Trockenheit und nährstoffarmem Boden besser zurecht als viele Verwandte. Neue niedrige Stützsysteme lassen den Stamm im Wind etwas schwanken, was das Wachstum der Wurzeln anregt. Zusätzlich sollen im Stadtwald etwa 15.000 junge Bäume gepflanzt werden, darunter Eichen und Hainbuchen.",
+      "source_name": "Stadt Düsseldorf",
+      "source_url": "https://www.duesseldorf.de/aktuelles/news/detailansicht/newsdetail/1500-neue-baeume-fuer-die-stadt-in-duesseldorf-laeuft-die-pflanzsaison",
+      "glossary": [
+        {
+          "form": "Pflanzsaison",
+          "lemma": "Pflanzsaison",
+          "article": "die",
+          "tr": "dikim sezonu"
+        },
+        {
+          "form": "Grünanlagen",
+          "lemma": "Grünanlage",
+          "article": "die",
+          "tr": "yeşil alan"
+        },
+        {
+          "form": "Grundstücken",
+          "lemma": "Grundstück",
+          "article": "das",
+          "tr": "arsa, parsel"
+        },
+        {
+          "form": "gefällt",
+          "lemma": "fällen",
+          "article": null,
+          "tr": "kesmek (ağaç)"
+        },
+        {
+          "form": "Bilanz",
+          "lemma": "Bilanz",
+          "article": "die",
+          "tr": "bilanço"
+        },
+        {
+          "form": "Fällungen",
+          "lemma": "Fällung",
+          "article": "die",
+          "tr": "ağaç kesimi"
+        },
+        {
+          "form": "auszugleichen",
+          "lemma": "ausgleichen",
+          "article": null,
+          "tr": "dengelemek"
+        },
+        {
+          "form": "Schatten",
+          "lemma": "Schatten",
+          "article": "der",
+          "tr": "gölge"
+        },
+        {
+          "form": "spenden",
+          "lemma": "spenden",
+          "article": null,
+          "tr": "vermek, sağlamak"
+        },
+        {
+          "form": "Trockenheit",
+          "lemma": "Trockenheit",
+          "article": "die",
+          "tr": "kuraklık"
+        },
+        {
+          "form": "nährstoffarmem",
+          "lemma": "nährstoffarm",
+          "article": null,
+          "tr": "besin açısından fakir"
+        },
+        {
+          "form": "Stützsysteme",
+          "lemma": "Stützsystem",
+          "article": "das",
+          "tr": "destek sistemi"
+        },
+        {
+          "form": "schwanken",
+          "lemma": "schwanken",
+          "article": null,
+          "tr": "sallanmak"
+        },
+        {
+          "form": "Wurzeln",
+          "lemma": "Wurzel",
+          "article": "die",
+          "tr": "kök"
+        },
+        {
+          "form": "anregt",
+          "lemma": "anregen",
+          "article": null,
+          "tr": "teşvik etmek"
+        },
+        {
+          "form": "Stadtwald",
+          "lemma": "Stadtwald",
+          "article": "der",
+          "tr": "şehir ormanı"
+        },
+        {
+          "form": "Hainbuchen",
+          "lemma": "Hainbuche",
+          "article": "die",
+          "tr": "gürgen"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Bäume pflanzen",
+          "article": null,
+          "tr": "ağaç dikmek",
+          "example_de": "Im Herbst pflanzen wir Bäume im Schulgarten."
+        },
+        {
+          "de": "eine positive Bilanz",
+          "article": "die",
+          "tr": "olumlu bilanço",
+          "example_de": "Das Unternehmen zieht eine positive Bilanz."
+        },
+        {
+          "de": "mit etwas zurechtkommen",
+          "article": null,
+          "tr": "bir şeyle başa çıkmak",
+          "example_de": "Ich komme mit der Hitze nicht gut zurecht."
+        },
+        {
+          "de": "Schatten spenden",
+          "article": null,
+          "tr": "gölge sağlamak",
+          "example_de": "Der alte Baum spendet im Sommer viel Schatten."
+        },
+        {
+          "de": "Wachstum anregen",
+          "article": null,
+          "tr": "büyümeyi teşvik etmek",
+          "example_de": "Regen regt das Wachstum der Pflanzen an."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Bäume sollen bis zum Frühjahr 2027 gepflanzt werden?",
+          "options": [
+            "etwa 1.500",
+            "etwa 1.364",
+            "etwa 15.000"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „Schatten spenden“?",
+          "options": [
+            "Schatten erzeugen und anbieten",
+            "Schatten messen",
+            "Schatten verbieten",
+            "Schatten verkaufen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-aelteste-gasthaeuser",
+      "category": "de",
+      "title_de": "Welches ist das älteste Gasthaus Deutschlands?",
+      "summary_de": "Zwei Gasthäuser in Deutschland streiten gewissermaßen darum, das älteste des Landes zu sein. Der „Rote Bären“ in Freiburg liegt am Platz Oberlinden in der Altstadt, und seine Geschichte soll bis ins 12. Jahrhundert zurückreichen. Archäologische Funde deuten darauf hin, dass die Fundamente zu einem Herrenhof gehörten, und Wirte lassen sich seit dem Jahr 1311 nachweisen. Das „Riesen“ in Miltenberg am Main nennt sich dagegen die älteste Fürstenherberge Deutschlands. Von Besuchen berühmter Gäste wie Kaiser Karl IV. wird erzählt, doch die Dokumente dazu sind nicht erhalten. Die erste gesicherte Erwähnung stammt aus dem Jahr 1411. Zwischen 1999 und 2001 war das Haus außerdem geschlossen, während der Freiburger Betrieb nach eigener Darstellung durchgehend lief. Beide Häuser servieren heute regionale Küche, in Miltenberg zum Beispiel Leberknödel mit dunkler Biersoße. Eine eindeutige Antwort auf die Titelfrage gibt es nicht, weil sie von den Kriterien abhängt.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/urlaub-freizeit/902107986-die-zwei-aeltesten-gasthaeuser-deutschlands-liegen-in-malerischen-altstaedten",
+      "glossary": [
+        {
+          "form": "streiten",
+          "lemma": "streiten",
+          "article": null,
+          "tr": "tartışmak, çekişmek"
+        },
+        {
+          "form": "Altstadt",
+          "lemma": "Altstadt",
+          "article": "die",
+          "tr": "eski şehir"
+        },
+        {
+          "form": "zurückreichen",
+          "lemma": "zurückreichen",
+          "article": null,
+          "tr": "geriye uzanmak"
+        },
+        {
+          "form": "Funde",
+          "lemma": "Fund",
+          "article": "der",
+          "tr": "buluntu"
+        },
+        {
+          "form": "deuten",
+          "lemma": "hindeuten",
+          "article": null,
+          "tr": "işaret etmek"
+        },
+        {
+          "form": "Fundamente",
+          "lemma": "Fundament",
+          "article": "das",
+          "tr": "temel"
+        },
+        {
+          "form": "Herrenhof",
+          "lemma": "Herrenhof",
+          "article": "der",
+          "tr": "beylik malikâne"
+        },
+        {
+          "form": "nachweisen",
+          "lemma": "nachweisen",
+          "article": null,
+          "tr": "kanıtlamak, belgelemek"
+        },
+        {
+          "form": "Fürstenherberge",
+          "lemma": "Fürstenherberge",
+          "article": "die",
+          "tr": "prens han"
+        },
+        {
+          "form": "erhalten",
+          "lemma": "erhalten",
+          "article": null,
+          "tr": "korunmuş"
+        },
+        {
+          "form": "gesicherte",
+          "lemma": "gesichert",
+          "article": null,
+          "tr": "kesinleşmiş, güvenilir"
+        },
+        {
+          "form": "Erwähnung",
+          "lemma": "Erwähnung",
+          "article": "die",
+          "tr": "anılma"
+        },
+        {
+          "form": "geschlossen",
+          "lemma": "geschlossen",
+          "article": null,
+          "tr": "kapalı"
+        },
+        {
+          "form": "durchgehend",
+          "lemma": "durchgehend",
+          "article": null,
+          "tr": "kesintisiz"
+        },
+        {
+          "form": "Darstellung",
+          "lemma": "Darstellung",
+          "article": "die",
+          "tr": "anlatım, ifade"
+        },
+        {
+          "form": "Küche",
+          "lemma": "Küche",
+          "article": "die",
+          "tr": "mutfak"
+        },
+        {
+          "form": "Kriterien",
+          "lemma": "Kriterium",
+          "article": "das",
+          "tr": "ölçüt"
+        },
+        {
+          "form": "abhängt",
+          "lemma": "abhängen",
+          "article": null,
+          "tr": "bağlı olmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "von etwas abhängen",
+          "article": null,
+          "tr": "bir şeye bağlı olmak",
+          "example_de": "Mein Urlaub hängt vom Wetter ab."
+        },
+        {
+          "de": "auf etwas hindeuten",
+          "article": null,
+          "tr": "bir şeye işaret etmek",
+          "example_de": "Die Wolken deuten auf Regen hin."
+        },
+        {
+          "de": "eine Frage klären",
+          "article": null,
+          "tr": "bir soruyu aydınlığa kavuşturmak",
+          "example_de": "Wir müssen noch klären, wer fährt."
+        },
+        {
+          "de": "Altstadt",
+          "article": "die",
+          "tr": "eski şehir",
+          "example_de": "Am Wochenende bummeln wir durch die Altstadt."
+        },
+        {
+          "de": "regionale Küche",
+          "article": "die",
+          "tr": "yöresel mutfak",
+          "example_de": "Ich probiere im Urlaub gern die regionale Küche."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Welches Haus nennt sich die älteste Fürstenherberge Deutschlands?",
+          "options": [
+            "beide Häuser",
+            "der „Rote Bären“ in Freiburg",
+            "das „Riesen“ in Miltenberg"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Warum gibt es keine eindeutige Antwort auf die Frage nach dem ältesten Gasthaus?",
+          "options": [
+            "Es hängt von den Kriterien ab.",
+            "Beide Häuser sind gleich alt.",
+            "Niemand hat das untersucht."
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-traben-trarbach-keller",
+      "category": "de",
+      "title_de": "Traben-Trarbach: Weihnachtsmarkt unter der Erde",
+      "summary_de": "Traben-Trarbach an der Mittelmosel besteht aus zwei Ortsteilen, die eine Brücke verbindet und die seit 1904 eine gemeinsame Gemeinde bilden. Das Stadtbild prägen Villen und Fassaden im Jugendstil, die der Weinhandel um die Jahrhundertwende hinterlassen hat. Weniger bekannt ist, was sich unter dem Stadtkern von Trarbach verbirgt: ein Netz aus alten Schiefer- und Sandsteinkellern, dessen Gänge teils mehr als 100 Meter lang sind. In diesen Gewölben findet derzeit ein ungewöhnlicher Weihnachtsmarkt statt, der Mosel-Wein-Nachts-Markt. Kunsthandwerker verkaufen dort bei gedämpftem Licht Schmuck und Dekoration, außerdem gibt es Wein und warme Speisen. Der Markt läuft bis zum 2. Januar 2027, jeweils von Freitag bis Sonntag und an ausgewählten Feiertagen. Wer lieber draußen unterwegs ist, kann zur Aussichtsplattform Himmelspforte wandern und dabei rund 160 Höhenmeter überwinden. Ein Besuch der Moseltherme am Stadtrand bietet danach Entspannung. Mit der Bahn braucht man aus Köln etwa drei Stunden.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/urlaub-freizeit/796928685-dieser-malerische-mosel-ort-hat-unter-seinen-verwinkelten-gassen-eine-unterwelt-und-dort-findet-derzeit-ein-weihnachtsmarkt-statt",
+      "glossary": [
+        {
+          "form": "Ortsteilen",
+          "lemma": "Ortsteil",
+          "article": "der",
+          "tr": "semt, mahalle"
+        },
+        {
+          "form": "Gemeinde",
+          "lemma": "Gemeinde",
+          "article": "die",
+          "tr": "belediye, yerleşim birimi"
+        },
+        {
+          "form": "prägen",
+          "lemma": "prägen",
+          "article": null,
+          "tr": "şekillendirmek, damga vurmak"
+        },
+        {
+          "form": "Jugendstil",
+          "lemma": "Jugendstil",
+          "article": "der",
+          "tr": "Art Nouveau"
+        },
+        {
+          "form": "Weinhandel",
+          "lemma": "Weinhandel",
+          "article": "der",
+          "tr": "şarap ticareti"
+        },
+        {
+          "form": "hinterlassen",
+          "lemma": "hinterlassen",
+          "article": null,
+          "tr": "geride bırakmak"
+        },
+        {
+          "form": "verbirgt",
+          "lemma": "verbergen",
+          "article": null,
+          "tr": "gizlemek"
+        },
+        {
+          "form": "Gewölben",
+          "lemma": "Gewölbe",
+          "article": "das",
+          "tr": "tonoz, kemerli mahzen"
+        },
+        {
+          "form": "ungewöhnlicher",
+          "lemma": "ungewöhnlich",
+          "article": null,
+          "tr": "alışılmadık"
+        },
+        {
+          "form": "Kunsthandwerker",
+          "lemma": "Kunsthandwerker",
+          "article": "der",
+          "tr": "el sanatları ustası"
+        },
+        {
+          "form": "gedämpftem",
+          "lemma": "gedämpft",
+          "article": null,
+          "tr": "loş, kısık"
+        },
+        {
+          "form": "Schmuck",
+          "lemma": "Schmuck",
+          "article": "der",
+          "tr": "takı"
+        },
+        {
+          "form": "Feiertagen",
+          "lemma": "Feiertag",
+          "article": "der",
+          "tr": "tatil günü"
+        },
+        {
+          "form": "Aussichtsplattform",
+          "lemma": "Aussichtsplattform",
+          "article": "die",
+          "tr": "seyir platformu"
+        },
+        {
+          "form": "Höhenmeter",
+          "lemma": "Höhenmeter",
+          "article": "der",
+          "tr": "yükseklik metresi"
+        },
+        {
+          "form": "überwinden",
+          "lemma": "überwinden",
+          "article": null,
+          "tr": "aşmak"
+        },
+        {
+          "form": "Entspannung",
+          "lemma": "Entspannung",
+          "article": "die",
+          "tr": "rahatlama"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "unterwegs sein",
+          "article": null,
+          "tr": "yolda/dışarıda olmak",
+          "example_de": "Am Wochenende bin ich gern in der Natur unterwegs."
+        },
+        {
+          "de": "stattfinden",
+          "article": null,
+          "tr": "gerçekleşmek",
+          "example_de": "Das Konzert findet im Park statt."
+        },
+        {
+          "de": "Höhenmeter überwinden",
+          "article": null,
+          "tr": "yükseklik farkını aşmak",
+          "example_de": "Auf der Wanderung haben wir 600 Höhenmeter überwunden."
+        },
+        {
+          "de": "Entspannung bieten",
+          "article": null,
+          "tr": "rahatlama sunmak",
+          "example_de": "Eine Sauna bietet nach dem Lernen Entspannung."
+        },
+        {
+          "de": "bei gedämpftem Licht",
+          "article": null,
+          "tr": "loş ışıkta",
+          "example_de": "Wir essen abends gern bei gedämpftem Licht."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wo findet der ungewöhnliche Weihnachtsmarkt statt?",
+          "options": [
+            "auf einer Brücke",
+            "in alten Kellergewölben",
+            "in einer Therme"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wie lange läuft der Markt?",
+          "options": [
+            "bis Weihnachten 2026",
+            "nur im Dezember",
+            "bis zum 2. Januar 2027"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-mercedes-door-to-door",
+      "category": "tech",
+      "title_de": "Mercedes darf von Tür zu Tür assistieren",
+      "summary_de": "Mercedes-Benz hat vom Kraftfahrt-Bundesamt als erster Hersteller in Deutschland die Zulassung für einen Assistenten erhalten, der von Tür zu Tür fahren kann. Das System heißt MB.Drive Assist Pro und beruht auf der UN-Regelung R171. Es übernimmt auf Wunsch auch im Stadtverkehr Aufgaben wie Spurwechsel, Abbiegen an Kreuzungen sowie Anhalten und Anfahren an Ampeln. Trotzdem handelt es sich nur um Automatisierungsstufe 2: Der Fahrer darf zwar die Hände vom Lenkrad nehmen, muss aber den Verkehr beobachten und jederzeit eingreifen können. Zur Technik gehören 27 Sensoren, darunter zehn Kameras, fünf Radarsensoren und zwölf Ultraschallsensoren, sowie ein leistungsstarker Rechner. Ab Dezember 2026 startet in Stuttgart und München ein Early-Access-Programm, der reguläre Marktstart in Deutschland ist für das erste Halbjahr 2027 geplant. Geeignete Fahrzeuge könnten die Funktionen später per Update erhalten. BMW will sein Pendant erst 2027 anbieten, und Teslas System wartet in Deutschland weiter auf eine Anerkennung.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/23/mercedes-erhaelt-kba-zulassung-fuer-tuer-zu-tuer-fahrassistent/",
+      "glossary": [
+        {
+          "form": "Zulassung",
+          "lemma": "Zulassung",
+          "article": "die",
+          "tr": "onay, ruhsat"
+        },
+        {
+          "form": "Assistenten",
+          "lemma": "Assistent",
+          "article": "der",
+          "tr": "asistan, yardımcı sistem"
+        },
+        {
+          "form": "beruht",
+          "lemma": "beruhen",
+          "article": null,
+          "tr": "dayanmak"
+        },
+        {
+          "form": "übernimmt",
+          "lemma": "übernehmen",
+          "article": null,
+          "tr": "üstlenmek"
+        },
+        {
+          "form": "Stadtverkehr",
+          "lemma": "Stadtverkehr",
+          "article": "der",
+          "tr": "şehir içi trafik"
+        },
+        {
+          "form": "Spurwechsel",
+          "lemma": "Spurwechsel",
+          "article": "der",
+          "tr": "şerit değiştirme"
+        },
+        {
+          "form": "Kreuzungen",
+          "lemma": "Kreuzung",
+          "article": "die",
+          "tr": "kavşak"
+        },
+        {
+          "form": "Ampeln",
+          "lemma": "Ampel",
+          "article": "die",
+          "tr": "trafik lambası"
+        },
+        {
+          "form": "Automatisierungsstufe",
+          "lemma": "Automatisierungsstufe",
+          "article": "die",
+          "tr": "otomasyon seviyesi"
+        },
+        {
+          "form": "Lenkrad",
+          "lemma": "Lenkrad",
+          "article": "das",
+          "tr": "direksiyon"
+        },
+        {
+          "form": "eingreifen",
+          "lemma": "eingreifen",
+          "article": null,
+          "tr": "müdahale etmek"
+        },
+        {
+          "form": "Sensoren",
+          "lemma": "Sensor",
+          "article": "der",
+          "tr": "sensör"
+        },
+        {
+          "form": "Rechner",
+          "lemma": "Rechner",
+          "article": "der",
+          "tr": "bilgisayar"
+        },
+        {
+          "form": "Marktstart",
+          "lemma": "Marktstart",
+          "article": "der",
+          "tr": "piyasaya çıkış"
+        },
+        {
+          "form": "Halbjahr",
+          "lemma": "Halbjahr",
+          "article": "das",
+          "tr": "yarıyıl"
+        },
+        {
+          "form": "Anerkennung",
+          "lemma": "Anerkennung",
+          "article": "die",
+          "tr": "tanınma, onay"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "eine Zulassung erhalten",
+          "article": null,
+          "tr": "onay almak",
+          "example_de": "Das Medikament hat die Zulassung erhalten."
+        },
+        {
+          "de": "auf etwas beruhen",
+          "article": null,
+          "tr": "bir şeye dayanmak",
+          "example_de": "Die Entscheidung beruht auf neuen Zahlen."
+        },
+        {
+          "de": "jederzeit eingreifen können",
+          "article": null,
+          "tr": "her an müdahale edebilmek",
+          "example_de": "Der Fahrer muss jederzeit eingreifen können."
+        },
+        {
+          "de": "den Verkehr beobachten",
+          "article": null,
+          "tr": "trafiği gözlemlemek",
+          "example_de": "Beim Abbiegen muss man den Verkehr genau beobachten."
+        },
+        {
+          "de": "Marktstart",
+          "article": "der",
+          "tr": "piyasaya çıkış",
+          "example_de": "Der Marktstart des Handys ist im Frühjahr."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Welche Automatisierungsstufe hat das System laut Text?",
+          "options": [
+            "Stufe 2",
+            "Stufe 4",
+            "Stufe 5"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was muss der Fahrer trotz des Systems tun?",
+          "options": [
+            "nichts",
+            "schlafen",
+            "den Verkehr beobachten",
+            "das Auto verlassen"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-byd-ti7-verkaufsstopp",
+      "category": "tech",
+      "title_de": "Gericht stoppt BYD Ti7 in der EU – zu ähnlich zum Defender",
+      "summary_de": "Ein Gericht in Den Haag hat dem chinesischen Autobauer BYD vorläufig untersagt, das Elektro-SUV Ti7 in der EU zu verkaufen. Die Richter folgten damit Jaguar Land Rover, das seine Designrechte am Defender verletzt sieht. Sie hielten den Ti7 trotz einer langen Liste von Unterschieden für zu ähnlich. Das Verbot betrifft zehn europäische BYD-Gesellschaften und umfasst Import, Herstellung und Verkauf. Auch das geplante Werk im ungarischen Szeged ist betroffen, wo der Ti7 für Europa gebaut werden sollte. Großbritannien ist von der Entscheidung nicht erfasst, doch JLR hat angekündigt, auch dort juristisch vorzugehen. BYD widerspricht entschieden, spricht von einer eigenständigen Konstruktion und will Berufung einlegen. Das Hauptverfahren steht noch aus, und JLR muss es innerhalb von sechs Monaten einleiten. In China wird das Modell schon seit September 2025 unter dem Namen Fang Cheng Bao verkauft.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/23/gerichtsverfuegung-byd-ti7-sieht-dem-jlr-defender-zu-aehnlich/",
+      "glossary": [
+        {
+          "form": "Autobauer",
+          "lemma": "Autobauer",
+          "article": "der",
+          "tr": "otomobil üreticisi"
+        },
+        {
+          "form": "vorläufig",
+          "lemma": "vorläufig",
+          "article": null,
+          "tr": "geçici olarak"
+        },
+        {
+          "form": "untersagt",
+          "lemma": "untersagen",
+          "article": null,
+          "tr": "yasaklamak"
+        },
+        {
+          "form": "Richter",
+          "lemma": "Richter",
+          "article": "der",
+          "tr": "hâkim"
+        },
+        {
+          "form": "Designrechte",
+          "lemma": "Designrecht",
+          "article": "das",
+          "tr": "tasarım hakkı"
+        },
+        {
+          "form": "verletzt",
+          "lemma": "verletzen",
+          "article": null,
+          "tr": "ihlal etmek"
+        },
+        {
+          "form": "Unterschieden",
+          "lemma": "Unterschied",
+          "article": "der",
+          "tr": "fark"
+        },
+        {
+          "form": "Herstellung",
+          "lemma": "Herstellung",
+          "article": "die",
+          "tr": "üretim"
+        },
+        {
+          "form": "Werk",
+          "lemma": "Werk",
+          "article": "das",
+          "tr": "fabrika"
+        },
+        {
+          "form": "erfasst",
+          "lemma": "erfassen",
+          "article": null,
+          "tr": "kapsamak"
+        },
+        {
+          "form": "juristisch",
+          "lemma": "juristisch",
+          "article": null,
+          "tr": "hukuki yoldan"
+        },
+        {
+          "form": "vorzugehen",
+          "lemma": "vorgehen",
+          "article": null,
+          "tr": "harekete geçmek"
+        },
+        {
+          "form": "widerspricht",
+          "lemma": "widersprechen",
+          "article": null,
+          "tr": "itiraz etmek"
+        },
+        {
+          "form": "eigenständigen",
+          "lemma": "eigenständig",
+          "article": null,
+          "tr": "bağımsız, özgün"
+        },
+        {
+          "form": "Berufung",
+          "lemma": "Berufung",
+          "article": "die",
+          "tr": "istinaf, itiraz başvurusu"
+        },
+        {
+          "form": "einlegen",
+          "lemma": "einlegen",
+          "article": null,
+          "tr": "sunmak, yapmak"
+        },
+        {
+          "form": "Hauptverfahren",
+          "lemma": "Hauptverfahren",
+          "article": "das",
+          "tr": "ana dava"
+        },
+        {
+          "form": "einleiten",
+          "lemma": "einleiten",
+          "article": null,
+          "tr": "başlatmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Berufung einlegen",
+          "article": null,
+          "tr": "istinafa gitmek",
+          "example_de": "Die Firma will gegen das Urteil Berufung einlegen."
+        },
+        {
+          "de": "gegen jemanden vorgehen",
+          "article": null,
+          "tr": "birine karşı harekete geçmek",
+          "example_de": "Der Verein geht gegen den Lärm vor."
+        },
+        {
+          "de": "ein Recht verletzen",
+          "article": null,
+          "tr": "hakkı ihlal etmek",
+          "example_de": "Das Foto verletzt das Recht am eigenen Bild."
+        },
+        {
+          "de": "einen Antrag stellen",
+          "article": null,
+          "tr": "başvuru yapmak",
+          "example_de": "Ich habe einen Antrag auf Förderung gestellt."
+        },
+        {
+          "de": "Unterschied",
+          "article": "der",
+          "tr": "fark",
+          "example_de": "Es gibt einen großen Unterschied zwischen beiden Modellen."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Warum wurde der Verkauf des Ti7 vorläufig verboten?",
+          "options": [
+            "wegen zu hoher Preise",
+            "wegen Sicherheitsmängeln",
+            "wegen zu großer Ähnlichkeit mit dem Defender"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was plant BYD nach dem Urteil?",
+          "options": [
+            "Berufung einlegen",
+            "das Modell einstellen",
+            "das Werk verkaufen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-vitamin-c-erkaeltung",
+      "category": "health",
+      "title_de": "Hilft Vitamin C gegen Erkältungen?",
+      "summary_de": "Vitamin C gilt vielen als Schutz vor Erkältungen, doch der Rat geht auf das Buch des Chemikers Linus Pauling von 1970 zurück, das schon damals von Fachleuten kritisiert wurde. Eine Übersichtsarbeit der Cochrane-Organisation aus dem Jahr 2013 wertete fast 30 Studien mit gut 11.000 Teilnehmenden aus. Regelmäßig eingenommenes Vitamin C verhinderte Erkältungen demnach nicht. Wer es täglich vor der Krankheit nahm, war allerdings etwas kürzer krank, bei Erwachsenen etwa acht Prozent und bei Kindern etwa 14 Prozent. Erst nach Beginn der Symptome eingenommen, zeigte sich kein klarer Nutzen. Bei Menschen unter extremer körperlicher Belastung, etwa Marathonläufern, halbierte sich das Risiko in fünf kleinen Studien, was sich aber nicht auf den Alltag übertragen lässt. Eine neuere Analyse spricht für eine mögliche Wirkung ab einem Gramm täglich, doch diese Menge liegt weit über dem Höchstwert von 250 Milligramm, den das BfR für Nahrungsergänzungsmittel empfiehlt. Mit einer normalen Ernährung ist der Bedarf meist gedeckt, ein Mangel ist in Deutschland sehr selten.",
+      "source_name": "Quarks",
+      "source_url": "https://www.quarks.de/gesundheit/vitamin-c-erkaeltungen-evidenz/",
+      "glossary": [
+        {
+          "form": "Erkältungen",
+          "lemma": "Erkältung",
+          "article": "die",
+          "tr": "soğuk algınlığı"
+        },
+        {
+          "form": "Übersichtsarbeit",
+          "lemma": "Übersichtsarbeit",
+          "article": "die",
+          "tr": "derleme çalışma"
+        },
+        {
+          "form": "wertete",
+          "lemma": "auswerten",
+          "article": null,
+          "tr": "değerlendirmek, analiz etmek"
+        },
+        {
+          "form": "Teilnehmenden",
+          "lemma": "Teilnehmende",
+          "article": "der",
+          "tr": "katılımcı"
+        },
+        {
+          "form": "verhinderte",
+          "lemma": "verhindern",
+          "article": null,
+          "tr": "önlemek"
+        },
+        {
+          "form": "Symptome",
+          "lemma": "Symptom",
+          "article": "das",
+          "tr": "belirti"
+        },
+        {
+          "form": "Nutzen",
+          "lemma": "Nutzen",
+          "article": "der",
+          "tr": "fayda"
+        },
+        {
+          "form": "Belastung",
+          "lemma": "Belastung",
+          "article": "die",
+          "tr": "yüklenme, zorlanma"
+        },
+        {
+          "form": "halbierte",
+          "lemma": "halbieren",
+          "article": null,
+          "tr": "yarıya inmek/indirmek"
+        },
+        {
+          "form": "übertragen",
+          "lemma": "übertragen",
+          "article": null,
+          "tr": "aktarmak, uygulamak"
+        },
+        {
+          "form": "Wirkung",
+          "lemma": "Wirkung",
+          "article": "die",
+          "tr": "etki"
+        },
+        {
+          "form": "Höchstwert",
+          "lemma": "Höchstwert",
+          "article": "der",
+          "tr": "üst sınır"
+        },
+        {
+          "form": "Nahrungsergänzungsmittel",
+          "lemma": "Nahrungsergänzungsmittel",
+          "article": "das",
+          "tr": "gıda takviyesi"
+        },
+        {
+          "form": "Bedarf",
+          "lemma": "Bedarf",
+          "article": "der",
+          "tr": "ihtiyaç"
+        },
+        {
+          "form": "gedeckt",
+          "lemma": "decken",
+          "article": null,
+          "tr": "karşılamak"
+        },
+        {
+          "form": "Mangel",
+          "lemma": "Mangel",
+          "article": "der",
+          "tr": "eksiklik"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen Nutzen haben",
+          "article": null,
+          "tr": "faydası olmak",
+          "example_de": "Die Maßnahme hat kaum Nutzen."
+        },
+        {
+          "de": "den Bedarf decken",
+          "article": null,
+          "tr": "ihtiyacı karşılamak",
+          "example_de": "Eine gesunde Ernährung deckt den Bedarf an Vitaminen."
+        },
+        {
+          "de": "sich auf etwas übertragen lassen",
+          "article": null,
+          "tr": "bir şeye uygulanabilmek",
+          "example_de": "Die Ergebnisse lassen sich nicht auf alle übertragen."
+        },
+        {
+          "de": "einer Krankheit vorbeugen",
+          "article": null,
+          "tr": "hastalığı önlemek",
+          "example_de": "Bewegung kann vielen Krankheiten vorbeugen."
+        },
+        {
+          "de": "Mangel",
+          "article": "der",
+          "tr": "eksiklik",
+          "example_de": "Ein Vitaminmangel ist bei uns selten."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was zeigte die Cochrane-Auswertung zu täglich eingenommenem Vitamin C?",
+          "options": [
+            "Es verhinderte Erkältungen vollständig.",
+            "Es verhinderte Erkältungen nicht, verkürzte sie aber leicht.",
+            "Es verlängerte die Krankheit."
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „Mangel“?",
+          "options": [
+            "etwas Besonderes",
+            "zu viel von etwas",
+            "zu wenig von etwas"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-suessstoffe-vs-zucker",
+      "category": "health",
+      "title_de": "Süßungsmittel: nicht automatisch besser als Zucker",
+      "summary_de": "Zuckerersatz klingt nach einer einfachen Lösung, doch ein Artikel von Quarks zeigt, dass die Lage komplizierter ist. In der EU sind acht Zuckeraustauschstoffe wie Xylit und Erythrit sowie 14 Süßungsmittel wie Aspartam zugelassen. Letztere sind bis zu 37.000-mal süßer als Zucker und liefern meist keine Kalorien. Eine Studie fand bei Menschen mit Herzproblemen einen Zusammenhang zwischen hohen Xylit-Werten im Blut und mehr Herz-Kreislauf-Ereignissen, bewiesen ist ein Ursache-Wirkung-Verhältnis damit aber nicht. Die Weltgesundheitsorganisation stuft Aspartam bei sehr hohem Verzehr als „möglicherweise krebserregend“ ein, wobei ein 70 Kilogramm schwerer Mensch dafür täglich über Jahre etwa neun bis 14 Dosen Limonade trinken müsste. Für einen Gewichtsverlust gibt es laut dem Text keine ausreichenden Belege. Die Fachleute der WHO und der DGE raten nicht grundsätzlich ab, empfehlen aber, die Vorliebe für Süßes allmählich zu verringern. Ernährungsforschung bleibt ohnehin schwierig, weil sich die Wirkung einzelner Lebensmittel kaum von der übrigen Ernährung trennen lässt.",
+      "source_name": "Quarks",
+      "source_url": "https://www.quarks.de/gesundheit/ernaehrung/zuckerersatz-suessstoff-stevia-erythrit/",
+      "glossary": [
+        {
+          "form": "Zuckerersatz",
+          "lemma": "Zuckerersatz",
+          "article": "der",
+          "tr": "şeker ikamesi"
+        },
+        {
+          "form": "Lösung",
+          "lemma": "Lösung",
+          "article": "die",
+          "tr": "çözüm"
+        },
+        {
+          "form": "Süßungsmittel",
+          "lemma": "Süßungsmittel",
+          "article": "das",
+          "tr": "tatlandırıcı"
+        },
+        {
+          "form": "zugelassen",
+          "lemma": "zulassen",
+          "article": null,
+          "tr": "onaylamak, izin vermek"
+        },
+        {
+          "form": "liefern",
+          "lemma": "liefern",
+          "article": null,
+          "tr": "sağlamak, vermek"
+        },
+        {
+          "form": "Zusammenhang",
+          "lemma": "Zusammenhang",
+          "article": "der",
+          "tr": "bağlantı, ilişki"
+        },
+        {
+          "form": "bewiesen",
+          "lemma": "beweisen",
+          "article": null,
+          "tr": "kanıtlamak"
+        },
+        {
+          "form": "stuft",
+          "lemma": "einstufen",
+          "article": null,
+          "tr": "sınıflandırmak"
+        },
+        {
+          "form": "Verzehr",
+          "lemma": "Verzehr",
+          "article": "der",
+          "tr": "tüketim"
+        },
+        {
+          "form": "krebserregend",
+          "lemma": "krebserregend",
+          "article": null,
+          "tr": "kanserojen"
+        },
+        {
+          "form": "Gewichtsverlust",
+          "lemma": "Gewichtsverlust",
+          "article": "der",
+          "tr": "kilo kaybı"
+        },
+        {
+          "form": "Belege",
+          "lemma": "Beleg",
+          "article": "der",
+          "tr": "kanıt"
+        },
+        {
+          "form": "raten",
+          "lemma": "abraten",
+          "article": null,
+          "tr": "vazgeçirmeye çalışmak"
+        },
+        {
+          "form": "Vorliebe",
+          "lemma": "Vorliebe",
+          "article": "die",
+          "tr": "tercih, düşkünlük"
+        },
+        {
+          "form": "verringern",
+          "lemma": "verringern",
+          "article": null,
+          "tr": "azaltmak"
+        },
+        {
+          "form": "Ernährungsforschung",
+          "lemma": "Ernährungsforschung",
+          "article": "die",
+          "tr": "beslenme araştırması"
+        },
+        {
+          "form": "trennen",
+          "lemma": "trennen",
+          "article": null,
+          "tr": "ayırmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen Zusammenhang finden",
+          "article": null,
+          "tr": "bağlantı bulmak",
+          "example_de": "Die Forscher fanden einen Zusammenhang zwischen Schlaf und Stimmung."
+        },
+        {
+          "de": "etwas ist nicht bewiesen",
+          "article": null,
+          "tr": "kanıtlanmış değil",
+          "example_de": "Dieser Effekt ist wissenschaftlich nicht bewiesen."
+        },
+        {
+          "de": "von etwas abraten",
+          "article": null,
+          "tr": "bir şeyden vazgeçirmeye çalışmak",
+          "example_de": "Der Arzt rät von starkem Kaffee ab."
+        },
+        {
+          "de": "den Konsum verringern",
+          "article": null,
+          "tr": "tüketimi azaltmak",
+          "example_de": "Ich möchte meinen Zuckerkonsum verringern."
+        },
+        {
+          "de": "Beleg",
+          "article": "der",
+          "tr": "kanıt",
+          "example_de": "Dafür gibt es bisher keinen Beleg."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was sagt der Text über Zuckerersatz und Gewichtsverlust?",
+          "options": [
+            "Es gibt keine ausreichenden Belege dafür.",
+            "Er führt sicher zu starkem Gewichtsverlust.",
+            "Er verhindert jede Gewichtszunahme."
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was empfehlen WHO und DGE laut Text?",
+          "options": [
+            "Süßungsmittel komplett zu verbieten",
+            "die Vorliebe für Süßes allmählich zu verringern",
+            "nur noch Xylit zu essen"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-loewe-istanbul",
+      "category": "tr",
+      "title_de": "Löwe streift durch Istanbuler Villenvorort",
+      "summary_de": "In einem Villenvorort im Norden von Istanbul läuft seit Sonntagabend die Suche nach einem mutmaßlichen Löwen. Ein Anwohner hatte das Tier gesehen und die Behörden alarmiert, auch Überwachungskameras haben es aufgenommen. Ein Autofahrer berichtete von einer großen, dunklen Gestalt, die nachts in Richtung Wald gelaufen sei. Gendarmerie und Polizei durchkämmen das Gebiet im Stadtteil Sarıyer, und Drohnen mit Wärmebildkameras sind im Einsatz. Tierärzte stehen offenbar mit Betäubungsgewehren bereit, denn man will die Löwin lebend fangen. Die Anwohner sollen vorerst in ihren Häusern bleiben. Löwen leben in der Türkei nicht in freier Wildbahn, ihre private Haltung ist verboten. Die Staatsanwaltschaft ermittelt deshalb, und Medien vermuten, dass das Tier jemandem gehörte. Zum Zeitpunkt der Meldung war es noch nicht gefunden.",
+      "source_name": "t-online",
+      "source_url": "https://www.t-online.de/nachrichten/panorama/tiere/id_101542338/tuerkei-loewe-streift-durch-istanbuler-villenvorort.html",
+      "glossary": [
+        {
+          "form": "Villenvorort",
+          "lemma": "Villenvorort",
+          "article": "der",
+          "tr": "villa semti"
+        },
+        {
+          "form": "mutmaßlichen",
+          "lemma": "mutmaßlich",
+          "article": null,
+          "tr": "muhtemel, iddia edilen"
+        },
+        {
+          "form": "Anwohner",
+          "lemma": "Anwohner",
+          "article": "der",
+          "tr": "mahalle sakini"
+        },
+        {
+          "form": "Behörden",
+          "lemma": "Behörde",
+          "article": "die",
+          "tr": "yetkililer, makamlar"
+        },
+        {
+          "form": "alarmiert",
+          "lemma": "alarmieren",
+          "article": null,
+          "tr": "haberdar etmek, alarma geçirmek"
+        },
+        {
+          "form": "Überwachungskameras",
+          "lemma": "Überwachungskamera",
+          "article": "die",
+          "tr": "güvenlik kamerası"
+        },
+        {
+          "form": "Gestalt",
+          "lemma": "Gestalt",
+          "article": "die",
+          "tr": "siluet, figür"
+        },
+        {
+          "form": "durchkämmen",
+          "lemma": "durchkämmen",
+          "article": null,
+          "tr": "taramak"
+        },
+        {
+          "form": "Wärmebildkameras",
+          "lemma": "Wärmebildkamera",
+          "article": "die",
+          "tr": "termal kamera"
+        },
+        {
+          "form": "Betäubungsgewehren",
+          "lemma": "Betäubungsgewehr",
+          "article": "das",
+          "tr": "uyuşturucu tüfeği"
+        },
+        {
+          "form": "Wildbahn",
+          "lemma": "Wildbahn",
+          "article": "die",
+          "tr": "doğal yaşam alanı"
+        },
+        {
+          "form": "Haltung",
+          "lemma": "Haltung",
+          "article": "die",
+          "tr": "bakım, besleme"
+        },
+        {
+          "form": "Staatsanwaltschaft",
+          "lemma": "Staatsanwaltschaft",
+          "article": "die",
+          "tr": "savcılık"
+        },
+        {
+          "form": "ermittelt",
+          "lemma": "ermitteln",
+          "article": null,
+          "tr": "soruşturmak"
+        },
+        {
+          "form": "vermuten",
+          "lemma": "vermuten",
+          "article": null,
+          "tr": "tahmin etmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "die Behörden alarmieren",
+          "article": null,
+          "tr": "yetkilileri haberdar etmek",
+          "example_de": "Der Zeuge hat sofort die Behörden alarmiert."
+        },
+        {
+          "de": "im Einsatz sein",
+          "article": null,
+          "tr": "görevde olmak",
+          "example_de": "Die Feuerwehr war die ganze Nacht im Einsatz."
+        },
+        {
+          "de": "in freier Wildbahn",
+          "article": null,
+          "tr": "doğal ortamda",
+          "example_de": "Wölfe leben in freier Wildbahn."
+        },
+        {
+          "de": "gegen jemanden ermitteln",
+          "article": null,
+          "tr": "birine soruşturma yürütmek",
+          "example_de": "Die Polizei ermittelt gegen einen Verdächtigen."
+        },
+        {
+          "de": "vorerst",
+          "article": null,
+          "tr": "şimdilik",
+          "example_de": "Wir bleiben vorerst zu Hause."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wo läuft die Suche nach dem Tier?",
+          "options": [
+            "in einem Zoo in Ankara",
+            "an der Küste bei Antalya",
+            "in einem Villenvorort im Norden von Istanbul"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was ist mit „in freier Wildbahn“ gemeint?",
+          "options": [
+            "in der Natur, nicht in Gefangenschaft",
+            "in der Stadt",
+            "im Zoo"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-rob-run-steam",
+      "category": "gaming",
+      "title_de": "Rob Run: Gangster-Shooter mit echten Spielern auf Steam",
+      "summary_de": "Auf Steam ist mit Rob Run ein kostenloser Online-Shooter erfolgreich, der sich selbst als „Crime Sandbox“ bezeichnet. Statt Computerfiguren übernehmen tausende echte Spieler die Rollen von Polizisten und Kriminellen. Die Kriminellen versuchen, Beute zu sammeln und an Abgabepunkten abzuliefern, während die Polizei dort auf sie wartet. Dazu kommen Elemente anderer Genres: Wie in Extraction-Shootern geht Beute leicht verloren, und wie bei Rust bauen die Spieler Basen, die andere angreifen können. Alle sieben Tage wird der Server zurückgesetzt und alle fangen wieder bei null an. Laut Mein-MMO spielen täglich mehr als 500.000 Menschen, und der Titel schaffte es zeitweise unter die zehn meistverkauften Spiele auf Steam. Allerdings klagen viele Rezensenten über Cheater und über Gruppen von bis zu 50 Spielern, die Einzelspieler ausrauben. Die Entwickler sagen, sie hätten mehr als 200.000 Konten gesperrt, und prüfen Hardware-Sperren sowie eingeschränkte Server.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/rob-run-steam-erfolg-probleme/",
+      "glossary": [
+        {
+          "form": "kostenloser",
+          "lemma": "kostenlos",
+          "article": null,
+          "tr": "ücretsiz"
+        },
+        {
+          "form": "bezeichnet",
+          "lemma": "bezeichnen",
+          "article": null,
+          "tr": "adlandırmak"
+        },
+        {
+          "form": "Beute",
+          "lemma": "Beute",
+          "article": "die",
+          "tr": "ganimet"
+        },
+        {
+          "form": "abzuliefern",
+          "lemma": "abliefern",
+          "article": null,
+          "tr": "teslim etmek"
+        },
+        {
+          "form": "Abgabepunkten",
+          "lemma": "Abgabepunkt",
+          "article": "der",
+          "tr": "teslim noktası"
+        },
+        {
+          "form": "angreifen",
+          "lemma": "angreifen",
+          "article": null,
+          "tr": "saldırmak"
+        },
+        {
+          "form": "zurückgesetzt",
+          "lemma": "zurücksetzen",
+          "article": null,
+          "tr": "sıfırlamak"
+        },
+        {
+          "form": "zeitweise",
+          "lemma": "zeitweise",
+          "article": null,
+          "tr": "zaman zaman, geçici olarak"
+        },
+        {
+          "form": "meistverkauften",
+          "lemma": "meistverkauft",
+          "article": null,
+          "tr": "en çok satan"
+        },
+        {
+          "form": "klagen",
+          "lemma": "klagen",
+          "article": null,
+          "tr": "şikâyet etmek"
+        },
+        {
+          "form": "Rezensenten",
+          "lemma": "Rezensent",
+          "article": "der",
+          "tr": "yorumcu"
+        },
+        {
+          "form": "Cheater",
+          "lemma": "Cheater",
+          "article": "der",
+          "tr": "hileci"
+        },
+        {
+          "form": "ausrauben",
+          "lemma": "ausrauben",
+          "article": null,
+          "tr": "soymak"
+        },
+        {
+          "form": "Entwickler",
+          "lemma": "Entwickler",
+          "article": "der",
+          "tr": "geliştirici"
+        },
+        {
+          "form": "gesperrt",
+          "lemma": "sperren",
+          "article": null,
+          "tr": "engellemek, banlamak"
+        },
+        {
+          "form": "eingeschränkte",
+          "lemma": "eingeschränkt",
+          "article": null,
+          "tr": "kısıtlı"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "bei null anfangen",
+          "article": null,
+          "tr": "sıfırdan başlamak",
+          "example_de": "Nach dem Umzug musste ich bei null anfangen."
+        },
+        {
+          "de": "über etwas klagen",
+          "article": null,
+          "tr": "bir şeyden şikâyet etmek",
+          "example_de": "Viele klagen über die hohen Preise."
+        },
+        {
+          "de": "ein Konto sperren",
+          "article": null,
+          "tr": "hesabı engellemek",
+          "example_de": "Die Bank hat mein Konto gesperrt."
+        },
+        {
+          "de": "Beute machen",
+          "article": null,
+          "tr": "ganimet elde etmek",
+          "example_de": "Die Spieler wollen im Spiel möglichst viel Beute machen."
+        },
+        {
+          "de": "zeitweise",
+          "article": null,
+          "tr": "zaman zaman",
+          "example_de": "Es hat zeitweise stark geregnet."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie oft wird der Server von Rob Run zurückgesetzt?",
+          "options": [
+            "jeden Tag",
+            "alle sieben Tage",
+            "jeden Monat"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Worüber klagen viele Rezensenten?",
+          "options": [
+            "über zu hohe Preise",
+            "über fehlende Spieler",
+            "über Cheater und Gruppen, die Einzelspieler ausrauben"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-poe-credits-zufall",
+      "category": "gaming",
+      "title_de": "Path of Exile: Streamer sieht plötzlich die Credits",
+      "summary_de": "Der Twitch-Streamer SebK, der für seine Guides zu Path of Exile bekannt ist, erlebte am 22. November einen kuriosen Moment. Beim Farmen von Karten begann das Spiel zu ruckeln und fror schließlich komplett ein. Nach wenigen Sekunden liefen plötzlich die Credits über seinen Bildschirm, und er fragte lachend, ob er das Spiel gerade durchgespielt habe. Auf Reddit fiel einem Nutzer auf, dass der Mauszeiger des Streamers genau dort stand, wo im Hauptmenü der Credits-Button sitzt. Die Theorie lautet, dass ein Klick während des Absturzes registriert wurde, bevor das Menü angezeigt werden konnte. Offenbar ist das kein Einzelfall, denn etwa acht Monate zuvor wurde ein ähnlicher Vorfall gepostet. Viele Spieler wussten bisher nicht einmal, dass es in Path of Exile überhaupt Credits gibt. Früher konnte man sie nach dem Sieg über den Endgegner Dominus sehen, doch angeblich wurde das entfernt, weil viele Spieler dachten, das Spiel sei zu Ende. Die kompletten Credits laufen etwa 30 Minuten.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/path-of-exile-credits-nach-crash/",
+      "glossary": [
+        {
+          "form": "kuriosen",
+          "lemma": "kurios",
+          "article": null,
+          "tr": "tuhaf, ilginç"
+        },
+        {
+          "form": "ruckeln",
+          "lemma": "ruckeln",
+          "article": null,
+          "tr": "takılmak, kasmak"
+        },
+        {
+          "form": "fror",
+          "lemma": "einfrieren",
+          "article": null,
+          "tr": "donmak"
+        },
+        {
+          "form": "durchgespielt",
+          "lemma": "durchspielen",
+          "article": null,
+          "tr": "baştan sona oynamak"
+        },
+        {
+          "form": "Mauszeiger",
+          "lemma": "Mauszeiger",
+          "article": "der",
+          "tr": "fare imleci"
+        },
+        {
+          "form": "Theorie",
+          "lemma": "Theorie",
+          "article": "die",
+          "tr": "teori"
+        },
+        {
+          "form": "Absturzes",
+          "lemma": "Absturz",
+          "article": "der",
+          "tr": "çökme"
+        },
+        {
+          "form": "registriert",
+          "lemma": "registrieren",
+          "article": null,
+          "tr": "kaydetmek, algılamak"
+        },
+        {
+          "form": "Einzelfall",
+          "lemma": "Einzelfall",
+          "article": "der",
+          "tr": "tekil durum"
+        },
+        {
+          "form": "Vorfall",
+          "lemma": "Vorfall",
+          "article": "der",
+          "tr": "olay"
+        },
+        {
+          "form": "Endgegner",
+          "lemma": "Endgegner",
+          "article": "der",
+          "tr": "son boss"
+        },
+        {
+          "form": "angeblich",
+          "lemma": "angeblich",
+          "article": null,
+          "tr": "iddiaya göre"
+        },
+        {
+          "form": "entfernt",
+          "lemma": "entfernen",
+          "article": null,
+          "tr": "kaldırmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "ein Spiel durchspielen",
+          "article": null,
+          "tr": "oyunu bitirmek",
+          "example_de": "Ich habe das Spiel in einer Woche durchgespielt."
+        },
+        {
+          "de": "ein Einzelfall sein",
+          "article": null,
+          "tr": "tekil bir durum olmak",
+          "example_de": "Der Fehler war kein Einzelfall."
+        },
+        {
+          "de": "angeblich",
+          "article": null,
+          "tr": "iddiaya göre",
+          "example_de": "Er hat angeblich Millionen Spieler erreicht."
+        },
+        {
+          "de": "jemandem fällt etwas auf",
+          "article": null,
+          "tr": "birinin dikkatini çekmek",
+          "example_de": "Mir ist ein Fehler im Text aufgefallen."
+        },
+        {
+          "de": "Absturz",
+          "article": "der",
+          "tr": "çökme",
+          "example_de": "Nach dem Absturz ging mein Spielstand verloren."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was löste vermutlich die Credits aus?",
+          "options": [
+            "ein Klick, der während des Absturzes registriert wurde",
+            "ein geheimer Code",
+            "das Ende des Spiels"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „angeblich“?",
+          "options": [
+            "sicher bewiesen",
+            "so heißt es, aber nicht bestätigt",
+            "niemals"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-darkest-dungeon-2-asylum",
+      "category": "gaming",
+      "title_de": "Darkest Dungeon 2: Arena-DLC „The Butcher’s Asylum“",
+      "summary_de": "Das Studio Red Hook hat für Darkest Dungeon 2 den DLC „The Butcher’s Asylum“ angekündigt, der 2027 erscheinen soll. Er bringt einen neuen Arena-Modus, in dem die Helden endlosen Gegnerwellen gegenüberstehen, bis das Team besiegt ist. Dabei zeigt eine Publikumsanzeige, auf wessen Seite die Zuschauer stehen. Erfüllt man ihre Forderungen rechtzeitig, kommen Verstärkung und eine mächtige Fähigkeit hinzu. Ignoriert man sie oder trödelt zu lange, wendet sich die Menge gegen einen und stärkt die Gegner. Aus der Punktzahl entstehen Tickets, die man an einem Glücksrad der Zirkusdirektorin einsetzt, um Belohnungen zu gewinnen, aber auch Nachteile zu riskieren. Die Zirkusdirektorin wird außerdem als 16. spielbarer Held freigeschaltet, ihre Angriffe setzen auf Blutungsschaden. Im neuen Modus übernimmt sie auch die Rolle der Erzählerin. Ein genaues Erscheinungsdatum und einen Preis nennt der Bericht bisher nicht.",
+      "source_name": "PC Games",
+      "source_url": "https://www.pcgames.de/Darkest-Dungeon-2-Spiel-62188/News/Butchers-Asylum-Arena-DLC-1560771/",
+      "glossary": [
+        {
+          "form": "angekündigt",
+          "lemma": "ankündigen",
+          "article": null,
+          "tr": "duyurmak"
+        },
+        {
+          "form": "Gegnerwellen",
+          "lemma": "Gegnerwelle",
+          "article": "die",
+          "tr": "düşman dalgası"
+        },
+        {
+          "form": "Publikumsanzeige",
+          "lemma": "Publikumsanzeige",
+          "article": "die",
+          "tr": "seyirci göstergesi"
+        },
+        {
+          "form": "Forderungen",
+          "lemma": "Forderung",
+          "article": "die",
+          "tr": "talep"
+        },
+        {
+          "form": "Verstärkung",
+          "lemma": "Verstärkung",
+          "article": "die",
+          "tr": "takviye"
+        },
+        {
+          "form": "mächtige",
+          "lemma": "mächtig",
+          "article": null,
+          "tr": "güçlü"
+        },
+        {
+          "form": "Fähigkeit",
+          "lemma": "Fähigkeit",
+          "article": "die",
+          "tr": "yetenek"
+        },
+        {
+          "form": "Ignoriert",
+          "lemma": "ignorieren",
+          "article": null,
+          "tr": "görmezden gelmek"
+        },
+        {
+          "form": "trödelt",
+          "lemma": "trödeln",
+          "article": null,
+          "tr": "oyalanmak"
+        },
+        {
+          "form": "Menge",
+          "lemma": "Menge",
+          "article": "die",
+          "tr": "kalabalık"
+        },
+        {
+          "form": "Punktzahl",
+          "lemma": "Punktzahl",
+          "article": "die",
+          "tr": "puan"
+        },
+        {
+          "form": "Glücksrad",
+          "lemma": "Glücksrad",
+          "article": "das",
+          "tr": "çarkıfelek"
+        },
+        {
+          "form": "Belohnungen",
+          "lemma": "Belohnung",
+          "article": "die",
+          "tr": "ödül"
+        },
+        {
+          "form": "Nachteile",
+          "lemma": "Nachteil",
+          "article": "der",
+          "tr": "dezavantaj"
+        },
+        {
+          "form": "riskieren",
+          "lemma": "riskieren",
+          "article": null,
+          "tr": "riske atmak"
+        },
+        {
+          "form": "freigeschaltet",
+          "lemma": "freischalten",
+          "article": null,
+          "tr": "kilidini açmak"
+        },
+        {
+          "form": "Blutungsschaden",
+          "lemma": "Blutungsschaden",
+          "article": "der",
+          "tr": "kanama hasarı"
+        },
+        {
+          "form": "Erscheinungsdatum",
+          "lemma": "Erscheinungsdatum",
+          "article": "das",
+          "tr": "çıkış tarihi"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen DLC ankündigen",
+          "article": null,
+          "tr": "DLC duyurmak",
+          "example_de": "Das Studio hat einen neuen DLC angekündigt."
+        },
+        {
+          "de": "eine Fähigkeit freischalten",
+          "article": null,
+          "tr": "yeteneğin kilidini açmak",
+          "example_de": "Mit genug Punkten schaltet man neue Fähigkeiten frei."
+        },
+        {
+          "de": "Forderungen erfüllen",
+          "article": null,
+          "tr": "talepleri yerine getirmek",
+          "example_de": "Die Spieler müssen die Forderungen der Menge erfüllen."
+        },
+        {
+          "de": "ein Risiko eingehen",
+          "article": null,
+          "tr": "risk almak",
+          "example_de": "Im Spiel gehe ich lieber kein Risiko ein."
+        },
+        {
+          "de": "Belohnung",
+          "article": "die",
+          "tr": "ödül",
+          "example_de": "Für den Sieg gibt es eine Belohnung."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wann soll der DLC erscheinen?",
+          "options": [
+            "2025",
+            "noch 2026",
+            "2027"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was passiert, wenn man die Forderungen der Menge ignoriert?",
+          "options": [
+            "Die Menge wendet sich gegen einen.",
+            "Man bekommt Verstärkung.",
+            "Das Spiel endet sofort."
+          ],
+          "answer_index": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1918 @@
+{
+  "date": "2026-11-27",
+  "level": "original",
+  "facts": [
+    {
+      "de": "Kraken haben ein Hauptherz und zwei Kiemenherzen, also insgesamt drei Herzen.",
+      "tr": "Ahtapotların bir ana kalbi ve iki solungaç kalbi, yani toplam üç kalbi vardır.",
+      "source_url": "https://de.wikipedia.org/wiki/Kraken"
+    },
+    {
+      "de": "Das Brandenburger Tor in Berlin wurde zwischen 1789 und 1793 nach Entwürfen von Carl Gotthard Langhans gebaut.",
+      "tr": "Berlin'deki Brandenburg Kapısı, Carl Gotthard Langhans'ın çizimlerine göre 1789 ile 1793 arasında inşa edildi.",
+      "source_url": "https://de.wikipedia.org/wiki/Brandenburger_Tor"
+    },
+    {
+      "de": "Der Rhein ist etwa 1.233 Kilometer lang, entspringt in der Schweiz und mündet in die Nordsee.",
+      "tr": "Ren Nehri yaklaşık 1.233 kilometre uzunluğundadır, İsviçre'de doğar ve Kuzey Denizi'ne dökülür.",
+      "source_url": "https://de.wikipedia.org/wiki/Rhein"
+    }
+  ],
+  "idiom": {
+    "de": "Alles auf eine Karte setzen.",
+    "meaning_tr": "Tüm şansını tek bir seçeneğe bağlamak, büyük risk almak.",
+    "literal_tr": "Her şeyi tek bir kâğıda oynamak.",
+    "equivalent_tr": "Bütün yumurtaları aynı sepete koymak.",
+    "example_de": "Er hat alles auf eine Karte gesetzt und sein ganzes Geld in die Spielefirma investiert.",
+    "example_tr": "Her şeyini tek karta oynadı ve tüm parasını oyun şirketine yatırdı."
+  },
+  "reading": [
+    {
+      "type": "ana",
+      "text_de": "Viele Städte beklagen, dass abgestellte Leihroller Gehwege blockieren. Strengere Regeln scheinen daher naheliegend. Allerdings zeigt die Erfahrung, dass Verbote allein wenig bewirken, solange niemand kontrolliert, wo die Roller tatsächlich stehen. Wirksamer sind feste Abstellzonen, die per App überwacht werden und bei Verstößen Gebühren auslösen. Der Streit dreht sich also weniger um das Ob als um das Wie der Regulierung.",
+      "question_de": "Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?",
+      "options": [
+        "Leihroller sollten in Städten grundsätzlich verboten werden, weil sie Gehwege blockieren.",
+        "Strengere Regeln helfen nur, wenn ihre Einhaltung kontrolliert und Verstöße spürbar bestraft werden.",
+        "Feste Abstellzonen sind technisch zu aufwendig und deshalb keine realistische Lösung.",
+        "Städte sind sich uneinig, ob Leihroller überhaupt reguliert werden sollen."
+      ],
+      "answer_index": 1,
+      "explanation_tr": "Der Text betont, dass Regeln ohne Kontrolle und Sanktionen wenig bringen (B). A ist zu radikal und im Text nicht gefordert; D ist die auffälligste Falle, denn der Streit geht laut letztem Satz nicht um das „Ob“, sondern um das „Wie“."
+    },
+    {
+      "type": "cikarilamaz",
+      "text_de": "Eine Schulklasse testete eine Woche lang, ob sich Hausaufgaben besser nach dem Abendessen oder direkt nach dem Unterricht erledigen lassen. Zwar fühlten sich die meisten Schüler am Nachmittag fitter, doch die Fehlerquote unterschied sich kaum. Auffällig war vielmehr, dass diejenigen, die zwischendurch kurz an die frische Luft gingen, schneller fertig wurden. Die Lehrerin warnt jedoch davor, aus einer einzelnen Klasse allgemeine Regeln abzuleiten.",
+      "question_de": "Welche Aussage lässt sich aus dem Text NICHT ableiten?",
+      "options": [
+        "Das Gefühl, fitter zu sein, spiegelte sich nicht deutlich in weniger Fehlern wider.",
+        "Kurze Pausen im Freien standen mit schnellerem Arbeiten in Zusammenhang.",
+        "Die Lehrerin hält die Ergebnisse nicht ohne Weiteres für übertragbar.",
+        "Hausaufgaben am Nachmittag führen nachweislich zu besseren Noten."
+      ],
+      "answer_index": 3,
+      "explanation_tr": "Von Noten ist im Text nirgends die Rede, und die Fehlerquote war kaum verschieden; D ist daher nicht ableitbar. A, B und C stehen sinngemäß im Text; A ist der verlockendste Distraktor, weil er die Aussage zum Fitnessgefühl nur umformuliert."
+    },
+    {
+      "type": "bosluk",
+      "text_de": "Wer täglich stundenlang Videospiele spielt, gilt in der Öffentlichkeit schnell als Zeitverschwender. ___ Schnelle Reaktionen, Teamabsprachen und der Umgang mit Niederlagen werden dabei fast nebenbei trainiert. Natürlich ersetzt das kein Lernen für die Schule. Es zeigt aber, dass das Urteil über das Spielen oft zu pauschal ausfällt.",
+      "question_de": "Welcher Satz passt am besten in die Lücke (___)?",
+      "options": [
+        "Dabei übersieht man häufig, dass Spiele Fähigkeiten fördern können, die auch außerhalb des Bildschirms nützen.",
+        "Deshalb sollten Eltern die Spielzeit ihrer Kinder konsequent auf eine Stunde pro Tag begrenzen.",
+        "Tatsächlich verbringen Spieler ihre Zeit meist mit Aufgaben, die keinerlei Konzentration erfordern.",
+        "Außerdem ist belegt, dass Spieler bessere Schulnoten erzielen als Nichtspieler."
+      ],
+      "answer_index": 0,
+      "explanation_tr": "Der Satz nach der Lücke nennt trainierte Fähigkeiten, also muss die Lücke das Vorurteil relativieren (A). D passt nicht, weil der Text danach ausdrücklich sagt, dass Spielen das Lernen nicht ersetzt, und eine solche Behauptung nie aufstellt."
+    },
+    {
+      "type": "anlam",
+      "text_de": "Als die Bäckerei am Marktplatz ankündigte, nach 60 Jahren zu schließen, war der Andrang riesig. Plötzlich standen Leute Schlange, die seit Jahren nur noch im Supermarkt eingekauft hatten. Der Inhaber sah das mit gemischten Gefühlen: Die Regale leerten sich zwar schnell, doch ein Teil der Kundschaft zeigte erst Interesse, als es zu spät war. „Wer den Laden retten wollte, hätte früher kommen müssen“, sagte er trocken.",
+      "question_de": "Was meint der Inhaber mit „Wer den Laden retten wollte, hätte früher kommen müssen“?",
+      "options": [
+        "Die Bäckerei hat am Morgen zu spät geöffnet.",
+        "Die Kunden sollen sich künftig schon vor Ladenöffnung anstellen.",
+        "Die Kunden haben die Bäckerei nicht genug genutzt, als sie noch zu retten war.",
+        "Er ist froh, dass die Bäckerei nun endlich schließen kann."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "Der trockene Satz ist ein leiser Vorwurf: Wer jetzt Schlange steht, hätte früher regelmäßig einkaufen müssen (C). B und A nehmen „früher“ wörtlich als Uhrzeit, was die übliche Falle ist; D widerspricht den „gemischten Gefühlen“."
+    },
+    {
+      "type": "tutum",
+      "text_de": "Neue Smartphones bekommen jedes Jahr eine bessere Kamera, ein schnelleres Display und einen größeren Akku, zumindest verspricht das die Werbung. Wer ein drei Jahre altes Gerät neben das neueste Modell legt, erkennt im Alltag meist kaum einen Unterschied. Trotzdem tauschen viele Menschen ihr Handy lange vor dem ersten Defekt aus. Die Hersteller dürften sich über diese Kauflust freuen, die Umwelt eher weniger.",
+      "question_de": "Welche Haltung vertritt der Autor?",
+      "options": [
+        "Er begeistert sich uneingeschränkt für die jährlichen Neuerungen der Hersteller.",
+        "Er sieht den häufigen Gerätewechsel skeptisch, weil der Nutzen im Alltag gering ist.",
+        "Er lehnt Smartphones grundsätzlich ab und rät zum völligen Verzicht.",
+        "Er bleibt neutral und beschreibt lediglich die Verkaufsstrategie der Hersteller."
+      ],
+      "answer_index": 1,
+      "explanation_tr": "„Zumindest verspricht das die Werbung“ und der Schlusssatz zeigen eine skeptische Haltung (B). C übertreibt („grundsätzlich“, „völligen Verzicht“); D ist verlockend, aber der Text wertet deutlich, vor allem im letzten Satz."
+    }
+  ],
+  "items": [
+    {
+      "id": "2026-11-27-escooter-duesseldorf",
+      "category": "nrw",
+      "title_de": "Düsseldorf ordnet E-Scooter- und Pedelec-Sharing neu",
+      "summary_de": "Düsseldorf ordnet das Geschäft mit Leihrollern und Leihrädern neu. Die Stadt hat Konzessionen an die Anbieter Lime, Bolt und Voi vergeben, die am 1. Dezember starten und zunächst drei Jahre gelten. Bei der Auswahl zählten vor allem Konzepte zum Parkverhalten, zur Verkehrssicherheit, zur Flottensteuerung und zur Nachhaltigkeit. Die Firmen müssen falsch abgestellte Fahrzeuge innerhalb festgelegter Fristen wegräumen und Nutzerbeschwerden schneller bearbeiten. Zudem gelten Mindest- und Höchstquoten für die Flotte, damit die Fahrzeuge nicht nur in beliebten Vierteln stehen, und mindestens 15 Prozent müssen Pedelecs sein. Künstliche Intelligenz soll das Parkverhalten überwachen, außerdem müssen die Anbieter Nutzungsdaten mit der Stadt teilen. Akkus werden künftig mit emissionsfreien Fahrzeugen getauscht und transportiert. Laut Stadt nimmt Düsseldorf damit bundesweit eine Vorreiterrolle ein.",
+      "source_name": "Landeshauptstadt Düsseldorf (Pressedienst)",
+      "source_url": "https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/e-scooter-und-pedelec-sharing-neu-geregelt",
+      "glossary": [
+        {
+          "form": "Leihrollern",
+          "lemma": "Leihroller",
+          "article": "der",
+          "tr": "Kiralık scooter"
+        },
+        {
+          "form": "Konzessionen",
+          "lemma": "Konzession",
+          "article": "die",
+          "tr": "ruhsat, imtiyaz"
+        },
+        {
+          "form": "vergeben",
+          "lemma": "vergeben",
+          "article": null,
+          "tr": "vermek, tahsis etmek"
+        },
+        {
+          "form": "zunächst",
+          "lemma": "zunächst",
+          "article": null,
+          "tr": "önce, başlangıçta"
+        },
+        {
+          "form": "Parkverhalten",
+          "lemma": "Parkverhalten",
+          "article": "das",
+          "tr": "park etme davranışı"
+        },
+        {
+          "form": "Verkehrssicherheit",
+          "lemma": "Verkehrssicherheit",
+          "article": "die",
+          "tr": "trafik güvenliği"
+        },
+        {
+          "form": "Flottensteuerung",
+          "lemma": "Flottensteuerung",
+          "article": "die",
+          "tr": "filo yönetimi"
+        },
+        {
+          "form": "Nachhaltigkeit",
+          "lemma": "Nachhaltigkeit",
+          "article": "die",
+          "tr": "sürdürülebilirlik"
+        },
+        {
+          "form": "Fristen",
+          "lemma": "Frist",
+          "article": "die",
+          "tr": "süre, mühlet"
+        },
+        {
+          "form": "wegräumen",
+          "lemma": "wegräumen",
+          "article": null,
+          "tr": "kaldırmak"
+        },
+        {
+          "form": "Nutzerbeschwerden",
+          "lemma": "Nutzerbeschwerde",
+          "article": "die",
+          "tr": "kullanıcı şikâyetleri"
+        },
+        {
+          "form": "Höchstquoten",
+          "lemma": "Höchstquote",
+          "article": "die",
+          "tr": "azami kota"
+        },
+        {
+          "form": "überwachen",
+          "lemma": "überwachen",
+          "article": null,
+          "tr": "denetlemek"
+        },
+        {
+          "form": "Nutzungsdaten",
+          "lemma": "Nutzungsdaten",
+          "article": "die",
+          "tr": "kullanım verileri"
+        },
+        {
+          "form": "emissionsfreien",
+          "lemma": "emissionsfrei",
+          "article": null,
+          "tr": "emisyonsuz"
+        },
+        {
+          "form": "Vorreiterrolle",
+          "lemma": "Vorreiterrolle",
+          "article": "die",
+          "tr": "öncü rol"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Konzession vergeben",
+          "article": null,
+          "tr": "ruhsat vermek",
+          "example_de": "Die Stadt will die Konzession bald vergeben."
+        },
+        {
+          "de": "etwas überwachen",
+          "article": null,
+          "tr": "bir şeyi denetlemek",
+          "example_de": "Eine App soll das Parken überwachen."
+        },
+        {
+          "de": "Vorreiterrolle einnehmen",
+          "article": null,
+          "tr": "öncü rol üstlenmek",
+          "example_de": "Unsere Uni nimmt bei Solartechnik eine Vorreiterrolle ein."
+        },
+        {
+          "de": "Beschwerde",
+          "article": "die",
+          "tr": "şikâyet",
+          "example_de": "Ich habe eine Beschwerde an die Rheinbahn geschickt."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wann starten die Konzessionen in Düsseldorf?",
+          "options": [
+            "Am 1. Dezember",
+            "Am 1. Januar",
+            "Am 1. November"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „wegräumen“?",
+          "options": [
+            "etwas neu kaufen",
+            "etwas von einem Ort entfernen",
+            "etwas reparieren"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-essen-motor-show",
+      "category": "nrw",
+      "title_de": "Essen Motor Show feiert 25 Jahre „Fast & Furious“",
+      "summary_de": "In Essen läuft bis zum 6. Dezember die Motor Show, Deutschlands größte Messe für Tuning und Sportwagen. Die Veranstalter rechnen mit mehr als 200.000 Besuchern und über 500 Ausstellern; Skoda ist nach einem Jahr Pause wieder dabei. Ein Highlight ist eine Sonderschau mit 20 Originalautos aus der Filmreihe „Fast & Furious“, die in diesem Jahr 25 Jahre alt wird. Der Besitzer schätzt den Wert der Fahrzeuge auf 15 Millionen Euro, darunter ein getunter VW Jetta aus dem ersten Film. Dazu kommen mehr als 150 private Tuner, die vom Trabant mit 36 PS bis zum Lamborghini mit bis zu 1.500 PS alles zeigen. Auch Elektroautos von Tesla und Volkswagen sowie einige Premieren stehen auf dem Programm. Die Stimmung in der Autobranche ist wegen der Krise angespannt, doch auf der Messe steht die Leidenschaft im Vordergrund.",
+      "source_name": "web.de (dpa)",
+      "source_url": "https://web.de/magazine/regio/nordrhein-westfalen/essen-motor-show-feiert-ps-fest-furious-autos-42988874",
+      "glossary": [
+        {
+          "form": "Messe",
+          "lemma": "Messe",
+          "article": "die",
+          "tr": "fuar"
+        },
+        {
+          "form": "Sportwagen",
+          "lemma": "Sportwagen",
+          "article": "der",
+          "tr": "spor araba"
+        },
+        {
+          "form": "Veranstalter",
+          "lemma": "Veranstalter",
+          "article": "der",
+          "tr": "organizatör"
+        },
+        {
+          "form": "Besuchern",
+          "lemma": "Besucher",
+          "article": "der",
+          "tr": "ziyaretçiler"
+        },
+        {
+          "form": "Ausstellern",
+          "lemma": "Aussteller",
+          "article": "der",
+          "tr": "katılımcı firmalar"
+        },
+        {
+          "form": "Sonderschau",
+          "lemma": "Sonderschau",
+          "article": "die",
+          "tr": "özel sergi"
+        },
+        {
+          "form": "Originalautos",
+          "lemma": "Originalauto",
+          "article": "das",
+          "tr": "orijinal arabalar"
+        },
+        {
+          "form": "schätzt",
+          "lemma": "schätzen",
+          "article": null,
+          "tr": "tahmin etmek"
+        },
+        {
+          "form": "getunter",
+          "lemma": "getunt",
+          "article": null,
+          "tr": "modifiye edilmiş"
+        },
+        {
+          "form": "Tuner",
+          "lemma": "Tuner",
+          "article": "der",
+          "tr": "tuner, modifiye uzmanı"
+        },
+        {
+          "form": "Premieren",
+          "lemma": "Premiere",
+          "article": "die",
+          "tr": "prömiyer"
+        },
+        {
+          "form": "Autobranche",
+          "lemma": "Autobranche",
+          "article": "die",
+          "tr": "otomotiv sektörü"
+        },
+        {
+          "form": "angespannt",
+          "lemma": "angespannt",
+          "article": null,
+          "tr": "gergin"
+        },
+        {
+          "form": "Leidenschaft",
+          "lemma": "Leidenschaft",
+          "article": "die",
+          "tr": "tutku"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas schätzen auf",
+          "article": null,
+          "tr": "bir şeyi ... olarak değerlendirmek",
+          "example_de": "Man schätzt den Wert auf 5.000 Euro."
+        },
+        {
+          "de": "im Vordergrund stehen",
+          "article": null,
+          "tr": "ön planda olmak",
+          "example_de": "Bei mir steht der Spaß im Vordergrund."
+        },
+        {
+          "de": "Messe",
+          "article": "die",
+          "tr": "fuar",
+          "example_de": "Wir fahren am Samstag zur Messe."
+        },
+        {
+          "de": "Stimmung",
+          "article": "die",
+          "tr": "ruh hali, atmosfer",
+          "example_de": "Die Stimmung im Stadion war großartig."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Bis wann läuft die Essen Motor Show?",
+          "options": [
+            "Bis zum 6. Dezember",
+            "Bis zum 27. November",
+            "Bis Weihnachten"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was ist eine „Sonderschau“?",
+          "options": [
+            "eine gewöhnliche Werbung",
+            "eine besondere Ausstellung",
+            "ein Preisnachlass"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-helge-schneider",
+      "category": "nrw",
+      "title_de": "Helge Schneider kündigt Abschied von langen Tourneen an",
+      "summary_de": "Der Komiker und Musiker Helge Schneider hat in Köln seine Abschiedstournee angekündigt. Die Tour mit dem Titel „Der letzte Versuch!“ beginnt am 2. Februar 2027 in Recklinghausen. Der 71-Jährige sagt, es sei die letzte Tournee in dieser Größenordnung. Als Grund nennt er die Müdigkeit vom ständigen Reisen: Autobahnstaus, Raststätten und schlechte Hotels zehren an ihm, während die Konzerte selbst immer schön gewesen seien. Ganz von der Bühne verabschiedet er sich allerdings nicht. Seine Karnevalsauftritte in der Kölner Philharmonie, die er seit rund 30 Jahren spielt, will er fortsetzen. Außerdem sei ein neuer Film fast fertig, verrät er ohne weitere Details.",
+      "source_name": "web.de (dpa)",
+      "source_url": "https://web.de/magazine/regio/nordrhein-westfalen/helge-schneider-plant-abschied-langen-tourneen-42987358",
+      "glossary": [
+        {
+          "form": "Komiker",
+          "lemma": "Komiker",
+          "article": "der",
+          "tr": "komedyen"
+        },
+        {
+          "form": "Abschiedstournee",
+          "lemma": "Abschiedstournee",
+          "article": "die",
+          "tr": "veda turnesi"
+        },
+        {
+          "form": "angekündigt",
+          "lemma": "ankündigen",
+          "article": null,
+          "tr": "duyurmak"
+        },
+        {
+          "form": "Größenordnung",
+          "lemma": "Größenordnung",
+          "article": "die",
+          "tr": "ölçek, büyüklük"
+        },
+        {
+          "form": "Müdigkeit",
+          "lemma": "Müdigkeit",
+          "article": "die",
+          "tr": "yorgunluk"
+        },
+        {
+          "form": "Autobahnstaus",
+          "lemma": "Autobahnstau",
+          "article": "der",
+          "tr": "otoyol trafiği"
+        },
+        {
+          "form": "Raststätten",
+          "lemma": "Raststätte",
+          "article": "die",
+          "tr": "dinlenme tesisi"
+        },
+        {
+          "form": "zehren",
+          "lemma": "zehren",
+          "article": null,
+          "tr": "yıpratmak, tüketmek"
+        },
+        {
+          "form": "verabschiedet",
+          "lemma": "verabschieden",
+          "article": null,
+          "tr": "veda etmek"
+        },
+        {
+          "form": "Karnevalsauftritte",
+          "lemma": "Karnevalsauftritt",
+          "article": "der",
+          "tr": "karnaval gösterileri"
+        },
+        {
+          "form": "fortsetzen",
+          "lemma": "fortsetzen",
+          "article": null,
+          "tr": "sürdürmek"
+        },
+        {
+          "form": "Details",
+          "lemma": "Detail",
+          "article": "das",
+          "tr": "ayrıntılar"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "eine Tour ankündigen",
+          "article": null,
+          "tr": "turne duyurmak",
+          "example_de": "Die Band hat eine neue Tour angekündigt."
+        },
+        {
+          "de": "an jemandem zehren",
+          "article": null,
+          "tr": "birini yıpratmak",
+          "example_de": "Der Stress zehrt an mir."
+        },
+        {
+          "de": "sich verabschieden",
+          "article": null,
+          "tr": "veda etmek",
+          "example_de": "Ich verabschiede mich jetzt von euch."
+        },
+        {
+          "de": "Bühne",
+          "article": "die",
+          "tr": "sahne",
+          "example_de": "Er steht seit 40 Jahren auf der Bühne."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie heißt die geplante Tour?",
+          "options": [
+            "Der letzte Versuch!",
+            "Die große Reise",
+            "Abschied in Köln"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Warum will Schneider weniger touren?",
+          "options": [
+            "Er hat keine Fans mehr",
+            "Das ständige Reisen ermüdet ihn",
+            "Er zieht ins Ausland"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-fbi-ransomware",
+      "category": "de",
+      "title_de": "FBI stellt Betrügern eine Falle, die Ransomware-Opfern helfen wollten",
+      "summary_de": "Das FBI hat in den USA eine Firma enttarnt, die Opfern von Erpressungstrojanern Hilfe versprach und sie nach Darstellung der Ermittler betrog. Die Firma aus Florida warb damit, verschlüsselte Daten ohne Lösegeldzahlung wiederherzustellen. Tatsächlich soll sie die Erpresser bezahlt und die Differenz einbehalten haben. Im Juni zahlte ein verdeckter Ermittler, der ein Opfer spielte, mehr als 16.000 Dollar. Ein zweiter Agent gab sich als Erpressergruppe aus und bekam einen Teil des Geldes. Ein Unternehmen aus Kansas soll früher 720.000 Dollar gezahlt haben, von denen rund 445.000 bei den Erpressern landeten. Der angeklagte Mitgründer wurde im Oktober in Las Vegas festgenommen und ist inzwischen unter Auflagen frei; bis zu einem Urteil gilt die Unschuldsvermutung.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Betrug-an-Ransomware-Opfern-FBI-stellt-Doppelfalle-11539919.html",
+      "glossary": [
+        {
+          "form": "enttarnt",
+          "lemma": "enttarnen",
+          "article": null,
+          "tr": "maskesini düşürmek, ifşa etmek"
+        },
+        {
+          "form": "Erpressungstrojanern",
+          "lemma": "Erpressungstrojaner",
+          "article": "der",
+          "tr": "fidye truva atları"
+        },
+        {
+          "form": "Lösegeldzahlung",
+          "lemma": "Lösegeldzahlung",
+          "article": "die",
+          "tr": "fidye ödemesi"
+        },
+        {
+          "form": "wiederherzustellen",
+          "lemma": "wiederherstellen",
+          "article": null,
+          "tr": "geri yüklemek"
+        },
+        {
+          "form": "einbehalten",
+          "lemma": "einbehalten",
+          "article": null,
+          "tr": "alıkoymak"
+        },
+        {
+          "form": "verdeckter",
+          "lemma": "verdeckt",
+          "article": null,
+          "tr": "gizli"
+        },
+        {
+          "form": "Ermittler",
+          "lemma": "Ermittler",
+          "article": "der",
+          "tr": "soruşturmacı"
+        },
+        {
+          "form": "Erpressergruppe",
+          "lemma": "Erpressergruppe",
+          "article": "die",
+          "tr": "şantajcı grup"
+        },
+        {
+          "form": "Erpressern",
+          "lemma": "Erpresser",
+          "article": "der",
+          "tr": "şantajcılar"
+        },
+        {
+          "form": "Mitgründer",
+          "lemma": "Mitgründer",
+          "article": "der",
+          "tr": "ortak kurucu"
+        },
+        {
+          "form": "festgenommen",
+          "lemma": "festnehmen",
+          "article": null,
+          "tr": "gözaltına almak"
+        },
+        {
+          "form": "Auflagen",
+          "lemma": "Auflage",
+          "article": "die",
+          "tr": "şartlar (kontrollü serbestlik)"
+        },
+        {
+          "form": "Unschuldsvermutung",
+          "lemma": "Unschuldsvermutung",
+          "article": "die",
+          "tr": "masumiyet karinesi"
+        },
+        {
+          "form": "verschlüsselte",
+          "lemma": "verschlüsselt",
+          "article": null,
+          "tr": "şifrelenmiş"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Daten wiederherstellen",
+          "article": null,
+          "tr": "verileri geri yüklemek",
+          "example_de": "Ich konnte die Fotos wiederherstellen."
+        },
+        {
+          "de": "jemanden festnehmen",
+          "article": null,
+          "tr": "birini gözaltına almak",
+          "example_de": "Die Polizei hat den Mann festgenommen."
+        },
+        {
+          "de": "Lösegeld zahlen",
+          "article": null,
+          "tr": "fidye ödemek",
+          "example_de": "Die Firma wollte kein Lösegeld zahlen."
+        },
+        {
+          "de": "Opfer",
+          "article": "das",
+          "tr": "mağdur",
+          "example_de": "Das Opfer erstattete Anzeige."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was soll die Firma tatsächlich getan haben?",
+          "options": [
+            "Sie reparierte alle Daten kostenlos",
+            "Sie zahlte die Erpresser und behielt die Differenz",
+            "Sie meldete alle Fälle der Polizei"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „Unschuldsvermutung“?",
+          "options": [
+            "Jeder gilt bis zum Urteil als unschuldig",
+            "Der Angeklagte ist schuldig",
+            "Das Gericht ist unsicher"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-ezb-bargeld",
+      "category": "de",
+      "title_de": "Erstmals mehr Kartenzahlungen als Bargeld im Euroraum",
+      "summary_de": "Zum ersten Mal werden im Euroraum in Geschäften mehr Zahlungen mit Karte abgewickelt als mit Bargeld. Das zeigt eine Umfrage der Europäischen Zentralbank. Vor zehn Jahren machte Bargeld noch fast 80 Prozent der Zahlungen vor Ort aus, heute sind es 44 Prozent, während Karten auf 45 Prozent kommen. Deutschland bleibt allerdings ein Bargeldland: Nur hier, in Bulgarien und in Slowenien wird mehr als die Hälfte der Einkäufe im Laden bar bezahlt. Bei Zahlungen im Internet fällt auf, dass Deutsche selten per Karte zahlen, dafür aber häufig über Bezahldienste wie PayPal. Die Zentralbank räumt ein, dass die Ergebnisse auch an unterschiedlichen Erhebungsmethoden liegen können. In Deutschland führten die Teilnehmer drei Tage lang ein Tagebuch, anderswo wurde nur ein Tag erfasst.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/EZB-Umfrage-In-Geschaeften-im-Euroraum-wird-jetzt-oefter-digital-bezahlt-als-bar-11539429.html",
+      "glossary": [
+        {
+          "form": "Euroraum",
+          "lemma": "Euroraum",
+          "article": "der",
+          "tr": "euro bölgesi"
+        },
+        {
+          "form": "abgewickelt",
+          "lemma": "abwickeln",
+          "article": null,
+          "tr": "gerçekleştirmek, işlemek"
+        },
+        {
+          "form": "Umfrage",
+          "lemma": "Umfrage",
+          "article": "die",
+          "tr": "anket"
+        },
+        {
+          "form": "Zentralbank",
+          "lemma": "Zentralbank",
+          "article": "die",
+          "tr": "merkez bankası"
+        },
+        {
+          "form": "Bargeld",
+          "lemma": "Bargeld",
+          "article": "das",
+          "tr": "nakit"
+        },
+        {
+          "form": "Bezahldienste",
+          "lemma": "Bezahldienst",
+          "article": "der",
+          "tr": "ödeme servisleri"
+        },
+        {
+          "form": "räumt",
+          "lemma": "einräumen",
+          "article": null,
+          "tr": "kabul etmek"
+        },
+        {
+          "form": "Erhebungsmethoden",
+          "lemma": "Erhebungsmethode",
+          "article": "die",
+          "tr": "veri toplama yöntemleri"
+        },
+        {
+          "form": "Teilnehmer",
+          "lemma": "Teilnehmer",
+          "article": "der",
+          "tr": "katılımcılar"
+        },
+        {
+          "form": "erfasst",
+          "lemma": "erfassen",
+          "article": null,
+          "tr": "kaydetmek"
+        },
+        {
+          "form": "Tagebuch",
+          "lemma": "Tagebuch",
+          "article": "das",
+          "tr": "günlük"
+        },
+        {
+          "form": "unterschiedlichen",
+          "lemma": "unterschiedlich",
+          "article": null,
+          "tr": "farklı"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "bar bezahlen",
+          "article": null,
+          "tr": "nakit ödemek",
+          "example_de": "Im Café kann man nur bar bezahlen."
+        },
+        {
+          "de": "mit Karte zahlen",
+          "article": null,
+          "tr": "kartla ödemek",
+          "example_de": "Ich zahle meistens mit Karte."
+        },
+        {
+          "de": "etwas einräumen",
+          "article": null,
+          "tr": "bir şeyi kabul etmek",
+          "example_de": "Er räumte seinen Fehler ein."
+        },
+        {
+          "de": "Umfrage",
+          "article": "die",
+          "tr": "anket",
+          "example_de": "Die Umfrage lief eine Woche."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie hoch ist der Bargeldanteil im Euroraum laut Umfrage?",
+          "options": [
+            "44 Prozent",
+            "80 Prozent",
+            "12 Prozent"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „einräumen“?",
+          "options": [
+            "verstecken",
+            "zugeben",
+            "verbieten"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-porsche-boxster-elektro",
+      "category": "tech",
+      "title_de": "Elektrischer Porsche Boxster: erste Testfahrt mit dem Prototyp",
+      "summary_de": "Porsche arbeitet am ersten vollelektrischen Roadster der Marke. Ein Testfahrer konnte den Prototyp des 718 Boxster bereits fahren, rund ein halbes Jahr vor der Weltpremiere. Der Wagen leistet mehr als 500 PS und ist damit der stärkste Boxster der 30-jährigen Geschichte. Berichten zufolge soll er in weniger als drei Sekunden auf Tempo 100 beschleunigen und über 250 km/h schnell sein. Die Batterie sitzt hinter den Sitzen, wo früher der Motor stand, und senkt dadurch die Sitzposition. Wie beim Taycan simuliert ein virtuelles Getriebe Schaltvorgänge, und aus Lautsprechern erklingt ein künstlicher Sechszylinder-Klang. Offizielle Angaben zu Akku und Reichweite fehlen noch; die Auslieferung soll in etwa einem Jahr beginnen, der Preis voraussichtlich unter 100.000 Euro liegen.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/26/porsche-boxster-unter-strom-erste-testfahrt-mit-dem-prototyp/",
+      "glossary": [
+        {
+          "form": "vollelektrischen",
+          "lemma": "vollelektrisch",
+          "article": null,
+          "tr": "tamamen elektrikli"
+        },
+        {
+          "form": "Roadster",
+          "lemma": "Roadster",
+          "article": "der",
+          "tr": "üstü açık spor araba"
+        },
+        {
+          "form": "Prototyp",
+          "lemma": "Prototyp",
+          "article": "der",
+          "tr": "prototip"
+        },
+        {
+          "form": "Weltpremiere",
+          "lemma": "Weltpremiere",
+          "article": "die",
+          "tr": "dünya prömiyeri"
+        },
+        {
+          "form": "beschleunigen",
+          "lemma": "beschleunigen",
+          "article": null,
+          "tr": "hızlanmak"
+        },
+        {
+          "form": "Sitzposition",
+          "lemma": "Sitzposition",
+          "article": "die",
+          "tr": "oturma pozisyonu"
+        },
+        {
+          "form": "simuliert",
+          "lemma": "simulieren",
+          "article": null,
+          "tr": "simüle etmek"
+        },
+        {
+          "form": "Schaltvorgänge",
+          "lemma": "Schaltvorgang",
+          "article": "der",
+          "tr": "vites değiştirme işlemleri"
+        },
+        {
+          "form": "erklingt",
+          "lemma": "erklingen",
+          "article": null,
+          "tr": "duyulmak, çınlamak"
+        },
+        {
+          "form": "künstlicher",
+          "lemma": "künstlich",
+          "article": null,
+          "tr": "yapay"
+        },
+        {
+          "form": "Reichweite",
+          "lemma": "Reichweite",
+          "article": "die",
+          "tr": "menzil"
+        },
+        {
+          "form": "Auslieferung",
+          "lemma": "Auslieferung",
+          "article": "die",
+          "tr": "teslimat"
+        },
+        {
+          "form": "Lautsprechern",
+          "lemma": "Lautsprecher",
+          "article": "der",
+          "tr": "hoparlör"
+        },
+        {
+          "form": "voraussichtlich",
+          "lemma": "voraussichtlich",
+          "article": null,
+          "tr": "tahminen"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "auf Tempo 100 beschleunigen",
+          "article": null,
+          "tr": "100 km/s hıza çıkmak",
+          "example_de": "Der Wagen beschleunigt schnell auf Tempo 100."
+        },
+        {
+          "de": "Reichweite",
+          "article": "die",
+          "tr": "menzil",
+          "example_de": "Die Reichweite reicht für die Stadt."
+        },
+        {
+          "de": "die Auslieferung beginnt",
+          "article": null,
+          "tr": "teslimat başlar",
+          "example_de": "Im Frühjahr beginnt die Auslieferung."
+        },
+        {
+          "de": "Prototyp",
+          "article": "der",
+          "tr": "prototip",
+          "example_de": "Der Prototyp wurde auf der Teststrecke gefahren."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wo sitzt die Batterie des E-Boxsters?",
+          "options": [
+            "Hinter den Sitzen",
+            "Im Kofferraum vorne",
+            "Auf dem Dach"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „Auslieferung“?",
+          "options": [
+            "Übergabe an die Kunden",
+            "Preiserhöhung",
+            "Test auf der Straße"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-intel-nova-lake",
+      "category": "tech",
+      "title_de": "Intel Nova Lake: Spezifikationen der nächsten Desktop-Prozessoren",
+      "summary_de": "Intel bereitet die nächste Generation von Desktop-Prozessoren mit dem Codenamen Nova Lake vor. Nach Medienberichten sollen zum Start sieben Modelle erscheinen, drei davon als Konkurrenz zu AMDs Ryzen-Chips mit besonders großem Zwischenspeicher. Das Spitzenmodell Core Ultra 9 4970K BFC soll 28 Kerne haben, darunter 8 Performance- und 16 Effizienzkerne, dazu 144 Megabyte L3-Cache. Die Taktfrequenz soll bis zu 5,5 Gigahertz erreichen, doch diese Werte stammen von Vorserienmustern und können sich noch ändern. Alle sieben Modelle sollen schnellen DDR5-Speicher bis 8000 unterstützen. Vorgestellt werden könnten die Chips Ende Februar 2027, im Handel dürften sie ab März erhältlich sein. Später sind Varianten mit zwei Chiplets und bis zu 52 Kernen zu erwarten.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Nova-Lake-Spezifikationen-der-naechsten-Intel-Desktop-Prozessoren-11539221.html",
+      "glossary": [
+        {
+          "form": "Prozessoren",
+          "lemma": "Prozessor",
+          "article": "der",
+          "tr": "işlemciler"
+        },
+        {
+          "form": "Codenamen",
+          "lemma": "Codename",
+          "article": "der",
+          "tr": "kod adı"
+        },
+        {
+          "form": "Konkurrenz",
+          "lemma": "Konkurrenz",
+          "article": "die",
+          "tr": "rakip, rekabet"
+        },
+        {
+          "form": "Zwischenspeicher",
+          "lemma": "Zwischenspeicher",
+          "article": "der",
+          "tr": "önbellek"
+        },
+        {
+          "form": "Spitzenmodell",
+          "lemma": "Spitzenmodell",
+          "article": "das",
+          "tr": "amiral gemisi model"
+        },
+        {
+          "form": "Kerne",
+          "lemma": "Kern",
+          "article": "der",
+          "tr": "çekirdekler"
+        },
+        {
+          "form": "Effizienzkerne",
+          "lemma": "Effizienzkern",
+          "article": "der",
+          "tr": "verimlilik çekirdekleri"
+        },
+        {
+          "form": "Taktfrequenz",
+          "lemma": "Taktfrequenz",
+          "article": "die",
+          "tr": "saat frekansı"
+        },
+        {
+          "form": "Vorserienmustern",
+          "lemma": "Vorserienmuster",
+          "article": "das",
+          "tr": "seri öncesi numuneler"
+        },
+        {
+          "form": "unterstützen",
+          "lemma": "unterstützen",
+          "article": null,
+          "tr": "desteklemek"
+        },
+        {
+          "form": "erhältlich",
+          "lemma": "erhältlich",
+          "article": null,
+          "tr": "satın alınabilir"
+        },
+        {
+          "form": "Varianten",
+          "lemma": "Variante",
+          "article": "die",
+          "tr": "varyantlar"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "im Handel erhältlich sein",
+          "article": null,
+          "tr": "piyasada satışta olmak",
+          "example_de": "Das Handy ist ab Montag im Handel erhältlich."
+        },
+        {
+          "de": "zur Konkurrenz stehen",
+          "article": null,
+          "tr": "rakip olmak",
+          "example_de": "Die neuen Chips stehen in Konkurrenz zu AMD."
+        },
+        {
+          "de": "Werte stammen von",
+          "article": null,
+          "tr": "değerler ...'dan geliyor",
+          "example_de": "Die Werte stammen von einem Testgerät."
+        },
+        {
+          "de": "Prozessor",
+          "article": "der",
+          "tr": "işlemci",
+          "example_de": "Mein Prozessor wird beim Spielen heiß."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Modelle sollen zum Start erscheinen?",
+          "options": [
+            "Sieben",
+            "Drei",
+            "Zwölf"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was ist ein „Zwischenspeicher“ im Text?",
+          "options": [
+            "ein Cache",
+            "ein Kabel",
+            "ein Lüfter"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-alpecin-haarausfall",
+      "category": "health",
+      "title_de": "Alpecin gegen Haarausfall: Wirkung laut Quarks nicht belegt",
+      "summary_de": "Der Shampoo-Hersteller Alpecin wirbt damit, dass sein Wirkstoff Dimethylglycin gegen erblich bedingten Haarausfall hilft. Die Wissenschaftsredaktion Quarks hat sich die Studienlage angesehen und kommt zu dem Schluss, dass die Wirkung nicht belegt ist. Ein großer Teil der Belege stammt aus Zellkulturen, deren Ergebnisse sich nicht einfach auf die menschliche Kopfhaut übertragen lassen. Die beiden kleinen Studien am Menschen umfassten jeweils nur 77 Personen, und die Produkte enthielten zusätzlich Koffein, sodass der Effekt nicht eindeutig dem Wirkstoff zuzuordnen ist. Hinzu kommt, dass der Hersteller die Untersuchungen finanziert hat und einige Autoren für ihn arbeiten oder gearbeitet haben. Unabhängige Studien zu den Produkten gibt es bisher nicht. Eine Hautärztin der Charité betont, ein Wirkstoff müsse seine Wirkung zuerst in guten Studien zeigen.",
+      "source_name": "Quarks",
+      "source_url": "https://www.quarks.de/gesundheit/alpecin-wirkung-gegen-haarausfall/",
+      "glossary": [
+        {
+          "form": "Wirkstoff",
+          "lemma": "Wirkstoff",
+          "article": "der",
+          "tr": "etken madde"
+        },
+        {
+          "form": "erblich bedingten",
+          "lemma": "erblich bedingt",
+          "article": null,
+          "tr": "kalıtsal kaynaklı"
+        },
+        {
+          "form": "Haarausfall",
+          "lemma": "Haarausfall",
+          "article": "der",
+          "tr": "saç dökülmesi"
+        },
+        {
+          "form": "Studienlage",
+          "lemma": "Studienlage",
+          "article": "die",
+          "tr": "araştırma durumu"
+        },
+        {
+          "form": "belegt",
+          "lemma": "belegen",
+          "article": null,
+          "tr": "kanıtlamak"
+        },
+        {
+          "form": "Zellkulturen",
+          "lemma": "Zellkultur",
+          "article": "die",
+          "tr": "hücre kültürleri"
+        },
+        {
+          "form": "übertragen",
+          "lemma": "übertragen",
+          "article": null,
+          "tr": "aktarmak"
+        },
+        {
+          "form": "Kopfhaut",
+          "lemma": "Kopfhaut",
+          "article": "die",
+          "tr": "kafa derisi"
+        },
+        {
+          "form": "Koffein",
+          "lemma": "Koffein",
+          "article": "das",
+          "tr": "kafein"
+        },
+        {
+          "form": "eindeutig",
+          "lemma": "eindeutig",
+          "article": null,
+          "tr": "kesin"
+        },
+        {
+          "form": "zuzuordnen",
+          "lemma": "zuordnen",
+          "article": null,
+          "tr": "atfetmek"
+        },
+        {
+          "form": "finanziert",
+          "lemma": "finanzieren",
+          "article": null,
+          "tr": "finanse etmek"
+        },
+        {
+          "form": "Untersuchungen",
+          "lemma": "Untersuchung",
+          "article": "die",
+          "tr": "incelemeler"
+        },
+        {
+          "form": "Unabhängige",
+          "lemma": "unabhängig",
+          "article": null,
+          "tr": "bağımsız"
+        },
+        {
+          "form": "betont",
+          "lemma": "betonen",
+          "article": null,
+          "tr": "vurgulamak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas belegen",
+          "article": null,
+          "tr": "bir şeyi kanıtlamak",
+          "example_de": "Die Studie belegt den Effekt nicht."
+        },
+        {
+          "de": "zu dem Schluss kommen",
+          "article": null,
+          "tr": "sonuca varmak",
+          "example_de": "Sie kamen zu dem Schluss, dass es nicht reicht."
+        },
+        {
+          "de": "auf etwas übertragen",
+          "article": null,
+          "tr": "bir şeye aktarmak",
+          "example_de": "Das lässt sich nicht auf Menschen übertragen."
+        },
+        {
+          "de": "Wirkung",
+          "article": "die",
+          "tr": "etki",
+          "example_de": "Die Wirkung setzt nach einer Stunde ein."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was zeigt die Studienlage laut Quarks?",
+          "options": [
+            "Die Wirkung ist nicht belegt",
+            "Die Wirkung ist bewiesen",
+            "Das Mittel ist gefährlich"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „unabhängige Studien“?",
+          "options": [
+            "Studien ohne Verbindung zum Hersteller",
+            "sehr teure Studien",
+            "Studien nur an Tieren"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-vitamin-c-erkaeltung",
+      "category": "health",
+      "title_de": "Vitamin C gegen Erkältung: Was bringt es wirklich?",
+      "summary_de": "Vitamin C gilt vielen als Standardmittel gegen Erkältung, doch was sagt die Forschung dazu? Der Mythos geht auf den Chemiker Linus Pauling zurück, der 1970 hohe Dosen empfahl. Eine Übersichtsarbeit der Cochrane-Gruppe aus dem Jahr 2013 wertete rund 30 Studien mit etwa 11.000 Teilnehmern aus. Danach beugt eine regelmäßige Einnahme Erkältungen nicht vor, kann sie aber leicht verkürzen, bei Erwachsenen um etwa acht und bei Kindern um etwa 14 Prozent. Wer erst mit den ersten Symptomen beginnt, profitiert dagegen kaum. Nur bei Menschen unter extremer körperlicher Belastung, etwa Marathonläufern, war das Risiko in kleinen Studien halbiert, was sich nicht auf den Alltag übertragen lässt. Fachleute weisen zudem darauf hin, dass sehr hohe Mengen Durchfall auslösen können und ein Mangel in Deutschland selten ist.",
+      "source_name": "Quarks",
+      "source_url": "https://www.quarks.de/gesundheit/vitamin-c-erkaeltungen-evidenz/",
+      "glossary": [
+        {
+          "form": "Erkältung",
+          "lemma": "Erkältung",
+          "article": "die",
+          "tr": "soğuk algınlığı"
+        },
+        {
+          "form": "Mythos",
+          "lemma": "Mythos",
+          "article": "der",
+          "tr": "mit, efsane"
+        },
+        {
+          "form": "Übersichtsarbeit",
+          "lemma": "Übersichtsarbeit",
+          "article": "die",
+          "tr": "derleme çalışma"
+        },
+        {
+          "form": "wertete",
+          "lemma": "auswerten",
+          "article": null,
+          "tr": "değerlendirmek"
+        },
+        {
+          "form": "Teilnehmern",
+          "lemma": "Teilnehmer",
+          "article": "der",
+          "tr": "katılımcılar"
+        },
+        {
+          "form": "beugt",
+          "lemma": "vorbeugen",
+          "article": null,
+          "tr": "önlemek"
+        },
+        {
+          "form": "Einnahme",
+          "lemma": "Einnahme",
+          "article": "die",
+          "tr": "kullanım, alım"
+        },
+        {
+          "form": "verkürzen",
+          "lemma": "verkürzen",
+          "article": null,
+          "tr": "kısaltmak"
+        },
+        {
+          "form": "Symptomen",
+          "lemma": "Symptom",
+          "article": "das",
+          "tr": "belirtiler"
+        },
+        {
+          "form": "profitiert",
+          "lemma": "profitieren",
+          "article": null,
+          "tr": "fayda sağlamak"
+        },
+        {
+          "form": "Belastung",
+          "lemma": "Belastung",
+          "article": "die",
+          "tr": "yüklenme, zorlanma"
+        },
+        {
+          "form": "Marathonläufern",
+          "lemma": "Marathonläufer",
+          "article": "der",
+          "tr": "maraton koşucuları"
+        },
+        {
+          "form": "übertragen",
+          "lemma": "übertragen",
+          "article": null,
+          "tr": "aktarmak"
+        },
+        {
+          "form": "Durchfall",
+          "lemma": "Durchfall",
+          "article": "der",
+          "tr": "ishal"
+        },
+        {
+          "form": "auslösen",
+          "lemma": "auslösen",
+          "article": null,
+          "tr": "tetiklemek"
+        },
+        {
+          "form": "Mangel",
+          "lemma": "Mangel",
+          "article": "der",
+          "tr": "eksiklik"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einer Erkältung vorbeugen",
+          "article": null,
+          "tr": "soğuk algınlığını önlemek",
+          "example_de": "Viel Schlaf beugt einer Erkältung vor."
+        },
+        {
+          "de": "von etwas profitieren",
+          "article": null,
+          "tr": "bir şeyden yarar sağlamak",
+          "example_de": "Ich profitiere vom Studentenrabatt."
+        },
+        {
+          "de": "Studien auswerten",
+          "article": null,
+          "tr": "araştırmaları değerlendirmek",
+          "example_de": "Die Forscher werten die Daten aus."
+        },
+        {
+          "de": "Mangel",
+          "article": "der",
+          "tr": "eksiklik",
+          "example_de": "Ein Mangel an Schlaf macht müde."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ergab die Cochrane-Auswertung zur regelmäßigen Einnahme?",
+          "options": [
+            "Sie beugt Erkältungen nicht vor",
+            "Sie verhindert jede Erkältung",
+            "Sie verlängert die Erkältung"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „verkürzen“?",
+          "options": [
+            "kürzer machen",
+            "länger machen",
+            "stoppen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-zeus-kehrt-zu-t1-zurueck",
+      "category": "gaming",
+      "title_de": "LoL: Weltmeister-Toplaner Zeus kehrt zu T1 zurück",
+      "summary_de": "Im League-of-Legends-Profibereich gibt es einen Wechsel, über den sich viele Fans freuen: Toplaner Zeus kehrt zu T1 zurück. Das Team von Superstar Faker hat die Rückkehr auf X bekanntgegeben, der Vertrag soll bis 2029 laufen. Zeus holte mit T1 in den Jahren 2023 und 2024 zwei Weltmeistertitel, bevor er im November 2024 zum Rivalen Hanwha Life Esports ging. Dort gewann er unter anderem den LCK Cup 2025. Sein Vorgänger Doran verlässt T1 dagegen und wechselt zu Dplus Kia. T1 war zuletzt im Halbfinale der Weltmeisterschaft 2026 ausgeschieden, nun soll die Rückholaktion das Team wieder stärken. In der Community fallen die Reaktionen größtenteils positiv aus, viele loben, wie gereift Zeus in der Zwischenzeit wirkt.",
+      "source_name": "MeinMMO",
+      "source_url": "https://mein-mmo.de/t1-toplaner-kehrt-zurueck/",
+      "glossary": [
+        {
+          "form": "Profibereich",
+          "lemma": "Profibereich",
+          "article": "der",
+          "tr": "profesyonel alan"
+        },
+        {
+          "form": "Wechsel",
+          "lemma": "Wechsel",
+          "article": "der",
+          "tr": "transfer, değişim"
+        },
+        {
+          "form": "Rückkehr",
+          "lemma": "Rückkehr",
+          "article": "die",
+          "tr": "geri dönüş"
+        },
+        {
+          "form": "bekanntgegeben",
+          "lemma": "bekanntgeben",
+          "article": null,
+          "tr": "duyurmak"
+        },
+        {
+          "form": "Vertrag",
+          "lemma": "Vertrag",
+          "article": "der",
+          "tr": "sözleşme"
+        },
+        {
+          "form": "Weltmeistertitel",
+          "lemma": "Weltmeistertitel",
+          "article": "der",
+          "tr": "dünya şampiyonluğu"
+        },
+        {
+          "form": "Rivalen",
+          "lemma": "Rivale",
+          "article": "der",
+          "tr": "rakip"
+        },
+        {
+          "form": "Vorgänger",
+          "lemma": "Vorgänger",
+          "article": "der",
+          "tr": "selef"
+        },
+        {
+          "form": "verlässt",
+          "lemma": "verlassen",
+          "article": null,
+          "tr": "ayrılmak"
+        },
+        {
+          "form": "Halbfinale",
+          "lemma": "Halbfinale",
+          "article": "das",
+          "tr": "yarı final"
+        },
+        {
+          "form": "ausgeschieden",
+          "lemma": "ausscheiden",
+          "article": null,
+          "tr": "elenmek"
+        },
+        {
+          "form": "Rückholaktion",
+          "lemma": "Rückholaktion",
+          "article": "die",
+          "tr": "geri getirme hamlesi"
+        },
+        {
+          "form": "loben",
+          "lemma": "loben",
+          "article": null,
+          "tr": "övmek"
+        },
+        {
+          "form": "gereift",
+          "lemma": "reifen",
+          "article": null,
+          "tr": "olgunlaşmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen Vertrag unterschreiben",
+          "article": null,
+          "tr": "sözleşme imzalamak",
+          "example_de": "Er hat gestern den Vertrag unterschrieben."
+        },
+        {
+          "de": "im Halbfinale ausscheiden",
+          "article": null,
+          "tr": "yarı finalde elenmek",
+          "example_de": "Das Team schied im Halbfinale aus."
+        },
+        {
+          "de": "zu einem Team wechseln",
+          "article": null,
+          "tr": "bir takıma geçmek",
+          "example_de": "Sie wechselt zu einem anderen Verein."
+        },
+        {
+          "de": "Rückkehr",
+          "article": "die",
+          "tr": "geri dönüş",
+          "example_de": "Die Rückkehr des Stars freut die Fans."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Zu welchem Team kehrt Zeus zurück?",
+          "options": [
+            "T1",
+            "Hanwha Life Esports",
+            "Dplus Kia"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „ausgeschieden“?",
+          "options": [
+            "nicht mehr im Wettbewerb",
+            "Turniersieger",
+            "verletzt"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-diablo4-season-16",
+      "category": "gaming",
+      "title_de": "Diablo 4 Season 16 startet am 1. Dezember",
+      "summary_de": "Blizzard startet am 1. Dezember um 18:30 Uhr deutscher Zeit die Season 16 von Diablo 4. Der Patch lässt sich ab dem 30. November vorab herunterladen. Unter dem Motto „Tyraels Wagnis“ schließen sich die Spieler dem Erzengel an, um einen Todeskult daran zu hindern, das Heiligtum zu übernehmen. Zwei neue Kriegspläne werden dauerhaft Teil des Spiels und beeinflussen unter anderem, welche Aktivitäten häufiger auftauchen und welche Belohnungen es gibt. Hinzu kommen Horadrim-Items, die den Effekt von Talisman-Sets verändern. Bei den Höllenfluten läuft künftig ständig irgendwo eine, und die Anomale Glut wird auf 5.000 begrenzt. Welche Klassen am stärksten sind, bewertet nur ein einzelner Experte: Zauberer und Paladin gelten demnach als besonders stark, Nekromanten wurden dagegen abgeschwächt.",
+      "source_name": "MeinMMO",
+      "source_url": "https://mein-mmo.de/diablo-4-season-16-alle-infos-start-inhalte/",
+      "glossary": [
+        {
+          "form": "vorab",
+          "lemma": "vorab",
+          "article": null,
+          "tr": "önceden"
+        },
+        {
+          "form": "herunterladen",
+          "lemma": "herunterladen",
+          "article": null,
+          "tr": "indirmek"
+        },
+        {
+          "form": "Wagnis",
+          "lemma": "Wagnis",
+          "article": "das",
+          "tr": "cesur girişim"
+        },
+        {
+          "form": "Todeskult",
+          "lemma": "Todeskult",
+          "article": "der",
+          "tr": "ölüm tarikatı"
+        },
+        {
+          "form": "Heiligtum",
+          "lemma": "Heiligtum",
+          "article": "das",
+          "tr": "kutsal yer"
+        },
+        {
+          "form": "Kriegspläne",
+          "lemma": "Kriegsplan",
+          "article": "der",
+          "tr": "savaş planları"
+        },
+        {
+          "form": "dauerhaft",
+          "lemma": "dauerhaft",
+          "article": null,
+          "tr": "kalıcı"
+        },
+        {
+          "form": "beeinflussen",
+          "lemma": "beeinflussen",
+          "article": null,
+          "tr": "etkilemek"
+        },
+        {
+          "form": "Belohnungen",
+          "lemma": "Belohnung",
+          "article": "die",
+          "tr": "ödüller"
+        },
+        {
+          "form": "Höllenfluten",
+          "lemma": "Höllenflut",
+          "article": "die",
+          "tr": "cehennem akınları"
+        },
+        {
+          "form": "begrenzt",
+          "lemma": "begrenzen",
+          "article": null,
+          "tr": "sınırlamak"
+        },
+        {
+          "form": "bewertet",
+          "lemma": "bewerten",
+          "article": null,
+          "tr": "değerlendirmek"
+        },
+        {
+          "form": "Experte",
+          "lemma": "Experte",
+          "article": "der",
+          "tr": "uzman"
+        },
+        {
+          "form": "abgeschwächt",
+          "lemma": "abschwächen",
+          "article": null,
+          "tr": "zayıflatmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas vorab herunterladen",
+          "article": null,
+          "tr": "bir şeyi önceden indirmek",
+          "example_de": "Ich lade das Update schon vorab herunter."
+        },
+        {
+          "de": "dauerhaft bleiben",
+          "article": null,
+          "tr": "kalıcı olmak",
+          "example_de": "Die Änderung bleibt dauerhaft."
+        },
+        {
+          "de": "Belohnung",
+          "article": "die",
+          "tr": "ödül",
+          "example_de": "Für den Boss gibt es eine große Belohnung."
+        },
+        {
+          "de": "etwas abschwächen",
+          "article": null,
+          "tr": "bir şeyi zayıflatmak",
+          "example_de": "Die Entwickler schwächen die Klasse ab."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wann startet Season 16?",
+          "options": [
+            "Am 1. Dezember",
+            "Am 27. November",
+            "Am 15. Januar"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „dauerhaft“?",
+          "options": [
+            "nur kurz",
+            "für immer bzw. lange",
+            "selten"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-wow-forever-level-60",
+      "category": "gaming",
+      "title_de": "WoW Forever: Erst etwa 3 Prozent haben Stufe 60 erreicht",
+      "summary_de": "World of Warcraft Forever, Blizzards langsamere Version des frühen WoW, läuft seit fast drei Wochen, und die Zahlen zeigen: Kaum jemand sprintet zur Maximalstufe. Laut Daten von raider.io haben erst etwas mehr als 3 Prozent der aktiven Charaktere Stufe 60 erreicht, das sind rund 243.000 von knapp 7,6 Millionen. Im modernen WoW schaffen Spieler das teils in etwa einer Woche. Der Autor nennt zwei Gründe für das Tempo: Wer mogelt oder Fehler im Spiel ausnutzt, riskiert langfristig seinen Account, die legalen Methoden sind dagegen mühsam. Als Beispiel führt er das Farmen mit einem Frostmagier an, das zwar effizient, aber ermüdend sei. Die Zahlen sind allerdings nur Näherungswerte, denn chinesische Charaktere fehlen und neu erstellte Figuren werden nicht zuverlässig erfasst. Zweitcharaktere, die früh liegenbleiben, verzerren das Bild zusätzlich.",
+      "source_name": "MeinMMO",
+      "source_url": "https://mein-mmo.de/wow-forver-die-langsamkeit-funktioniert-erst-3-sind-auf-level-60/",
+      "glossary": [
+        {
+          "form": "sprintet",
+          "lemma": "sprinten",
+          "article": null,
+          "tr": "koşmak, hızla ilerlemek"
+        },
+        {
+          "form": "Maximalstufe",
+          "lemma": "Maximalstufe",
+          "article": "die",
+          "tr": "maksimum seviye"
+        },
+        {
+          "form": "aktiven",
+          "lemma": "aktiv",
+          "article": null,
+          "tr": "aktif"
+        },
+        {
+          "form": "Charaktere",
+          "lemma": "Charakter",
+          "article": "der",
+          "tr": "karakterler"
+        },
+        {
+          "form": "Tempo",
+          "lemma": "Tempo",
+          "article": "das",
+          "tr": "hız"
+        },
+        {
+          "form": "mogelt",
+          "lemma": "mogeln",
+          "article": null,
+          "tr": "hile yapmak"
+        },
+        {
+          "form": "ausnutzt",
+          "lemma": "ausnutzen",
+          "article": null,
+          "tr": "istismar etmek"
+        },
+        {
+          "form": "riskiert",
+          "lemma": "riskieren",
+          "article": null,
+          "tr": "riske atmak"
+        },
+        {
+          "form": "langfristig",
+          "lemma": "langfristig",
+          "article": null,
+          "tr": "uzun vadede"
+        },
+        {
+          "form": "mühsam",
+          "lemma": "mühsam",
+          "article": null,
+          "tr": "zahmetli"
+        },
+        {
+          "form": "effizient",
+          "lemma": "effizient",
+          "article": null,
+          "tr": "verimli"
+        },
+        {
+          "form": "ermüdend",
+          "lemma": "ermüdend",
+          "article": null,
+          "tr": "yorucu"
+        },
+        {
+          "form": "Näherungswerte",
+          "lemma": "Näherungswert",
+          "article": "der",
+          "tr": "yaklaşık değerler"
+        },
+        {
+          "form": "erfasst",
+          "lemma": "erfassen",
+          "article": null,
+          "tr": "kaydetmek"
+        },
+        {
+          "form": "verzerren",
+          "lemma": "verzerren",
+          "article": null,
+          "tr": "çarpıtmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "etwas riskieren",
+          "article": null,
+          "tr": "bir şeyi riske atmak",
+          "example_de": "Er riskiert seinen Account."
+        },
+        {
+          "de": "auf lange Sicht",
+          "article": null,
+          "tr": "uzun vadede",
+          "example_de": "Auf lange Sicht lohnt sich das Training."
+        },
+        {
+          "de": "ein Bild verzerren",
+          "article": null,
+          "tr": "görüntüyü çarpıtmak",
+          "example_de": "Wenige Daten verzerren das Bild."
+        },
+        {
+          "de": "Näherungswert",
+          "article": "der",
+          "tr": "yaklaşık değer",
+          "example_de": "Das ist nur ein Näherungswert."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viele Spieler haben laut Text Stufe 60?",
+          "options": [
+            "Etwas über 3 Prozent",
+            "Über 50 Prozent",
+            "Etwa 20 Prozent"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „mühsam“?",
+          "options": [
+            "leicht und schnell",
+            "anstrengend und zeitaufwendig",
+            "lustig"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-eugh-amazon-postdienst",
+      "category": "de",
+      "title_de": "EuGH: Wann ein Logistiker als Postdienstleister gilt",
+      "summary_de": "Der Europäische Gerichtshof hat entschieden, wann ein Logistikunternehmen als Postdienstleister gilt. Anlass waren Verfahren gegen Amazon-Gesellschaften in Italien, die dort ohne Genehmigung Logistik für Dritte angeboten haben sollen. Nach dem Urteil reicht es, wenn eine Firma mindestens einen Schritt der Postkette übernimmt, etwa Einsammeln, Sortieren oder Zustellen. Reiner Transport genügt dafür allerdings nicht. Auch das Verteilen adressierter Pakete auf mehrere Zusteller kann als Sortieren zählen, sofern zuvor etwas eingesammelt wurde. Selbst der Betrieb automatischer Paketstationen kann als Zustellung gelten. Ob die drei Amazon-Firmen die Kriterien erfüllen, müssen nun italienische Gerichte klären. Der Autor hält es für möglich, dass auch in Deutschland mehr Anbieter in den Blick der Aufsicht geraten.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Von-der-Logistik-zum-Postdienst-EuGH-zieht-neue-Grenzen-fuer-Amazon-11539677.html",
+      "glossary": [
+        {
+          "form": "Gerichtshof",
+          "lemma": "Gerichtshof",
+          "article": "der",
+          "tr": "mahkeme (AB Adalet Divanı)"
+        },
+        {
+          "form": "Postdienstleister",
+          "lemma": "Postdienstleister",
+          "article": "der",
+          "tr": "posta hizmet sağlayıcısı"
+        },
+        {
+          "form": "Genehmigung",
+          "lemma": "Genehmigung",
+          "article": "die",
+          "tr": "izin"
+        },
+        {
+          "form": "Dritte",
+          "lemma": "Dritte",
+          "article": "der",
+          "tr": "üçüncü kişiler"
+        },
+        {
+          "form": "Urteil",
+          "lemma": "Urteil",
+          "article": "das",
+          "tr": "karar, hüküm"
+        },
+        {
+          "form": "Postkette",
+          "lemma": "Postkette",
+          "article": "die",
+          "tr": "posta zinciri"
+        },
+        {
+          "form": "Sortieren",
+          "lemma": "Sortieren",
+          "article": "das",
+          "tr": "ayırma"
+        },
+        {
+          "form": "Zustellen",
+          "lemma": "Zustellen",
+          "article": "das",
+          "tr": "teslim etme"
+        },
+        {
+          "form": "genügt",
+          "lemma": "genügen",
+          "article": null,
+          "tr": "yeterli olmak"
+        },
+        {
+          "form": "adressierter",
+          "lemma": "adressiert",
+          "article": null,
+          "tr": "adreslenmiş"
+        },
+        {
+          "form": "Zusteller",
+          "lemma": "Zusteller",
+          "article": "der",
+          "tr": "dağıtıcı, kurye"
+        },
+        {
+          "form": "Paketstationen",
+          "lemma": "Paketstation",
+          "article": "die",
+          "tr": "paket istasyonları"
+        },
+        {
+          "form": "Kriterien",
+          "lemma": "Kriterium",
+          "article": "das",
+          "tr": "kriterler"
+        },
+        {
+          "form": "Aufsicht",
+          "lemma": "Aufsicht",
+          "article": "die",
+          "tr": "denetim"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "eine Genehmigung brauchen",
+          "article": null,
+          "tr": "izne ihtiyaç duymak",
+          "example_de": "Für den Stand brauchst du eine Genehmigung."
+        },
+        {
+          "de": "ein Urteil fällen",
+          "article": null,
+          "tr": "karar vermek",
+          "example_de": "Das Gericht fällt morgen ein Urteil."
+        },
+        {
+          "de": "etwas genügt",
+          "article": null,
+          "tr": "bir şey yeter",
+          "example_de": "Ein kurzer Anruf genügt."
+        },
+        {
+          "de": "Zusteller",
+          "article": "der",
+          "tr": "dağıtıcı",
+          "example_de": "Der Zusteller klingelt um zehn."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was reicht laut Urteil für einen Postdienst aus?",
+          "options": [
+            "Mindestens ein Schritt der Postkette",
+            "Nur reiner Transport",
+            "Ein eigenes Flugzeug"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „genügen“?",
+          "options": [
+            "ausreichen",
+            "fehlen",
+            "stören"
+          ],
+          "answer_index": 0
+        }
+      ]
+    }
+  ]
+}

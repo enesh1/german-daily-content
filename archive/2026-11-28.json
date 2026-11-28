@@ -1,0 +1,2054 @@
+{
+  "date": "2026-11-28",
+  "level": "original",
+  "facts": [
+    {
+      "de": "Honig verdirbt praktisch nicht, weil er sehr wenig Wasser und viel Zucker enthält und sich darin kaum Mikroorganismen vermehren können.",
+      "tr": "Bal pratikte bozulmaz, çünkü çok az su ve çok şeker içerir ve içinde mikroorganizmalar neredeyse hiç çoğalamaz.",
+      "source_url": "https://de.wikipedia.org/wiki/Honig"
+    },
+    {
+      "de": "Ein Tag auf der Venus dauert länger als ein Venusjahr: Der Planet braucht etwa 243 Erdtage für eine Drehung um sich selbst, aber nur rund 225 Erdtage für einen Umlauf um die Sonne.",
+      "tr": "Venüs'te bir gün, bir Venüs yılından daha uzun sürer: Gezegen kendi ekseninde dönmek için yaklaşık 243, Güneş etrafında dönmek için ise yalnızca yaklaşık 225 Dünya günü harcar.",
+      "source_url": "https://de.wikipedia.org/wiki/Venus_(Planet)"
+    },
+    {
+      "de": "Johannes Gutenberg entwickelte um 1450 in Mainz den Buchdruck mit beweglichen Metalllettern in Europa.",
+      "tr": "Johannes Gutenberg, 1450 civarında Mainz'da Avrupa'da hareketli metal harflerle matbaa baskısını geliştirdi.",
+      "source_url": "https://de.wikipedia.org/wiki/Johannes_Gutenberg"
+    }
+  ],
+  "idiom": {
+    "de": "Jemandem einen Strich durch die Rechnung machen.",
+    "meaning_tr": "Birinin planlarını bozmak, işini bozmak.",
+    "literal_tr": "Birinin hesabının üzerinden bir çizgi çekmek.",
+    "equivalent_tr": "Çarkına çomak sokmak / planlarını altüst etmek.",
+    "example_de": "Der plötzliche Schneefall hat uns einen Strich durch die Rechnung gemacht, das Open-Air-Konzert fiel aus.",
+    "example_tr": "Ani kar yağışı planlarımızı bozdu, açık hava konseri iptal oldu."
+  },
+  "reading": [
+    {
+      "type": "ana",
+      "text_de": "Immer mehr Studierende lernen mit KI-Assistenten, die Zusammenfassungen und Übungsaufgaben in Sekunden erstellen. Das spart Zeit, doch genau darin liegt das Problem: Wer sich jede Erklärung fertig liefern lässt, übt kaum noch, Zusammenhänge selbst herzustellen. Zwar fühlt sich der Stoff nach dem Lesen vertraut an, aber bei der Prüfung fehlt oft die Fähigkeit, ihn ohne Hilfe anzuwenden. Sinnvoll ist ein Assistent daher vor allem dort, wo er eigene Denkarbeit anstößt, statt sie zu ersetzen.",
+      "question_de": "Welche Aussage gibt den Hauptgedanken des Textes am besten wieder?",
+      "options": [
+        "KI-Assistenten sind zum Lernen ungeeignet, weil sie häufig fehlerhafte Zusammenfassungen liefern.",
+        "Studierende, die KI nutzen, schneiden in Prüfungen grundsätzlich schlechter ab als andere.",
+        "KI-Hilfen nützen beim Lernen vor allem dann, wenn sie das eigene Denken anregen und nicht abnehmen.",
+        "Der Zeitgewinn ist der wichtigste Grund, KI-Assistenten im Studium einzusetzen."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "Metin, hazır açıklamaların kişinin kendi düşünme çabasını azalttığını ve asistanın düşünmeyi tetiklediğinde yararlı olduğunu söyler (C). B en çekici tuzaktır: metin „oft“ der, „grundsätzlich“ demez; A'daki hatalı özet iddiası metinde yoktur."
+    },
+    {
+      "type": "cikarilamaz",
+      "text_de": "In vielen Großstädten werden Parkplätze zu Grünflächen umgebaut. Anwohner befürchten zunächst, dass der Einzelhandel leidet, weil Kunden mit dem Auto ausbleiben. Erste Auswertungen zeigen allerdings, dass Fußgänger und Radfahrer häufiger einkaufen gehen, auch wenn sie jeweils weniger ausgeben. Ob sich dieser Effekt überall wiederholt, ist offen, denn die Untersuchungen stammen bisher aus wenigen Städten.",
+      "question_de": "Welche Aussage lässt sich aus dem Text NICHT ableiten?",
+      "options": [
+        "Der Umbau von Parkplätzen hat in allen Städten den Umsatz des Einzelhandels erhöht.",
+        "Zu Beginn sorgen sich manche Anwohner um die Geschäfte in ihrem Viertel.",
+        "Kunden ohne Auto kaufen oft häufiger ein, geben dabei aber im Einzelfall weniger aus.",
+        "Die bisherigen Ergebnisse stützen sich auf eine begrenzte Zahl von Städten."
+      ],
+      "answer_index": 0,
+      "explanation_tr": "Metin, etkinin her yerde tekrarlanıp tekrarlanmayacağının belli olmadığını söyler; bu yüzden A çıkarılamaz. Üstelik metinde cirodan değil, alışveriş sıklığından söz edilir. B, C ve D doğrudan metne dayanır."
+    },
+    {
+      "type": "bosluk",
+      "text_de": "Kaum jemand liest die Nutzungsbedingungen einer App, bevor er sie installiert. Das liegt nicht nur an der Bequemlichkeit, sondern auch an der Länge und Sprache der Texte. ___ Deshalb fordern Verbraucherschützer kurze, verständliche Zusammenfassungen, die vor dem Klick auf „Zustimmen“ angezeigt werden.",
+      "question_de": "Welcher Satz passt am besten in die Lücke (___)?",
+      "options": [
+        "Die meisten Apps verzichten inzwischen vollständig auf Nutzungsbedingungen.",
+        "Wer die Bedingungen liest, installiert deutlich seltener neue Apps.",
+        "Gerade junge Nutzer lesen solche Texte gründlicher als ältere Menschen.",
+        "Selbst wer sich Mühe gibt, versteht oft nicht, in welche Datennutzung er einwilligt."
+      ],
+      "answer_index": 3,
+      "explanation_tr": "Boşluktan sonraki „Deshalb“, boşluğun metinlerin anlaşılmazlığını sonuç olarak verilen talebe bağlamasını gerektirir (D). A önceki cümleyle çelişir; B ilginç ama sonraki talebe gerekçe oluşturmaz."
+    },
+    {
+      "type": "anlam",
+      "text_de": "Bei der Planung der Betriebsfeier schlug die Abteilung zunächst ein aufwendiges Menü mit Livemusik vor. Die Geschäftsführung dagegen wollte „den Ball flach halten“, weil das Unternehmen im vergangenen Jahr Verluste gemacht hatte. Am Ende einigte man sich auf ein Buffet im Betriebsrestaurant, bei dem sich alle zwanglos unterhalten konnten.",
+      "question_de": "Was ist mit „den Ball flach halten“ gemeint?",
+      "options": [
+        "Auf dem Firmengelände ein Fußballspiel organisieren.",
+        "Sich zurückhalten und keinen großen Aufwand betreiben.",
+        "Die Feier möglichst früh am Abend beenden.",
+        "Die Mitarbeitenden mit einem Wettbewerb unterhalten."
+      ],
+      "answer_index": 1,
+      "explanation_tr": "Deyim „ölçülü davranmak, gösterişe kaçmamak“ anlamına gelir; bağlam da Verluste ve sade Buffet ile bunu destekler (B). A kelimenin düz anlamına takılan tuzaktır."
+    },
+    {
+      "type": "tutum",
+      "text_de": "Die Stadt feiert ihr neues Parkleitsystem als Meilenstein der Digitalisierung. Autofahrer sollen per App sehen, wo gerade ein Platz frei ist. Dass die App in den ersten drei Monaten nur rund 400 Mal heruntergeladen wurde, erwähnt die Pressemitteilung allerdings nur am Rande. Man darf gespannt sein, ob der Meilenstein auch Menschen erreicht, die nicht im Rathaus arbeiten.",
+      "question_de": "Welche Haltung vertritt der Autor?",
+      "options": [
+        "Er lobt das Projekt uneingeschränkt als wichtigen Fortschritt.",
+        "Er lehnt Digitalisierung in Städten grundsätzlich ab.",
+        "Er betrachtet die offizielle Erfolgsmeldung mit ironischer Skepsis.",
+        "Er bleibt neutral und gibt lediglich Zahlen wieder."
+      ],
+      "answer_index": 2,
+      "explanation_tr": "Yazar, düşük indirme sayısına ve „Meilenstein“ ifadesine ironik bir mesafeyle yaklaşır; son cümle bunu açıkça gösterir (C). B aşırı genellemedir, D ise son cümledeki imayı görmezden gelir."
+    }
+  ],
+  "items": [
+    {
+      "id": "2026-11-28-kraftwerk-voerde",
+      "category": "nrw",
+      "title_de": "Voerde: Kesselhaus des Kraftwerks wird gesprengt",
+      "summary_de": "Am Niederrhein verschwindet eine weitere Landmarke: In Voerde soll das ehemalige Kesselhaus des Steinkohlekraftwerks gesprengt werden. Das Gebäude ist etwa 90 Meter hoch, zusätzlich fallen drei Entstickungsanlagen gleichzeitig in sich zusammen. Die Sprengung ist für Samstagmittag um 12 Uhr geplant, das Gelände wird aus Sicherheitsgründen schon ab 10 Uhr abgesperrt. Das Kraftwerk wurde Anfang der 1970er-Jahre gebaut und später stark erweitert, in der Spitze erzeugte es mehr als 2.000 Megawatt Strom. Betreiber RWE hatte es 2017 stillgelegt, Kühlturm und Schornsteine waren bereits zuvor gesprengt worden. Auf dem Gelände will der Konzern ein wasserstofffähiges Gaskraftwerk errichten. Es könnte nach der Planung ab 2030 Strom liefern und neue Arbeitsplätze schaffen. Anfang November hatte RWE dafür von der Bundesnetzagentur den Zuschlag erhalten.",
+      "source_name": "WEB.DE (dpa)",
+      "source_url": "https://web.de/magazine/regio/nordrhein-westfalen/kesselhaus-kraftwerks-voerde-gesprengt-42993034",
+      "glossary": [
+        {
+          "form": "Landmarke",
+          "lemma": "Landmarke",
+          "article": "die",
+          "tr": "simge yapı, belirgin nirengi noktası"
+        },
+        {
+          "form": "Kesselhaus",
+          "lemma": "Kesselhaus",
+          "article": "das",
+          "tr": "kazan dairesi"
+        },
+        {
+          "form": "Steinkohlekraftwerks",
+          "lemma": "Steinkohlekraftwerk",
+          "article": "das",
+          "tr": "taş kömürü santrali"
+        },
+        {
+          "form": "gesprengt",
+          "lemma": "sprengen",
+          "article": null,
+          "tr": "patlatarak yıkmak"
+        },
+        {
+          "form": "Entstickungsanlagen",
+          "lemma": "Entstickungsanlage",
+          "article": "die",
+          "tr": "azot oksit giderme tesisi"
+        },
+        {
+          "form": "Sicherheitsgründen",
+          "lemma": "Sicherheitsgrund",
+          "article": "der",
+          "tr": "güvenlik nedenleri"
+        },
+        {
+          "form": "abgesperrt",
+          "lemma": "absperren",
+          "article": null,
+          "tr": "kapatmak, çevirmek"
+        },
+        {
+          "form": "erweitert",
+          "lemma": "erweitern",
+          "article": null,
+          "tr": "genişletmek"
+        },
+        {
+          "form": "Spitze",
+          "lemma": "Spitze",
+          "article": "die",
+          "tr": "zirve, en yüksek değer"
+        },
+        {
+          "form": "Betreiber",
+          "lemma": "Betreiber",
+          "article": "der",
+          "tr": "işletmeci"
+        },
+        {
+          "form": "stillgelegt",
+          "lemma": "stilllegen",
+          "article": null,
+          "tr": "devre dışı bırakmak"
+        },
+        {
+          "form": "Schornsteine",
+          "lemma": "Schornstein",
+          "article": "der",
+          "tr": "baca"
+        },
+        {
+          "form": "wasserstofffähiges",
+          "lemma": "wasserstofffähig",
+          "article": null,
+          "tr": "hidrojene uyumlu"
+        },
+        {
+          "form": "errichten",
+          "lemma": "errichten",
+          "article": null,
+          "tr": "inşa etmek"
+        },
+        {
+          "form": "Arbeitsplätze",
+          "lemma": "Arbeitsplatz",
+          "article": "der",
+          "tr": "iş yeri, istihdam"
+        },
+        {
+          "form": "Zuschlag",
+          "lemma": "Zuschlag",
+          "article": "der",
+          "tr": "ihale kazanımı"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Landmarke",
+          "article": "die",
+          "tr": "simge yapı",
+          "example_de": "Der Fernsehturm ist eine bekannte Landmarke in Düsseldorf."
+        },
+        {
+          "de": "etwas stilllegen",
+          "article": null,
+          "tr": "bir şeyi kapatmak/devre dışı bırakmak",
+          "example_de": "Die Firma will das alte Werk im nächsten Jahr stilllegen."
+        },
+        {
+          "de": "den Zuschlag erhalten",
+          "article": null,
+          "tr": "ihaleyi/onayı almak",
+          "example_de": "Unser Verein hat den Zuschlag für das Stadtfest erhalten."
+        },
+        {
+          "de": "aus Sicherheitsgründen",
+          "article": null,
+          "tr": "güvenlik nedeniyle",
+          "example_de": "Die Straße bleibt aus Sicherheitsgründen gesperrt."
+        },
+        {
+          "de": "Arbeitsplätze schaffen",
+          "article": null,
+          "tr": "iş yeri yaratmak",
+          "example_de": "Neue Start-ups schaffen Arbeitsplätze in der Region."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was soll in Voerde gesprengt werden?",
+          "options": [
+            "Ein Kesselhaus samt Entstickungsanlagen",
+            "Ein Kühlturm",
+            "Ein Schornstein",
+            "Ein Wasserturm"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was bedeutet „stilllegen“?",
+          "options": [
+            "Ein Gebäude neu eröffnen",
+            "Etwas verkaufen",
+            "Den Betrieb dauerhaft beenden",
+            "Etwas reparieren"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-felix-award-nrw",
+      "category": "nrw",
+      "title_de": "Felix Award in Düsseldorf: NRW ehrt seine Sportstars",
+      "summary_de": "Bei der 19. Verleihung des Felix Awards hat Nordrhein-Westfalen am Freitagabend seine besten Sportlerinnen und Sportler des Jahres geehrt. Die Veranstaltung fand auf der Rheinterrasse in Düsseldorf statt, ausgerichtet vom Land und vom Landessportbund. Zum Sportler des Jahres wurde der Kanute Max Rendschmidt gewählt, der bei der Weltmeisterschaft in Posen Gold im Vierer-Kajak über 500 Meter gewann. Bei den Frauen setzte sich die Säbelfechterin Larissa Eifler durch, die in Hongkong überraschend Einzel-Weltmeisterin geworden war. Den Fußball-Felix erhielt Said El Mala, der Stürmer des 1. FC Köln und Nationalspieler. Als Mannschaft des Jahres wurde die deutsche Hockey-Nationalmannschaft ausgezeichnet. Insgesamt gab es sieben Kategorien, über die meist das Publikum abstimmte. Auch die Para-Sportlerin Kathrin Marchand, die Nachwuchsfahrerin Luisa Puttkammer und Trainer Erik Schneider wurden geehrt.",
+      "source_name": "WEB.DE (dpa)",
+      "source_url": "https://web.de/magazine/regio/nordrhein-westfalen/felix-award-el-mala-rendschmidt-eifler-ausgezeichnet-42992806",
+      "glossary": [
+        {
+          "form": "Verleihung",
+          "lemma": "Verleihung",
+          "article": "die",
+          "tr": "ödül töreni, verilme"
+        },
+        {
+          "form": "geehrt",
+          "lemma": "ehren",
+          "article": null,
+          "tr": "onurlandırmak"
+        },
+        {
+          "form": "ausgerichtet",
+          "lemma": "ausrichten",
+          "article": null,
+          "tr": "düzenlemek"
+        },
+        {
+          "form": "Kanute",
+          "lemma": "Kanute",
+          "article": "der",
+          "tr": "kanocu"
+        },
+        {
+          "form": "Säbelfechterin",
+          "lemma": "Säbelfechterin",
+          "article": "die",
+          "tr": "kılıç eskrimcisi (kadın)"
+        },
+        {
+          "form": "setzte",
+          "lemma": "durchsetzen",
+          "article": null,
+          "tr": "galip gelmek (setzte ... durch)"
+        },
+        {
+          "form": "überraschend",
+          "lemma": "überraschend",
+          "article": null,
+          "tr": "sürpriz biçimde"
+        },
+        {
+          "form": "Stürmer",
+          "lemma": "Stürmer",
+          "article": "der",
+          "tr": "forvet"
+        },
+        {
+          "form": "ausgezeichnet",
+          "lemma": "auszeichnen",
+          "article": null,
+          "tr": "ödüllendirmek"
+        },
+        {
+          "form": "Kategorien",
+          "lemma": "Kategorie",
+          "article": "die",
+          "tr": "kategori"
+        },
+        {
+          "form": "Publikum",
+          "lemma": "Publikum",
+          "article": "das",
+          "tr": "seyirci, kamuoyu"
+        },
+        {
+          "form": "abstimmte",
+          "lemma": "abstimmen",
+          "article": null,
+          "tr": "oy vermek"
+        },
+        {
+          "form": "Nachwuchsfahrerin",
+          "lemma": "Nachwuchsfahrerin",
+          "article": "die",
+          "tr": "genç kuşak sporcu (kadın)"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Sportler des Jahres",
+          "article": null,
+          "tr": "yılın sporcusu",
+          "example_de": "Er wurde zum Sportler des Jahres gewählt."
+        },
+        {
+          "de": "sich durchsetzen",
+          "article": null,
+          "tr": "galip gelmek, üstün gelmek",
+          "example_de": "Im Finale konnte sie sich knapp durchsetzen."
+        },
+        {
+          "de": "eine Auszeichnung erhalten",
+          "article": null,
+          "tr": "ödül almak",
+          "example_de": "Das Team hat eine Auszeichnung erhalten."
+        },
+        {
+          "de": "über etwas abstimmen",
+          "article": null,
+          "tr": "bir konuda oy kullanmak",
+          "example_de": "Online kann jeder über den Titel abstimmen."
+        },
+        {
+          "de": "Weltmeisterschaft",
+          "article": "die",
+          "tr": "dünya şampiyonası",
+          "example_de": "Die Weltmeisterschaft findet alle vier Jahre statt."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wo fand die Preisverleihung statt?",
+          "options": [
+            "In Köln",
+            "Auf der Rheinterrasse in Düsseldorf",
+            "In Posen",
+            "In Hongkong"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Wer wurde Sportlerin des Jahres?",
+          "options": [
+            "Kathrin Marchand",
+            "Luisa Puttkammer",
+            "Said El Mala",
+            "Larissa Eifler"
+          ],
+          "answer_index": 3
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-nordbruecke-bonn",
+      "category": "nrw",
+      "title_de": "Bonner Nordbrücke: Abriss der Vorlandbrücke geschafft",
+      "summary_de": "In Bonn ist ein wichtiger Schritt für die gesperrte Nordbrücke geschafft: Der Abriss der linksrheinischen Vorlandbrücke ist abgeschlossen. Das teilte die Autobahngesellschaft mit. Die Arbeiten hatten am 10. August begonnen und dauerten gut drei Monate. Die abgerissene Brücke war 660 Meter lang, dabei fielen rund 28.000 Kubikmeter Beton und etwa 5.000 Tonnen Betonstahl an. Die Nordbrücke, die zur A565 gehört, ist seit Anfang Juni gesperrt, weil die Vorlandbrücke schwere Schäden hatte. Vorher fuhren dort täglich mehr als 100.000 Fahrzeuge, es ist die wichtigste Ost-West-Verbindung der Region. Der Auftrag für den Ersatzneubau soll noch in diesem Jahr vergeben werden. Laut Bundesverkehrsminister Steffen Bilger soll die neue Brücke spätestens in zwei Jahren wieder freigegeben werden.",
+      "source_name": "WEB.DE (dpa)",
+      "source_url": "https://web.de/magazine/regio/nordrhein-westfalen/bonner-nordbruecke-abriss-vorlandbruecke-geschafft-42992386",
+      "glossary": [
+        {
+          "form": "Abriss",
+          "lemma": "Abriss",
+          "article": "der",
+          "tr": "yıkım"
+        },
+        {
+          "form": "linksrheinischen",
+          "lemma": "linksrheinisch",
+          "article": null,
+          "tr": "Ren'in sol yakasındaki"
+        },
+        {
+          "form": "abgeschlossen",
+          "lemma": "abschließen",
+          "article": null,
+          "tr": "tamamlamak"
+        },
+        {
+          "form": "Autobahngesellschaft",
+          "lemma": "Autobahngesellschaft",
+          "article": "die",
+          "tr": "otoyol şirketi"
+        },
+        {
+          "form": "abgerissene",
+          "lemma": "abreißen",
+          "article": null,
+          "tr": "yıkmak"
+        },
+        {
+          "form": "Kubikmeter",
+          "lemma": "Kubikmeter",
+          "article": "der",
+          "tr": "metreküp"
+        },
+        {
+          "form": "Betonstahl",
+          "lemma": "Betonstahl",
+          "article": "der",
+          "tr": "beton çeliği"
+        },
+        {
+          "form": "gesperrt",
+          "lemma": "sperren",
+          "article": null,
+          "tr": "kapatmak"
+        },
+        {
+          "form": "Schäden",
+          "lemma": "Schaden",
+          "article": "der",
+          "tr": "hasar"
+        },
+        {
+          "form": "Verbindung",
+          "lemma": "Verbindung",
+          "article": "die",
+          "tr": "bağlantı"
+        },
+        {
+          "form": "Ersatzneubau",
+          "lemma": "Ersatzneubau",
+          "article": "der",
+          "tr": "yerine yapılacak yeni yapı"
+        },
+        {
+          "form": "Auftrag",
+          "lemma": "Auftrag",
+          "article": "der",
+          "tr": "sipariş, ihale"
+        },
+        {
+          "form": "vergeben",
+          "lemma": "vergeben",
+          "article": null,
+          "tr": "vermek, ihale etmek"
+        },
+        {
+          "form": "freigegeben",
+          "lemma": "freigeben",
+          "article": null,
+          "tr": "trafiğe açmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen Auftrag vergeben",
+          "article": null,
+          "tr": "ihale/iş vermek",
+          "example_de": "Die Stadt vergibt den Auftrag an eine Baufirma."
+        },
+        {
+          "de": "Schäden haben",
+          "article": null,
+          "tr": "hasarlı olmak",
+          "example_de": "Die Straße hat schwere Schäden."
+        },
+        {
+          "de": "eine Brücke sperren",
+          "article": null,
+          "tr": "köprüyü kapatmak",
+          "example_de": "Wegen Hochwasser musste man die Brücke sperren."
+        },
+        {
+          "de": "Verbindung",
+          "article": "die",
+          "tr": "bağlantı",
+          "example_de": "Die Verbindung zwischen Bonn und Köln ist wichtig für Pendler."
+        },
+        {
+          "de": "freigeben",
+          "article": null,
+          "tr": "(trafiğe) açmak",
+          "example_de": "Die Straße wird morgen wieder freigegeben."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Warum ist die Nordbrücke gesperrt?",
+          "options": [
+            "Wegen eines Festes",
+            "Wegen Schnee",
+            "Weil die Vorlandbrücke schwere Schäden hatte",
+            "Wegen einer Demonstration"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Was soll noch in diesem Jahr passieren?",
+          "options": [
+            "Der Auftrag für den Neubau wird vergeben",
+            "Die neue Brücke wird eröffnet",
+            "Der Abriss beginnt",
+            "Die A565 wird verkauft"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-bgh-balkonkraftwerk",
+      "category": "de",
+      "title_de": "BGH stärkt Mieter beim Balkonkraftwerk",
+      "summary_de": "Mieter dürfen Steckersolargeräte auf dem Balkon nicht so leicht verboten bekommen: Das hat der Bundesgerichtshof entschieden. Geklagt hatte eine Wohnungsgenossenschaft, die einen Mieter zwingen wollte, seine Anlage zu entfernen. Sie hatte die Module nur unterhalb des Balkongeländers erlaubt, ohne dass sie das Gebäude sichtbar verändern. Der Mieter befestigte sie jedoch an der Außenseite des Balkons. Das Amtsgericht Riesa gab zunächst der Genossenschaft recht, das Landgericht Dresden sah es anders. Der BGH wies die Revision der Genossenschaft nun zurück. Nach seiner Auffassung haben Mieter grundsätzlich einen Anspruch auf Zustimmung, und ein Vermieter darf nicht pauschal auf eine bauliche Veränderung verweisen. Stattdessen muss im Einzelfall abgewogen werden, ob das veränderte Erscheinungsbild den Eigentümer unzumutbar belastet. Auch die Sorge vor einem Flickenteppich verschiedener Anlagen reicht allein nicht aus. Die Richter nannten Balkonkraftwerke zeitgemäß und verwiesen auf das politische Ziel, sie weiter zu verbreiten.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Bundesgerichtshof-Balkonkraftwerke-gehoeren-zum-modernen-Wohnen-11541245.html",
+      "glossary": [
+        {
+          "form": "Steckersolargeräte",
+          "lemma": "Steckersolargerät",
+          "article": "das",
+          "tr": "fişe takılan güneş enerjisi sistemi"
+        },
+        {
+          "form": "Bundesgerichtshof",
+          "lemma": "Bundesgerichtshof",
+          "article": "der",
+          "tr": "Federal Yüksek Mahkeme"
+        },
+        {
+          "form": "Geklagt",
+          "lemma": "klagen",
+          "article": null,
+          "tr": "dava açmak"
+        },
+        {
+          "form": "Wohnungsgenossenschaft",
+          "lemma": "Wohnungsgenossenschaft",
+          "article": "die",
+          "tr": "konut kooperatifi"
+        },
+        {
+          "form": "zwingen",
+          "lemma": "zwingen",
+          "article": null,
+          "tr": "zorlamak"
+        },
+        {
+          "form": "Module",
+          "lemma": "Modul",
+          "article": "das",
+          "tr": "panel, modül"
+        },
+        {
+          "form": "Balkongeländers",
+          "lemma": "Balkongeländer",
+          "article": "das",
+          "tr": "balkon korkuluğu"
+        },
+        {
+          "form": "befestigte",
+          "lemma": "befestigen",
+          "article": null,
+          "tr": "sabitlemek"
+        },
+        {
+          "form": "Amtsgericht",
+          "lemma": "Amtsgericht",
+          "article": "das",
+          "tr": "asliye (sulh) mahkemesi"
+        },
+        {
+          "form": "Revision",
+          "lemma": "Revision",
+          "article": "die",
+          "tr": "temyiz"
+        },
+        {
+          "form": "zurück",
+          "lemma": "zurückweisen",
+          "article": null,
+          "tr": "reddetmek (wies ... zurück)"
+        },
+        {
+          "form": "Anspruch",
+          "lemma": "Anspruch",
+          "article": "der",
+          "tr": "hak, talep hakkı"
+        },
+        {
+          "form": "Zustimmung",
+          "lemma": "Zustimmung",
+          "article": "die",
+          "tr": "onay"
+        },
+        {
+          "form": "pauschal",
+          "lemma": "pauschal",
+          "article": null,
+          "tr": "toptan, genel olarak"
+        },
+        {
+          "form": "abgewogen",
+          "lemma": "abwägen",
+          "article": null,
+          "tr": "tartmak, değerlendirmek"
+        },
+        {
+          "form": "unzumutbar",
+          "lemma": "unzumutbar",
+          "article": null,
+          "tr": "katlanılamaz"
+        },
+        {
+          "form": "Flickenteppich",
+          "lemma": "Flickenteppich",
+          "article": "der",
+          "tr": "yama bohçası (düzensiz görünüm)"
+        },
+        {
+          "form": "zeitgemäß",
+          "lemma": "zeitgemäß",
+          "article": null,
+          "tr": "çağdaş"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen Anspruch haben auf",
+          "article": null,
+          "tr": "hakkı olmak",
+          "example_de": "Mieter haben Anspruch auf eine faire Abrechnung."
+        },
+        {
+          "de": "die Zustimmung geben",
+          "article": null,
+          "tr": "onay vermek",
+          "example_de": "Der Vermieter hat seine Zustimmung gegeben."
+        },
+        {
+          "de": "im Einzelfall",
+          "article": null,
+          "tr": "somut olayda",
+          "example_de": "Das muss man im Einzelfall entscheiden."
+        },
+        {
+          "de": "Klage einreichen",
+          "article": null,
+          "tr": "dava açmak",
+          "example_de": "Sie reichte Klage gegen die Firma ein."
+        },
+        {
+          "de": "Vermieter",
+          "article": "der",
+          "tr": "ev sahibi",
+          "example_de": "Mein Vermieter wohnt im Erdgeschoss."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was entschied der Bundesgerichtshof?",
+          "options": [
+            "Balkonkraftwerke sind generell verboten",
+            "Mieter brauchen nie eine Erlaubnis",
+            "Die Anlage muss sofort entfernt werden",
+            "Vermieter dürfen nicht pauschal ablehnen"
+          ],
+          "answer_index": 3
+        },
+        {
+          "question_de": "Was bedeutet „Flickenteppich“ hier?",
+          "options": [
+            "Ein Teppich aus Stoffresten",
+            "Ein uneinheitliches Bild verschiedener Anlagen",
+            "Ein Reparaturset",
+            "Ein Balkonmöbel"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-gta-flut-klima",
+      "category": "de",
+      "title_de": "Forschende fluten „GTA 5“ für die Klimaforschung",
+      "summary_de": "Forschende haben die Spielwelt von „GTA 5“ unter Wasser gesetzt, um den Klimawandel anschaulich zu machen. Paul Nörenberg von der Universität Potsdam und Hugues Lantuit vom Alfred-Wegener-Institut simulierten, wie der steigende Meeresspiegel und Sturmfluten die Stadt Los Santos in den Jahren 2100, 2300 und 2500 treffen würden. Los Santos ist dem echten Los Angeles nachempfunden. Weil Rockstar Games die Originaldaten nicht herausgab, nutzte das Team ein 3D-Modell, das ein Nutzer auf Sketchfab hochgeladen hatte. Berechnet wurden zwei Szenarien: eines mit konsequentem Klimaschutz und eines mit einer Erwärmung von etwa fünf Grad. Für das Jahr 2300 sind mit Klimaschutz rund zwei Prozent der Fläche überflutet, ohne Klimaschutz mehr als fünf Prozent, darunter Hafen und Klärwerk. Die Forschenden betonen, dass es sich um Projektionen handelt, nicht um Vorhersagen, und dass langfristige Werte unsicher sind. Ihr Ziel ist es, Risiken greifbarer zu machen und das Lesen von Hochwasserkarten zu üben.",
+      "source_name": "watson.de",
+      "source_url": "https://www.watson.de/leben/good-news/426305714-forscher-fluten-gta-wie-das-game-beim-kampf-gegen-den-klimawandel-helfen-soll",
+      "glossary": [
+        {
+          "form": "anschaulich",
+          "lemma": "anschaulich",
+          "article": null,
+          "tr": "somut, canlı"
+        },
+        {
+          "form": "Meeresspiegel",
+          "lemma": "Meeresspiegel",
+          "article": "der",
+          "tr": "deniz seviyesi"
+        },
+        {
+          "form": "Sturmfluten",
+          "lemma": "Sturmflut",
+          "article": "die",
+          "tr": "fırtına kaynaklı sel"
+        },
+        {
+          "form": "simulierten",
+          "lemma": "simulieren",
+          "article": null,
+          "tr": "simüle etmek"
+        },
+        {
+          "form": "nachempfunden",
+          "lemma": "nachempfinden",
+          "article": null,
+          "tr": "örnek alarak oluşturmak"
+        },
+        {
+          "form": "Originaldaten",
+          "lemma": "Originaldaten",
+          "article": "die",
+          "tr": "orijinal veriler"
+        },
+        {
+          "form": "hochgeladen",
+          "lemma": "hochladen",
+          "article": null,
+          "tr": "yüklemek"
+        },
+        {
+          "form": "Szenarien",
+          "lemma": "Szenario",
+          "article": "das",
+          "tr": "senaryo"
+        },
+        {
+          "form": "konsequentem",
+          "lemma": "konsequent",
+          "article": null,
+          "tr": "tutarlı, kararlı"
+        },
+        {
+          "form": "Erwärmung",
+          "lemma": "Erwärmung",
+          "article": "die",
+          "tr": "ısınma"
+        },
+        {
+          "form": "überflutet",
+          "lemma": "überfluten",
+          "article": null,
+          "tr": "su altında bırakmak"
+        },
+        {
+          "form": "Klärwerk",
+          "lemma": "Klärwerk",
+          "article": "das",
+          "tr": "arıtma tesisi"
+        },
+        {
+          "form": "betonen",
+          "lemma": "betonen",
+          "article": null,
+          "tr": "vurgulamak"
+        },
+        {
+          "form": "Projektionen",
+          "lemma": "Projektion",
+          "article": "die",
+          "tr": "projeksiyon, öngörü"
+        },
+        {
+          "form": "Vorhersagen",
+          "lemma": "Vorhersage",
+          "article": "die",
+          "tr": "tahmin"
+        },
+        {
+          "form": "langfristige",
+          "lemma": "langfristig",
+          "article": null,
+          "tr": "uzun vadeli"
+        },
+        {
+          "form": "greifbarer",
+          "lemma": "greifbar",
+          "article": null,
+          "tr": "somut, elle tutulur"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Klimawandel",
+          "article": "der",
+          "tr": "iklim değişikliği",
+          "example_de": "Der Klimawandel betrifft auch Küstenstädte."
+        },
+        {
+          "de": "etwas anschaulich machen",
+          "article": null,
+          "tr": "bir şeyi somutlaştırmak",
+          "example_de": "Das Video macht das Problem anschaulich."
+        },
+        {
+          "de": "sich handeln um",
+          "article": null,
+          "tr": "söz konusu olmak",
+          "example_de": "Es handelt sich um ein Missverständnis."
+        },
+        {
+          "de": "Daten herausgeben",
+          "article": null,
+          "tr": "veri paylaşmak",
+          "example_de": "Die Firma will keine Daten herausgeben."
+        },
+        {
+          "de": "Risiken greifbar machen",
+          "article": null,
+          "tr": "riskleri somutlaştırmak",
+          "example_de": "Die Grafik macht die Risiken greifbar."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Warum nutzten die Forschenden ein Modell von Sketchfab?",
+          "options": [
+            "Rockstar gab die Originaldaten nicht heraus",
+            "Es war kostenlos",
+            "Es war genauer",
+            "Sketchfab bezahlte die Studie"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Was sind laut den Forschenden die Ergebnisse?",
+          "options": [
+            "Sichere Vorhersagen",
+            "Reine Spielerfahrungen",
+            "Projektionen mit Unsicherheiten",
+            "Keine Ergebnisse"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-signal-screenshots-ki",
+      "category": "tech",
+      "title_de": "Signal blockiert Screenshots gegen KI im Betriebssystem",
+      "summary_de": "Der Messenger Signal blockiert künftig standardmäßig Screenshots, um sich gegen künstliche Intelligenz im Betriebssystem zu wehren. Hintergrund ist die Sorge von Datenschützern, dass KI-Assistenten von Apple, Google, Microsoft und anderen Inhalte vom Bildschirm mitlesen könnten. Dadurch ließen sich Schutzmechanismen von Apps wie die Ende-zu-Ende-Verschlüsselung umgehen. Signal warnt außerdem, dass Staaten Technikkonzerne zwingen könnten, die von solchen Agenten gesammelten Daten herauszugeben. Unter iOS 27 sperrt die App Bildschirmfotos grundsätzlich, unter Android greift die Sperre, sobald ein KI-Assistent auf die Anzeige zugreifen will. Die Entwickler fordern von den Herstellern der Betriebssysteme verbindliche Schnittstellen, mit denen Apps eine KI-Verarbeitung ihrer Daten untersagen können. Auch Aufsichtsbehörden in Irland und Großbritannien haben ähnliche Bedenken geäußert.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/KI-Agenten-im-Betriebssystem-Datenschuetzer-schlagen-Alarm-wegen-Ueberwachung-11541373.html",
+      "glossary": [
+        {
+          "form": "standardmäßig",
+          "lemma": "standardmäßig",
+          "article": null,
+          "tr": "varsayılan olarak"
+        },
+        {
+          "form": "wehren",
+          "lemma": "wehren",
+          "article": null,
+          "tr": "karşı koymak (sich wehren)"
+        },
+        {
+          "form": "Datenschützern",
+          "lemma": "Datenschützer",
+          "article": "der",
+          "tr": "veri koruma savunucusu"
+        },
+        {
+          "form": "mitlesen",
+          "lemma": "mitlesen",
+          "article": null,
+          "tr": "birlikte okumak, gizlice okumak"
+        },
+        {
+          "form": "Schutzmechanismen",
+          "lemma": "Schutzmechanismus",
+          "article": "der",
+          "tr": "koruma mekanizması"
+        },
+        {
+          "form": "Ende-zu-Ende-Verschlüsselung",
+          "lemma": "Ende-zu-Ende-Verschlüsselung",
+          "article": "die",
+          "tr": "uçtan uca şifreleme"
+        },
+        {
+          "form": "umgehen",
+          "lemma": "umgehen",
+          "article": null,
+          "tr": "atlatmak, dolanmak"
+        },
+        {
+          "form": "Technikkonzerne",
+          "lemma": "Technikkonzern",
+          "article": "der",
+          "tr": "teknoloji şirketi"
+        },
+        {
+          "form": "herauszugeben",
+          "lemma": "herausgeben",
+          "article": null,
+          "tr": "teslim etmek, vermek"
+        },
+        {
+          "form": "Bildschirmfotos",
+          "lemma": "Bildschirmfoto",
+          "article": "das",
+          "tr": "ekran görüntüsü"
+        },
+        {
+          "form": "greift",
+          "lemma": "greifen",
+          "article": null,
+          "tr": "devreye girmek"
+        },
+        {
+          "form": "Sperre",
+          "lemma": "Sperre",
+          "article": "die",
+          "tr": "engel, kilit"
+        },
+        {
+          "form": "verbindliche",
+          "lemma": "verbindlich",
+          "article": null,
+          "tr": "bağlayıcı"
+        },
+        {
+          "form": "Schnittstellen",
+          "lemma": "Schnittstelle",
+          "article": "die",
+          "tr": "arayüz"
+        },
+        {
+          "form": "untersagen",
+          "lemma": "untersagen",
+          "article": null,
+          "tr": "yasaklamak"
+        },
+        {
+          "form": "Aufsichtsbehörden",
+          "lemma": "Aufsichtsbehörde",
+          "article": "die",
+          "tr": "denetim kurumu"
+        },
+        {
+          "form": "Bedenken",
+          "lemma": "Bedenken",
+          "article": "das",
+          "tr": "kaygı, çekince"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Bedenken äußern",
+          "article": null,
+          "tr": "endişe dile getirmek",
+          "example_de": "Der Chef äußerte Bedenken gegen den Plan."
+        },
+        {
+          "de": "Daten schützen",
+          "article": null,
+          "tr": "verileri korumak",
+          "example_de": "Wir müssen unsere Daten besser schützen."
+        },
+        {
+          "de": "auf etwas zugreifen",
+          "article": null,
+          "tr": "bir şeye erişmek",
+          "example_de": "Die App darf auf die Kamera zugreifen."
+        },
+        {
+          "de": "Verschlüsselung",
+          "article": "die",
+          "tr": "şifreleme",
+          "example_de": "Ohne Verschlüsselung sind Chats weniger sicher."
+        },
+        {
+          "de": "Schnittstelle",
+          "article": "die",
+          "tr": "arayüz",
+          "example_de": "Die Schnittstelle erlaubt den Datenaustausch."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wann sperrt Signal unter Android Screenshots?",
+          "options": [
+            "Immer",
+            "Wenn ein KI-Assistent auf den Bildschirm zugreifen will",
+            "Nie",
+            "Nur nachts"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was bedeutet „umgehen“ im Text?",
+          "options": [
+            "Schützen",
+            "Löschen",
+            "Reparieren",
+            "Mit einem Trick am Schutz vorbeikommen"
+          ],
+          "answer_index": 3
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-kodak-slidetag",
+      "category": "tech",
+      "title_de": "Kodak SlideTag: Schlüsselanhänger mit E-Ink-Display",
+      "summary_de": "Kodak bringt einen ungewöhnlichen Schlüsselanhänger auf den Markt: den SlideTag, der aussieht wie ein kleines Dia. Hergestellt wird er vom Lizenznehmer RETO. Auf dem 1,54 Zoll großen E-Ink-Display mit sechs Farben lassen sich Fotos, Fotoserien mit bis zu zwölf Bildern, Aufgabenlisten, Kalendereinträge, ein Countdown, ein QR-Code oder ein Namensschild anzeigen. Die Bilder werden per Bluetooth über die App Kodak Memory-Link übertragen. Zusätzlich lässt sich der Anhänger über Apples Suchnetzwerk und Googles Find Hub orten, außerdem gibt es einen Piepser mit bis zu 75 Dezibel. Betrieben wird das Gerät mit einer Knopfzelle, und es ist nach IP54 gegen Staub und Spritzwasser geschützt. Ein einzelnes Exemplar kostet 41,50 Euro und wird als Überraschungsbox mit zufälligem Design verkauft. Das Achter-Set für 332 Euro enthält acht verschiedene Designs, ein Mengenrabatt ist nicht vorgesehen.",
+      "source_name": "heise online (Mac & i)",
+      "source_url": "https://www.heise.de/news/Kodak-SlideTag-Schluesselanhaenger-mit-Dia-Optik-und-Tracking-Funktion-11541304.html",
+      "glossary": [
+        {
+          "form": "ungewöhnlichen",
+          "lemma": "ungewöhnlich",
+          "article": null,
+          "tr": "alışılmadık"
+        },
+        {
+          "form": "Schlüsselanhänger",
+          "lemma": "Schlüsselanhänger",
+          "article": "der",
+          "tr": "anahtarlık"
+        },
+        {
+          "form": "Lizenznehmer",
+          "lemma": "Lizenznehmer",
+          "article": "der",
+          "tr": "lisans sahibi (lisansı alan firma)"
+        },
+        {
+          "form": "Aufgabenlisten",
+          "lemma": "Aufgabenliste",
+          "article": "die",
+          "tr": "görev listesi"
+        },
+        {
+          "form": "Kalendereinträge",
+          "lemma": "Kalendereintrag",
+          "article": "der",
+          "tr": "takvim kaydı"
+        },
+        {
+          "form": "Namensschild",
+          "lemma": "Namensschild",
+          "article": "das",
+          "tr": "isim etiketi"
+        },
+        {
+          "form": "übertragen",
+          "lemma": "übertragen",
+          "article": null,
+          "tr": "aktarmak"
+        },
+        {
+          "form": "Suchnetzwerk",
+          "lemma": "Suchnetzwerk",
+          "article": "das",
+          "tr": "bulma ağı"
+        },
+        {
+          "form": "orten",
+          "lemma": "orten",
+          "article": null,
+          "tr": "konumunu bulmak"
+        },
+        {
+          "form": "Piepser",
+          "lemma": "Piepser",
+          "article": "der",
+          "tr": "bip sesi çıkaran cihaz"
+        },
+        {
+          "form": "Dezibel",
+          "lemma": "Dezibel",
+          "article": "das",
+          "tr": "desibel"
+        },
+        {
+          "form": "Knopfzelle",
+          "lemma": "Knopfzelle",
+          "article": "die",
+          "tr": "düğme pil"
+        },
+        {
+          "form": "Spritzwasser",
+          "lemma": "Spritzwasser",
+          "article": "das",
+          "tr": "sıçrayan su"
+        },
+        {
+          "form": "Exemplar",
+          "lemma": "Exemplar",
+          "article": "das",
+          "tr": "adet, nüsha"
+        },
+        {
+          "form": "Überraschungsbox",
+          "lemma": "Überraschungsbox",
+          "article": "die",
+          "tr": "sürpriz kutu"
+        },
+        {
+          "form": "zufälligem",
+          "lemma": "zufällig",
+          "article": null,
+          "tr": "rastgele"
+        },
+        {
+          "form": "Mengenrabatt",
+          "lemma": "Mengenrabatt",
+          "article": "der",
+          "tr": "toplu alım indirimi"
+        },
+        {
+          "form": "vorgesehen",
+          "lemma": "vorsehen",
+          "article": null,
+          "tr": "öngörmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "auf den Markt bringen",
+          "article": null,
+          "tr": "piyasaya sürmek",
+          "example_de": "Die Firma bringt ein neues Handy auf den Markt."
+        },
+        {
+          "de": "per Bluetooth übertragen",
+          "article": null,
+          "tr": "Bluetooth ile aktarmak",
+          "example_de": "Ich übertrage die Fotos per Bluetooth."
+        },
+        {
+          "de": "ein Gerät orten",
+          "article": null,
+          "tr": "bir cihazı konumlandırmak",
+          "example_de": "Mit der App kann ich mein Handy orten."
+        },
+        {
+          "de": "Rabatt",
+          "article": "der",
+          "tr": "indirim",
+          "example_de": "Studierende bekommen einen Rabatt."
+        },
+        {
+          "de": "zufällig",
+          "article": null,
+          "tr": "rastgele",
+          "example_de": "Der Gewinner wird zufällig ausgewählt."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie viel kostet ein einzelner SlideTag?",
+          "options": [
+            "8 Euro",
+            "332 Euro",
+            "41,50 Euro",
+            "75 Euro"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Worüber lässt sich der SlideTag orten?",
+          "options": [
+            "Über Apples Suchnetzwerk und Googles Find Hub",
+            "Nur über GPS",
+            "Nur über WLAN",
+            "Gar nicht"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-catl-wechselakku-30",
+      "category": "tech",
+      "title_de": "CATL zeigt Wechselakku „30#“ mit 100 kWh",
+      "summary_de": "Der chinesische Batteriehersteller CATL hat einen neuen Wechselakku für Pkw vorgestellt: das Paket „30#“ mit 100 Kilowattstunden Energiegehalt. Es ist der größte Wechselakku, den CATL für Personenwagen anbietet. Der Tausch an einer Station dauert etwa eine Minute, alternativ lässt sich der Akku auch an normalen Ladesäulen laden. Laut Berichten sind dabei rund 400 Kilometer Reichweite in zehn Minuten möglich. Insgesamt soll das Paket etwa 700 Kilometer weit reichen und eine Entladeleistung von bis zu 600 Kilowatt liefern. Später könnte es auch Natrium-Ionen- oder Feststoffzellen aufnehmen. Welche Fahrzeuge den Akku nutzen werden, ist noch nicht bestätigt. CATL plant für 2027 rund 6.000 Wechselstationen für Pkw und könnte damit den Konkurrenten NIO als größten Betreiber in China überholen. Auch Hyundai will 2027 ein kleines Ioniq-SUV für China bringen, das laut Berichten diese Wechselakkus nutzt.",
+      "source_name": "electrive.net",
+      "source_url": "https://www.electrive.net/2026/11/27/catl-schiebt-pkw-wechselakku-30-mit-100-kwh-energiegehalt-nach/",
+      "glossary": [
+        {
+          "form": "Batteriehersteller",
+          "lemma": "Batteriehersteller",
+          "article": "der",
+          "tr": "batarya üreticisi"
+        },
+        {
+          "form": "Wechselakku",
+          "lemma": "Wechselakku",
+          "article": "der",
+          "tr": "değiştirilebilir akü"
+        },
+        {
+          "form": "Energiegehalt",
+          "lemma": "Energiegehalt",
+          "article": "der",
+          "tr": "enerji kapasitesi"
+        },
+        {
+          "form": "Personenwagen",
+          "lemma": "Personenwagen",
+          "article": "der",
+          "tr": "binek araç"
+        },
+        {
+          "form": "Tausch",
+          "lemma": "Tausch",
+          "article": "der",
+          "tr": "değişim"
+        },
+        {
+          "form": "Ladesäulen",
+          "lemma": "Ladesäule",
+          "article": "die",
+          "tr": "şarj istasyonu"
+        },
+        {
+          "form": "Reichweite",
+          "lemma": "Reichweite",
+          "article": "die",
+          "tr": "menzil"
+        },
+        {
+          "form": "Entladeleistung",
+          "lemma": "Entladeleistung",
+          "article": "die",
+          "tr": "deşarj gücü"
+        },
+        {
+          "form": "liefern",
+          "lemma": "liefern",
+          "article": null,
+          "tr": "sağlamak, vermek"
+        },
+        {
+          "form": "Feststoffzellen",
+          "lemma": "Feststoffzelle",
+          "article": "die",
+          "tr": "katı hal pili"
+        },
+        {
+          "form": "aufnehmen",
+          "lemma": "aufnehmen",
+          "article": null,
+          "tr": "almak, kabul etmek"
+        },
+        {
+          "form": "bestätigt",
+          "lemma": "bestätigen",
+          "article": null,
+          "tr": "doğrulamak"
+        },
+        {
+          "form": "Wechselstationen",
+          "lemma": "Wechselstation",
+          "article": "die",
+          "tr": "akü değişim istasyonu"
+        },
+        {
+          "form": "Konkurrenten",
+          "lemma": "Konkurrent",
+          "article": "der",
+          "tr": "rakip"
+        },
+        {
+          "form": "Betreiber",
+          "lemma": "Betreiber",
+          "article": "der",
+          "tr": "işletmeci"
+        },
+        {
+          "form": "überholen",
+          "lemma": "überholen",
+          "article": null,
+          "tr": "geçmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Reichweite",
+          "article": "die",
+          "tr": "menzil",
+          "example_de": "Das Auto hat eine Reichweite von 500 Kilometern."
+        },
+        {
+          "de": "den Akku laden",
+          "article": null,
+          "tr": "aküyü şarj etmek",
+          "example_de": "Ich lade den Akku über Nacht."
+        },
+        {
+          "de": "etwas bestätigen",
+          "article": null,
+          "tr": "bir şeyi doğrulamak",
+          "example_de": "Die Firma hat die Zahlen noch nicht bestätigt."
+        },
+        {
+          "de": "einen Konkurrenten überholen",
+          "article": null,
+          "tr": "rakibi geçmek",
+          "example_de": "Das Unternehmen will seinen Konkurrenten überholen."
+        },
+        {
+          "de": "Ladesäule",
+          "article": "die",
+          "tr": "şarj istasyonu",
+          "example_de": "Die nächste Ladesäule ist zwei Kilometer entfernt."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wie lange dauert der Akkutausch ungefähr?",
+          "options": [
+            "Zehn Minuten",
+            "Eine Stunde",
+            "Einen Tag",
+            "Eine Minute"
+          ],
+          "answer_index": 3
+        },
+        {
+          "question_de": "Was plant CATL für 2027?",
+          "options": [
+            "Das Ende der Wechselakkus",
+            "Etwa 6.000 Wechselstationen",
+            "Den Verkauf an NIO",
+            "Ein Werk in Düsseldorf"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-wafer-knappheit",
+      "category": "tech",
+      "title_de": "Wafer-Mangel: Chipindustrie droht ein Engpass",
+      "summary_de": "Der Chipindustrie droht ein Engpass, der nicht bei den Chips selbst beginnt, sondern bei ihrem Grundmaterial. Die vier größten Hersteller von Silizium-Wafern warnen in ihren aktuellen Geschäftsberichten, dass sie spätestens ab 2027 die Nachfrage nicht mehr decken könnten. Betroffen sind sowohl 300-Millimeter-Scheiben für Prozessoren, KI-Beschleuniger und Speicher als auch 200-Millimeter-Scheiben für Leistungshalbleiter. Obwohl die Chiphersteller wegen des KI-Booms Rekordgewinne einfahren, kommt davon bei den Zulieferern wenig an. Langfristige Verträge zwingen sie dazu, den Großteil der Wafer zu niedrigen Preisen zu verkaufen. Sumco bezeichnete neue Werke bei den aktuellen Preisen deshalb als wirtschaftlich nicht tragfähig. Ein neues Waferwerk kostet mehrere Milliarden Euro, und bis zur Produktion würde viel Zeit vergehen. Bisher hat kein Hersteller den Bau neuer Fabriken angekündigt, Shin-Etsu will lediglich bestehende Standorte ausbauen.",
+      "source_name": "heise online",
+      "source_url": "https://www.heise.de/news/Silizium-Wafer-werden-knapp-11541071.html",
+      "glossary": [
+        {
+          "form": "Engpass",
+          "lemma": "Engpass",
+          "article": "der",
+          "tr": "darboğaz"
+        },
+        {
+          "form": "Grundmaterial",
+          "lemma": "Grundmaterial",
+          "article": "das",
+          "tr": "ham madde"
+        },
+        {
+          "form": "Geschäftsberichten",
+          "lemma": "Geschäftsbericht",
+          "article": "der",
+          "tr": "faaliyet raporu"
+        },
+        {
+          "form": "Nachfrage",
+          "lemma": "Nachfrage",
+          "article": "die",
+          "tr": "talep"
+        },
+        {
+          "form": "decken",
+          "lemma": "decken",
+          "article": null,
+          "tr": "karşılamak"
+        },
+        {
+          "form": "Betroffen",
+          "lemma": "betroffen",
+          "article": null,
+          "tr": "etkilenmiş"
+        },
+        {
+          "form": "Scheiben",
+          "lemma": "Scheibe",
+          "article": "die",
+          "tr": "disk, dilim (wafer)"
+        },
+        {
+          "form": "Beschleuniger",
+          "lemma": "Beschleuniger",
+          "article": "der",
+          "tr": "hızlandırıcı"
+        },
+        {
+          "form": "Leistungshalbleiter",
+          "lemma": "Leistungshalbleiter",
+          "article": "der",
+          "tr": "güç yarı iletkeni"
+        },
+        {
+          "form": "Rekordgewinne",
+          "lemma": "Rekordgewinn",
+          "article": "der",
+          "tr": "rekor kâr"
+        },
+        {
+          "form": "einfahren",
+          "lemma": "einfahren",
+          "article": null,
+          "tr": "kazanmak (kâr)"
+        },
+        {
+          "form": "Zulieferern",
+          "lemma": "Zulieferer",
+          "article": "der",
+          "tr": "tedarikçi"
+        },
+        {
+          "form": "Langfristige",
+          "lemma": "langfristig",
+          "article": null,
+          "tr": "uzun vadeli"
+        },
+        {
+          "form": "zwingen",
+          "lemma": "zwingen",
+          "article": null,
+          "tr": "zorlamak"
+        },
+        {
+          "form": "tragfähig",
+          "lemma": "tragfähig",
+          "article": null,
+          "tr": "sürdürülebilir, karlı"
+        },
+        {
+          "form": "angekündigt",
+          "lemma": "ankündigen",
+          "article": null,
+          "tr": "duyurmak"
+        },
+        {
+          "form": "lediglich",
+          "lemma": "lediglich",
+          "article": null,
+          "tr": "yalnızca"
+        },
+        {
+          "form": "Standorte",
+          "lemma": "Standort",
+          "article": "der",
+          "tr": "tesis yeri"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "die Nachfrage decken",
+          "article": null,
+          "tr": "talebi karşılamak",
+          "example_de": "Die Bäckerei kann die Nachfrage kaum decken."
+        },
+        {
+          "de": "Engpass",
+          "article": "der",
+          "tr": "darboğaz",
+          "example_de": "Es gibt einen Engpass bei Ersatzteilen."
+        },
+        {
+          "de": "Gewinn einfahren",
+          "article": null,
+          "tr": "kâr elde etmek",
+          "example_de": "Die Firma fährt hohe Gewinne ein."
+        },
+        {
+          "de": "Zulieferer",
+          "article": "der",
+          "tr": "tedarikçi",
+          "example_de": "Der Zulieferer liefert die Teile pünktlich."
+        },
+        {
+          "de": "wirtschaftlich tragfähig",
+          "article": null,
+          "tr": "ekonomik olarak sürdürülebilir",
+          "example_de": "Das Projekt ist nicht wirtschaftlich tragfähig."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Ab wann warnen die Wafer-Hersteller vor Engpässen?",
+          "options": [
+            "Spätestens ab 2027",
+            "Ab 2025",
+            "Ab 2030",
+            "Schon seit 2020"
+          ],
+          "answer_index": 0
+        },
+        {
+          "question_de": "Warum investieren die Hersteller nicht in neue Werke?",
+          "options": [
+            "Es fehlt an Kunden",
+            "Der Staat verbietet es",
+            "Bei den aktuellen Preisen lohnt es sich wirtschaftlich nicht",
+            "Es gibt keine Maschinen"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-blinde-tastuntersucherinnen",
+      "category": "health",
+      "title_de": "Brustkrebs: Wie gut sind blinde Tastuntersucherinnen?",
+      "summary_de": "Quarks hat überprüft, ob blinde Tastuntersucherinnen Brustkrebs besser erkennen als andere. Das soziale Unternehmen Discovering Hands bildet blinde und sehbehinderte Frauen aus, die die Brust in einer Untersuchung von 30 bis 60 Minuten abtasten. Ärztinnen und Ärzte tasten dagegen meist nur zwei bis drei Minuten. Grundlagenforschung legt nahe, dass blinde Menschen im Schnitt einen empfindlicheren Tastsinn haben, doch eine Ärztin der Charité betont, dass ein feiner Tastsinn allein noch nicht für gute Untersuchungen reicht. Die vorhandenen Studien sind klein, teils vom Unternehmen mitfinanziert und haben oft keine Vergleichsgruppe. Ein Nutzen für das Überleben ist daher nicht belegt, und es ist unklar, ob mehr Tumoren entdeckt werden. Als wichtigste Früherkennung gilt für Frauen zwischen 50 und 75 weiterhin das Mammographie-Screening, das nachweislich die Sterblichkeit senkt. Die Tastuntersuchung kann es nicht ersetzen, was auch Discovering Hands selbst betont. Eine Studie der Charité soll nun etwa 1.000 Frauen untersuchen, kann aber wegen ihrer Größe nicht klären, ob die Methode Leben rettet.",
+      "source_name": "Quarks",
+      "source_url": "https://www.quarks.de/gesundheit/medizin/brustkrebs-blinde-tastuntersucherinnen-faktencheck/",
+      "glossary": [
+        {
+          "form": "überprüft",
+          "lemma": "überprüfen",
+          "article": null,
+          "tr": "kontrol etmek"
+        },
+        {
+          "form": "sehbehinderte",
+          "lemma": "sehbehindert",
+          "article": null,
+          "tr": "görme engelli"
+        },
+        {
+          "form": "abtasten",
+          "lemma": "abtasten",
+          "article": null,
+          "tr": "elle muayene etmek, yoklamak"
+        },
+        {
+          "form": "Grundlagenforschung",
+          "lemma": "Grundlagenforschung",
+          "article": "die",
+          "tr": "temel araştırma"
+        },
+        {
+          "form": "legt",
+          "lemma": "nahelegen",
+          "article": null,
+          "tr": "düşündürmek (legt ... nahe)"
+        },
+        {
+          "form": "empfindlicheren",
+          "lemma": "empfindlich",
+          "article": null,
+          "tr": "daha hassas"
+        },
+        {
+          "form": "Tastsinn",
+          "lemma": "Tastsinn",
+          "article": "der",
+          "tr": "dokunma duyusu"
+        },
+        {
+          "form": "betont",
+          "lemma": "betonen",
+          "article": null,
+          "tr": "vurgulamak"
+        },
+        {
+          "form": "mitfinanziert",
+          "lemma": "mitfinanzieren",
+          "article": null,
+          "tr": "birlikte finanse etmek"
+        },
+        {
+          "form": "Vergleichsgruppe",
+          "lemma": "Vergleichsgruppe",
+          "article": "die",
+          "tr": "kontrol grubu"
+        },
+        {
+          "form": "Nutzen",
+          "lemma": "Nutzen",
+          "article": "der",
+          "tr": "fayda"
+        },
+        {
+          "form": "belegt",
+          "lemma": "belegen",
+          "article": null,
+          "tr": "kanıtlamak, belgelemek"
+        },
+        {
+          "form": "Tumoren",
+          "lemma": "Tumor",
+          "article": "der",
+          "tr": "tümör"
+        },
+        {
+          "form": "Früherkennung",
+          "lemma": "Früherkennung",
+          "article": "die",
+          "tr": "erken teşhis"
+        },
+        {
+          "form": "nachweislich",
+          "lemma": "nachweislich",
+          "article": null,
+          "tr": "kanıtlanmış biçimde"
+        },
+        {
+          "form": "Sterblichkeit",
+          "lemma": "Sterblichkeit",
+          "article": "die",
+          "tr": "ölüm oranı"
+        },
+        {
+          "form": "ersetzen",
+          "lemma": "ersetzen",
+          "article": null,
+          "tr": "yerini almak"
+        },
+        {
+          "form": "klären",
+          "lemma": "klären",
+          "article": null,
+          "tr": "aydınlatmak, netleştirmek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "einen Nutzen belegen",
+          "article": null,
+          "tr": "faydayı kanıtlamak",
+          "example_de": "Die Studie belegt den Nutzen des Sports."
+        },
+        {
+          "de": "Früherkennung",
+          "article": "die",
+          "tr": "erken teşhis",
+          "example_de": "Früherkennung kann Leben retten."
+        },
+        {
+          "de": "etwas ersetzen",
+          "article": null,
+          "tr": "bir şeyin yerini almak",
+          "example_de": "Eine App kann den Arztbesuch nicht ersetzen."
+        },
+        {
+          "de": "nahelegen",
+          "article": null,
+          "tr": "düşündürmek",
+          "example_de": "Die Daten legen eine andere Erklärung nahe."
+        },
+        {
+          "de": "Vergleichsgruppe",
+          "article": "die",
+          "tr": "kontrol grubu",
+          "example_de": "Ohne Vergleichsgruppe ist die Studie wenig aussagekräftig."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Was ist laut Text bisher NICHT bewiesen?",
+          "options": [
+            "Dass Mammographie wirkt",
+            "Dass die Untersuchung durch Blinde Leben rettet",
+            "Dass Ärzte tasten",
+            "Dass Studien existieren"
+          ],
+          "answer_index": 1
+        },
+        {
+          "question_de": "Was gilt weiterhin als wichtigste Früherkennung für Frauen von 50 bis 75?",
+          "options": [
+            "Tastuntersuchung",
+            "Selbsttest zu Hause",
+            "Blutdruckmessung",
+            "Mammographie-Screening"
+          ],
+          "answer_index": 3
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-takeover-lol-boxer",
+      "category": "gaming",
+      "title_de": "Ex-LoL-Profi Takeover wird Muay-Thai-Kämpfer",
+      "summary_de": "Ein früherer League-of-Legends-Profi hat sich nach über zwei Jahren Funkstille mit einer überraschenden Nachricht zurückgemeldet. Der Midlaner, der unter dem Namen Takeover bekannt ist, spielte 2022 bei TSM, das damals laut Forbes die wertvollste Esports-Organisation der Welt war. Später wechselte er zu Estral Esports in Lateinamerika und beendete 2023 seine Karriere. Am 15. November schrieb er auf X, dass er nach Thailand gezogen sei und dort als Muay-Thai-Kämpfer arbeite. Nach eigenen Angaben ist er 23 Jahre alt, hat bereits sieben Profikämpfe bestritten und möchte Weltmeister werden. Im Ring tritt er unter dem Namen „John Cena“ an. Außerdem erklärte er, dass er gegen Bezahlung andere Spieler coachen könne und in diesem Jahr auf dem koreanischen Server Grandmaster erreicht habe. In der Community sorgte die Karriere für Schmunzeln, viele verwiesen scherzhaft auf Lee Sin, der einen Muay-Thai-Skin besitzt.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/ex-lol-profi-jetzt-boxer/",
+      "glossary": [
+        {
+          "form": "Funkstille",
+          "lemma": "Funkstille",
+          "article": "die",
+          "tr": "sessizlik, iletişimsizlik"
+        },
+        {
+          "form": "zurückgemeldet",
+          "lemma": "sich zurückmelden",
+          "article": null,
+          "tr": "geri dönmek, haber vermek"
+        },
+        {
+          "form": "überraschenden",
+          "lemma": "überraschend",
+          "article": null,
+          "tr": "şaşırtıcı"
+        },
+        {
+          "form": "wertvollste",
+          "lemma": "wertvoll",
+          "article": null,
+          "tr": "en değerli"
+        },
+        {
+          "form": "wechselte",
+          "lemma": "wechseln",
+          "article": null,
+          "tr": "geçmek, değiştirmek"
+        },
+        {
+          "form": "beendete",
+          "lemma": "beenden",
+          "article": null,
+          "tr": "sona erdirmek"
+        },
+        {
+          "form": "gezogen",
+          "lemma": "ziehen",
+          "article": null,
+          "tr": "taşınmak"
+        },
+        {
+          "form": "Angaben",
+          "lemma": "Angabe",
+          "article": "die",
+          "tr": "beyan, bilgi"
+        },
+        {
+          "form": "bestritten",
+          "lemma": "bestreiten",
+          "article": null,
+          "tr": "(maç) yapmak, üstlenmek"
+        },
+        {
+          "form": "tritt",
+          "lemma": "antreten",
+          "article": null,
+          "tr": "yarışmaya çıkmak (tritt ... an)"
+        },
+        {
+          "form": "Bezahlung",
+          "lemma": "Bezahlung",
+          "article": "die",
+          "tr": "ödeme"
+        },
+        {
+          "form": "erreicht",
+          "lemma": "erreichen",
+          "article": null,
+          "tr": "ulaşmak"
+        },
+        {
+          "form": "Schmunzeln",
+          "lemma": "Schmunzeln",
+          "article": "das",
+          "tr": "gülümseme"
+        },
+        {
+          "form": "verwiesen",
+          "lemma": "verweisen",
+          "article": null,
+          "tr": "işaret etmek, atıf yapmak"
+        },
+        {
+          "form": "scherzhaft",
+          "lemma": "scherzhaft",
+          "article": null,
+          "tr": "şaka yollu"
+        },
+        {
+          "form": "besitzt",
+          "lemma": "besitzen",
+          "article": null,
+          "tr": "sahip olmak"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "Karriere beenden",
+          "article": null,
+          "tr": "kariyeri bitirmek",
+          "example_de": "Mit 30 beendete er seine Karriere."
+        },
+        {
+          "de": "sich zurückmelden",
+          "article": null,
+          "tr": "tekrar haber vermek",
+          "example_de": "Nach dem Urlaub meldete sie sich zurück."
+        },
+        {
+          "de": "unter dem Namen antreten",
+          "article": null,
+          "tr": "bir isimle yarışmak",
+          "example_de": "Er tritt unter einem Künstlernamen an."
+        },
+        {
+          "de": "nach eigenen Angaben",
+          "article": null,
+          "tr": "kendi beyanına göre",
+          "example_de": "Nach eigenen Angaben trainiert er täglich."
+        },
+        {
+          "de": "scherzhaft",
+          "article": null,
+          "tr": "şaka yollu",
+          "example_de": "Das war nur scherzhaft gemeint."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "In welchem Land lebt Takeover jetzt?",
+          "options": [
+            "Korea",
+            "Chile",
+            "Thailand",
+            "Deutschland"
+          ],
+          "answer_index": 2
+        },
+        {
+          "question_de": "Unter welchem Namen kämpft er?",
+          "options": [
+            "John Cena",
+            "Lee Sin",
+            "TSM",
+            "Grandmaster"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28-warframe-tau-update",
+      "category": "gaming",
+      "title_de": "Warframe „Tau“: erstes neues Sternensystem seit Jahren",
+      "summary_de": "Warframe bekommt am 9. Dezember sein bislang größtes Update: Mit „Tau“ erscheint das erste neue Sternensystem in der Geschichte des Spiels. Darauf warten Fans seit etwa zehn Jahren. Zum Start gibt es zwei Regionen, Perita und Fornax, weitere sollen später folgen. Im Mittelpunkt steht eine neue Noir-Quest, in der Spieler die Unterwelt von Fornax unterwandern und den Verbrecherboss Hunra stoppen, der die Stadt mit der Droge „Bloom“ kontrolliert. Fornax ist eine ringförmige Stadt mit drei Hubs, in einem davon gibt es sogar ein Casino mit Kartenspiel. Dazu kommen der neue Warframe Brysko, ein zynischer Antiheld mit explodierenden Spielkarten, und der Prime-Warframe Kullervo Prime. Außerdem kehrt der Spy-Modus in neuer Form zurück, bei dem man Tresore knackt, und es gibt den friedlichen Erkundungsmodus Nightwalk. Warframe ist kostenlos spielbar und seit 13 Jahren auf dem Markt.",
+      "source_name": "Mein-MMO",
+      "source_url": "https://mein-mmo.de/scifi-mmo-grosses-update-dezember-2026/",
+      "glossary": [
+        {
+          "form": "bislang",
+          "lemma": "bislang",
+          "article": null,
+          "tr": "şimdiye kadar"
+        },
+        {
+          "form": "Sternensystem",
+          "lemma": "Sternensystem",
+          "article": "das",
+          "tr": "yıldız sistemi"
+        },
+        {
+          "form": "Geschichte",
+          "lemma": "Geschichte",
+          "article": "die",
+          "tr": "tarih, hikâye"
+        },
+        {
+          "form": "Mittelpunkt",
+          "lemma": "Mittelpunkt",
+          "article": "der",
+          "tr": "merkez"
+        },
+        {
+          "form": "Unterwelt",
+          "lemma": "Unterwelt",
+          "article": "die",
+          "tr": "yeraltı dünyası"
+        },
+        {
+          "form": "unterwandern",
+          "lemma": "unterwandern",
+          "article": null,
+          "tr": "sızmak"
+        },
+        {
+          "form": "Verbrecherboss",
+          "lemma": "Verbrecherboss",
+          "article": "der",
+          "tr": "suç örgütü lideri"
+        },
+        {
+          "form": "Droge",
+          "lemma": "Droge",
+          "article": "die",
+          "tr": "uyuşturucu"
+        },
+        {
+          "form": "kontrolliert",
+          "lemma": "kontrollieren",
+          "article": null,
+          "tr": "kontrol etmek"
+        },
+        {
+          "form": "ringförmige",
+          "lemma": "ringförmig",
+          "article": null,
+          "tr": "halka biçimli"
+        },
+        {
+          "form": "zynischer",
+          "lemma": "zynisch",
+          "article": null,
+          "tr": "alaycı, sinik"
+        },
+        {
+          "form": "Antiheld",
+          "lemma": "Antiheld",
+          "article": "der",
+          "tr": "anti-kahraman"
+        },
+        {
+          "form": "explodierenden",
+          "lemma": "explodieren",
+          "article": null,
+          "tr": "patlamak"
+        },
+        {
+          "form": "Tresore",
+          "lemma": "Tresor",
+          "article": "der",
+          "tr": "kasa"
+        },
+        {
+          "form": "knackt",
+          "lemma": "knacken",
+          "article": null,
+          "tr": "kırmak, açmak"
+        },
+        {
+          "form": "friedlichen",
+          "lemma": "friedlich",
+          "article": null,
+          "tr": "barışçıl"
+        },
+        {
+          "form": "Erkundungsmodus",
+          "lemma": "Erkundungsmodus",
+          "article": "der",
+          "tr": "keşif modu"
+        }
+      ],
+      "vocabulary": [
+        {
+          "de": "im Mittelpunkt stehen",
+          "article": null,
+          "tr": "odak noktası olmak",
+          "example_de": "Im Mittelpunkt steht die Frage nach der Sicherheit."
+        },
+        {
+          "de": "auf dem Markt sein",
+          "article": null,
+          "tr": "piyasada olmak",
+          "example_de": "Das Spiel ist seit 2013 auf dem Markt."
+        },
+        {
+          "de": "zurückkehren",
+          "article": null,
+          "tr": "geri dönmek",
+          "example_de": "Der beliebte Modus kehrt zurück."
+        },
+        {
+          "de": "einen Tresor knacken",
+          "article": null,
+          "tr": "kasa açmak/kırmak",
+          "example_de": "Im Film knacken die Diebe einen Tresor."
+        },
+        {
+          "de": "kostenlos spielbar",
+          "article": null,
+          "tr": "ücretsiz oynanabilir",
+          "example_de": "Das Spiel ist kostenlos spielbar."
+        }
+      ],
+      "exercises": [
+        {
+          "question_de": "Wann erscheint das Update „Tau“?",
+          "options": [
+            "Am 1. Dezember",
+            "Im Januar",
+            "Schon heute",
+            "Am 9. Dezember"
+          ],
+          "answer_index": 3
+        },
+        {
+          "question_de": "Was ist Fornax?",
+          "options": [
+            "Ein Waffentyp",
+            "Eine ringförmige Stadt mit drei Hubs",
+            "Ein neuer Warframe",
+            "Eine Droge"
+          ],
+          "answer_index": 1
+        }
+      ]
+    }
+  ]
+}
